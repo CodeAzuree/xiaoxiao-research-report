@@ -19,6 +19,13 @@ class Document(HTMLParser):
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
+        if tag == 'img':
+            # Oversized lazy-image placeholders can exceed browser layout limits,
+            # collapsing subsequent text onto the same coordinates.
+            for dimension in ['width', 'height']:
+                value = attrs.get(dimension)
+                if value is not None:
+                    assert value.isdecimal() and 0 < int(value) <= 32768, ('invalid image dimension', attrs.get('src'), dimension, value)
         if attrs.get('id'):
             self.ids.append(attrs['id'])
         self.refs.extend(attrs[key] for key in ['href', 'src'] if attrs.get(key))

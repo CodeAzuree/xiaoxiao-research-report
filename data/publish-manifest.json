@@ -1318,38 +1318,38 @@
     },
     {
       "path": "校校功能清单/B01_教学对象与跟进.html",
-      "bytes": 20413,
-      "sha256": "295d08fa52d7b4245ece6c4c634310dbdba468a060b794019d839ba574ade16c"
+      "bytes": 20428,
+      "sha256": "99b3a450d6d365419c143e6158f2d5697088ff7ed296b621cdcafd90034fa94b"
     },
     {
       "path": "校校功能清单/B02_教学资源与教研.html",
-      "bytes": 31783,
-      "sha256": "0f5e47b8564767a508b18bbe614922bd9c515e05742460e8666401adea365d32"
+      "bytes": 31806,
+      "sha256": "8ae6e3a660f40f9e198cb01ac3a0c444c3277b2c552e2da0b97c47aa4e6ba335"
     },
     {
       "path": "校校功能清单/B03_课程与学习计划.html",
-      "bytes": 23090,
-      "sha256": "8b251e679f6fc2bea3b5a7322c3f2600d368e808e6082443f52975ef22af1a2d"
+      "bytes": 23113,
+      "sha256": "1771b86dfe709bbd1903edd018780f1c52fc60dcb97b03c00b326cdc56744f8a"
     },
     {
       "path": "校校功能清单/B04_作业教学.html",
-      "bytes": 66929,
-      "sha256": "b16ece39dfa850a5e7288386a0b702a7bf17a3405a3261640b653998b344f403"
+      "bytes": 66935,
+      "sha256": "b763b37778efab1e7dccee9c393191fcb02a3071cf08788f6ab9fc685331af74"
     },
     {
       "path": "校校功能清单/B05_自主学习与复习.html",
-      "bytes": 40621,
-      "sha256": "1f3008a2df31a6032c5269ef2906ac5a9a09c5009ace9e97dad9c7d4895ed2b2"
+      "bytes": 40628,
+      "sha256": "54be2400eb00a6e8e6ccca1e453ec76ca5c68e01722f85a0df012b7bbaae209b"
     },
     {
       "path": "校校功能清单/B06_学情分析与报告.html",
-      "bytes": 20219,
-      "sha256": "a8beec638afbd27fee232ee6c89f98faf5a8de604abf64dac2e5deacc06e5130"
+      "bytes": 20242,
+      "sha256": "fba2e3dd6aa3e1f7f00fd449d01e938ea793b7e2e3e5fead2caf34fbf2bd4d3c"
     },
     {
       "path": "校校功能清单/B07_工作台与班级沟通.html",
-      "bytes": 20001,
-      "sha256": "df63e58bd5b3785f4d4c193d5d22f10700e34d6cc27c8fab17a0be37cfc1e77b"
+      "bytes": 20024,
+      "sha256": "7e5344754b5ae5eab2ab296f8b536924141f237c78d392d2272d43ea53877a23"
     },
     {
       "path": "校校功能清单/补充依据/R01_PDF教师完成记录.png",
@@ -1408,13 +1408,13 @@
     },
     {
       "path": "校校功能清单/补充依据/复核记录.html",
-      "bytes": 7535,
-      "sha256": "84f5a98b2367de132ea3b5c30008b3c6842bcf7530db3fed4fff2706ad1d4565"
+      "bytes": 7558,
+      "sha256": "3564192caea68ef239346897fc63cfe1dd7105f7936df8e74b9d783ec98e90ea"
     },
     {
       "path": "校校功能清单/资源/功能清单.css",
-      "bytes": 9392,
-      "sha256": "7e4586d1273c6c9016e7e29a5f3accca35b36b57c1fa342aa67f95368e03608a"
+      "bytes": 9858,
+      "sha256": "2c01a1caff22015547d37ee67df224cd3e9f8b3d84d0d0912a570ff0d61c5352"
     },
     {
       "path": "校校功能清单/资源/功能清单.js",
@@ -6343,12 +6343,12 @@
     },
     {
       "path": "校校调研总览.html",
-      "bytes": 143244,
-      "sha256": "6e83a92fd460ce0e63b2910f72241bfc64442c679728fe16a4e6475485caeef9"
+      "bytes": 143220,
+      "sha256": "e6750abcd3c21e260f12fb69072fc98966e97a29f09fb09be5f2092980d78406"
     }
   ],
   "report_files": 1269,
-  "report_bytes": 47422712,
+  "report_bytes": 47423297,
   "blocks": 7,
   "modules": 23,
   "features": 67,
