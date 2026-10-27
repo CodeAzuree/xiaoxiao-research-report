@@ -1,0 +1,169 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- generic: 小格
+- generic: 王小格
+- text: 已上课时
+- generic: "0"
+- text: / 总课时
+- generic: "0"
+- textbox "请选择": SAT
+- generic: 
+- generic: 
+- textbox "开始日期：": 2026-09-01
+- generic: "-"
+- textbox "结束日期": 2026-10-22
+- button "报告记录":
+  - generic: 报告记录
+- button "生成 ":
+  - text: 生成
+  - generic: 
+- generic: 作业完成率
+- progressbar:
+  - generic: 67%
+- generic: 成绩
+- list:
+  - generic: 科目
+  - generic: 预测分 / 总分
+  - generic: 读写(机考)
+  - generic: "200"
+  - text: /
+  - generic: "800"
+  - generic: 数学(机考)
+  - generic: "220"
+  - text: /
+  - generic: "800"
+- generic: 知识点
+- paragraph:
+  - generic: 暂无数据~
+- paragraph: 评语
+- generic: + 添加评语
+- paragraph:
+  - generic: 暂无评语
+- tablist:
+  - tab "成绩"
+  - tab "课程" [active] [selected]
+  - tab "作业"
+  - tab "知识点"
+- tabpanel "课程"
+- generic: 班级课程数据
+- table:
+  - rowgroup:
+    - row "已上 / 总课时":
+      - columnheader
+      - columnheader "已上 / 总课时":
+        - generic: 已上 / 总课时
+      - columnheader
+- table:
+  - rowgroup:
+    - row "0/0":
+      - cell
+      - cell "0/0":
+        - generic: 0/0
+      - cell
+- table:
+  - rowgroup:
+    - row "班级":
+      - columnheader "班级":
+        - generic: 班级
+      - columnheader
+      - columnheader
+- table:
+  - rowgroup:
+    - row "王小格-SAT":
+      - cell "王小格-SAT":
+        - generic: 王小格-SAT
+      - cell
+      - cell
+- table:
+  - rowgroup:
+    - row "分项数据":
+      - columnheader
+      - columnheader
+      - columnheader "分项数据":
+        - generic: 分项数据
+- table:
+  - rowgroup:
+    - row "SAT 0/0 托福 0/0 AP 0/0":
+      - cell
+      - cell
+      - cell "SAT 0/0 托福 0/0 AP 0/0":
+        - generic: SAT 0/0
+        - generic: 托福 0/0
+        - generic: AP 0/0
+- generic: 课堂表现评分建议
+- text: 课程
+- paragraph:
+  - generic: 暂无课堂表现评分建议
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:               

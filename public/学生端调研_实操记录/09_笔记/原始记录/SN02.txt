@@ -1,0 +1,188 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	1 container
+		2 container myweb
+			3 container root-menu
+				4 container
+					5 image
+					6 text 首页
+				7 container
+					8 image
+					9 text 作业
+				10 container
+					11 image
+					12 text 课表
+				13 container
+					14 image
+					15 text 题库
+				16 container
+					17 image
+					18 text 单词书
+				19 container
+					20 image
+					21 text 错题
+				22 container
+					23 image
+					24 text 自适应
+				25 container
+					26 image
+					27 text 反馈
+				28 container
+					29 image
+					30 text 笔记
+				31 container
+					32 image
+					33 text 学习报告
+			34 container root-mv-right
+				35 container root-mv-header
+					36 image
+					37 container
+						38 text field (settable)
+						39 text 
+					40 button icon
+						41 image icon
+					42 container
+						43 text 
+						44 button icon
+							45 image icon
+					46 container
+						47 button icon
+							48 image icon
+						49 text 5
+					50 button icon
+						51 image icon
+					52 container
+						53 image
+						54 text 10
+					55 text 小格
+				56 container root-container
+					57 button 笔记类型 (材料笔记) 
+						58 container
+							59 text 笔记类型  (材料笔记)
+						111 text 
+					61 button 状态 (全部) 
+						62 container
+							63 text 状态  (全部)
+						198 text 
+					65 container
+						66 text 
+						67 text field (settable)
+						68 text -
+						69 text field (settable)
+					70 text 重置
+					71 text field (settable)
+					72 button 搜索
+					73 container
+						74 image
+						75 text AI笔记分析
+						76 image
+					77 container
+						78 table
+							79 row
+								80 cell
+									81 text 笔记内容
+								82 cell
+									83 text 重点笔记
+								84 cell
+									85 text 来源名称
+								86 cell
+									87 text 作业名称
+								88 cell
+									89 text 笔记类型
+								90 cell
+									91 text 添加时间
+								92 cell
+									93 text 操作
+						117 table
+							118 row
+								119 cell
+									120 text completes the text with
+									121 text 123123
+								122 cell
+									123 text Digital SAT Prep Test 4 读写 Module 2 (Easier) 第1题
+								124 cell
+									125 text sat全科测试
+								126 cell
+									127 text 材料笔记
+								128 cell
+									129 text 2026-09-24
+								130 cell
+									131 container
+										132 text 查看详情 删除
+							133 row
+								134 cell
+									135 text ht had a _
+									136 text 123
+								137 cell
+									138 text Digital SAT Prep Test 4 读写 Module 2 (Easier) 第1题
+								139 cell
+									140 text sat全科测试
+								141 cell
+									142 text 材料笔记
+								143 cell
+									144 text 2026-09-24
+								145 cell
+									146 container
+										147 text 查看详情 删除
+							148 row
+								149 cell
+									150 text le and Wilbur
+									151 text 1231123
+								152 cell
+									153 text Digital SAT Prep Test 4 读写 Module 2 (Easier) 第1题
+								154 cell
+									155 text sat全科测试
+								156 cell
+									157 text 材料笔记
+								158 cell
+									159 text 2026-09-24
+								160 cell
+									161 container
+										162 text 查看详情 删除
+							163 row
+								164 cell
+									165 text It turns out the floating plant isn't just good at spreading
+								166 cell
+									167 text CIT-C21-T4 阅读 Reading Passage 1 第13题
+								168 cell
+									169 text 测试0922
+								170 cell
+									171 text 材料笔记
+								172 cell
+									173 text 2026-09-22
+								174 cell
+									175 container
+										176 text 查看详情 删除
+							177 row
+								178 cell
+									179 text ervation over many ye
+								180 cell
+									181 text 26雅思阅读机经第15套 阅读 Reading Passage 3 第35题
+								182 cell
+									183 text 雅思
+								184 cell
+									185 text 材料笔记
+								186 cell
+									187 text 2026-05-23
+								188 cell
+									189 container
+										190 text 查看详情 删除
+					95 text 共 5 条
+					96 container
+						97 text field 20条/页
+						199 text 
+					99 button (disabled) 
+						200 text 
+					101 content list
+						102 text 1
+					103 button (disabled) 
+						201 text 
+					105 container
+						106 text 前往
+						107 stepper (settable, integer) 1
+						108 text 页
+		195 content list dropdown-menu-3810
+			202 text 全部
+			197 text 重点笔记
+
+The focused UI element is 0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122

@@ -1,0 +1,154 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "245"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业大纲
+- generic: 知识点
+- generic: 我的知识点
+- generic: 共享知识点
+- generic: 科目
+- generic "托福"
+- generic "雅思"
+- generic "SAT"
+- generic "小托福"
+- generic "ACT"
+- generic "PTE"
+- generic "GRE"
+- generic "SAT机考"
+- generic "KET"
+- generic "PET"
+- generic "FCE"
+- generic "A-Level"
+- generic "AP"
+- generic "新托福2026"
+- generic: 知识点类型
+- generic "全部"
+- generic "阅读"
+- generic "听力"
+- generic "口语"
+- generic "写作"
+- button "列表 ":
+  - generic: 列表
+  - generic: 
+- 'button "排序 : 更新时间"':
+  - generic: 排序
+  - generic: ":"
+  - generic: 更新时间
+- textbox "请输入知识点名称"
+- generic: 
+- button "添加知识点" [active]:
+  - generic: 添加知识点
+- table:
+  - rowgroup:
+    - row "知识点名称 科目 更新时间 知识点详情 操作":
+      - columnheader "知识点名称":
+        - generic: 知识点名称
+      - columnheader "科目":
+        - generic: 科目
+      - columnheader "更新时间":
+        - generic: 更新时间
+      - columnheader "知识点详情":
+        - generic: 知识点详情
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup:
+    - row "知识点测试 托福 2026-10-10 这是一条测试知识点 编辑":
+      - cell "知识点测试":
+        - generic: 知识点测试
+      - cell "托福":
+        - generic: 托福
+      - cell "2026-10-10":
+        - generic: 2026-10-10
+      - cell "这是一条测试知识点":
+        - paragraph: 这是一条测试知识点
+      - cell "编辑":
+        - generic: 编辑
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:     
+- dialog "dialog":
+  - text: 
+  - generic: 
+  - generic: 添加知识点
+  - button "保存":
+    - generic: 保存
+  - heading "科目 *" [level=2]:
+    - text: 科目
+    - generic: "*"
+  - textbox "请选择科目": 托福
+  - generic: 
+  - heading "知识点类型 *" [level=2]:
+    - text: 知识点类型
+    - generic: "*"
+  - button "阅读 ":
+    - textbox "请输入知识点类型": 阅读
+    - generic: 
+  - heading "共享给其他老师" [level=2]
+  - radiogroup:
+    - radio "是":
+      - radio
+      - generic: 是
+    - radio "否" [checked]:
+      - radio [checked]
+      - generic: 否
+  - heading "知识点名称 *" [level=2]:
+    - text: 知识点名称
+    - generic: "*"
+  - textbox "请输入知识点名称"
+  - generic: 0/100
+  - heading "知识点详情 *" [level=2]:
+    - text: 知识点详情
+    - generic: "*"
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - paragraph
+  - generic: 请输入知识点详情
+  - generic: 视频讲解
+  - generic: 
+  - generic: 上传格式 mp4，单个文件不超过200M，最大上传数9个
+  - generic: 音频讲解
+  - generic: 
+  - generic: 上传格式 mp3/wav，单个文件不超过10M，最大上传数9个
+  - generic: 附件
+  - generic: 
+  - generic: 单个文件不超过30M，最大上传数9个

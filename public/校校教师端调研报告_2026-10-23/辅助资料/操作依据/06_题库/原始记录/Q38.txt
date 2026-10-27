@@ -1,0 +1,85 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic [active]: 机构题库
+- button "单词书":
+  - generic: 单词书
+- generic: 
+- generic: 
+- radiogroup:
+  - button " 我的试卷":
+    - generic: 
+    - generic: 我的试卷
+  - button "共享试卷":
+    - generic: 共享试卷
+- button "新建试卷"
+- button "科目 ( 全部 ) ":
+  - text: 科目
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "所属类别 ( 全部 ) ":
+  - text: 所属类别
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "重置"
+- generic: 
+- textbox "请输入试卷名称"
+- radiogroup:
+  - button
+  - button
+- paragraph:
+  - generic: 老师您还没有创建试卷，快试试Ai创建试卷吧
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text: 

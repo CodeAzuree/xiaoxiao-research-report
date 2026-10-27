@@ -1,0 +1,753 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- tablist:
+  - tab "练习统计" [selected]:
+    - generic: 练习统计
+  - tab "错题分析":
+    - generic: 错题分析
+  - tab "笔记":
+    - generic: 笔记
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- generic: 
+- generic: 作业完成情况
+- generic: "18"
+- generic: /
+- generic: "71"
+- generic: 自适应统计
+- generic: 单词书进度
+- generic: 共学习 56 词
+- generic: 开放题库
+- generic: 词汇量测试
+- button "作业类型 ( 全部 ) " [active]:
+  - text: 作业类型
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "完成状态 ( 全部 ) ":
+  - text: 完成状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- generic: 班级
+- generic: 
+- generic: 布置老师
+- generic: 
+- generic: 批改老师
+- generic: 
+- text: 完成时间
+- generic: 
+- generic: 
+- textbox "开始日期"
+- generic: "-"
+- textbox "结束日期"
+- text: 布置时间
+- generic: 
+- generic: 
+- textbox "开始日期"
+- generic: "-"
+- textbox "结束日期"
+- textbox "请输入作业名称"
+- generic: 
+- table:
+  - rowgroup:
+    - row "布置日期 作业名称 类型 班级名称 完成日期 布置老师 批改老师 完成状态 分数 操作":
+      - columnheader "布置日期":
+        - generic: 布置日期
+      - columnheader "作业名称":
+        - generic: 作业名称
+      - columnheader "类型":
+        - generic: 类型
+      - columnheader "班级名称":
+        - generic: 班级名称
+      - columnheader "完成日期":
+        - generic: 完成日期
+      - columnheader "布置老师":
+        - generic: 布置老师
+      - columnheader "批改老师":
+        - generic: 批改老师
+      - columnheader "完成状态":
+        - generic: 完成状态
+      - columnheader "分数":
+        - generic: 分数
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup:
+    - row "2026-10-22 错词训练/2026-10-22 单词作业 王小格-SAT 2026-10-22 16:09 已完成 80 查看详情":
+      - cell "2026-10-22":
+        - generic: 2026-10-22
+      - cell "错词训练/2026-10-22":
+        - generic: 错词训练/2026-10-22
+      - cell "单词作业":
+        - generic: 单词作业
+      - cell "王小格-SAT":
+        - generic: 王小格-SAT
+      - cell "2026-10-22 16:09":
+        - generic: 2026-10-22 16:09
+      - cell
+      - cell
+      - cell "已完成":
+        - generic: 已完成
+      - cell "80":
+        - generic: "80"
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-10-12 字数测试 作业模考 王小格-SAT 王思贤 王思贤 进行中 已逾期 查看详情":
+      - cell "2026-10-12":
+        - generic: 2026-10-12
+      - cell "字数测试":
+        - generic: 字数测试
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "王小格-SAT":
+        - generic: 王小格-SAT
+      - cell
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "进行中 已逾期":
+        - generic: 进行中
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-09-23 sat全科测试 作业模考 王小格-SAT 2026-10-15 15:11 王思贤 王思贤 已查阅 420 查看详情":
+      - cell "2026-09-23":
+        - generic: 2026-09-23
+      - cell "sat全科测试":
+        - generic: sat全科测试
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "王小格-SAT":
+        - generic: 王小格-SAT
+      - cell "2026-10-15 15:11":
+        - generic: 2026-10-15 15:11
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "已查阅":
+        - generic: 已查阅
+      - cell "420":
+        - generic: "420"
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-09-22 测试0922 作业模考 测试班001 2026-09-22 14:19 李宝燕 李宝燕 已查阅 2 查看详情":
+      - cell "2026-09-22":
+        - generic: 2026-09-22
+      - cell "测试0922":
+        - generic: 测试0922
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班001":
+        - generic: 测试班001
+      - cell "2026-09-22 14:19":
+        - generic: 2026-09-22 14:19
+      - cell "李宝燕":
+        - generic: 李宝燕
+      - cell "李宝燕":
+        - generic: 李宝燕
+      - cell "已查阅":
+        - generic: 已查阅
+      - cell "2":
+        - generic: "2"
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-09-22 测试0922-1 作业模考 测试班001 2026-09-22 14:32 李宝燕 李宝燕 已查阅 2 查看详情":
+      - cell "2026-09-22":
+        - generic: 2026-09-22
+      - cell "测试0922-1":
+        - generic: 测试0922-1
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班001":
+        - generic: 测试班001
+      - cell "2026-09-22 14:32":
+        - generic: 2026-09-22 14:32
+      - cell "李宝燕":
+        - generic: 李宝燕
+      - cell "李宝燕":
+        - generic: 李宝燕
+      - cell "已查阅":
+        - generic: 已查阅
+      - cell "2":
+        - generic: "2"
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-06-02 错题训练/判断对错/2026-06-02 作业模考 测试班002 进行中 已逾期 查看详情":
+      - cell "2026-06-02":
+        - generic: 2026-06-02
+      - cell "错题训练/判断对错/2026-06-02":
+        - generic: 错题训练/判断对错/2026-06-02
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell
+      - cell
+      - cell
+      - cell "进行中 已逾期":
+        - generic: 进行中
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-06-02 错题训练/判断对错/2026-06-02 作业模考 测试班002 未开始 已逾期 查看详情":
+      - cell "2026-06-02":
+        - generic: 2026-06-02
+      - cell "错题训练/判断对错/2026-06-02":
+        - generic: 错题训练/判断对错/2026-06-02
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell
+      - cell
+      - cell
+      - cell "未开始 已逾期":
+        - generic: 未开始
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-26 错题训练/句子/段落填空题/2026-05-26 作业模考 测试班002 未开始 已逾期 查看详情":
+      - cell "2026-05-26":
+        - generic: 2026-05-26
+      - cell "错题训练/句子/段落填空题/2026-05-26":
+        - generic: 错题训练/句子/段落填空题/2026-05-26
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell
+      - cell
+      - cell
+      - cell "未开始 已逾期":
+        - generic: 未开始
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-26 错题训练/图表填空题/2026-05-26 作业模考 测试班002 进行中 已逾期 查看详情":
+      - cell "2026-05-26":
+        - generic: 2026-05-26
+      - cell "错题训练/图表填空题/2026-05-26":
+        - generic: 错题训练/图表填空题/2026-05-26
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell
+      - cell
+      - cell
+      - cell "进行中 已逾期":
+        - generic: 进行中
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-26 错题训练/图表填空题/2026-05-26 作业模考 测试班002 2026-05-26 17:30 已完成 0 查看详情":
+      - cell "2026-05-26":
+        - generic: 2026-05-26
+      - cell "错题训练/图表填空题/2026-05-26":
+        - generic: 错题训练/图表填空题/2026-05-26
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell "2026-05-26 17:30":
+        - generic: 2026-05-26 17:30
+      - cell
+      - cell
+      - cell "已完成":
+        - generic: 已完成
+      - cell "0":
+        - generic: "0"
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-26 错题训练/图表填空题/2026-05-26 作业模考 测试班002 2026-10-09 09:57 已完成 查看详情":
+      - cell "2026-05-26":
+        - generic: 2026-05-26
+      - cell "错题训练/图表填空题/2026-05-26":
+        - generic: 错题训练/图表填空题/2026-05-26
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell "2026-10-09 09:57":
+        - generic: 2026-10-09 09:57
+      - cell
+      - cell
+      - cell "已完成":
+        - generic: 已完成
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-26 错题训练/多选题/2026-05-26 作业模考 测试班002 进行中 已逾期 查看详情":
+      - cell "2026-05-26":
+        - generic: 2026-05-26
+      - cell "错题训练/多选题/2026-05-26":
+        - generic: 错题训练/多选题/2026-05-26
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell
+      - cell
+      - cell
+      - cell "进行中 已逾期":
+        - generic: 进行中
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-25 错题训练/三选一/2026-05-25 作业模考 测试班002 2026-05-25 17:19 已完成 0 查看详情":
+      - cell "2026-05-25":
+        - generic: 2026-05-25
+      - cell "错题训练/三选一/2026-05-25":
+        - generic: 错题训练/三选一/2026-05-25
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell "2026-05-25 17:19":
+        - generic: 2026-05-25 17:19
+      - cell
+      - cell
+      - cell "已完成":
+        - generic: 已完成
+      - cell "0":
+        - generic: "0"
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-25 错题训练/三选一/2026-05-25 作业模考 测试班002 2026-05-25 17:19 已完成 9 查看详情":
+      - cell "2026-05-25":
+        - generic: 2026-05-25
+      - cell "错题训练/三选一/2026-05-25":
+        - generic: 错题训练/三选一/2026-05-25
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell "2026-05-25 17:19":
+        - generic: 2026-05-25 17:19
+      - cell
+      - cell
+      - cell "已完成":
+        - generic: 已完成
+      - cell "9":
+        - generic: "9"
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-25 错题训练/判断对错/2026-05-25 作业模考 测试班002 未开始 已逾期 查看详情":
+      - cell "2026-05-25":
+        - generic: 2026-05-25
+      - cell "错题训练/判断对错/2026-05-25":
+        - generic: 错题训练/判断对错/2026-05-25
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell
+      - cell
+      - cell
+      - cell "未开始 已逾期":
+        - generic: 未开始
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-25 错题训练/判断对错/2026-05-25 作业模考 测试班002 未开始 已逾期 查看详情":
+      - cell "2026-05-25":
+        - generic: 2026-05-25
+      - cell "错题训练/判断对错/2026-05-25":
+        - generic: 错题训练/判断对错/2026-05-25
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell
+      - cell
+      - cell
+      - cell "未开始 已逾期":
+        - generic: 未开始
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-25 错题训练/匹配题/2026-05-25 作业模考 测试班002 未开始 已逾期 查看详情":
+      - cell "2026-05-25":
+        - generic: 2026-05-25
+      - cell "错题训练/匹配题/2026-05-25":
+        - generic: 错题训练/匹配题/2026-05-25
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell
+      - cell
+      - cell
+      - cell "未开始 已逾期":
+        - generic: 未开始
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-25 错题训练/图表填空题/2026-05-25 作业模考 测试班002 2026-05-25 17:23 已完成 0 查看详情":
+      - cell "2026-05-25":
+        - generic: 2026-05-25
+      - cell "错题训练/图表填空题/2026-05-25":
+        - generic: 错题训练/图表填空题/2026-05-25
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell "2026-05-25 17:23":
+        - generic: 2026-05-25 17:23
+      - cell
+      - cell
+      - cell "已完成":
+        - generic: 已完成
+      - cell "0":
+        - generic: "0"
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-25 错题训练/多选题/2026-05-25 作业模考 测试班002 进行中 已逾期 查看详情":
+      - cell "2026-05-25":
+        - generic: 2026-05-25
+      - cell "错题训练/多选题/2026-05-25":
+        - generic: 错题训练/多选题/2026-05-25
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell
+      - cell
+      - cell
+      - cell "进行中 已逾期":
+        - generic: 进行中
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-25 错题训练/多选题/2026-05-25 作业模考 测试班002 2026-05-25 17:22 已完成 5.5 查看详情":
+      - cell "2026-05-25":
+        - generic: 2026-05-25
+      - cell "错题训练/多选题/2026-05-25":
+        - generic: 错题训练/多选题/2026-05-25
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell "2026-05-25 17:22":
+        - generic: 2026-05-25 17:22
+      - cell
+      - cell
+      - cell "已完成":
+        - generic: 已完成
+      - cell "5.5":
+        - generic: "5.5"
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-23 雅思 作业模考 测试班002 2026-05-23 13:59 李冰晖 李冰晖 已批改 3.5 查看详情":
+      - cell "2026-05-23":
+        - generic: 2026-05-23
+      - cell "雅思":
+        - generic: 雅思
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell "2026-05-23 13:59":
+        - generic: 2026-05-23 13:59
+      - cell "李冰晖":
+        - generic: 李冰晖
+      - cell "李冰晖":
+        - generic: 李冰晖
+      - cell "已批改":
+        - generic: 已批改
+      - cell "3.5":
+        - generic: "3.5"
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-21 0521雅思练习 作业模考 测试班002 2026-05-21 15:50 李冰晖 李冰晖 已查阅 3.5 查看详情":
+      - cell "2026-05-21":
+        - generic: 2026-05-21
+      - cell "0521雅思练习":
+        - generic: 0521雅思练习
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell "2026-05-21 15:50":
+        - generic: 2026-05-21 15:50
+      - cell "李冰晖":
+        - generic: 李冰晖
+      - cell "李冰晖":
+        - generic: 李冰晖
+      - cell "已查阅":
+        - generic: 已查阅
+      - cell "3.5":
+        - generic: "3.5"
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-15 新托福 作业模考 TF2410LXC005 刘晓菁 刘晓菁 未开始 已逾期 查看详情":
+      - cell "2026-05-15":
+        - generic: 2026-05-15
+      - cell "新托福":
+        - generic: 新托福
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "TF2410LXC005":
+        - generic: TF2410LXC005
+      - cell
+      - cell "刘晓菁":
+        - generic: 刘晓菁
+      - cell "刘晓菁":
+        - generic: 刘晓菁
+      - cell "未开始 已逾期":
+        - generic: 未开始
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-14 新托福写作模考 作业模考 TF2410LXC005 王思贤 王思贤 未开始 已逾期 查看详情":
+      - cell "2026-05-14":
+        - generic: 2026-05-14
+      - cell "新托福写作模考":
+        - generic: 新托福写作模考
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "TF2410LXC005":
+        - generic: TF2410LXC005
+      - cell
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "未开始 已逾期":
+        - generic: 未开始
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-14 新托福口语模考 作业模考 TF2410LXC005 2026-05-15 09:56 王思贤 王思贤 已查阅 4 查看详情":
+      - cell "2026-05-14":
+        - generic: 2026-05-14
+      - cell "新托福口语模考":
+        - generic: 新托福口语模考
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "TF2410LXC005":
+        - generic: TF2410LXC005
+      - cell "2026-05-15 09:56":
+        - generic: 2026-05-15 09:56
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "已查阅":
+        - generic: 已查阅
+      - cell "4":
+        - generic: "4"
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-09 新托福全科模考1 作业模考 TF2410LXC005 王思贤 王思贤 未开始 已逾期 查看详情":
+      - cell "2026-05-09":
+        - generic: 2026-05-09
+      - cell "新托福全科模考1":
+        - generic: 新托福全科模考1
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "TF2410LXC005":
+        - generic: TF2410LXC005
+      - cell
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "未开始 已逾期":
+        - generic: 未开始
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-05-09 新托福全科模考2 作业模考 TF2410LXC005 王思贤 王思贤 未开始 已逾期 查看详情":
+      - cell "2026-05-09":
+        - generic: 2026-05-09
+      - cell "新托福全科模考2":
+        - generic: 新托福全科模考2
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "TF2410LXC005":
+        - generic: TF2410LXC005
+      - cell
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "未开始 已逾期":
+        - generic: 未开始
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-04-13 自定义作业测试 作业模考 测试班002 王思贤 王思贤 进行中 已逾期 查看详情":
+      - cell "2026-04-13":
+        - generic: 2026-04-13
+      - cell "自定义作业测试":
+        - generic: 自定义作业测试
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "进行中 已逾期":
+        - generic: 进行中
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-04-08 测试自定义 作业模考 测试班002 2026-04-09 14:21 王思贤 王思贤 已批改 0.222222 查看详情":
+      - cell "2026-04-08":
+        - generic: 2026-04-08
+      - cell "测试自定义":
+        - generic: 测试自定义
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell "2026-04-09 14:21":
+        - generic: 2026-04-09 14:21
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "已批改":
+        - generic: 已批改
+      - cell "0.222222":
+        - generic: "0.222222"
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026-04-07 王小格4.7作业 作业模考 测试班002 王思贤 王思贤 进行中 已逾期 查看详情":
+      - cell "2026-04-07":
+        - generic: 2026-04-07
+      - cell "王小格4.7作业":
+        - generic: 王小格4.7作业
+      - cell "作业模考":
+        - generic: 作业模考
+      - cell "测试班002":
+        - generic: 测试班002
+      - cell
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "进行中 已逾期":
+        - generic: 进行中
+        - generic: 已逾期
+      - cell
+      - cell "查看详情":
+        - generic: 查看详情
+- generic: 共 71 条
+- textbox "请选择": 30条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+  - listitem: "2"
+  - listitem: "3"
+- button "":
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:       
+- list:
+  - generic: 全部
+  - generic: 作业模考
+  - generic: 单词作业
+  - generic: 打卡作业
+  - generic: 视频课件

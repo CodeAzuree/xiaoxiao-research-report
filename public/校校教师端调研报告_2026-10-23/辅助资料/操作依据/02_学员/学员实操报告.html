@@ -1,0 +1,422 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>校校教师端实操调研｜学员</title><style>body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif;color:#25344a;max-width:1180px;margin:45px auto;padding:0 25px;line-height:1.8;background:#f5f7fb}h1{font-size:32px}h2{font-size:27px;margin-top:65px;border-bottom:2px solid #416ddd;padding-bottom:8px}h3{font-size:21px}article{background:white;border:1px solid #dfe5ee;border-radius:12px;margin:24px 0;padding:24px}img{display:block;width:100%;height:auto;border:1px solid #e1e5ec;margin-top:18px}figcaption{font-size:13px;color:#697587}table{border-collapse:collapse;width:100%;background:white}th,td{border:1px solid #dfe5ee;padding:10px;text-align:left}.status{font-size:14px;background:#eaf0ff;color:#254eaf;padding:4px 8px;border-radius:5px}nav{display:flex;gap:20px;position:sticky;top:0;background:white;padding:12px;border:1px solid #dfe5ee;z-index:5}a{color:#285dcc}p{margin:12px 0}.muted{color:#657287}html{scroll-behavior:smooth}nav{flex-wrap:wrap;gap:8px 18px}figure{margin:18px 0}img{box-sizing:border-box}article{scroll-margin-top:110px}h2{scroll-margin-top:110px}.chapter{display:flex;gap:20px;flex-wrap:wrap}.tools{background:#edf2fc;padding:15px;border-radius:8px}.tag{font-size:13px;color:#657287}input{font:inherit;border:1px solid #b9c8df;border-radius:6px;padding:8px;width:min(90%,650px)}.hidden{display:none}summary{cursor:pointer}footer{margin:60px 0} @media(max-width:700px){body{padding:0 14px;margin:22px auto}article{padding:16px}h1{font-size:26px}h2{font-size:23px}nav{position:static}th,td{padding:7px;font-size:14px}} @media print{nav,.tools{display:none}body{background:white;max-width:none}article{break-inside:avoid;border-color:#ddd}a{color:inherit}}</style><link rel="stylesheet" href="../../../资源/记录定位.css" data-record-anchor="style"><script defer src="../../../资源/记录定位.js" data-record-anchor="script"></script></head><body>
+<div class="chapter"><a href="../../../index.html">← 调研总览</a><a href="../01_首页/首页实操报告.html">上一章：首页</a></div>
+<h1>校校教师端实操调研｜学员</h1><p class="structure-link"><b>调研报告：</b><a href="../../../02_学员/学员调研报告.html">学员功能结构与清单</a>。本页保留逐次操作和截图，供追溯具体证据。</p>
+<p class="muted">2026-10-22 · 逐功能截图版 · 56条功能操作记录 · 88张对应截图</p>
+<p>本章只研究教师端“学员”一级页签及其直接下钻。围绕王小格档案逐页操作，按名册与信息、课表&amp;任务、学习报告、练习情况、课程反馈、回访记录、考试记录记录功能。其他一级页签另行调研。</p>
+<p>功能结论来自实际点击、输入、切换和结果回读，每条均附对应原始截图。旧帮助文档不作为本章功能证据；界面存在入口、成功执行和受数据限制分别标注。</p>
+<p>环境：新航道武汉学校教师端，王思贤账号；2026-10-22。用户确认测试环境无敏感信息，要求截图保留原始学员信息。</p>
+<p>本轮经明确授权新增1条回访、1条SAT考试、保存1条AI评语，并生成2份同区间SAT报告（第二份含评语）。未提交新任务、错词训练、课程评分，未发送考前通知、未删除记录。</p>
+<p>“已验证”只覆盖每条列出的动作与反馈；菜单、字段、图标可见不等于后续流程完成。AI生成内容单独记录，推断与数字不自动视作可靠事实。</p>
+<div class="tools"><label for="search"><b>筛选本章功能：</b></label><input id="search" placeholder="输入关键词，如：评语、回访、错词、未提交"><p id="shown" class="muted">可按标题、操作、反馈与边界搜索。截图点击后可查看原图。</p><a href="学员功能清单.csv">下载功能清单 CSV</a> · <a href="学员功能清单.json">查看结构化 JSON</a></div>
+<nav><a href="#m0">名册与信息</a><a href="#m1">课表&amp;任务</a><a href="#m2">学习报告</a><a href="#m3">练习情况·统计</a><a href="#m4">练习情况·错题与笔记</a><a href="#m5">课程反馈</a><a href="#m6">回访记录</a><a href="#m7">考试记录</a><a href="#limits">未验证与待补</a></nav>
+<h2>本轮覆盖</h2><table><thead><tr><th>模块</th><th>记录数</th><th>覆盖范围</th></tr></thead><tbody>
+<tr><td>名册与信息</td><td>7</td><td>名册搜索/状态/班级，基础档案、班级卡片、入学模考空态</td></tr>
+<tr><td>课表&amp;任务</td><td>7</td><td>月历、任务表单与日期时间、清单配置、双样式预览、生成图片边界</td></tr>
+<tr><td>学习报告</td><td>12</td><td>科目日期、汇总与四页分析、AI评语保存、生成/记录/分享与成品核验</td></tr>
+<tr><td>练习情况·统计</td><td>13</td><td>作业列表与筛选、单词书、开放题库、词汇量与AI分析</td></tr>
+<tr><td>练习情况·错题与笔记</td><td>9</td><td>错题统计/分类/归因/下钻、答案开关、错词布置配置、笔记空态</td></tr>
+<tr><td>课程反馈</td><td>2</td><td>评分汇总与未上课前置限制</td></tr>
+<tr><td>回访记录</td><td>2</td><td>新增、保存、列表核验、编辑回读</td></tr>
+<tr><td>考试记录</td><td>4</td><td>科目、预设与自定义分项、新增保存、编辑回读</td></tr>
+</tbody></table>
+<section class="module"><h2 id="m0">名册与信息</h2>
+<article id="ST01"><h3>ST01 学员名册与七个档案页签</h3><span class="status">已验证展示与切换</span>
+<p><b>实际操作：</b>点击一级页签“学员”，选中王小格，逐一进入右侧七个页签。</p>
+<p><b>页面反馈：</b>未过滤时名册显示114名学员；左侧有姓名/手机号搜索、班级和筛选。右侧为信息、课表&amp;任务、学习报告、练习情况、课程反馈、回访记录、考试记录。</p>
+<p><b>边界与未验证：</b>114为当前账号快照；首次进入保留了既有页签状态，不认定默认一定打开某个页签。</p>
+<figure><a href="../../../02_学员/截图/S01_学员页入口与导航.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S01_学员页入口与导航.png" alt="S01｜学员页入口与导航" width="1456" height="763"></a><figcaption>S01｜学员页入口与导航 · <a href="原始记录/S01_学员页入口与导航.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="ST02"><h3>ST02 姓名、手机号检索与无结果状态</h3><span class="status">已验证</span>
+<p><b>实际操作：</b>依次搜索“王小格”“不存在的调研姓名”“17371065915”。</p>
+<p><b>页面反馈：</b>姓名与手机号均定位到王小格1人；不存在姓名返回0人和“暂无内容”。选中学员后可阅读其档案。</p>
+<p><b>边界与未验证：</b>只核验本次关键词；未验证模糊匹配、拼音、跨校区检索范围。</p>
+<figure><a href="../../../02_学员/截图/S04_姓名搜索结果.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S04_姓名搜索结果.png" alt="S04｜姓名搜索结果" width="1456" height="763"></a><figcaption>S04｜姓名搜索结果 · <a href="原始记录/S04_姓名搜索结果.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S05_学员搜索无结果.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S05_学员搜索无结果.png" alt="S05｜学员搜索无结果" width="1456" height="763"></a><figcaption>S05｜学员搜索无结果 · <a href="原始记录/S05_学员搜索无结果.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S06_手机号搜索结果.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S06_手机号搜索结果.png" alt="S06｜手机号搜索结果" width="1456" height="763"></a><figcaption>S06｜手机号搜索结果 · <a href="原始记录/S06_手机号搜索结果.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="ST03"><h3>ST03 按学员状态筛选</h3><span class="status">已验证已结课筛选</span>
+<p><b>实际操作：</b>点击筛选→展开状态→选择已结课，之后恢复全部。</p>
+<p><b>页面反馈：</b>菜单为全部、在读中、已结课。选已结课时名册为76人，恢复全部后为114人。</p>
+<p><b>边界与未验证：</b>没有逐一核对所有学员的结课状态来源。</p>
+<figure><a href="../../../02_学员/截图/S07_学员状态筛选.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S07_学员状态筛选.png" alt="S07｜学员状态筛选" width="1456" height="763"></a><figcaption>S07｜学员状态筛选 · <a href="原始记录/S07_学员状态筛选.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S08_已结课学员结果.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S08_已结课学员结果.png" alt="S08｜已结课学员结果" width="1456" height="763"></a><figcaption>S08｜已结课学员结果 · <a href="原始记录/S08_已结课学员结果.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="ST04"><h3>ST04 按班级搜索并过滤名册</h3><span class="status">已验证单班筛选</span>
+<p><b>实际操作：</b>打开名册班级选择器→搜索“测试班”→选择测试班002。</p>
+<p><b>页面反馈：</b>选择器可搜索班级；过滤后名册剩王小格1人，卡片标记1个班级。右侧档案仍可展示其3个在读班级，任务月历仍有SAT班事件。</p>
+<p><b>边界与未验证：</b>名册班级过滤不等同于右侧各模块自动限定到同一班级；多班组合未实测。</p>
+<figure><a href="../../../02_学员/截图/S09_名册班级筛选.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S09_名册班级筛选.png" alt="S09｜名册班级筛选" width="1456" height="763"></a><figcaption>S09｜名册班级筛选 · <a href="原始记录/S09_名册班级筛选.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S10_班级过滤与任务月历.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S10_班级过滤与任务月历.png" alt="S10｜班级过滤与任务月历" width="1456" height="763"></a><figcaption>S10｜班级过滤与任务月历 · <a href="原始记录/S10_班级过滤与任务月历.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S94_学员班级卡片核验.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S94_学员班级卡片核验.png" alt="S94｜学员班级卡片核验" width="1456" height="763"></a><figcaption>S94｜学员班级卡片核验 · <a href="原始记录/S94_学员班级卡片核验.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="ST05"><h3>ST05 基础资料与公众号关注状态</h3><span class="status">已验证展示</span>
+<p><b>实际操作：</b>进入信息页，阅读上方档案。</p>
+<p><b>页面反馈：</b>显示头像、姓名、学生/家长公众号关注状态；资料字段包含姓名、性别、出生日期、城市、手机号、微信号、微信昵称、顾问、年级、学校名称、专业、账号截止时间。样例中学生与家长均未关注，截止时间2026-11-27。</p>
+<p><b>边界与未验证：</b>本轮查看资料，没有看到或执行资料编辑与公众号绑定流程。</p>
+<figure><a href="../../../02_学员/截图/S02_学员基本信息.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S02_学员基本信息.png" alt="S02｜学员基本信息" width="1456" height="763"></a><figcaption>S02｜学员基本信息 · <a href="原始记录/S02_学员基本信息.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="ST06"><h3>ST06 在读班级卡片</h3><span class="status">已验证展示</span>
+<p><b>实际操作：</b>信息页向下滚动至班级区域。</p>
+<p><b>页面反馈：</b>3张卡片均标记在读中，显示班级名称、课程名称、开课日期：TF2410LXC005/托福/2024-09-27，测试班002/AP/2025-06-18，王小格-SAT/SAT班/2026-09-23。</p>
+<p><b>边界与未验证：</b>未执行转班、退班、入班操作；不能由卡片展示推定这些管理能力。</p>
+<figure><a href="../../../02_学员/截图/S94_学员班级卡片核验.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S94_学员班级卡片核验.png" alt="S94｜学员班级卡片核验" width="1456" height="763"></a><figcaption>S94｜学员班级卡片核验 · <a href="原始记录/S94_学员班级卡片核验.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="ST07"><h3>ST07 入学模考记录入口</h3><span class="status">已验证空态</span>
+<p><b>实际操作：</b>继续滚动至入学模考。</p>
+<p><b>页面反馈：</b>表头为测试日期、测试题目、测试状态、做题时长、测试分数、操作；样例显示暂无入学模考数据。</p>
+<p><b>边界与未验证：</b>没有可用记录，无法验证具体模考详情和结果流转。</p>
+<figure><a href="../../../02_学员/截图/S03_学员班级与入学模考.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S03_学员班级与入学模考.png" alt="S03｜学员班级与入学模考" width="1456" height="763"></a><figcaption>S03｜学员班级与入学模考 · <a href="原始记录/S03_学员班级与入学模考.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S94_学员班级卡片核验.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S94_学员班级卡片核验.png" alt="S94｜学员班级卡片核验" width="1456" height="763"></a><figcaption>S94｜学员班级卡片核验 · <a href="原始记录/S94_学员班级卡片核验.txt">原始页面记录</a></figcaption></figure>
+</article>
+</section>
+<section class="module"><h2 id="m1">课表&amp;任务</h2>
+<article id="TK01"><h3>TK01 月历与事件类型</h3><span class="status">已验证展示与翻月</span>
+<p><b>实际操作：</b>进入课表&amp;任务，查看2026年10月月历，再切上个月和本月。</p>
+<p><b>页面反馈：</b>月历按星期排列，提供上个月、本月、下个月；图例区分考试、课程、作业、任务。10月可见字数测试和错词训练，9月可见测试0922、测试0922-1、sat全科测试。另有模块自己的班级选择器。</p>
+<p><b>边界与未验证：</b>已切换9月和10月；未测试每一种事件类型的详情，也未单独应用月历自己的班级筛选。</p>
+<figure><a href="../../../02_学员/截图/S10_班级过滤与任务月历.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S10_班级过滤与任务月历.png" alt="S10｜班级过滤与任务月历" width="1456" height="763"></a><figcaption>S10｜班级过滤与任务月历 · <a href="原始记录/S10_班级过滤与任务月历.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S11_任务上月视图.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S11_任务上月视图.png" alt="S11｜任务上月视图" width="1456" height="763"></a><figcaption>S11｜任务上月视图 · <a href="原始记录/S11_任务上月视图.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="TK02"><h3>TK02 添加任务表单与可选班级</h3><span class="status">已打开并填写；未提交</span>
+<p><b>实际操作：</b>点击添加任务→展开班级箭头→查看可选班级。</p>
+<p><b>页面反馈：</b>表单包含班级、任务名称、开始日期/时间、结束日期/时间、提醒日期/时间、取消和确定。班级菜单可选该学员关联的3个班级；初次默认TF2410LXC005，并非左侧名册过滤的测试班002。</p>
+<p><b>边界与未验证：</b>没有保存新任务；提交后的任务展示、提醒送达和修改删除尚未验证。</p>
+<figure><a href="../../../02_学员/截图/S12_添加任务默认表单.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S12_添加任务默认表单.png" alt="S12｜添加任务默认表单" width="1456" height="763"></a><figcaption>S12｜添加任务默认表单 · <a href="原始记录/S12_添加任务默认表单.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S13_任务可选班级.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S13_任务可选班级.png" alt="S13｜任务可选班级" width="1456" height="763"></a><figcaption>S13｜任务可选班级 · <a href="原始记录/S13_任务可选班级.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="TK03"><h3>TK03 任务起止日期、时间与提醒配置</h3><span class="status">已验证选择；未提交</span>
+<p><b>实际操作：</b>在任务表单中用日期面板选10月23日，再用时间菜单选择开始08:30、结束09:00、提醒08:00。</p>
+<p><b>页面反馈：</b>回读显示2026-10-23 08:30至09:00，提醒2026-10-23 08:00。时间菜单以15分钟间隔列出选项。本次最终表单班级为TF2410LXC005，随后取消。</p>
+<p><b>边界与未验证：</b>只验证控件选值，不验证提醒执行或非法时间校验。早先输入日期未生效的草稿不作为成功证据。</p>
+<figure><a href="../../../02_学员/截图/S87_任务时间选择菜单.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S87_任务时间选择菜单.png" alt="S87｜任务时间选择菜单" width="1456" height="763"></a><figcaption>S87｜任务时间选择菜单 · <a href="原始记录/S87_任务时间选择菜单.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S88_任务日期时间选择结果.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S88_任务日期时间选择结果.png" alt="S88｜任务日期时间选择结果" width="1456" height="763"></a><figcaption>S88｜任务日期时间选择结果 · <a href="原始记录/S88_任务日期时间选择结果.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="TK04"><h3>TK04 从日历日期进入添加任务</h3><span class="status">已验证打开与预填</span>
+<p><b>实际操作：</b>点击10月12日至13日附近的日历日期区域。</p>
+<p><b>页面反馈：</b>打开添加任务弹窗，任务名为空，日期预填10月12日至13日。</p>
+<p><b>边界与未验证：</b>点击落在日期区域，没有将该动作描述成作业详情入口；未保存。</p>
+<figure><a href="../../../02_学员/截图/S15_日历点击日期预填任务.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S15_日历点击日期预填任务.png" alt="S15｜日历点击日期预填任务" width="1456" height="763"></a><figcaption>S15｜日历点击日期预填任务 · <a href="原始记录/S15_日历点击日期预填任务.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="TK05"><h3>TK05 任务清单导出配置</h3><span class="status">已打开配置</span>
+<p><b>实际操作：</b>点击导出清单，查看王小格任务清单弹窗。</p>
+<p><b>页面反馈：</b>提供起止日期、列表样式/视图样式、考试/课程/作业/任务勾选项、整体点评/评语，以及预览和生成图片。当前10月22日至24日统计为考试0、课程0、作业3、任务0，暂无点评。</p>
+<p><b>边界与未验证：</b>记录当前配置与数量；未逐项验证四类勾选或修改日期后的计算口径。</p>
+<figure><a href="../../../02_学员/截图/S16_任务清单导出设置.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S16_任务清单导出设置.png" alt="S16｜任务清单导出设置" width="1456" height="763"></a><figcaption>S16｜任务清单导出设置 · <a href="原始记录/S16_任务清单导出设置.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="TK06"><h3>TK06 任务清单两种预览</h3><span class="status">已验证</span>
+<p><b>实际操作：</b>分别选择视图样式和列表样式，点击预览。</p>
+<p><b>页面反馈：</b>视图样式生成月历预览；列表样式生成带学校标识、学员、日期和作业条目的纵向清单，样例中展示3条作业及34、80、100等分数。</p>
+<p><b>边界与未验证：</b>视图预览在当前窗口有横向超出；按原画面记录，未将其推定为所有设备的布局问题。</p>
+<figure><a href="../../../02_学员/截图/S17_任务视图预览.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S17_任务视图预览.png" alt="S17｜任务视图预览" width="1456" height="763"></a><figcaption>S17｜任务视图预览 · <a href="原始记录/S17_任务视图预览.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S18_任务列表预览.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S18_任务列表预览.png" alt="S18｜任务列表预览" width="1456" height="763"></a><figcaption>S18｜任务列表预览 · <a href="原始记录/S18_任务列表预览.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="TK07"><h3>TK07 生成任务清单图片</h3><span class="status">已点击；文件结果未核验</span>
+<p><b>实际操作：</b>在列表样式中点击生成图片。</p>
+<p><b>页面反馈：</b>原页未新增明确成功提示，操作后仍保留任务清单配置。</p>
+<p><b>边界与未验证：</b>本轮没有取得并打开生成文件，用户的“正常行为”未单独确认此项下载；因此不写成图片下载闭环成功。</p>
+<figure><a href="../../../02_学员/截图/S19_任务生成图片操作后.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S19_任务生成图片操作后.png" alt="S19｜任务生成图片操作后" width="1456" height="763"></a><figcaption>S19｜任务生成图片操作后 · <a href="原始记录/S19_任务生成图片操作后.txt">原始页面记录</a></figcaption></figure>
+</article>
+</section>
+<section class="module"><h2 id="m2">学习报告</h2>
+<article id="LR01"><h3>LR01 科目、日期范围与汇总面板</h3><span class="status">已验证切换</span>
+<p><b>实际操作：</b>进入学习报告→展开科目→选择SAT→设为2026-09-01至10-22。</p>
+<p><b>页面反馈：</b>该学员科目菜单为AP、托福、SAT。切换后展示已上课时/总课时0/0、作业完成率67%、读写(机考)200/800、数学(机考)220/800，知识点暂无数据。</p>
+<p><b>边界与未验证：</b>首次进入保留AP和旧日期区间，不能视作全系统默认值；汇总来源和预测分算法未核验。</p>
+<figure><a href="../../../02_学员/截图/S20_学习报告入口.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S20_学习报告入口.png" alt="S20｜学习报告入口" width="1456" height="763"></a><figcaption>S20｜学习报告入口 · <a href="原始记录/S20_学习报告入口.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S21_学习报告课程类型.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S21_学习报告课程类型.png" alt="S21｜学习报告课程类型" width="1456" height="763"></a><figcaption>S21｜学习报告课程类型 · <a href="原始记录/S21_学习报告课程类型.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S22_SAT学习报告汇总.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S22_SAT学习报告汇总.png" alt="S22｜SAT学习报告汇总" width="1456" height="763"></a><figcaption>S22｜SAT学习报告汇总 · <a href="原始记录/S22_SAT学习报告汇总.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="LR02"><h3>LR02 成绩趋势与模考列表</h3><span class="status">已验证展示</span>
+<p><b>实际操作：</b>在SAT日期范围下滚动到成绩页。</p>
+<p><b>页面反馈：</b>页面有模考成绩走势图、平均分210和分项分200/220；模考记录中sat全科测试总分420，时间2026-10-15 15:10，并有查看详情。</p>
+<p><b>边界与未验证：</b>210是本页面平均分展示，不能替代420的模考总分；未根据帮助文档补计算公式。</p>
+<figure><a href="../../../02_学员/截图/S23_SAT成绩与模考记录.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S23_SAT成绩与模考记录.png" alt="S23｜SAT成绩与模考记录" width="1456" height="763"></a><figcaption>S23｜SAT成绩与模考记录 · <a href="原始记录/S23_SAT成绩与模考记录.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="LR03"><h3>LR03 从报告进入模考结果</h3><span class="status">已验证新标签落点</span>
+<p><b>实际操作：</b>点击sat全科测试的查看详情。</p>
+<p><b>页面反馈：</b>打开新标签的SAT结果页，显示420/1600、读写200/800、数学220/800、正确率18%，并提供作业结果、答题解析、答题录屏、巩固训练等入口。</p>
+<p><b>边界与未验证：</b>本阶段核验入口与落点；评分、解析、录屏等完整流程留到相应作业研究，不因入口可见认定已验证。</p>
+<figure><a href="../../../02_学员/截图/S24_模考详情落点.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S24_模考详情落点.png" alt="S24｜模考详情落点" width="1456" height="763"></a><figcaption>S24｜模考详情落点 · <a href="原始记录/S24_模考详情落点.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="LR04"><h3>LR04 课程分析页</h3><span class="status">已验证展示与空态</span>
+<p><b>实际操作：</b>切换报告下方课程页签。</p>
+<p><b>页面反馈：</b>显示班级课程数据、分项数据、课堂表现及学习建议。当前班级王小格-SAT课时0/0，SAT/托福/AP等分项为0/0，课堂评分和建议暂无数据。</p>
+<p><b>边界与未验证：</b>页面并未在此样例给出可核验的考勤明细；课程数据和反馈闭环受样本限制。</p>
+<figure><a href="../../../02_学员/截图/S25_学习报告课程页.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S25_学习报告课程页.png" alt="S25｜学习报告课程页" width="1456" height="763"></a><figcaption>S25｜学习报告课程页 · <a href="原始记录/S25_学习报告课程页.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="LR05"><h3>LR05 作业分析页</h3><span class="status">已验证展示</span>
+<p><b>实际操作：</b>切换作业页签。</p>
+<p><b>页面反馈：</b>班级作业分析列出班级、完成数/总数、完成率、正确率、逾期完成数；王小格-SAT为2/3、67%、正确率空、逾期完成数0。单词书分析含单词书、单元数、词数、进度、正确率、错词数，当前为空；另有作业完成率图。</p>
+<p><b>边界与未验证：</b>该日期/科目范围下的2/3不能与练习情况全历史18/71直接比较。没有确认统计来源和去重规则。</p>
+<figure><a href="../../../02_学员/截图/S26_学习报告作业页.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S26_学习报告作业页.png" alt="S26｜学习报告作业页" width="1456" height="763"></a><figcaption>S26｜学习报告作业页 · <a href="原始记录/S26_学习报告作业页.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="LR06"><h3>LR06 词汇、知识点分析与知识图谱</h3><span class="status">已验证入口与空态</span>
+<p><b>实际操作：</b>切换知识点页签，并向下滚动查看全部区域。</p>
+<p><b>页面反馈：</b>可见词汇量测试分析、词汇量走势、知识点分析、知识点练习次数、知识图谱。知识点表列知识点、类型、总次数、正确数、错误数、程度；本次范围均暂无数据。</p>
+<p><b>边界与未验证：</b>没有有数据样例，不能描述图谱节点交互、熟练度算法和趋势规则。</p>
+<figure><a href="../../../02_学员/截图/S27_学习报告知识点页.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S27_学习报告知识点页.png" alt="S27｜学习报告知识点页" width="1456" height="763"></a><figcaption>S27｜学习报告知识点页 · <a href="原始记录/S27_学习报告知识点页.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S96_学习报告知识点分析空态.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S96_学习报告知识点分析空态.png" alt="S96｜学习报告知识点分析空态" width="1456" height="763"></a><figcaption>S96｜学习报告知识点分析空态 · <a href="原始记录/S96_学习报告知识点分析空态.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S95_学习报告知识图谱空态.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S95_学习报告知识图谱空态.png" alt="S95｜学习报告知识图谱空态" width="1456" height="763"></a><figcaption>S95｜学习报告知识图谱空态 · <a href="原始记录/S95_学习报告知识图谱空态.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="LR07"><h3>LR07 手动评语编辑与AI生成</h3><span class="status">已验证生成</span>
+<p><b>实际操作：</b>点击添加评语→查看编辑器→点击AI一键生成，等待返回。</p>
+<p><b>页面反馈：</b>编辑器有3000字计数；AI返回约879字的总体表现、完成率、作业得分、分项、单词书和综合建议。生成完成时仍在编辑状态。</p>
+<p><b>边界与未验证：</b>AI输出是草稿。它称200/800为12.5%、220/800为13.75%，与直接相除的25%、27.5%不一致；不能把这段话当作正确统计规则或正式教学结论。</p>
+<figure><a href="../../../02_学员/截图/S28_学习报告评语编辑.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S28_学习报告评语编辑.png" alt="S28｜学习报告评语编辑" width="1456" height="763"></a><figcaption>S28｜学习报告评语编辑 · <a href="原始记录/S28_学习报告评语编辑.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S29_AI评语生成结果.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S29_AI评语生成结果.png" alt="S29｜AI评语生成结果" width="1456" height="763"></a><figcaption>S29｜AI评语生成结果 · <a href="原始记录/S29_AI评语生成结果.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="LR08"><h3>LR08 保存评语及作者关联</h3><span class="status">已验证保存成功</span>
+<p><b>实际操作：</b>获准后滚动到编辑器底部，点击蓝色对勾保存。</p>
+<p><b>页面反馈：</b>编辑器关闭，出现王思贤、王小格-SAT、2026-10-22与完整评语，提供编辑、删除。保存后的评语可进入再次生成的报告。</p>
+<p><b>边界与未验证：</b>仅生成AI文字不等同于保存成功。未测试编辑后再次提交、删除和多老师合并规则。</p>
+<figure><a href="../../../02_学员/截图/S75_评语保存确认控件.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S75_评语保存确认控件.png" alt="S75｜评语保存确认控件" width="1456" height="763"></a><figcaption>S75｜评语保存确认控件 · <a href="原始记录/S75_评语保存确认控件.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S76_AI评语保存成功.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S76_AI评语保存成功.png" alt="S76｜AI评语保存成功" width="1456" height="763"></a><figcaption>S76｜AI评语保存成功 · <a href="原始记录/S76_AI评语保存成功.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="LR09"><h3>LR09 选择报告模块并生成记录</h3><span class="status">已验证生成</span>
+<p><b>实际操作：</b>生成菜单中选择成绩、课程、作业、知识点并确认生成；评语保存后再次生成同区间报告。</p>
+<p><b>页面反馈：</b>报告记录增加SAT、2026-09-01至10-22的条目。第二份卡片标记“王思贤等1位老师评语”。原来还存在李冰晖生成的雅思报告。</p>
+<p><b>边界与未验证：</b>本次留下2份同区间SAT测试报告：第一份无评语，第二份含已保存评语。未删除任何报告；未核验取消单个模块后的成品。</p>
+<figure><a href="../../../02_学员/截图/S30_学习报告生成模块选择.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S30_学习报告生成模块选择.png" alt="S30｜学习报告生成模块选择" width="1456" height="763"></a><figcaption>S30｜学习报告生成模块选择 · <a href="原始记录/S30_学习报告生成模块选择.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S72_学习报告生成成功记录.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S72_学习报告生成成功记录.png" alt="S72｜学习报告生成成功记录" width="1456" height="763"></a><figcaption>S72｜学习报告生成成功记录 · <a href="原始记录/S72_学习报告生成成功记录.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S77_保存评语后报告记录.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S77_保存评语后报告记录.png" alt="S77｜保存评语后报告记录" width="1456" height="763"></a><figcaption>S77｜保存评语后报告记录 · <a href="原始记录/S77_保存评语后报告记录.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="LR10"><h3>LR10 报告记录检索入口</h3><span class="status">已验证列表；筛选仅查看</span>
+<p><b>实际操作：</b>点击报告记录，查看顶部筛选与卡片。</p>
+<p><b>页面反馈：</b>有科目、报告时间、生成时间、生成人等条件，卡片显示报告区间、生成者和评语情况，并提供分享入口。</p>
+<p><b>边界与未验证：</b>未用多组条件核对筛选命中结果；无文字布局图标未推定功能。</p>
+<figure><a href="../../../02_学员/截图/S31_报告生成记录.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S31_报告生成记录.png" alt="S31｜报告生成记录" width="1456" height="763"></a><figcaption>S31｜报告生成记录 · <a href="原始记录/S31_报告生成记录.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S77_保存评语后报告记录.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S77_保存评语后报告记录.png" alt="S77｜保存评语后报告记录" width="1456" height="763"></a><figcaption>S77｜保存评语后报告记录 · <a href="原始记录/S77_保存评语后报告记录.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="LR11"><h3>LR11 分享链接与二维码入口</h3><span class="status">已打开分享配置</span>
+<p><b>实际操作：</b>点击SAT生成报告的分享。</p>
+<p><b>页面反馈：</b>弹窗提供报告链接、复制链接、二维码、下载二维码。</p>
+<p><b>边界与未验证：</b>没有把链接发给其他人，也未验证复制与二维码下载文件。弹窗科目显示AP，而记录卡和实际报告为SAT，属于本次界面不一致，未推断后台归属错误。</p>
+<figure><a href="../../../02_学员/截图/S73_学习报告分享入口.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S73_学习报告分享入口.png" alt="S73｜学习报告分享入口" width="1456" height="763"></a><figcaption>S73｜学习报告分享入口 · <a href="原始记录/S73_学习报告分享入口.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="LR12"><h3>LR12 打开生成报告并核验评语</h3><span class="status">已验证成品页面</span>
+<p><b>实际操作：</b>打开分享弹窗提供的最终报告链接，检查封面、统计与评语。</p>
+<p><b>页面反馈：</b>新标签展示新航道武汉学校、Study Report、王小格、SAT、王小格-SAT、老师王思贤和2026.09.01–10.22；汇总为67%、200/800、220/800，正文已包含保存后的AI评语，并有成绩/课程/作业/知识点页签。</p>
+<p><b>边界与未验证：</b>已核验最终成品。首份因未保存草稿而无评语，第二份确认包含；报告的统计与AI文字需分别理解。</p>
+<figure><a href="../../../02_学员/截图/S92_生成报告封面核验.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S92_生成报告封面核验.png" alt="S92｜生成报告封面核验" width="1456" height="763"></a><figcaption>S92｜生成报告封面核验 · 生成报告视口原图；全文页面记录见S78。</figcaption></figure>
+<figure><a href="../../../02_学员/截图/S93_生成报告含评语视图.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S93_生成报告含评语视图.png" alt="S93｜生成报告含评语视图" width="1456" height="763"></a><figcaption>S93｜生成报告含评语视图 · 生成报告视口原图；全文页面记录见S78。</figcaption></figure>
+</article>
+</section>
+<section class="module"><h2 id="m3">练习情况·统计</h2>
+<article id="PR01"><h3>PR01 统计入口与五类练习卡片</h3><span class="status">已验证切换入口</span>
+<p><b>实际操作：</b>进入练习情况→练习统计，逐一点击顶部卡片。</p>
+<p><b>页面反馈：</b>次级页签为练习统计、错题分析、笔记。统计卡片为作业完成情况18/71、自适应统计、单词书进度共学习56词、开放题库、词汇量测试。</p>
+<p><b>边界与未验证：</b>数值是当前账号和样例的快照，不将所有卡片视为同一统计周期。</p>
+<figure><a href="../../../02_学员/截图/S32_练习情况作业列表.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S32_练习情况作业列表.png" alt="S32｜练习情况作业列表" width="1456" height="763"></a><figcaption>S32｜练习情况作业列表 · <a href="原始记录/S32_练习情况作业列表.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="PR02"><h3>PR02 作业明细与筛选字段</h3><span class="status">已验证展示；部分筛选未应用</span>
+<p><b>实际操作：</b>查看作业完成情况列表。</p>
+<p><b>页面反馈：</b>表格为布置日期、作业名称、类型、班级名称、完成日期、布置老师、批改老师、完成状态、分数、操作。提供作业类型、状态、班级、布置老师、批改老师、完成时间、布置时间和作业名搜索，71条、30条/页。</p>
+<p><b>边界与未验证：</b>本轮未逐一应用班级/老师/时间过滤，也未翻页核对第2页；排序图标可见但方向未测。</p>
+<figure><a href="../../../02_学员/截图/S32_练习情况作业列表.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S32_练习情况作业列表.png" alt="S32｜练习情况作业列表" width="1456" height="763"></a><figcaption>S32｜练习情况作业列表 · <a href="原始记录/S32_练习情况作业列表.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="PR03"><h3>PR03 按作业类型筛选</h3><span class="status">已验证单词作业</span>
+<p><b>实际操作：</b>展开作业类型→选择单词作业。</p>
+<p><b>页面反馈：</b>菜单有全部、作业模考、单词作业、打卡作业、视频课件；选择单词作业后列表为11条。</p>
+<p><b>边界与未验证：</b>其他类型仅看到菜单，未逐类验证结果。</p>
+<figure><a href="../../../02_学员/截图/S33_练习作业类型菜单.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S33_练习作业类型菜单.png" alt="S33｜练习作业类型菜单" width="1456" height="763"></a><figcaption>S33｜练习作业类型菜单 · <a href="原始记录/S33_练习作业类型菜单.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S34_单词作业过滤结果.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S34_单词作业过滤结果.png" alt="S34｜单词作业过滤结果" width="1456" height="763"></a><figcaption>S34｜单词作业过滤结果 · <a href="原始记录/S34_单词作业过滤结果.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="PR04"><h3>PR04 完成状态与作业名组合检索</h3><span class="status">已验证组合条件</span>
+<p><b>实际操作：</b>展开状态→选已完成→输入错词训练。</p>
+<p><b>页面反馈：</b>状态菜单有全部、已完成、未开始、进行中、已批改、已查阅、已逾期。单词作业+已完成+错词训练组合下剩1条，分数80。</p>
+<p><b>边界与未验证：</b>没有逐项验证所有状态；状态与逾期标签是否可同时出现以原列表为准，不推断互斥规则。</p>
+<figure><a href="../../../02_学员/截图/S35_完成状态筛选.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S35_完成状态筛选.png" alt="S35｜完成状态筛选" width="1456" height="763"></a><figcaption>S35｜完成状态筛选 · <a href="原始记录/S35_完成状态筛选.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S36_练习组合搜索结果.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S36_练习组合搜索结果.png" alt="S36｜练习组合搜索结果" width="1456" height="763"></a><figcaption>S36｜练习组合搜索结果 · <a href="原始记录/S36_练习组合搜索结果.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="PR05"><h3>PR05 从单词作业打开练习结果</h3><span class="status">已验证新标签落点</span>
+<p><b>实际操作：</b>点击组合结果的查看详情。</p>
+<p><b>页面反馈：</b>新标签为基础练习，80/100，10词、8对、2错、0未答、正确率80%，可见词条、音标及作业结果/答题解析/答题录屏/巩固训练入口。</p>
+<p><b>边界与未验证：</b>只核验此次结果落点；未逐项播放发音、查看录屏或实际下发布置。</p>
+<figure><a href="../../../02_学员/截图/S37_单词练习结果落点.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S37_单词练习结果落点.png" alt="S37｜单词练习结果落点" width="1456" height="763"></a><figcaption>S37｜单词练习结果落点 · <a href="原始记录/S37_单词练习结果落点.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="PR06"><h3>PR06 自适应统计</h3><span class="status">已验证空态</span>
+<p><b>实际操作：</b>点击自适应统计卡片。</p>
+<p><b>页面反馈：</b>当前科目托福，展示单词、阅读、听力、口语、写作等维度的0%和暂无数据，科目选择入口可见。</p>
+<p><b>边界与未验证：</b>未切其他科目取得样本，不能确认自适应能力算法。</p>
+<figure><a href="../../../02_学员/截图/S38_自适应统计.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S38_自适应统计.png" alt="S38｜自适应统计" width="1456" height="763"></a><figcaption>S38｜自适应统计 · <a href="原始记录/S38_自适应统计.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="PR07"><h3>PR07 单词书进度列表</h3><span class="status">已验证展示</span>
+<p><b>实际操作：</b>点击单词书进度。</p>
+<p><b>页面反馈：</b>2条陈梦昕生词本记录显示托福、布置人李宝燕、布置时间、4单元222词；第一条进度1/4(25%)、正确率34%，第二条0/4、0%。</p>
+<p><b>边界与未验证：</b>顶部共学习56词和书详情已学44词属于不同展示字段，未核验差异口径，不强行套公式。</p>
+<figure><a href="../../../02_学员/截图/S39_单词书进度列表.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S39_单词书进度列表.png" alt="S39｜单词书进度列表" width="1456" height="763"></a><figcaption>S39｜单词书进度列表 · <a href="原始记录/S39_单词书进度列表.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="PR08"><h3>PR08 单词书单元与单词明细</h3><span class="status">已验证详情</span>
+<p><b>实际操作：</b>打开第一条单词书详情并查看各单元与词卡。</p>
+<p><b>页面反馈：</b>总计222词、已学44、错词29；单元分别显示已完成、未学习、未解锁和各自词数/正确率。右侧词卡包含英美音标/发音入口、双语释义、例句、错词标记。</p>
+<p><b>边界与未验证：</b>只核验展示，不把未解锁状态扩写成已验证的解锁条件；发音播放未单独测试。</p>
+<figure><a href="../../../02_学员/截图/S40_单词书单元详情.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S40_单词书单元详情.png" alt="S40｜单词书单元详情" width="1456" height="763"></a><figcaption>S40｜单词书单元详情 · <a href="原始记录/S40_单词书单元详情.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="PR09"><h3>PR09 单词书内只看错词</h3><span class="status">已验证过滤</span>
+<p><b>实际操作：</b>在单词书详情勾选错词。</p>
+<p><b>页面反馈：</b>右侧词卡按错词过滤，保留错词标记。</p>
+<p><b>边界与未验证：</b>未核对每一个词和汇总计数的对应关系。</p>
+<figure><a href="../../../02_学员/截图/S41_单词书错词过滤.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S41_单词书错词过滤.png" alt="S41｜单词书错词过滤" width="1456" height="763"></a><figcaption>S41｜单词书错词过滤 · <a href="原始记录/S41_单词书错词过滤.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="PR10"><h3>PR10 开放题库练习历史</h3><span class="status">已验证列表</span>
+<p><b>实际操作：</b>点击开放题库。</p>
+<p><b>页面反馈：</b>66条、20条/页；字段为题目名称、科目、开始时间、提交时间、状态、正确率、分数、批改老师、模式、操作。样例有雅思练习和进行中、模考模式等。</p>
+<p><b>边界与未验证：</b>本卡片的具体记录详情及翻页未继续执行，不能因开始过练习认定已提交完成。</p>
+<figure><a href="../../../02_学员/截图/S42_开放题库训练列表.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S42_开放题库训练列表.png" alt="S42｜开放题库训练列表" width="1456" height="763"></a><figcaption>S42｜开放题库训练列表 · <a href="原始记录/S42_开放题库训练列表.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="PR11"><h3>PR11 词汇量测试记录</h3><span class="status">已验证列表</span>
+<p><b>实际操作：</b>点击词汇量测试。</p>
+<p><b>页面反馈：</b>样例有2026-04-18测试，时长3分钟；阅读B1/4074，听力A1/&lt;1000，并有查看。</p>
+<p><b>边界与未验证：</b>只记录页面量表展示，未研究词汇量估计算法。</p>
+<figure><a href="../../../02_学员/截图/S43_词汇量测试列表.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S43_词汇量测试列表.png" alt="S43｜词汇量测试列表" width="1456" height="763"></a><figcaption>S43｜词汇量测试列表 · <a href="原始记录/S43_词汇量测试列表.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="PR12"><h3>PR12 词汇量测试报告下钻</h3><span class="status">已验证新标签落点</span>
+<p><b>实际操作：</b>点击词汇量测试查看。</p>
+<p><b>页面反馈：</b>新标签显示阅读B1/4074、听力A1/&lt;1000，以及能力说明和CEFR与主流考试的换算对照表。</p>
+<p><b>边界与未验证：</b>对照表仅作为该产品展示内容，未做外部量表权威性校验或将其当作实考成绩。</p>
+<figure><a href="../../../02_学员/截图/S83_词汇量测试结果页.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S83_词汇量测试结果页.png" alt="S83｜词汇量测试结果页" width="1456" height="1434"></a><figcaption>S83｜词汇量测试结果页 · <a href="原始记录/S83_词汇量测试结果页.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="PR13"><h3>PR13 AI作业分析的处理状态与返回</h3><span class="status">已验证生成</span>
+<p><b>实际操作：</b>点击AI作业分析，保留浮层等待，返回后滚动阅读。</p>
+<p><b>页面反馈：</b>生成中显示AI分析中；完成后按钮变为重新分析，浮层包含AI数据分析、刚刚更新、洞察与建议，以及洞察/分析/建议。内容汇总71份作业、单词书、真题、开放题库和词汇量，并生成分阶段训练建议。</p>
+<p><b>边界与未验证：</b>内容是AI答复，未逐项核验其数字、日期和因果。对“逃避心理”“动力不足”等推断不作为学员事实；未执行其建议，也未再次点击重新分析。</p>
+<figure><a href="../../../02_学员/截图/S89_AI作业分析处理中.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S89_AI作业分析处理中.png" alt="S89｜AI作业分析处理中" width="1456" height="763"></a><figcaption>S89｜AI作业分析处理中 · <a href="原始记录/S89_AI作业分析处理中.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S91_AI作业分析开头.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S91_AI作业分析开头.png" alt="S91｜AI作业分析开头" width="1456" height="763"></a><figcaption>S91｜AI作业分析开头 · <a href="原始记录/S91_AI作业分析开头.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S90_AI作业分析结果.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S90_AI作业分析结果.png" alt="S90｜AI作业分析结果" width="1456" height="763"></a><figcaption>S90｜AI作业分析结果 · <a href="原始记录/S90_AI作业分析结果.txt">原始页面记录</a></figcaption></figure>
+</article>
+</section>
+<section class="module"><h2 id="m4">练习情况·错题与笔记</h2>
+<article id="WR01"><h3>WR01 错题分析四种模式与修复汇总</h3><span class="status">已验证展示与切换</span>
+<p><b>实际操作：</b>点击错题分析，依次进入学科、机构、能力、错词。</p>
+<p><b>页面反馈：</b>学科模式可选雅思和分项；当前本周修复0、总修复1、修复率3.13%。下方有错误归因分布与知识点修复建议。</p>
+<p><b>边界与未验证：</b>分布和修复率是界面结果，未核验算法与跨周期口径。</p>
+<figure><a href="../../../02_学员/截图/S44_错题分析入口.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S44_错题分析入口.png" alt="S44｜错题分析入口" width="1456" height="763"></a><figcaption>S44｜错题分析入口 · <a href="原始记录/S44_错题分析入口.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="WR02"><h3>WR02 知识点树、待修复与已修复列表</h3><span class="status">已验证切换</span>
+<p><b>实际操作：</b>查看左侧知识点分类，再切到已修复。</p>
+<p><b>页面反馈：</b>分类含阅读24题与听力8题及判断、图表、匹配、填空等下级。待修复31题；已修复1题。表格列题目内容、分项、知识点、错误次数、错误归因、最近答错日期及收藏入口。</p>
+<p><b>边界与未验证：</b>当前教师端收藏控件呈禁用，未执行收藏；没有实测完成修复后状态如何迁移。</p>
+<figure><a href="../../../02_学员/截图/S45_错题列表与知识点分类.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S45_错题列表与知识点分类.png" alt="S45｜错题列表与知识点分类" width="1456" height="763"></a><figcaption>S45｜错题列表与知识点分类 · <a href="原始记录/S45_错题列表与知识点分类.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S46_已修复错题.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S46_已修复错题.png" alt="S46｜已修复错题" width="1456" height="763"></a><figcaption>S46｜已修复错题 · <a href="原始记录/S46_已修复错题.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="WR03"><h3>WR03 错误归因筛选与排序选项</h3><span class="status">已验证归因过滤；排序仅菜单</span>
+<p><b>实际操作：</b>打开错误归因→选定位错误→打开排序选项，之后重置。</p>
+<p><b>页面反馈：</b>归因菜单提供关键词和复选项，包含定位错误、TFNG边界混淆、证据覆盖不足、信息混淆等；定位错误过滤后为6条。排序提供错题次数、最新答错日期，另有只看收藏和搜索入口。</p>
+<p><b>边界与未验证：</b>未核验排序方向、只看收藏结果或题目关键词检索，不把可见控件当成全部已跑通。</p>
+<figure><a href="../../../02_学员/截图/S48_错误归因筛选.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S48_错误归因筛选.png" alt="S48｜错误归因筛选" width="1456" height="763"></a><figcaption>S48｜错误归因筛选 · <a href="原始记录/S48_错误归因筛选.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S49_错题排序选项.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S49_错题排序选项.png" alt="S49｜错题排序选项" width="1456" height="763"></a><figcaption>S49｜错题排序选项 · <a href="原始记录/S49_错题排序选项.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="WR04"><h3>WR04 题干打开错题详情新标签</h3><span class="status">已验证下钻</span>
+<p><b>实际操作：</b>点击题干，检查新开的浏览器标签。</p>
+<p><b>页面反馈：</b>打开错题详情：展示CIT-C5-T1 Section3/Q22、正确率44%、选项及分布、学生答案和正确答案、知识点、题目解析，以及音频/名师讲解/笔记列表/布置入口。</p>
+<p><b>边界与未验证：</b>原页面不变是因为开了新标签，不能认定题干无效。当前只核验内容和入口，未播放音频、修改知识点或布置训练。</p>
+<figure><a href="../../../02_学员/截图/S70_错题详情新标签.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S70_错题详情新标签.png" alt="S70｜错题详情新标签" width="1456" height="763"></a><figcaption>S70｜错题详情新标签 · <a href="原始记录/S70_错题详情新标签.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="WR05"><h3>WR05 错题详情显示答案开关</h3><span class="status">已验证关闭</span>
+<p><b>实际操作：</b>在错题详情关闭显示答案。</p>
+<p><b>页面反馈：</b>开关从开启变为关闭，选项区的正确答案标示随之隐藏。</p>
+<p><b>边界与未验证：</b>只验证此次显示状态；未验证跨页面记忆、学生端权限和解析区联动规则。</p>
+<figure><a href="../../../02_学员/截图/S70_错题详情新标签.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S70_错题详情新标签.png" alt="S70｜错题详情新标签" width="1456" height="763"></a><figcaption>S70｜错题详情新标签 · <a href="原始记录/S70_错题详情新标签.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S71_错题显示答案切换.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S71_错题显示答案切换.png" alt="S71｜错题显示答案切换" width="1456" height="763"></a><figcaption>S71｜错题显示答案切换 · <a href="原始记录/S71_错题显示答案切换.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="WR06"><h3>WR06 机构与能力错题模式</h3><span class="status">已验证空态</span>
+<p><b>实际操作：</b>分别点击机构和能力，等待页面切换完成。</p>
+<p><b>页面反馈：</b>机构模式选中且科目为雅思时暂无数据；能力模式也暂无数据。</p>
+<p><b>边界与未验证：</b>没有有数据样例，未按帮助文档补充分类层级和处理流程；早先未切换成功的中间截图不作证据。</p>
+<figure><a href="../../../02_学员/截图/S80_机构错题模式核验.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S80_机构错题模式核验.png" alt="S80｜机构错题模式核验" width="1456" height="763"></a><figcaption>S80｜机构错题模式核验 · <a href="原始记录/S80_机构错题模式核验.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S51_能力错题分析.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S51_能力错题分析.png" alt="S51｜能力错题分析" width="1456" height="763"></a><figcaption>S51｜能力错题分析 · <a href="原始记录/S51_能力错题分析.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="WR07"><h3>WR07 错词卡片与管理入口</h3><span class="status">已验证展示</span>
+<p><b>实际操作：</b>切换错词模式，查看列表与顶部工具。</p>
+<p><b>页面反馈：</b>当前29个错词；有待修复/已修复、排序、只看收藏、重置、搜索、导出和布置。卡片显示英美音标、释义例句、错误次数与日期；收藏为禁用状态。</p>
+<p><b>边界与未验证：</b>导出仅看到入口，未点击取得文件；不宣称已验证下载、收藏或修复提交。</p>
+<figure><a href="../../../02_学员/截图/S52_错词模式.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S52_错词模式.png" alt="S52｜错词模式" width="1456" height="763"></a><figcaption>S52｜错词模式 · <a href="原始记录/S52_错词模式.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="WR08"><h3>WR08 错词训练数量、范围与班级配置</h3><span class="status">已打开配置；未下发</span>
+<p><b>实际操作：</b>点击布置→展开练习单词数量和范围。</p>
+<p><b>页面反馈：</b>开始练习弹层包含数量、布置单词范围、班级和确定。数量提供10至100、每次增10；范围为按错误次数或随机。本次选过10词但未提交。</p>
+<p><b>边界与未验证：</b>没有选择班级并下发布置，没有新增训练作业；分配后的通知、学生执行和修复效果未验证。</p>
+<figure><a href="../../../02_学员/截图/S53_错词布置配置.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S53_错词布置配置.png" alt="S53｜错词布置配置" width="1456" height="763"></a><figcaption>S53｜错词布置配置 · <a href="原始记录/S53_错词布置配置.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S54_错词训练数量选项.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S54_错词训练数量选项.png" alt="S54｜错词训练数量选项" width="1456" height="763"></a><figcaption>S54｜错词训练数量选项 · <a href="原始记录/S54_错词训练数量选项.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S55_错词布置范围选项.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S55_错词布置范围选项.png" alt="S55｜错词布置范围选项" width="1456" height="763"></a><figcaption>S55｜错词布置范围选项 · <a href="原始记录/S55_错词布置范围选项.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="NT01"><h3>NT01 学员笔记列表与筛选</h3><span class="status">已验证入口与空态</span>
+<p><b>实际操作：</b>进入笔记→打开类型与状态菜单。</p>
+<p><b>页面反馈：</b>当前0条；可搜索笔记内容、选文字笔记/材料笔记、选全部/重点笔记、日期和重置。表格含笔记内容、重点笔记、来源名称、作业名称、类型、添加时间，并有批量操作区域。</p>
+<p><b>边界与未验证：</b>没有笔记样例，未进行批量修改；未见并执行新增笔记流程，不根据空表推测创建方式。</p>
+<figure><a href="../../../02_学员/截图/S56_学员笔记.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S56_学员笔记.png" alt="S56｜学员笔记" width="1456" height="763"></a><figcaption>S56｜学员笔记 · <a href="原始记录/S56_学员笔记.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S81_笔记类型菜单.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S81_笔记类型菜单.png" alt="S81｜笔记类型菜单" width="1456" height="763"></a><figcaption>S81｜笔记类型菜单 · <a href="原始记录/S81_笔记类型菜单.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S82_笔记状态筛选.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S82_笔记状态筛选.png" alt="S82｜笔记状态筛选" width="1456" height="763"></a><figcaption>S82｜笔记状态筛选 · <a href="原始记录/S82_笔记状态筛选.txt">原始页面记录</a></figcaption></figure>
+</article>
+</section>
+<section class="module"><h2 id="m5">课程反馈</h2>
+<article id="CF01"><h3>CF01 班级课程反馈与评分汇总</h3><span class="status">已验证展示与空态</span>
+<p><b>实际操作：</b>进入课程反馈。</p>
+<p><b>页面反馈：</b>班级选择当前TF2410LXC005；显示课堂评分、添加评分意见和学习建议，界面说明多位老师评分取平均值；当前建议为空。</p>
+<p><b>边界与未验证：</b>平均值是页面说明，未用多位老师数据验证；未逐班取得课程样本。</p>
+<figure><a href="../../../02_学员/截图/S57_课程反馈列表.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S57_课程反馈列表.png" alt="S57｜课程反馈列表" width="1456" height="763"></a><figcaption>S57｜课程反馈列表 · <a href="原始记录/S57_课程反馈列表.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="CF02"><h3>CF02 未上课时阻止添加评分</h3><span class="status">已验证前置限制；用户确认缺样例</span>
+<p><b>实际操作：</b>点击添加评分意见。</p>
+<p><b>页面反馈：</b>出现“该学生还未上课，暂无可反馈课程”。询问用户后，用户确认当前没有其他可用样例。</p>
+<p><b>边界与未验证：</b>本轮无法进入可反馈课程、填写评分并提交。评分项、课程选择及保存后的展示均未宣称已验证。</p>
+<figure><a href="../../../02_学员/截图/S84_课程反馈前置提示核验.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S84_课程反馈前置提示核验.png" alt="S84｜课程反馈前置提示核验" width="1456" height="763"></a><figcaption>S84｜课程反馈前置提示核验 · <a href="原始记录/S84_课程反馈前置提示核验.txt">原始页面记录</a></figcaption></figure>
+</article>
+</section>
+<section class="module"><h2 id="m6">回访记录</h2>
+<article id="RV01"><h3>RV01 回访列表与添加表单</h3><span class="status">已验证入口与填写</span>
+<p><b>实际操作：</b>进入回访记录→点击添加。</p>
+<p><b>页面反馈：</b>初始为空；表格列回访时间、回访人、角色、内容、图片、操作。表单包含回访时间、内容、下次回访时间、取消、确认。</p>
+<p><b>边界与未验证：</b>列表虽有图片列，当前表单未见并实测上传控件，不能据列名宣称支持上传。</p>
+<figure><a href="../../../02_学员/截图/S59_回访记录列表.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S59_回访记录列表.png" alt="S59｜回访记录列表" width="1456" height="763"></a><figcaption>S59｜回访记录列表 · <a href="原始记录/S59_回访记录列表.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S60_新增回访空表单.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S60_新增回访空表单.png" alt="S60｜新增回访空表单" width="1456" height="763"></a><figcaption>S60｜新增回访空表单 · <a href="原始记录/S60_新增回访空表单.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="RV02"><h3>RV02 保存测试回访并回读</h3><span class="status">已验证保存与编辑回读</span>
+<p><b>实际操作：</b>获准后确认10月22日测试回访，不设置下次回访；保存后打开编辑，再取消。</p>
+<p><b>页面反馈：</b>列表新增王思贤/老师/2026-10-22，内容为“【调研测试】用于验证学员回访记录的保存和列表展示，无需处理。”，图片--。编辑表单回读日期、内容与空的下次回访时间，列表有编辑/删除。</p>
+<p><b>边界与未验证：</b>仅新增1条获准测试记录，保留在环境；回读后取消，未再次改写、删除或验证下次回访提醒。</p>
+<figure><a href="../../../02_学员/截图/S61_回访测试草稿.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S61_回访测试草稿.png" alt="S61｜回访测试草稿" width="1456" height="763"></a><figcaption>S61｜回访测试草稿 · <a href="原始记录/S61_回访测试草稿.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S68_回访记录保存成功.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S68_回访记录保存成功.png" alt="S68｜回访记录保存成功" width="1456" height="763"></a><figcaption>S68｜回访记录保存成功 · <a href="原始记录/S68_回访记录保存成功.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S86_回访编辑回读.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S86_回访编辑回读.png" alt="S86｜回访编辑回读" width="1456" height="763"></a><figcaption>S86｜回访编辑回读 · <a href="原始记录/S86_回访编辑回读.txt">原始页面记录</a></figcaption></figure>
+</article>
+</section>
+<section class="module"><h2 id="m7">考试记录</h2>
+<article id="EX01"><h3>EX01 考试列表与新增字段</h3><span class="status">已验证打开与填写</span>
+<p><b>实际操作：</b>进入考试记录→添加记录。</p>
+<p><b>页面反馈：</b>初始无考试记录；表单有科目、名称、时间、总分、考前一天通知、地点、各项成绩、添加分项、上传凭证/附件，以及取消和确认。科目、名称、时间有必填标记。</p>
+<p><b>边界与未验证：</b>未触发所有必填/数值边界校验，未上传附件或发送考前通知。</p>
+<figure><a href="../../../02_学员/截图/S62_考试记录入口.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S62_考试记录入口.png" alt="S62｜考试记录入口" width="1456" height="763"></a><figcaption>S62｜考试记录入口 · <a href="原始记录/S62_考试记录入口.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S63_新增考试记录表单.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S63_新增考试记录表单.png" alt="S63｜新增考试记录表单" width="1456" height="763"></a><figcaption>S63｜新增考试记录表单 · <a href="原始记录/S63_新增考试记录表单.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="EX02"><h3>EX02 考试科目与SAT预设分项</h3><span class="status">已验证选择SAT</span>
+<p><b>实际操作：</b>展开科目菜单→选择SAT。</p>
+<p><b>页面反馈：</b>菜单提供托福、雅思、SAT、小托福、ACT、PTE、AP、A-Level、GRE、GMAT、KET/PET/FCE、IB、DET/DSE等多类考试。SAT表单预设阅读、语法、数学、写作，与模考机考结果页的分项名称不同。</p>
+<p><b>边界与未验证：</b>只实填SAT；不将菜单中每一科目的表单与分制认定为已测试。</p>
+<figure><a href="../../../02_学员/截图/S64_考试科目选项.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S64_考试科目选项.png" alt="S64｜考试科目选项" width="1456" height="763"></a><figcaption>S64｜考试科目选项 · <a href="原始记录/S64_考试科目选项.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S66_考试测试草稿与自定义分项.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S66_考试测试草稿与自定义分项.png" alt="S66｜考试测试草稿与自定义分项" width="1456" height="763"></a><figcaption>S66｜考试测试草稿与自定义分项 · <a href="原始记录/S66_考试测试草稿与自定义分项.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="EX03"><h3>EX03 添加自定义成绩分项</h3><span class="status">已验证添加到表单并保存</span>
+<p><b>实际操作：</b>点击添加分项→填“调研自定义分项”、分数1→确认，再随考试记录保存。</p>
+<p><b>页面反馈：</b>小弹窗提供分项名称和分数；确认后出现在各项成绩区域，保存后的考试列表和编辑表单均保留该项1。</p>
+<p><b>边界与未验证：</b>没有验证重复分项、删除分项、分数校验或总分自动计算，420为手工输入。</p>
+<figure><a href="../../../02_学员/截图/S65_自定义分项弹窗.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S65_自定义分项弹窗.png" alt="S65｜自定义分项弹窗" width="1456" height="763"></a><figcaption>S65｜自定义分项弹窗 · <a href="原始记录/S65_自定义分项弹窗.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S66_考试测试草稿与自定义分项.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S66_考试测试草稿与自定义分项.png" alt="S66｜考试测试草稿与自定义分项" width="1456" height="763"></a><figcaption>S66｜考试测试草稿与自定义分项 · <a href="原始记录/S66_考试测试草稿与自定义分项.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S67_考试记录保存成功.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S67_考试记录保存成功.png" alt="S67｜考试记录保存成功" width="1456" height="763"></a><figcaption>S67｜考试记录保存成功 · <a href="原始记录/S67_考试记录保存成功.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="EX04"><h3>EX04 保存测试考试与编辑回读</h3><span class="status">已验证保存成功</span>
+<p><b>实际操作：</b>获准后保存SAT“【调研测试】考试记录验证”：2026-10-22、总分420、地点测试地点、自定义分项1，不勾选考前通知；再打开编辑核对并取消。</p>
+<p><b>页面反馈：</b>SAT区域列表新增测试考试，显示总分420和自定义分项1，提供编辑/删除。编辑回读确认地点测试地点、通知未勾选和各分项。</p>
+<p><b>边界与未验证：</b>仅新增1条获准测试考试，保留在环境。地点通过编辑回读验证，列表本身没有地点列；未删除、上传附件、验证提醒送达或成绩同步到其他模块。</p>
+<figure><a href="../../../02_学员/截图/S67_考试记录保存成功.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S67_考试记录保存成功.png" alt="S67｜考试记录保存成功" width="1456" height="763"></a><figcaption>S67｜考试记录保存成功 · <a href="原始记录/S67_考试记录保存成功.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../02_学员/截图/S85_考试编辑回读.png" target="_blank"><img loading="lazy" src="../../../02_学员/截图/S85_考试编辑回读.png" alt="S85｜考试编辑回读" width="1456" height="763"></a><figcaption>S85｜考试编辑回读 · <a href="原始记录/S85_考试编辑回读.txt">原始页面记录</a></figcaption></figure>
+</article>
+</section>
+<h2 id="limits">未验证与待补</h2><table><thead><tr><th>项目</th><th>本轮边界</th></tr></thead><tbody>
+<tr><td>课程反馈</td><td>用户确认当前无可用上课样例：停在“暂无可反馈课程”，不能验证评分表单与提交。</td></tr>
+<tr><td>任务与错词布置</td><td>配置已操作、未提交；没有新增任务或训练，提醒、学生接收和完成流转尚未验证。</td></tr>
+<tr><td>导出文件</td><td>任务清单生成图片已点击但未取得文件；错词导出仅看到入口。没有把文件生成写成已验证成功。</td></tr>
+<tr><td>空数据</td><td>入学模考、自适应统计、机构/能力错题、笔记和本次范围的知识点分析缺样例；仅记录真实空态。</td></tr>
+<tr><td>直接下钻</td><td>已打开SAT模考、单词练习、错题和词汇量结果页。本章记录落点；作业批改、录屏、音频播放等深层流程未全面实测。</td></tr>
+<tr><td>界面与AI待核</td><td>分享弹窗显示AP而实际报告为SAT；AI评语有分项百分比不一致；AI作业分析包含未经证实的动机与心理推断。均保留原画面，不用猜测修补。</td></tr>
+</tbody></table><h2>测试写入留痕</h2><p>王小格：1条2026-10-22回访；1条“【调研测试】考试记录验证”（SAT，总分420，地点测试地点，自定义分项1，通知未勾选）；1条王思贤AI评语；2份2026-09-01至10-22的SAT学习报告。第一份不含评语，第二份含评语。全部保留；未执行删除。</p><p>功能条目与截图为本章整理后的结论。原始操作索引包含加载中或未命中的中间状态，不能脱离后续核验单独作为功能结论。S14日期草稿、S47原页未变化、S50未切换成功、S58提示消失等中间态已由后续证据替代。</p><details><summary>原始证据与补核说明</summary><p><a href="原始记录/操作索引.json">原始操作索引</a> · <a href="原始记录/S78_学习报告含评语核验.txt">最终报告全文页面记录</a> · <a href="../../../02_学员/截图/S78_学习报告含评语核验.png">最终报告整页截图</a></p><p>错题题干实际打开新标签，已用S70/71核验。任务日期最终以S87/88回读为准；机构模式以S80为准；课程反馈提示以S84为准。每条功能记录均引用对应截图。</p></details><footer><a href="../../../index.html">返回调研总览</a> · 本章只覆盖学员；下一个一级页签为班级。</footer>
+<script>const q=document.getElementById('search');q.addEventListener('input',()=>{const v=q.value.trim().toLowerCase();let n=0;document.querySelectorAll('article').forEach(a=>{let ok=a.textContent.toLowerCase().includes(v);a.classList.toggle('hidden',!ok);n+=ok});document.querySelectorAll('.module').forEach(s=>s.classList.toggle('hidden',!s.querySelector('article:not(.hidden)')));document.getElementById('shown').textContent='当前显示 '+n+' / '+document.querySelectorAll('article').length+' 条功能记录。'});</script></body></html>

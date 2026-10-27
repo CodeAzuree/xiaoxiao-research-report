@@ -1,0 +1,656 @@
+[
+  {
+    "id": "Q01",
+    "note": "系统题库首页：按试卷、科目、分项、来源及筛选工具",
+    "time": "2026-10-23T04:50:20.877Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q02",
+    "note": "知识点支持关键字与题型分类筛选",
+    "time": "2026-10-23T04:50:27.604Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q03",
+    "note": "新托福2026级别筛选：Lower、Router、Upper",
+    "time": "2026-10-23T04:50:36.860Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q04",
+    "note": "难度筛选：不限、容易、偏易、中等、偏难、困难",
+    "time": "2026-10-23T04:50:40.572Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q05",
+    "note": "高级筛选含区分度、最近上新、讲解题目、话题",
+    "time": "2026-10-23T04:50:49.123Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q06",
+    "note": "区分度支持数值区间筛选",
+    "time": "2026-10-23T04:50:56.969Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q07",
+    "note": "最近上新可筛选新题",
+    "time": "2026-10-23T04:51:15.991Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q08",
+    "note": "讲解题目可按已讲解、未讲解筛选",
+    "time": "2026-10-23T04:51:27.220Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q09",
+    "note": "排序支持正确率、区分度、中位分、中位用时、更新时间",
+    "time": "2026-10-23T04:51:31.938Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q10",
+    "note": "展开试卷显示篇章名称、来源、话题、更新时间与统计",
+    "time": "2026-10-23T04:51:38.787Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q11",
+    "note": "篇章展开后可选择篇章并查看阅读材料",
+    "time": "2026-10-23T04:51:43.680Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q12",
+    "note": "单题显示题干、正确选项、各选项选择比例、知识点和统计，并支持单题勾选",
+    "time": "2026-10-23T04:51:55.426Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q13",
+    "note": "已选题目抽屉：按分项分组、移除、收藏组卷、预览、布置",
+    "time": "2026-10-23T04:52:01.656Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q14",
+    "note": "收藏组卷配置含分类、试卷、答题时长，未保存",
+    "time": "2026-10-23T04:52:07.500Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q15",
+    "note": "组卷分类选择器提供新增分类入口",
+    "time": "2026-10-23T04:52:11.255Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q16",
+    "note": "可在收藏组卷时输入新分类名称，未提交",
+    "time": "2026-10-23T04:52:15.940Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q17",
+    "note": "预览在新页面打开模拟答题，并提供课堂白板入口",
+    "time": "2026-10-23T04:52:35.833Z",
+    "url": "https://learninghub.xhd.cn/hwkx/org/publish.html?sysqs=1&xpreview=1689663&e=1"
+  },
+  {
+    "id": "Q18",
+    "note": "题库直接布置：名称、班级、学生、批改老师、时间、实时作业、倒计时、强监管、结束不显示答案",
+    "time": "2026-10-23T04:52:40.528Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q19",
+    "note": "开启倒计时后时间改为开始时间加时长",
+    "time": "2026-10-23T04:52:44.892Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q20",
+    "note": "按篇章卡片浏览：来源话题、统计、Top高错点、更新时间，支持列表切换",
+    "time": "2026-10-23T04:53:19.393Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q21",
+    "note": "篇章高级筛选含话题、知识点、级别、题型、难度、区分度、上新、讲解、开放题目",
+    "time": "2026-10-23T04:53:38.599Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q22",
+    "note": "新托福篇章题型选择含填词、生活阅读、学术阅读、听力等",
+    "time": "2026-10-23T04:53:46.233Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q23",
+    "note": "篇章支持按标题或内容搜索",
+    "time": "2026-10-23T04:53:52.238Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q24",
+    "note": "篇章列表模式显示题目名称、分项、来源、话题、状态、新增练习数、更新时间及预览/查看",
+    "time": "2026-10-23T04:54:04.853Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q25",
+    "note": "题目详情：题号导航、阅读材料、题干选项、显示答案开关、知识点、题目来源、解析/讲解/笔记",
+    "time": "2026-10-23T04:54:13.510Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q26",
+    "note": "单题详情下方有答题解析、名师讲解、笔记列表",
+    "time": "2026-10-23T04:54:23.686Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q27",
+    "note": "名师讲解页签提供添加讲解入口",
+    "time": "2026-10-23T04:54:28.984Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q28",
+    "note": "笔记列表展示公开笔记区域",
+    "time": "2026-10-23T04:54:33.906Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q29",
+    "note": "添加知识点弹窗按大纲、类型组织多选知识点并展示已选项",
+    "time": "2026-10-23T04:54:38.691Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q30",
+    "note": "题目来源页签展示试卷/篇章路径",
+    "time": "2026-10-23T04:54:48.408Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q31",
+    "note": "添加讲解支持3000字、6张图片、1音频、1录音，确认/取消",
+    "time": "2026-10-23T04:55:02.547Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q32",
+    "note": "我的试卷按科目、分类、名称搜索，当前新托福为空",
+    "time": "2026-10-23T04:55:17.943Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q33",
+    "note": "共享试卷按科目分类搜索，当前雅思无样例",
+    "time": "2026-10-23T04:55:40.331Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q34",
+    "note": "雅思分听力、阅读、写作、口语，来源含CIT、机经、OG、海外版考题、口语题库、G类",
+    "time": "2026-10-23T04:55:46.138Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q35",
+    "note": "SAT机考分读写、数学，来源有机经、PSAT、Essay、Digital SAT Prep Test等",
+    "time": "2026-10-23T04:55:56.499Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q36",
+    "note": "AP按学科组织，并有知识点、技能、级别筛选",
+    "time": "2026-10-23T04:56:05.362Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q37",
+    "note": "AP技能筛选为分层Science Practice能力分类",
+    "time": "2026-10-23T04:56:10.454Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q38",
+    "note": "机构题库分我的试卷/共享试卷，科目、所属类别、状态、名称筛选和列表卡片切换",
+    "time": "2026-10-23T04:56:16.324Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q39",
+    "note": "机构试卷编辑：封面、名称、科目、类别、是否共享、成绩说明、添加题目、文档录入、AI出题、导出与保存",
+    "time": "2026-10-23T04:56:21.070Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q40",
+    "note": "机构试卷支持单道题与题目组两种组织方式",
+    "time": "2026-10-23T04:56:29.271Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q41",
+    "note": "添加题目前需完善试卷基本信息",
+    "time": "2026-10-23T04:56:41.993Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q42",
+    "note": "机构共享试卷有136条，字段含状态、总分、题量、时长、创建人等，支持查看布置",
+    "time": "2026-10-23T04:56:56.076Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q43",
+    "note": "共享试卷更多操作：答题预览、推送到入学模考、详情、导出、编辑、删除",
+    "time": "2026-10-23T04:57:03.057Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q44",
+    "note": "机构试卷查看页含题目分组导航、总题数总分、材料音频、题型难度分值和答案",
+    "time": "2026-10-23T04:57:16.295Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q45",
+    "note": "导出试卷前可选择是否导出答案及解析",
+    "time": "2026-10-23T04:57:21.695Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q46",
+    "note": "更多菜单详情为使用统计：总题数总分、平均分平均正确率、逐题正确率和答案开关",
+    "time": "2026-10-23T04:57:54.775Z",
+    "url": "https://learninghub.xhd.cn/org/exercise/statistics.html?hwkid=26737"
+  },
+  {
+    "id": "Q47",
+    "note": "单词书列表支持科目/老师筛选，上传时间、单元数、单词数、使用次数、正确率排序，名称搜索和新增词表",
+    "time": "2026-10-23T04:58:04.149Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q48",
+    "note": "展开词书显示Unit、单词数、正确率和勾选框",
+    "time": "2026-10-23T04:58:09.833Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q49",
+    "note": "词书详情含学习人数、测试正确率、完成率，参与学生列表含班级、形式、数量、限时、过关、日期、完成度等",
+    "time": "2026-10-23T04:58:15.434Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q50",
+    "note": "单词详情按单元显示词汇、中英释义、逐词正确率，可排序和筛选信息不全",
+    "time": "2026-10-23T04:58:26.627Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q51",
+    "note": "词卡含英美音标、发音、中文释义及中英例句",
+    "time": "2026-10-23T04:58:31.616Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q52",
+    "note": "词书布置含日期、班级学生、测试形式、测试数量比例、限时、过关方式和正确率",
+    "time": "2026-10-23T04:58:47.382Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q53",
+    "note": "词表测试形式有听音译中选择/填空、音译英中、音译英及中译音等",
+    "time": "2026-10-23T04:58:52.371Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q54",
+    "note": "更多测试形式含英译英选择/填空、补全单词、中译英、选词填空、同义词替换",
+    "time": "2026-10-23T04:58:57.414Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q55",
+    "note": "词表限时可不限时、每个单词或整个作业",
+    "time": "2026-10-23T04:59:13.958Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q56",
+    "note": "词表过关方式可无或按正确率设置",
+    "time": "2026-10-23T04:59:23.115Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q57",
+    "note": "新增词表通过Excel模板上传：sheet为单元，每单元最多300词，一词一行，缺失释义等自动匹配并可编辑",
+    "time": "2026-10-23T04:59:36.399Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q58",
+    "note": "选择单元后抽查按钮启用并显示词数36",
+    "time": "2026-10-23T04:59:48.638Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q59",
+    "note": "抽查测试可指定抽查个数、测试形式、班级学生、时间、实时作业和限时",
+    "time": "2026-10-23T04:59:53.818Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q60",
+    "note": "词书参与学生实列显示测试形式、每词5秒、完成度、89%正确率及查看入口",
+    "time": "2026-10-23T05:00:37.279Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q61",
+    "note": "学生词书详情显示总词/已学/错词、单元进度正确率、首次完成时间、每词学习状态和发音释义例句",
+    "time": "2026-10-23T05:00:50.293Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q62",
+    "note": "错词勾选后仅展示当前学生错词，红色卡片标识",
+    "time": "2026-10-23T05:00:59.841Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q63",
+    "note": "写作详情显示任务要求、建议用时、字数要求及图表，图片有缩放/恢复/复制链接工具",
+    "time": "2026-10-23T05:01:46.747Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q64",
+    "note": "听力题含音频进度、前后10秒、速度和原文入口，左侧逐题导航",
+    "time": "2026-10-23T05:02:20.187Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q65",
+    "note": "听力原文以侧边面板展示对话文本",
+    "time": "2026-10-23T05:02:28.472Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q66",
+    "note": "口语题详情显示Part、准备/作答时长说明、话题与作答要点",
+    "time": "2026-10-23T05:02:54.023Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q67",
+    "note": "选题预览实际题目：材料与单题左右排布，Review与Next按钮",
+    "time": "2026-10-23T05:04:32.129Z",
+    "url": "https://learninghub.xhd.cn/hwkx/org/publish.html?sysqs=1&xpreview=1689663&e=1"
+  },
+  {
+    "id": "Q68",
+    "note": "预览白板提供选择、矩形、箭头、画笔、文字、颜色、橡皮、激光笔、清空、撤销、重做",
+    "time": "2026-10-23T05:04:39.141Z",
+    "url": "https://learninghub.xhd.cn/hwkx/org/publish.html?sysqs=1&xpreview=1689663&e=1"
+  },
+  {
+    "id": "Q69",
+    "note": "共享试卷编辑提示不是你创建的不能编辑，当前账号只能查看他人试卷",
+    "time": "2026-10-23T05:04:46.656Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q70",
+    "note": "机构试卷可直接布置，配置标题、班级学生、时间、倒计时和实时作业",
+    "time": "2026-10-23T05:04:53.561Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q71",
+    "note": "授权创建个人测试试卷，名称、雅思、调研测试类别，是否共享为否",
+    "time": "2026-10-23T05:12:28.840Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q72",
+    "note": "单题编辑器：题型、知识点、难度、分值，材料、题干、选项、解析，退出保存",
+    "time": "2026-10-23T05:12:59.729Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q73",
+    "note": "题型含单选、多选、填空、简答、写作、口语、逐句精听、篇章跟读",
+    "time": "2026-10-23T05:13:06.114Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q74",
+    "note": "机构单题知识点下拉提供新增入口",
+    "time": "2026-10-23T05:13:12.374Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q75",
+    "note": "新增知识点含科目、知识点类型、名称、1000字详情；音视频附件在教研知识点页面添加",
+    "time": "2026-10-23T05:13:18.761Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q76",
+    "note": "机构试题难度含非常简单、简单、一般、较难、超难",
+    "time": "2026-10-23T05:13:29.493Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q77",
+    "note": "材料支持富文本、公式、图片和表格，并可添加音频材料",
+    "time": "2026-10-23T05:13:35.102Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q78",
+    "note": "选择题支持编辑选项、选择正确答案、增删选项及富文本答题解析",
+    "time": "2026-10-23T05:14:05.027Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q79",
+    "note": "填空题以连续5下划线或填空线录空，支持添加答案及同一空多个英文逗号分隔答案",
+    "time": "2026-10-23T05:14:44.108Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q80",
+    "note": "填空答案可逐项添加、编辑公式与移除",
+    "time": "2026-10-23T05:14:50.473Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q81",
+    "note": "简答题有富文本题干、3000字参考答案、可展开的批改规则与解析",
+    "time": "2026-10-23T05:15:14.099Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q82",
+    "note": "写作题包含可编辑作答指令、富文本题干、材料与答题解析，默认提示不少于150词",
+    "time": "2026-10-23T05:15:31.377Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q83",
+    "note": "口语题支持答题说明、富文本题干、文本/音频材料及解析",
+    "time": "2026-10-23T05:15:47.847Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q84",
+    "note": "逐句精听用音频材料，答案为分割音频的原文，页面提示上传后进行分割",
+    "time": "2026-10-23T05:16:04.617Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q85",
+    "note": "篇章跟读也以音频材料与分割原文组织，提供答题说明编辑",
+    "time": "2026-10-23T05:16:16.358Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q86",
+    "note": "多选题用复选框标记多个正确选项，支持选项增删与解析",
+    "time": "2026-10-23T05:16:34.228Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q87",
+    "note": "分数换算支持使用通用模板或自定义规则，模板显示应用试卷和使用/修改/删除入口",
+    "time": "2026-10-23T05:16:40.392Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q88",
+    "note": "自定义换算按分类设置原始满分、标准满分、原始分区间到标准分，可增区间和分类",
+    "time": "2026-10-23T05:16:46.646Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q89",
+    "note": "个人测试试卷已加入1道简答题，整卷预览显示材料、题干、答案、题数与总分",
+    "time": "2026-10-23T05:17:51.476Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q90",
+    "note": "题目组按起止题号组织子题，组行提供添加子题和删除，左侧提示可拖拽题号排序",
+    "time": "2026-10-23T05:18:40.577Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q91",
+    "note": "题目组子题仅显示单选、多选、填空、简答，与独立单题八类型不同",
+    "time": "2026-10-23T05:18:47.849Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q92",
+    "note": "整卷同时容纳独立题与题目组；组材料标注子题范围，总题数和总分汇总",
+    "time": "2026-10-23T05:19:07.240Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q93",
+    "note": "新增题目分类可从已有分类中选择，并有分类管理设置入口",
+    "time": "2026-10-23T05:19:19.846Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q94",
+    "note": "分类管理浮层含新增分类和现有分类列表",
+    "time": "2026-10-23T05:19:25.623Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q95",
+    "note": "分类管理可输入分类名称并确认/取消，未保存机构全局分类",
+    "time": "2026-10-23T05:19:34.373Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q96",
+    "note": "分类时长可按试卷内分类设置答题分钟数",
+    "time": "2026-10-23T05:19:54.823Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q97",
+    "note": "文档录入分复制Word文本、上传Word、上传Excel；复制文本左编辑右预览，支持格式示例与清空",
+    "time": "2026-10-23T05:20:25.745Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q98",
+    "note": "文本格式要求题号、题型标记，选择题括号答案、填空题花括号答案，难度解析可选",
+    "time": "2026-10-23T05:20:43.930Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q99",
+    "note": "Word上传提供模板下载，支持单选/多选/填空/简答/写作，手动题号题型标记及五档难度",
+    "time": "2026-10-23T05:20:57.354Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q100",
+    "note": "机构试题Excel导入提供模板、上传、五种题型与五档难度说明",
+    "time": "2026-10-23T05:21:04.120Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q101",
+    "note": "AI出题根据关键词创建：科目、年级、数量、难度、六类题型、300字描述、课程标准对齐",
+    "time": "2026-10-23T05:21:17.257Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q102",
+    "note": "课程标准对齐可选IB、AP、A-Level、TOEFL、IELTS、SAT的层级标准",
+    "time": "2026-10-23T05:21:42.928Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q103",
+    "note": "IELTS课程标准细分显示IELTS OFFICIAL GUIDE",
+    "time": "2026-10-23T05:21:50.774Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q104",
+    "note": "AI生成显示预计时间、百分比进度，支持窗口最小化并提示勿关闭页面",
+    "time": "2026-10-23T05:22:34.948Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q105",
+    "note": "AI生成可最小化为右下角进度卡，显示预计时间和恢复入口",
+    "time": "2026-10-23T05:22:53.642Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q106",
+    "note": "AI生成后自动加入当前试卷，显示题干、四选项、正确答案、解析及编辑/删除入口",
+    "time": "2026-10-23T05:25:33.486Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q107",
+    "note": "个人试卷列表核对：唯一测试试卷、3题6分、创建人王思贤，入口为录入/布置",
+    "time": "2026-10-23T05:25:58.678Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q108",
+    "note": "重新打开已保存试卷确认3题6分、是否共享为否、名称类别与成绩说明",
+    "time": "2026-10-23T05:26:42.483Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  },
+  {
+    "id": "Q109",
+    "note": "重开保存后试卷的3题以平铺列表展示；本次题目组只有1条子题，不推定多子题保存形态",
+    "time": "2026-10-23T05:27:23.875Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=b-g&stutab=0"
+  }
+]

@@ -1,0 +1,1372 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- generic: 
+- generic: 
+- radiogroup:
+  - button "我的试卷":
+    - generic: 我的试卷
+  - button " 共享试卷":
+    - generic: 
+    - generic: 共享试卷
+- button "新建试卷"
+- button "科目 ( 全部 ) ":
+  - text: 科目
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "所属类别 ( 全部 ) ":
+  - text: 所属类别
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- text: 
+- generic: 共享老师
+- generic: 
+- button "重置"
+- generic: 
+- textbox "请输入试卷名称"
+- radiogroup:
+  - button
+  - button
+- text:                                        
+- table:
+  - rowgroup:
+    - row "试卷名称 状态 科目 所属类别 总分 题目数量 时长（分钟） 创建人 更新时间":
+      - columnheader "试卷名称":
+        - generic: 试卷名称
+      - columnheader "状态":
+        - generic: 状态
+      - columnheader "科目":
+        - generic: 科目
+      - columnheader "所属类别":
+        - generic: 所属类别
+      - columnheader "总分":
+        - generic: 总分
+      - columnheader "题目数量":
+        - generic: 题目数量
+      - columnheader "时长（分钟）":
+        - generic: 时长（分钟）
+      - columnheader "创建人":
+        - generic: 创建人
+      - columnheader "更新时间":
+        - generic: 更新时间
+      - columnheader
+- table:
+  - rowgroup:
+    - row "留学预备入学测试卷01-内部测试 已共享 其他 入学测试 63 33 - 潘梦馨 2025-11-18 18:00 查看 布置 ":
+      - cell "留学预备入学测试卷01-内部测试":
+        - generic: 留学预备入学测试卷01-内部测试
+      - cell "已共享":
+        - generic: 已共享
+      - cell "其他":
+        - generic: 其他
+      - cell "入学测试":
+        - generic: 入学测试
+      - cell "63":
+        - generic: "63"
+      - cell "33":
+        - generic: "33"
+      - cell "-":
+        - generic: "-"
+      - cell "潘梦馨":
+        - generic: 潘梦馨
+      - cell "2025-11-18 18:00":
+        - generic: 2025-11-18 18:00
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - button "":
+          - generic: 
+    - row "AP Calculus BC Unit 2 Progress Check MCQ Part A 已共享 AP AP Classroom Progress Check 15 15 - 程建洲 2025-09-17 03:47 查看 布置 ":
+      - cell "AP Calculus BC Unit 2 Progress Check MCQ Part A":
+        - generic: AP Calculus BC Unit 2 Progress Check MCQ Part A
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "AP Classroom Progress Check":
+        - generic: AP Classroom Progress Check
+      - cell "15":
+        - generic: "15"
+      - cell "15":
+        - generic: "15"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-09-17 03:47":
+        - generic: 2025-09-17 03:47
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP statistics Unit 1 Progress Check 已共享 AP AP Classroom Progress Check 18 18 - 程建洲 2025-09-25 10:28 查看 布置 ":
+      - cell "AP statistics Unit 1 Progress Check":
+        - generic: AP statistics Unit 1 Progress Check
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "AP Classroom Progress Check":
+        - generic: AP Classroom Progress Check
+      - cell "18":
+        - generic: "18"
+      - cell "18":
+        - generic: "18"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-09-25 10:28":
+        - generic: 2025-09-25 10:28
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP calculus BC Unit 1 Progress Check 已共享 AP AP Classroom Progress Check 18 18 - 程建洲 2025-08-24 20:03 查看 布置 ":
+      - cell "AP calculus BC Unit 1 Progress Check":
+        - generic: AP calculus BC Unit 1 Progress Check
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "AP Classroom Progress Check":
+        - generic: AP Classroom Progress Check
+      - cell "18":
+        - generic: "18"
+      - cell "18":
+        - generic: "18"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-24 20:03":
+        - generic: 2025-08-24 20:03
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP statistics Unit 1 Practice 已共享 AP 单元测试 12 6 - 程建洲 2025-08-22 12:42 查看 布置 ":
+      - cell "AP statistics Unit 1 Practice":
+        - generic: AP statistics Unit 1 Practice
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "单元测试":
+        - generic: 单元测试
+      - cell "12":
+        - generic: "12"
+      - cell "6":
+        - generic: "6"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-22 12:42":
+        - generic: 2025-08-22 12:42
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP calculus BC practice 5.1 已共享 AP 复习 40 40 - 程建洲 2025-08-13 17:58 查看 布置 ":
+      - cell "AP calculus BC practice 5.1":
+        - generic: AP calculus BC practice 5.1
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "复习":
+        - generic: 复习
+      - cell "40":
+        - generic: "40"
+      - cell "40":
+        - generic: "40"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-13 17:58":
+        - generic: 2025-08-13 17:58
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP calculus AB practice 2.2 已共享 AP 复习 16 16 - 程建洲 2025-08-18 11:03 查看 布置 ":
+      - cell "AP calculus AB practice 2.2":
+        - generic: AP calculus AB practice 2.2
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "复习":
+        - generic: 复习
+      - cell "16":
+        - generic: "16"
+      - cell "16":
+        - generic: "16"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-18 11:03":
+        - generic: 2025-08-18 11:03
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP Statistics practice 1.1 已共享 AP 复习 19 14 - 程建洲 2025-08-06 13:05 查看 布置 ":
+      - cell "AP Statistics practice 1.1":
+        - generic: AP Statistics practice 1.1
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "复习":
+        - generic: 复习
+      - cell "19":
+        - generic: "19"
+      - cell "14":
+        - generic: "14"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-06 13:05":
+        - generic: 2025-08-06 13:05
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP Statistics practice test 1 已共享 AP 单元测试 2 2 - 程建洲 2025-08-06 10:46 查看 布置 ":
+      - cell "AP Statistics practice test 1":
+        - generic: AP Statistics practice test 1
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "单元测试":
+        - generic: 单元测试
+      - cell "2":
+        - generic: "2"
+      - cell "2":
+        - generic: "2"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-06 10:46":
+        - generic: 2025-08-06 10:46
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP calculus practice 2.1 已共享 AP 复习 20 20 - 程建洲 2025-09-06 22:21 查看 布置 ":
+      - cell "AP calculus practice 2.1":
+        - generic: AP calculus practice 2.1
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "复习":
+        - generic: 复习
+      - cell "20":
+        - generic: "20"
+      - cell "20":
+        - generic: "20"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-09-06 22:21":
+        - generic: 2025-09-06 22:21
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP Statistics practice 1.0 已共享 AP 复习 25 6 - 程建洲 2025-08-03 18:40 查看 布置 ":
+      - cell "AP Statistics practice 1.0":
+        - generic: AP Statistics practice 1.0
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "复习":
+        - generic: 复习
+      - cell "25":
+        - generic: "25"
+      - cell "6":
+        - generic: "6"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-03 18:40":
+        - generic: 2025-08-03 18:40
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP物理C 力学 Unit1 已共享 AP 单元测试 - 0 - 杨婷 2025-07-28 10:53 查看 布置 ":
+      - cell "AP物理C 力学 Unit1":
+        - generic: AP物理C 力学 Unit1
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "单元测试":
+        - generic: 单元测试
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "-":
+        - generic: "-"
+      - cell "杨婷":
+        - generic: 杨婷
+      - cell "2025-07-28 10:53":
+        - generic: 2025-07-28 10:53
+      - cell "查看 布置 ":
+        - button "查看" [disabled]
+        - button "布置" [disabled]
+        - text: 
+        - button "":
+          - generic: 
+    - row "C9 已共享 雅思 写作 18 2 60 卢思云 2025-12-08 20:38 查看 布置 ":
+      - cell "C9":
+        - generic: C9
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "18":
+        - generic: "18"
+      - cell "2":
+        - generic: "2"
+      - cell "60":
+        - generic: "60"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:38":
+        - generic: 2025-12-08 20:38
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C8 已共享 雅思 写作 36 4 - 卢思云 2025-12-08 20:41 查看 布置 ":
+      - cell "C8":
+        - generic: C8
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "36":
+        - generic: "36"
+      - cell "4":
+        - generic: "4"
+      - cell "-":
+        - generic: "-"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:41":
+        - generic: 2025-12-08 20:41
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C7 已共享 雅思 写作 27 3 80 卢思云 2025-12-08 20:41 查看 布置 ":
+      - cell "C7":
+        - generic: C7
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "27":
+        - generic: "27"
+      - cell "3":
+        - generic: "3"
+      - cell "80":
+        - generic: "80"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:41":
+        - generic: 2025-12-08 20:41
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C6 已共享 雅思 写作 9 1 40 卢思云 2025-12-08 20:41 查看 布置 ":
+      - cell "C6":
+        - generic: C6
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "9":
+        - generic: "9"
+      - cell "1":
+        - generic: "1"
+      - cell "40":
+        - generic: "40"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:41":
+        - generic: 2025-12-08 20:41
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C5 已共享 雅思 写作 27 3 80 卢思云 2025-12-08 20:42 查看 布置 ":
+      - cell "C5":
+        - generic: C5
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "27":
+        - generic: "27"
+      - cell "3":
+        - generic: "3"
+      - cell "80":
+        - generic: "80"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:42":
+        - generic: 2025-12-08 20:42
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C4 已共享 雅思 写作 9 1 80 卢思云 2025-12-08 20:42 查看 布置 ":
+      - cell "C4":
+        - generic: C4
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "9":
+        - generic: "9"
+      - cell "1":
+        - generic: "1"
+      - cell "80":
+        - generic: "80"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:42":
+        - generic: 2025-12-08 20:42
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C3 已共享 雅思 写作 9 1 - 卢思云 2025-12-08 20:42 查看 布置 ":
+      - cell "C3":
+        - generic: C3
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "9":
+        - generic: "9"
+      - cell "1":
+        - generic: "1"
+      - cell "-":
+        - generic: "-"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:42":
+        - generic: 2025-12-08 20:42
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C2 已共享 雅思 写作 9 1 20 卢思云 2025-12-08 20:42 查看 布置 ":
+      - cell "C2":
+        - generic: C2
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "9":
+        - generic: "9"
+      - cell "1":
+        - generic: "1"
+      - cell "20":
+        - generic: "20"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:42":
+        - generic: 2025-12-08 20:42
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+- generic: 共 136 条
+- button "20 条/页 ":
+  - text: 20 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button "2"
+- button "3"
+- button "4"
+- button "5"
+- button "6"
+- button "7"
+- button:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:  
+- dialog "dialog":
+  - text: 
+  - generic: 试卷题目
+  - button "导出试卷" [active]:
+    - generic: 导出试卷
+  - heading "留学预备入学测试卷01-内部测试" [level=2]
+  - paragraph:
+    - generic: "所属科目:"
+    - generic: 其他
+  - paragraph:
+    - generic: "所属类别:"
+    - generic: 入学测试
+  - paragraph:
+    - generic: "成绩说明:"
+    - generic: 未填写~
+  - heading "题目列表" [level=2]
+  - generic: 
+  - generic: 
+  - generic: 听力
+  - generic: "5"
+  - generic: (1-4) 题目组
+  - generic: (1) 单选题
+  - generic: (2) 单选题
+  - generic: (3) 单选题
+  - generic: (4) 单选题
+  - generic: (5-10) 题目组
+  - generic: (5) 填空题
+  - generic: (6) 填空题
+  - generic: (7) 填空题
+  - generic: (8) 填空题
+  - generic: (9) 填空题
+  - generic: (10) 填空题
+  - generic: (11-19) 题目组
+  - generic: (11) 单选题
+  - generic: (12) 单选题
+  - generic: (13) 单选题
+  - generic: (14) 单选题
+  - generic: (15) 单选题
+  - generic: (16) 单选题
+  - generic: (17) 单选题
+  - generic: (18) 单选题
+  - generic: (19) 单选题
+  - generic: (20-30) 题目组
+  - generic: (20) 单选题
+  - generic: (21) 单选题
+  - generic: (22) 单选题
+  - generic: (23) 单选题
+  - generic: (24) 单选题
+  - generic: (25) 单选题
+  - generic: (26) 单选题
+  - generic: (27) 单选题
+  - generic: (28) 单选题
+  - generic: (29) 单选题
+  - generic: (30) 单选题
+  - generic: (31) 填空题
+  - generic: 
+  - generic: 
+  - generic: 词汇语法
+  - generic: "2"
+  - generic: (32) 填空题
+  - generic: (33) 填空题
+  - generic: 
+  - generic: 
+  - text:            
+  - generic: 共33道题 （63分）
+  - heading "1-4 材料 展开" [level=2]:
+    - generic: 1-4
+    - text: 材料
+    - generic: 展开
+  - paragraph:
+    - text: Listen carefully to the conversation about “Describing people”. The conversation will be spoken only once. You now have 30 seconds to read the questions.
+    - text: Describing people
+  - generic: 00:00/02:06
+  - slider "slider between 0 and 100"
+  - img "后退10秒"
+  - img "前进10秒"
+  - img "播放速度"
+  - generic: 1. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: 1. Aurelia is asking about Hannah’s ......
+  - radiogroup:
+    - radio "A. boyfriend":
+      - radio
+      - generic: A.
+      - paragraph: boyfriend
+    - radio "B. brother" [checked]:
+      - radio [checked]
+      - generic: B.
+      - paragraph: brother
+    - radio "C. friend":
+      - radio
+      - generic: C.
+      - paragraph: friend
+    - radio "D. cousin":
+      - radio
+      - generic: D.
+      - paragraph: cousin
+  - paragraph
+  - generic: 2. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: 2. Hannah’s brother, Jem, has ......
+  - radiogroup:
+    - radio "A. long, brown hair":
+      - radio
+      - generic: A.
+      - paragraph: long, brown hair
+    - radio "B. girlfriend" [checked]:
+      - radio [checked]
+      - generic: B.
+      - paragraph: girlfriend
+    - radio "C. a twin sister":
+      - radio
+      - generic: C.
+      - paragraph: a twin sister
+    - radio "D. a younger brother":
+      - radio
+      - generic: D.
+      - paragraph: a younger brother
+  - paragraph
+  - generic: 3. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: Hannah has ......
+  - radiogroup:
+    - radio "A. one brother":
+      - radio
+      - generic: A.
+      - paragraph: one brother
+    - radio "B. two brothers" [checked]:
+      - radio [checked]
+      - generic: B.
+      - paragraph: two brothers
+    - radio "C. a brother and a sister":
+      - radio
+      - generic: C.
+      - paragraph: a brother and a sister
+    - radio "D. two sisters":
+      - radio
+      - generic: D.
+      - paragraph: two sisters
+  - paragraph
+  - generic: 4. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: Alex and Jem ......
+  - radiogroup:
+    - radio "A. look different":
+      - radio
+      - generic: A.
+      - paragraph: look different
+    - radio "B. look the same" [checked]:
+      - radio [checked]
+      - generic: B.
+      - paragraph: look the same
+    - radio "C. have the same hair but different eyes":
+      - radio
+      - generic: C.
+      - paragraph: have the same hair but different eyes
+    - radio "D. have the same clothes":
+      - radio
+      - generic: D.
+      - paragraph: have the same clothes
+  - heading "5-10 材料" [level=2]:
+    - generic: 5-10
+    - text: 材料
+  - paragraph:
+    - text: Fill the gaps with the correct word to complete the directions.
+    - text: past on Go take straight At
+  - generic: 00:00/01:56
+  - slider "slider between 0 and 100"
+  - img "后退10秒"
+  - img "前进10秒"
+  - img "播放速度"
+  - generic: 5. 填空题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请在下方空格中填写正确的答案
+  - paragraph:
+    - paragraph: 1. Go_____________ on.
+  - paragraph: 答案
+  - generic: straight
+  - paragraph
+  - generic: 6. 填空题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请在下方空格中填写正确的答案
+  - paragraph:
+    - paragraph: _____________past the traffic lights.
+  - paragraph: 答案
+  - generic: Go
+  - paragraph
+  - generic: 7. 填空题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请在下方空格中填写正确的答案
+  - paragraph:
+    - paragraph: It' s the building next to the library _____________the left.
+  - paragraph: 答案
+  - generic: "on"
+  - paragraph
+  - generic: 8. 填空题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请在下方空格中填写正确的答案
+  - paragraph:
+    - paragraph: _____________the roundabout turn left.
+  - paragraph: 答案
+  - generic: At
+  - paragraph
+  - generic: 9. 填空题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请在下方空格中填写正确的答案
+  - paragraph:
+    - paragraph: Then_____________ the first left on to Green Street.
+  - paragraph: 答案
+  - generic: take
+  - paragraph
+  - generic: 10. 填空题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 2分
+  - paragraph: 请在下方空格中填写正确的答案
+  - paragraph:
+    - paragraph: Go_____________ the traffic lights and take the second right on to King's Road.
+  - paragraph: 答案
+  - generic: past
+  - generic: 11. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: A dirtboard is _________
+  - radiogroup:
+    - radio "A. a board with wheels that you stand on." [checked]:
+      - radio [checked]
+      - generic: A.
+      - paragraph: a board with wheels that you stand on.
+    - radio "B. a board with no wheels that you stand on.":
+      - radio
+      - generic: B.
+      - paragraph: a board with no wheels that you stand on.
+    - radio "C. board that you sit on.":
+      - radio
+      - generic: C.
+      - paragraph: board that you sit on.
+  - paragraph
+  - generic: 12. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: To go canyoning you need _________.
+  - radiogroup:
+    - radio "A. ropes and a helmet":
+      - radio
+      - generic: A.
+      - paragraph: ropes and a helmet
+    - radio "B. a guide and special equipment":
+      - radio
+      - generic: B.
+      - paragraph: a guide and special equipment
+    - radio "C. ropes and special equipment" [checked]:
+      - radio [checked]
+      - generic: C.
+      - paragraph: ropes and special equipment
+  - paragraph
+  - generic: 13. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: Zip-wiring is _________.
+  - radiogroup:
+    - radio "A. scary and difficult":
+      - radio
+      - generic: A.
+      - paragraph: scary and difficult
+    - radio "B. easy and exciting" [checked]:
+      - radio [checked]
+      - generic: B.
+      - paragraph: easy and exciting
+    - radio "C. scary but exciting":
+      - radio
+      - generic: C.
+      - paragraph: scary but exciting
+  - paragraph
+  - generic: 14. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: The girl is ________ bungee jumping.
+  - radiogroup:
+    - radio "A. planning to go":
+      - radio
+      - generic: A.
+      - paragraph: planning to go
+    - radio "B. interested in":
+      - radio
+      - generic: B.
+      - paragraph: interested in
+    - radio "C. in the photos" [checked]:
+      - radio [checked]
+      - generic: C.
+      - paragraph: in the photos
+  - paragraph
+  - generic: 15. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 2分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: The impressionist paintings are in________.
+  - radiogroup:
+    - radio "A. the louvre":
+      - radio
+      - generic: A.
+      - paragraph: the louvre
+    - radio "B. the Musee D'Orsay":
+      - radio
+      - generic: B.
+      - paragraph: the Musee D'Orsay
+    - radio "C. the Rodin Museum" [checked]:
+      - radio [checked]
+      - generic: C.
+      - paragraph: the Rodin Museum
+  - paragraph
+  - generic: 16. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: The impressionist paintings are in________.
+  - radiogroup:
+    - radio "A. the louvre":
+      - radio
+      - generic: A.
+      - paragraph: the louvre
+    - radio "B. the Musee D'Orsay" [checked]:
+      - radio [checked]
+      - generic: B.
+      - paragraph: the Musee D'Orsay
+    - radio "C. the Rodin Museum":
+      - radio
+      - generic: C.
+      - paragraph: the Rodin Museum
+  - paragraph
+  - generic: 17. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: The famous Rodin statue is called _________.
+  - radiogroup:
+    - radio "A. The Worker":
+      - radio
+      - generic: A.
+      - paragraph: The Worker
+    - radio "B. The Thinker" [checked]:
+      - radio [checked]
+      - generic: B.
+      - paragraph: The Thinker
+    - radio "C. The Philosopher":
+      - radio
+      - generic: C.
+      - paragraph: The Philosopher
+  - paragraph
+  - generic: 18. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: The girl is going to Paris for ______.
+  - radiogroup:
+    - radio "A. the weekend":
+      - radio
+      - generic: A.
+      - paragraph: the weekend
+    - radio "B. 4 days" [checked]:
+      - radio [checked]
+      - generic: B.
+      - paragraph: 4 days
+    - radio "C. 5 days":
+      - radio
+      - generic: C.
+      - paragraph: 5 days
+  - paragraph
+  - generic: 19. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 2分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: She' s going with______.
+  - radiogroup:
+    - radio "A. her friend" [checked]:
+      - radio [checked]
+      - generic: A.
+      - paragraph: her friend
+    - radio "B. her boyfriend":
+      - radio
+      - generic: B.
+      - paragraph: her boyfriend
+    - radio "C. her family":
+      - radio
+      - generic: C.
+      - paragraph: her family
+  - heading "20-30 材料" [level=2]:
+    - generic: 20-30
+    - text: 材料
+  - paragraph:
+    - text: Listen carefully to the talk about the quiz called "What kind of student are you?".
+    - text: The talk will be spoken twice. You now have 1 minute to read the questions.
+  - generic: 00:00/09:47
+  - slider "slider between 0 and 100"
+  - img "后退10秒"
+  - img "前进10秒"
+  - img "播放速度"
+  - generic: 20. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 1分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: At the beginning the teacher asks the students to think carefully about________
+  - radiogroup:
+    - radio "A. the questions.":
+      - radio
+      - generic: A.
+      - paragraph: the questions.
+    - radio "B. their answers." [checked]:
+      - radio [checked]
+      - generic: B.
+      - paragraph: their answers.
+    - radio "C. where they sit.":
+      - radio
+      - generic: C.
+      - paragraph: where they sit.
+  - paragraph
+  - generic: 21. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 2分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: The answers the students choose will be seen by _______
+  - radiogroup:
+    - radio "A. the other students.":
+      - radio
+      - generic: A.
+      - paragraph: the other students.
+    - radio "B. the teacher.":
+      - radio
+      - generic: B.
+      - paragraph: the teacher.
+    - radio "C. nobody." [checked]:
+      - radio [checked]
+      - generic: C.
+      - paragraph: nobody.
+  - paragraph
+  - generic: 22. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 2分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: The first question is about the time________
+  - radiogroup:
+    - radio "A. students arrive at school." [checked]:
+      - radio [checked]
+      - generic: A.
+      - paragraph: students arrive at school.
+    - radio "B. students spend at school.":
+      - radio
+      - generic: B.
+      - paragraph: students spend at school.
+    - radio "C. students leave.":
+      - radio
+      - generic: C.
+      - paragraph: students leave.
+  - paragraph
+  - generic: 23. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 2分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: The teacher asks about ______
+  - radiogroup:
+    - radio "A. where students do their homework.":
+      - radio
+      - generic: A.
+      - paragraph: where students do their homework.
+    - radio "B. how much time students spend doing their homework.":
+      - radio
+      - generic: B.
+      - paragraph: how much time students spend doing their homework.
+    - radio "C. when the students do their homework." [checked]:
+      - radio [checked]
+      - generic: C.
+      - paragraph: when the students do their homework.
+  - paragraph
+  - generic: 24. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 2分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph:
+      - text: In question three, students who normally get half marks should answer
+      - text: _________
+  - radiogroup:
+    - radio "A. A":
+      - radio
+      - generic: A.
+      - paragraph: A
+    - radio "B. B":
+      - radio
+      - generic: B.
+      - paragraph: B
+    - radio "C. C" [checked]:
+      - radio [checked]
+      - generic: C.
+      - paragraph: C
+  - paragraph
+  - generic: 25. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 2分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: Question four is about the students' relationship with___________
+  - radiogroup:
+    - radio "A. people in their lives outside school.":
+      - radio
+      - generic: A.
+      - paragraph: people in their lives outside school.
+    - radio "B. people working at the school." [checked]:
+      - radio [checked]
+      - generic: B.
+      - paragraph: people working at the school.
+    - radio "C. people studying at the school.":
+      - radio
+      - generic: C.
+      - paragraph: people studying at the school.
+  - paragraph
+  - generic: 26. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 2分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph:
+      - text: The teacher thinks some students prefer to sit in the middle of the class so
+      - text: that ____________
+  - radiogroup:
+    - radio "A. they can hear the teacher without being right at the front.":
+      - radio
+      - generic: A.
+      - paragraph: they can hear the teacher without being right at the front.
+    - radio "B. they can have pleasant thoughts without following the lesson." [checked]:
+      - radio [checked]
+      - generic: B.
+      - paragraph: they can have pleasant thoughts without following the lesson.
+    - radio "C. no one will notice them using their phones.":
+      - radio
+      - generic: C.
+      - paragraph: no one will notice them using their phones.
+  - paragraph
+  - generic: 27. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 2分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: Question six is about students' ______________
+  - radiogroup:
+    - radio "A. exam results.":
+      - radio
+      - generic: A.
+      - paragraph: exam results.
+    - radio "B. future career.":
+      - radio
+      - generic: B.
+      - paragraph: future career.
+    - radio "C. plans for the future." [checked]:
+      - radio [checked]
+      - generic: C.
+      - paragraph: plans for the future.
+  - paragraph
+  - generic: 28. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 2分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: Students with mostly As have a good____________
+  - radiogroup:
+    - radio "A. attitude towards studying." [checked]:
+      - radio [checked]
+      - generic: A.
+      - paragraph: attitude towards studying.
+    - radio "B. idea about what they want to do in the future.":
+      - radio
+      - generic: B.
+      - paragraph: idea about what they want to do in the future.
+    - radio "C. network of support at school.":
+      - radio
+      - generic: C.
+      - paragraph: network of support at school.
+  - paragraph
+  - generic: 29. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 2分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: Students with mostly Bs need to___________
+  - radiogroup:
+    - radio "A. become excellent students.":
+      - radio
+      - generic: A.
+      - paragraph: become excellent students.
+    - radio "B. increase the time they spend studying.":
+      - radio
+      - generic: B.
+      - paragraph: increase the time they spend studying.
+    - radio "C. change some of their habits." [checked]:
+      - radio [checked]
+      - generic: C.
+      - paragraph: change some of their habits.
+  - paragraph
+  - generic: 30. 单选题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 2分
+  - paragraph: 请从选项中选出正确的答案
+  - paragraph:
+    - paragraph: 11.Students with mostly Cs are probably ___________
+  - radiogroup:
+    - radio "A. wasting a lot of their time." [checked]:
+      - radio [checked]
+      - generic: A.
+      - paragraph: wasting a lot of their time.
+    - radio "B. unable to do any better.":
+      - radio
+      - generic: B.
+      - paragraph: unable to do any better.
+    - radio "C. going to be unemployed in the future.":
+      - radio
+      - generic: C.
+      - paragraph: going to be unemployed in the future.
+  - generic: 31. 填空题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 10分
+  - paragraph: 请在下方空格中填写正确的答案
+  - paragraph:
+    - paragraph
+    - paragraph: 1.-----
+    - paragraph: 2.-----
+    - paragraph: 3.-----
+    - paragraph: 4.-----
+    - paragraph: 5.-----
+    - paragraph: 6.-----
+    - paragraph: 7.-----
+    - paragraph: 8.-----
+    - paragraph: 9.-----
+    - paragraph: 10.-----
+  - paragraph: 答案
+  - generic: (1). DW30-7YZ，DW307YZ，DW30 7YZ、(2). 24th April，24 April、(3). dentist、(4). parking、(5). Claxby、(6). late、(7). evening、(8). supermarket、(9). pollution、(10). storage
+  - generic: 32. 填空题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 5分
+  - paragraph: 词汇部分 根据括号里的提示和单词首字母，补写上正确的英文单词（首字母不用重复写）
+  - paragraph:
+    - paragraph:
+      - text: 1. It' s W____________(星期三) today.
+      - text: 2. My favorite season is S___________（春天）.
+      - text: 3. I don' t have any clean clothes. It' s time to do the l____________(洗衣服) .
+      - text: 4. A t____________ (典型的) family in the U.K. is a father, mother and two children.
+      - text: 5. It’s more e ____________ (有效率的) to work or study for a short period time, take a break and then go back to work.
+      - text: 6. The l___________(字面的) meaning of "geodesy" is "dividing the earth".
+      - text: 7. I had deliberately picked a city with a t ___________(热带的) climate.
+      - text: 8. He gave a vague but n ___________(否定的)response.
+      - text: 9. He was faced with the d ___________(进退两难；窘境) of whether or not to return to his country.
+      - text: 10. He is involved in the s ___________(丑闻)。
+  - paragraph: 答案
+  - generic: (1). ednesday、(2). pring、(3). aundry、(4). ypical、(5). fficient、(6). iteral、(7). ropical、(8). egative、(9). ilemma、(10). candal
+  - generic: 33. 填空题
+  - generic: 简单
+  - textbox "请输入" [disabled]: 5分
+  - paragraph: 请在下方空格中填写正确的答案
+  - paragraph:
+    - paragraph:
+      - text: 1. My wife is more intelligent ________ me.
+      - text: A than
+      - text: B from
+      - text: C to
+      - text: D for
+      - text: 2. Can you look after the ________ rabbit while we are on holiday?
+      - text: A childrens’s
+      - text: B childrens’
+      - text: C children’s
+      - text: D childrens
+      - text: 3. At 6 p.m. I started to get angry with him because he was late _________
+      - text: A as usual
+      - text: B in general
+      - text: C typically
+      - text: D usually
+      - text: 4. Helen and I ________ looking when we crossed the road.
+      - text: A aren’t
+      - text: B weren’t
+      - text: C wasn’t
+      - text: D am not
+      - text: 5. We _________ raising money for charity.
+      - text: A have not been
+      - text: B hasn’t been
+      - text: C haven’t
+      - text: D have had
+      - text: 6. Some scientists believe that global temperatures are increasing and _______ ice is melting at the poles.
+      - text: A consequently
+      - text: B because
+      - text: C due to
+      - text: D as a result of
+      - text: 7. Talk to your mum about the problem. I’m sure she ________ understand.
+      - text: A will
+      - text: B is going to
+      - text: C will be
+      - text: D will going to
+      - text: 8. Police_______ been informed about the incident.
+      - text: A was
+      - text: B is
+      - text: C have
+      - text: D will
+      - text: 9. Choose the sentence with the meaning below. James is always lazy. He failed a test last week.
+      - text: A If you weren’t so lazy, you would pass that test.
+      - text: B If you hadn’t been so lazy, you would pass that test.
+      - text: C If you hadn’t been so lazy, you will past that test.
+      - text: D If you weren’t so lazy, you would have passed that test
+      - text: 10. If he _______ you an invoice, you should pay him.
+      - text: A has been sent
+      - text: B had sent
+      - text: C has sent
+      - text: D would send
+  - paragraph: 答案
+  - generic: (1). A、(2). C、(3). A、(4). B、(5). A、(6). A、(7). A、(8). C、(9). D、(10). D
+  - generic: 
+  - generic: 
+- tooltip " 是否导出答案及解析？ 不用了 导出":
+  - paragraph:
+    - generic: 
+    - text: 是否导出答案及解析？
+  - button "不用了":
+    - generic: 不用了
+  - button "导出":
+    - generic: 导出

@@ -1,0 +1,220 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 我的班级
+- button "科目 " [active]:
+  - generic: 科目
+  - generic: 
+- textbox "请输入班级名称"
+- generic: 
+- button "班级类型 ":
+  - text: 班级类型
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- generic: AT
+- paragraph: 王小格-SAT
+- paragraph: SAT班
+- generic: T
+- paragraph: TF2410LXC005
+- paragraph: 托福
+- generic: "02"
+- paragraph: 测试班002
+- paragraph: AP
+- generic: 文浩
+- paragraph: 李文浩
+- paragraph: 雅思
+- generic: 若欣
+- paragraph: 田若欣
+- paragraph: 雅思
+- generic: "Y"
+- paragraph: YS2501HKA004
+- paragraph: 雅思
+- generic: 元1
+- paragraph: 王天元1
+- paragraph: 雅思
+- generic: 嫣洋
+- paragraph: 康嫣洋
+- paragraph: 雅思
+- generic: V
+- paragraph: VY2411ZND001
+- paragraph: 雅思1
+- generic: 雅思
+- paragraph: 锦秋武昌-陈梓豪雅思
+- paragraph: 雅思
+- generic: 凡1
+- paragraph: 张纬凡1
+- paragraph: 雅思
+- generic: 千皓
+- paragraph: 周千皓
+- paragraph: 雅思
+- generic: 刘赢
+- paragraph: 刘赢
+- paragraph: 雅思
+- generic: 宝怿
+- paragraph: 程宝怿
+- paragraph: 雅思
+- generic: 英琦
+- paragraph: 王英琦
+- paragraph: 雅思
+- generic: 雅萱
+- paragraph: 王雅萱
+- paragraph: 雅思
+- generic: 玲智
+- paragraph: 徐玲智
+- paragraph: 雅思
+- generic: 可儿
+- paragraph: 倪可儿
+- paragraph: 雅思
+- generic: 昶君
+- paragraph: 柳昶君
+- paragraph: 雅思
+- generic: 映希
+- paragraph: 陈映希
+- paragraph: 雅思
+- generic: 思琪
+- paragraph: 毛思琪
+- paragraph: 雅思
+- generic: V
+- paragraph: VY2409HKA007
+- paragraph: 雅思
+- generic: 明阳
+- paragraph: 周明阳
+- paragraph: 雅思
+- generic: 舒墨
+- paragraph: 戴舒墨
+- paragraph: 雅思
+- generic: 铭轩
+- paragraph: 张铭轩
+- paragraph: 雅思
+- generic: 旻思
+- paragraph: 邵旻思
+- paragraph: 雅思
+- generic: "Y"
+- paragraph: YS2503ZND008
+- paragraph: 雅思
+- generic: "Y"
+- paragraph: YS2503ZND002
+- paragraph: 雅思
+- generic: "Y"
+- paragraph: YS2503ZND009
+- paragraph: 雅思
+- generic: "Y"
+- paragraph: YS2503ZND006
+- paragraph: 雅思
+- generic: "Y"
+- paragraph: YS2501ZND007
+- paragraph: 雅思
+- generic: "Y"
+- paragraph: YS2410ZND010
+- paragraph: 雅思
+- generic: "Y"
+- paragraph: YS2409ZND013
+- paragraph: 雅思
+- generic: "Y"
+- paragraph: YS2410ZND008
+- paragraph: 雅思1
+- generic: "Y"
+- paragraph: YS2409ZND006
+- paragraph: 雅思
+- generic: 子瑞
+- paragraph: 刘子瑞
+- paragraph: 雅思
+- paragraph:
+  - generic: 王小格-SAT
+  - generic: 已开课
+  - text: (
+  - generic: 2026年09月23日
+  - text: )
+  - generic: "课程进度: 0/-"
+  - generic: 学生人数：1人
+- generic: 作业
+- generic: 课表
+- generic: 反馈
+- generic: 作业大纲
+- generic: 概览
+- generic: 
+- generic: 
+- textbox "开始日期": 2026-10-13
+- generic: "-"
+- textbox "结束日期": 2026-11-02
+- generic: 老师
+- generic: 
+- button "作业类型 ":
+  - text: 作业类型
+  - generic: 
+- paragraph:
+  - generic: 暂无作业，还没有作业内容～
+- table:
+  - rowgroup:
+    - columnheader
+  - rowgroup
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 快捷功能
+- generic: 成员(1)
+- paragraph: 布置作业
+- paragraph: 模考作业
+- paragraph: 自定义作业
+- paragraph: 打卡作业
+- paragraph: 其他作业
+- paragraph: 常用作业
+- paragraph: 视频课件
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text: 
+- list:
+  - listitem: 全部
+  - listitem: 雅思
+  - listitem: 托福
+  - listitem: AP
+  - listitem: SAT

@@ -1,0 +1,299 @@
+Browser tab: 67, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	1 container myweb
+		2 container root-menu
+			3 container
+				4 image
+				5 text 首页
+			6 container
+				7 image
+				8 text 作业
+			9 container
+				10 image
+				11 text 课表
+			12 container
+				13 image
+				14 text 题库
+			15 container
+				16 image
+				17 text 单词书
+			18 container
+				19 image
+				20 text 错题
+			21 container
+				22 image
+				23 text 自适应
+			24 container
+				25 image
+				26 text 反馈
+			27 container
+				28 image
+				29 text 笔记
+			30 container
+				31 image
+				32 text 学习报告
+		33 container root-mv-right
+			34 container root-mv-header
+				35 image
+				36 container
+					37 text field (settable)
+					304 text 
+				39 button icon
+					40 image icon
+				41 container
+					305 text 
+					43 button icon
+						44 image icon
+				45 container
+					46 button icon
+						47 image icon
+					48 text 5
+				49 button icon
+					50 image icon
+				51 container
+					52 image
+					53 text 10
+				54 text 小格
+			55 container root-container
+				56 button 整套, ID: xx-capsule-radio__item-0
+				59 button  篇章, ID: xx-capsule-radio__item-1
+					306 text 
+					82 text 篇章
+				60 text 科目
+				71 text 新托福2026
+				72 text 雅思
+				73 text SAT
+				74 text SAT机考
+				75 text AP
+				61 text 分项
+				76 text 不限
+				89 text 听力
+				90 text 阅读
+				91 text 写作
+				92 text 口语
+				63 text 筛选
+				64 container
+					65 text 排序
+					66 image
+				67 button 重置
+				68 container
+					307 text 
+					70 text field (settable)
+				84 button
+				85 button
+				94 container
+					95 container
+						96 text 阅读 已完成
+						97 text CIT-C21-T1 / Reading Passage 3 (Book review: The World of Sugar by Ulbe Bosma)
+						98 container
+							99 text CIT 
+							100 text .
+							101 text  文学与艺术
+						102 text 最新成绩 0 Top高错点 定位错误 对象错配 限定条件忽略
+						103 button 查看结果 
+							104 text 查看结果
+							311 text 
+						106 button 模考模式
+						107 button 学练模式
+					312 container
+						313 text 1 0分 8%
+						314 text 2026/10/15 15:10
+						315 button 查看
+					108 container
+						109 text 阅读 未完成
+						110 text CIT-C21-T2 / Reading Passage 3 (Artificial Intelligence)
+						111 container
+							112 text CIT 
+							113 text .
+							114 text  科技
+						115 text 最新成绩 - Top高错点 定位错误 TFNG 边界混淆 对象错配
+						116 button 模考模式
+						117 button 学练模式
+					118 container
+						119 text 阅读 未完成
+						120 text CIT-C21-T3 / Reading Passage 3 (Rethinking the Past)
+						121 container
+							122 text CIT 
+							123 text .
+							124 text  历史与发展
+						125 text 最新成绩 - Top高错点 定位错误 证据覆盖不足 TFNG 边界混淆
+						126 button 模考模式
+						127 button 学练模式
+					128 container
+						129 text 阅读 未完成
+						130 text CIT-C21-T4 / Reading Passage 3 (The Globemakers: The Curious Story of an Ancient Craft)
+						131 container
+							132 text CIT 
+							133 text .
+							134 text  地理与地质
+						135 text 最新成绩 - Top高错点 定位错误 原词匹配倾向 过度推断
+						136 button 模考模式
+						137 button 学练模式
+					138 container
+						139 text 阅读 未完成
+						140 text CIT-C20-T1 / Reading Passage 3 (How stress affects our judgement)
+						141 container
+							142 text CIT 
+							143 text .
+							144 text  社会与文化
+						145 text 最新成绩 - Top高错点 定位错误 范围限制忽略 TFNG 边界混淆
+						146 button 模考模式
+						147 button 学练模式
+					148 container
+						149 text 阅读 未完成
+						150 text CIT-C20-T2 / Reading Passage 3 (Invasion of the Robot Umpires)
+						151 container
+							152 text CIT 
+							153 text .
+							154 text  科技
+						155 text 最新成绩 - Top高错点 定位错误 同义改写识别失败 TFNG 边界混淆
+						156 button 模考模式
+						157 button 学练模式
+					158 container
+						159 text 阅读 未完成
+						160 text CIT-C20-T3 / Reading Passage 3 (Robots and us)
+						161 container
+							162 text CIT 
+							163 text .
+							164 text  科技
+						165 text 最新成绩 - Top高错点 对象错配 定位错误 证据覆盖不足
+						166 button 模考模式
+						167 button 学练模式
+					168 container
+						169 text 阅读 未完成
+						170 text CIT-C21-T1 / Reading Passage 2 (Why we need silence)
+						171 container
+							172 text CIT 
+							173 text .
+							174 text  常识与科普
+						175 text 最新成绩 - Top高错点 定位错误 对象错配
+						176 button 模考模式
+						177 button 学练模式
+					178 container
+						179 text 阅读 未完成
+						180 text CIT-C21-T2 / Reading Passage 2 (Mapungubwe)
+						181 container
+							182 text CIT 
+							183 text .
+							184 text  历史与发展
+						185 text 最新成绩 - Top高错点 定位错误 原词匹配倾向 对象错配
+						186 button 模考模式
+						187 button 学练模式
+					188 container
+						189 text 阅读 未完成
+						190 text CIT-C21-T3 / Reading Passage 2 (The problems of getting around the city of Dar es Salaam)
+						191 container
+							192 text CIT 
+							193 text .
+							194 text  城市与国家
+						195 text 最新成绩 - Top高错点 TFNG 边界混淆 定位错误
+						196 button 模考模式
+						197 button 学练模式
+					198 container
+						199 text 阅读 未完成
+						200 text CIT-C21-T4 / Reading Passage 2 (How could multilingualism benefit India's poorest schoolchildren?)
+						201 container
+							202 text CIT 
+							203 text .
+							204 text  语言与教育
+						205 text 最新成绩 - Top高错点 定位错误 原词匹配倾向 范围限制忽略
+						206 button 模考模式
+						207 button 学练模式
+					208 container
+						209 text 阅读 已完成
+						210 text CIT-C20-T1 / Reading Passage 2 (Return of the elm: reintroducing the beloved tree to Britain)
+						211 container
+							212 text CIT 
+							213 text .
+							214 text  生物与环境
+						215 text 最新成绩 0 Top高错点 定位错误 对象错配 原词匹配倾向
+						216 button 查看结果 
+							217 text 查看结果
+							309 text 
+						219 button 模考模式
+						220 button 学练模式
+					221 container
+						222 text 阅读 未完成
+						223 text CIT-C20-T2 / Reading Passage 2 (Procrastination)
+						224 container
+							225 text CIT 
+							226 text .
+							227 text  常识与科普
+						228 text 最新成绩 - Top高错点 定位错误 原词匹配倾向 范围限制忽略
+						229 button 模考模式
+						230 button 学练模式
+					231 container
+						232 text 阅读 未完成
+						233 text CIT-C20-T3 / Reading Passage 2 (Can the planet's coral reefs be saved?)
+						234 container
+							235 text CIT 
+							236 text .
+							237 text  生物与环境
+						238 text 最新成绩 - Top高错点 定位错误 证据覆盖不足 原词匹配倾向
+						239 button 模考模式
+						240 button 学练模式
+					241 container
+						242 text 阅读 未完成
+						243 text CIT-C21-T1 / Reading Passage 1 (The Davies Sisters)
+						244 container
+							245 text CIT 
+							246 text .
+							247 text  文学与艺术
+						248 text 最新成绩 - Top高错点 TFNG 边界混淆 定位错误 证据覆盖不足
+						249 button 模考模式
+						250 button 学练模式
+					251 container
+						252 text 阅读 未完成
+						253 text CIT-C21-T2 / Reading Passage 1 (Do animals dream?)
+						254 container
+							255 text CIT 
+							256 text .
+							257 text  生物与环境
+						258 text 最新成绩 - Top高错点 TFNG 边界混淆 定位错误 过度推断
+						259 button 模考模式
+						260 button 学练模式
+					261 container
+						262 text 阅读 未完成
+						263 text CIT-C21-T3 / Reading Passage 1 (Saving the saiga)
+						264 container
+							265 text CIT 
+							266 text .
+							267 text  生物与环境
+						268 text 最新成绩 - Top高错点 TFNG 边界混淆 定位错误 证据覆盖不足
+						269 button 模考模式
+						270 button 学练模式
+					271 container
+						272 text 阅读 未完成
+						273 text CIT-C21-T4 / Reading Passage 1 (The problems and benefits created by the spread of the water hyacinth in Kenya)
+						274 container
+							275 text CIT 
+							276 text .
+							277 text  生物与环境
+						278 text 最新成绩 - Top高错点 TFNG 边界混淆 定位错误 比较关系处理失败
+						279 button 模考模式
+						280 button 学练模式
+					281 container
+						282 text 阅读 已完成
+						283 text CIT-C20-T1 / Reading Passage 1 (The kākāpō)
+						284 container
+							285 text CIT 
+							286 text .
+							287 text  生物与环境
+						288 text 最新成绩 0 Top高错点 TFNG 边界混淆 定位错误 证据覆盖不足
+						289 button 查看结果 
+							290 text 查看结果
+							310 text 
+						292 button 模考模式
+						293 button 学练模式
+					294 container
+						295 text 阅读 未完成
+						296 text CIT-C20-T2 / Reading Passage 1 (Manatees)
+						297 container
+							298 text CIT 
+							299 text .
+							300 text  生物与环境
+						301 text 最新成绩 - Top高错点 TFNG 边界混淆 证据覆盖不足 定位错误
+						302 button 模考模式
+						303 button 学练模式
+
+The focused UI element is 103 button 查看结果 

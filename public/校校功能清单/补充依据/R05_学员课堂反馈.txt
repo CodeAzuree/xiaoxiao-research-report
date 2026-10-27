@@ -1,0 +1,63 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+1 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	2 container myweb
+		3 container root-menu
+			4 container
+				5 image
+				6 text 首页
+			7 container
+				8 image
+				9 text 作业
+			10 container
+				11 image
+				12 text 课表
+			13 container
+				14 image
+				15 text 题库
+			16 container
+				17 image
+				18 text 单词书
+			19 container
+				20 image
+				21 text 错题
+			22 container
+				23 image
+				24 text 自适应
+			25 container
+				26 image
+				27 text 反馈
+			28 container
+				29 image
+				30 text 笔记
+			31 container
+				32 image
+				33 text 学习报告
+		34 container root-mv-right
+			40 container root-mv-header
+				41 image
+				42 container
+					43 text field (settable)
+					44 text 
+				45 button icon
+					46 image icon
+				47 container
+					48 text 
+					49 button icon
+						50 image icon
+				51 container
+					52 button icon
+						53 image icon
+					54 text 6
+				55 button icon
+					56 image icon
+				57 container
+					58 image
+					59 text 10
+				60 text 小格
+			61 container root-container
+				62 text 课堂评分
+				63 text 课堂评分为多位老师评分的平均值
+				64 text 学习建议
+				65 text 暂无学习建议
+
+The focused UI element is 1 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122

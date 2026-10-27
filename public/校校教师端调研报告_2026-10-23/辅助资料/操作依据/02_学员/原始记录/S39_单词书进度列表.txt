@@ -1,0 +1,170 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- tablist:
+  - tab "练习统计" [selected]:
+    - generic: 练习统计
+  - tab "错题分析":
+    - generic: 错题分析
+  - tab "笔记":
+    - generic: 笔记
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- generic: 
+- generic: 作业完成情况
+- generic: "18"
+- generic: /
+- generic: "71"
+- generic: 自适应统计
+- generic: 单词书进度
+- generic: 共学习 56 词
+- generic: 开放题库
+- generic: 词汇量测试
+- table:
+  - rowgroup:
+    - row "单词书 科目 布置老师 布置时间 单元 单词 学习进度 正确率 操作":
+      - columnheader "单词书":
+        - generic: 单词书
+      - columnheader "科目":
+        - generic: 科目
+      - columnheader "布置老师":
+        - generic: 布置老师
+      - columnheader "布置时间":
+        - generic: 布置时间
+      - columnheader "单元":
+        - generic: 单元
+      - columnheader "单词":
+        - generic: 单词
+      - columnheader "学习进度":
+        - generic: 学习进度
+      - columnheader "正确率":
+        - generic: 正确率
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup:
+    - row "陈梦昕生词本 托福 李宝燕 2026-03-24 17:28:45 4 222 25 34% 查看详情":
+      - cell "陈梦昕生词本":
+        - generic: 陈梦昕生词本
+      - cell "托福":
+        - generic: 托福
+      - cell "李宝燕":
+        - generic: 李宝燕
+      - cell "2026-03-24 17:28:45":
+        - generic: 2026-03-24 17:28:45
+      - cell "4":
+        - generic: "4"
+      - cell "222":
+        - generic: "222"
+      - cell "25":
+        - progressbar:
+          - generic: 1/4
+      - cell "34%":
+        - generic: 34%
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "陈梦昕生词本 托福 李宝燕 2026-03-24 17:34:41 4 222 0 0% 查看详情":
+      - cell "陈梦昕生词本":
+        - generic: 陈梦昕生词本
+      - cell "托福":
+        - generic: 托福
+      - cell "李宝燕":
+        - generic: 李宝燕
+      - cell "2026-03-24 17:34:41":
+        - generic: 2026-03-24 17:34:41
+      - cell "4":
+        - generic: "4"
+      - cell "222":
+        - generic: "222"
+      - cell "0":
+        - progressbar:
+          - generic: 0/4
+      - cell "0%":
+        - generic: 0%
+      - cell "查看详情":
+        - generic: 查看详情
+- generic: 共 2 条
+- textbox "请选择": 20条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+- button "" [disabled]:
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:       

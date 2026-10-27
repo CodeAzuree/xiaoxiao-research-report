@@ -1,0 +1,286 @@
+Browser tab: 67, Title: "老师管理后台", URL: "https://learninghub.xhd.cn/org/teacher.html?xiaov=20261122&flagl=c12".
+1 AXWebArea 老师管理后台, URL: learninghub.xhd.cn/org/teacher.html?xiaov=20261122&flagl=c12
+	2 container myweb
+		3 container root-menu
+			4 container
+				5 image
+				6 text 首页
+			7 container
+				8 image
+				9 text 学员
+			10 container
+				11 image
+				12 text 班级
+			13 container
+				14 image
+				15 text 作业
+			16 container
+				17 image
+				18 text 课表
+			19 container
+				20 image
+				21 text 题库
+			22 container
+				23 image
+				24 text 教研
+			25 container
+				26 image
+				27 text 云盘
+			28 container
+				29 image
+				30 text 申请
+		31 container root-mv-right
+			32 container root-mv-header
+				33 image
+				34 container
+					35 text field (settable)
+					36 text 
+				37 button icon
+					38 image icon
+				39 button icon
+					40 image icon
+				41 container
+					42 text 
+					43 button icon
+						44 image icon
+				45 container
+					46 button icon
+						47 image icon
+					48 text 246
+				49 button icon
+					50 image icon
+				51 container
+					52 image
+					53 text 0
+				54 text 思贤
+			55 container root-container
+				56 container
+					57 text 作业管理
+					58 text 
+					59 text 布置作业
+					60 content list
+						61 container
+							62 image
+							63 text 全部作业
+							162 text (1)
+						64 container
+							65 image
+							66 text 单词作业
+						67 container
+							68 image
+							69 text 打卡作业
+						70 container
+							71 image
+							72 text 作业模考
+						73 container
+							74 image
+							1792 text 视频课件
+							168 text (1)
+						76 container
+							77 image
+							78 text 实时作业
+						79 container
+							80 image
+							81 text 未下发作业
+						82 container
+							83 image
+							84 text 我的批改
+							169 text (1)
+						85 container
+							86 image
+							87 text 我布置的
+							170 text (1)
+						88 container
+							89 image
+							90 text 收藏作业
+					1793 text 视频课件
+					1794 text 科目：
+					1795 text 全部
+					1796 text 雅思
+					1797 text 托福
+					1798 text AP
+					1799 text SAT
+					1800 text 状态：
+					1801 text 全部
+					1802 text 未开始
+					1803 text 进行中
+					1804 text 已完成
+					1805 text 已逾期
+					1806 text 未批改
+					1807 text 部分批改
+					1808 text 已批改
+					1809 text 未查阅
+					1810 text 部分查阅
+					1811 text 已查阅
+					1812 container
+						1813 button 班级： ( 全部 ) 
+							1814 text 班级：
+							1815 text (
+							1816 text 全部
+							1817 text )
+							1818 text 
+						1819 text 时间
+						1820 text 
+						1821 container
+							1822 text 
+						1823 text field (settable)
+						1824 text -
+						1825 text field (settable)
+						1826 text 筛选
+						1827 container
+							1828 text 排序
+							1829 image
+						1830 button 重置
+						1831 text 
+						1832 text field (settable) 【调研测试】视频课件-PDF详情_20261023
+						1833 text 
+						1834 button
+						1835 button
+					1836 container
+						1837 table
+							1838 row
+								1839 cell
+									1840 text 作业名称
+								1841 cell
+									1842 text 状态
+								1843 cell
+									1844 text 收藏
+								1845 cell
+									1846 text 班级
+								1847 cell
+									1848 text 截止时间
+								1849 cell
+									1850 text 题目数
+								1851 cell
+									1852 text 布置老师
+								1853 cell
+									1854 text 批改老师
+								1855 cell
+									1856 text 平均成绩
+								1857 cell
+									1858 text 完成数
+								1859 cell
+									1860 text 批改数
+								1861 cell
+									1862 text 学生数
+						1863 table
+							1864 row
+								1865 cell
+									1866 image
+									1867 text 【调研测试】视频课件-PDF详情_20261023
+								1868 cell
+									1869 text 已完成
+								1870 cell
+									1871 text 
+								1872 cell
+									1873 text 王小格-SAT
+								1874 cell
+									1875 text 2026-10-23 11:30 至 2026-10-24 23:30
+								1876 cell
+									1877 text -
+								1878 cell
+									1879 text 王思贤
+								1880 cell
+									1881 text 王思贤
+								1882 cell
+									1883 text -
+								1884 cell
+									1885 text -
+								1886 cell
+									1887 text -
+								1888 cell
+									1889 text -
+								1890 cell
+									1891 button 查看详情
+									1892 button 
+										1893 text 
+						1894 text 共 1 条
+						1895 button 50 条/页 
+							1896 text 50 条/页
+							1897 text 
+						1898 button 1
+						1899 text 前往
+						1900 text field (settable)
+						1901 text 页
+					114 container
+						115 text  返回作业管理
+					116 image
+					117 text 日期
+					118 text /
+					119 text 批改老师
+					120 text -
+					121 text 打卡频次 平均成绩 完成数 0 /- 批改数 0 /-
+					122 container
+						123 button AI作业分析
+							124 image
+							125 text AI作业分析
+						126 image
+					127 container
+						128 tab group
+							129 container
+								130 tab (selected, settable, boolean) 参与学生, Value: 1
+								131 tab (settable) 题目
+								132 tab (settable) 统计
+								133 tab (settable) 排行榜
+						134 text 当天打卡率 0% 0/0已打卡
+						135 image
+						136 text 暂无数据，还没有学生的打卡内容~
+					137 container
+						138 text  返回作业管理
+					139 image
+					140 text 日期
+					141 text /
+					142 text 题目数
+					143 text 批改老师
+					144 text -
+					145 text 平均成绩 完成数 0 /- 批改数 0 /-
+					146 container
+						147 button AI作业分析
+							148 image
+							149 text AI作业分析
+						150 image
+					151 button 再次布置
+					152 button 预览
+					153 tab group
+						154 container
+							155 tab (selected, settable, boolean) 参与学生, Value: 1
+							156 tab (settable) 统计
+							157 tab (settable) 排行榜
+					158 container
+						159 image
+						160 text 暂无数据~
+					1902 container
+						1903 text  返回作业管理
+					1904 image
+					1905 text 视频课件
+					1906 text 已完成
+					1907 text 【调研测试】视频课件-PDF详情_20261023
+					1908 text 王小格-SAT
+					1909 text 日期
+					1910 text 2026-10-23 11:30/2026-10-24 23:30
+					1911 text 布置老师
+					1912 text 王思贤
+					1913 text 题目数
+					1914 text 1
+					1915 text 批改老师
+					1916 text 王思贤
+					1917 text 平均成绩 - 完成数 1 /1 批改数 0 /1
+					1918 tab group
+						1919 container
+							1920 tab (selected, settable, boolean) 参与学生, Value: 1
+							1921 tab (settable) 课件
+					1922 container
+						1923 table
+							1924 row
+								1925 cell
+									1926 text 学生
+						1927 table
+							1928 row
+								1929 cell
+									1930 image
+									1931 text 王小格
+								1932 cell
+									1933 text 1/1
+			161 image AI
+
+The focused UI element is 1891 button 查看详情

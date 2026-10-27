@@ -1,0 +1,390 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业管理
+- generic: 
+- text: 布置作业
+- list:
+  - generic: 全部作业
+  - generic: (4)
+  - generic: 单词作业
+  - generic: 打卡作业
+  - generic: (4)
+  - generic: 作业模考
+  - generic: 视频课件
+  - generic: 实时作业
+  - generic: 未下发作业
+  - generic: 我的批改
+  - generic: 我布置的
+  - generic: 收藏作业
+- generic: 打卡作业
+- generic: 科目：
+- generic: 全部
+- generic: 雅思
+- generic: 托福
+- generic: AP
+- generic: SAT
+- generic: 状态：
+- generic: 全部
+- generic: 未开始
+- generic: 进行中
+- generic: 已完成
+- generic: 已逾期
+- generic: 未批改
+- generic: 部分批改
+- generic: 已批改
+- generic: 未查阅
+- generic: 部分查阅
+- generic: 已查阅
+- button "班级： ( 全部 ) ":
+  - text: 班级：
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- text: 时间
+- generic: 
+- generic: 
+- textbox "开始日期"
+- generic: "-"
+- textbox "结束日期"
+- generic: 筛选
+- generic: 排序
+- button "重置"
+- generic: 
+- textbox "请输入作业名称": 口译录音
+- generic: 
+- radiogroup:
+  - button
+  - button
+- table:
+  - rowgroup:
+    - row "作业名称 状态 收藏 班级 截止时间 题目数 布置老师 批改老师 平均成绩 完成数 批改数 学生数":
+      - columnheader "作业名称":
+        - generic: 作业名称
+      - columnheader "状态":
+        - generic: 状态
+      - columnheader "收藏":
+        - generic: 收藏
+      - columnheader "班级":
+        - generic: 班级
+      - columnheader "截止时间":
+        - generic: 截止时间
+      - columnheader "题目数":
+        - generic: 题目数
+      - columnheader "布置老师":
+        - generic: 布置老师
+      - columnheader "批改老师":
+        - generic: 批改老师
+      - columnheader "平均成绩":
+        - generic: 平均成绩
+      - columnheader "完成数":
+        - generic: 完成数
+      - columnheader "批改数":
+        - generic: 批改数
+      - columnheader "学生数":
+        - generic: 学生数
+      - columnheader
+- table:
+  - rowgroup:
+    - row "【调研测试】视频课件-PDF详情_20261023 未开始  王小格-SAT 2026-10-23 11:30 至 2026-10-24 23:30 - 王思贤 王思贤 - - - - 查看详情 ":
+      - cell "【调研测试】视频课件-PDF详情_20261023":
+        - generic: 口译录音
+      - cell "未开始":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "王小格-SAT":
+        - generic: YS2409ZND006
+      - cell "2026-10-23 11:30 至 2026-10-24 23:30":
+        - generic: 2024-10-02 至 2024-10-03 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "王思贤":
+        - generic: 高源
+      - cell "王思贤":
+        - generic: 高源
+      - cell "-":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "新托福写作模考 +1  TF2410LXC005 2026-05-14 12:00 至 2026-06-30 23:30 12 王思贤 王思贤 - 0 0 1 查看详情 预览 ":
+      - cell "新托福写作模考":
+        - generic: 口译录音
+      - cell "+1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "TF2410LXC005":
+        - generic: YS2409ZND013
+      - cell "2026-05-14 12:00 至 2026-06-30 23:30":
+        - generic: 2024-10-02 至 2024-10-03 22:00
+      - cell "12":
+        - generic: "-"
+      - cell "王思贤":
+        - generic: 高源
+      - cell "王思贤":
+        - generic: 高源
+      - cell "-":
+        - generic: 打卡率:11%
+      - cell "0":
+        - generic: "-"
+      - cell "0":
+        - generic: "-"
+      - cell "1":
+        - generic: "-"
+      - cell "查看详情 预览 ":
+        - button "查看详情" [active]
+        - button "":
+          - generic: 
+    - row "写作练习 +1  测试班002 2026-03-21 19:30 至 2026-03-22 23:30 6 李宝燕 李冰晖/李宝燕 - 0 0 5 查看详情 预览 ":
+      - cell "写作练习":
+        - generic: 口译录音
+      - cell "+1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "测试班002":
+        - generic: 刘赢
+      - cell "2026-03-21 19:30 至 2026-03-22 23:30":
+        - generic: 2024-10-02 至 2024-10-03 22:00
+      - cell "6":
+        - generic: "-"
+      - cell "李宝燕":
+        - generic: 高源
+      - cell "李冰晖/李宝燕":
+        - generic: 高源
+      - cell "-":
+        - generic: 打卡率:0%
+      - cell "0":
+        - generic: "-"
+      - cell "0":
+        - generic: "-"
+      - cell "5":
+        - generic: "-"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "3.18 阅读写作一套 已批改  柳昶君 2026-03-18 15:17 至 2026-03-19 23:30 42 吴小芬 张琼/卢思云/吴小芬 3 1 1 1 查看详情 预览 ":
+      - cell "3.18 阅读写作一套":
+        - generic: 口译录音
+      - cell "已批改":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "柳昶君":
+        - generic: 周千皓
+      - cell "2026-03-18 15:17 至 2026-03-19 23:30":
+        - generic: 2024-10-02 至 2024-10-03 22:00
+      - cell "42":
+        - generic: "-"
+      - cell "吴小芬":
+        - generic: 高源
+      - cell "张琼/卢思云/吴小芬":
+        - generic: 高源
+      - cell "3":
+        - generic: 打卡率:0%
+      - cell "1":
+        - generic: "-"
+      - cell "1":
+        - generic: "-"
+      - cell "1":
+        - generic: "-"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+- generic: 共 4 条
+- button "50 条/页 ":
+  - text: 50 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button [disabled]:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 返回作业管理
+- generic: 打卡作业
+- generic: 已逾期
+- generic: 进行中
+- generic: 口译录音
+- generic: YS2409ZND013
+- generic: 日期
+- generic: 2024-10-02/2024-10-03 22:00
+- generic: 布置老师
+- generic: 高源
+- generic: 批改老师
+- generic: 高源
+- generic: 打卡频次
+- generic: 周一
+- generic: 周二
+- generic: 周三
+- generic: 周四
+- generic: 周五
+- generic: 周六
+- generic: 周日
+- generic: 打卡率
+- generic: 11%
+- generic: 完成数
+- text: "2"
+- generic: /9
+- generic: 批改数
+- generic: "-"
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- tablist:
+  - tab "参与学生" [selected]:
+    - generic: 参与学生
+  - tab "题目":
+    - generic: 题目
+  - tab "统计":
+    - generic: 统计
+  - tab "排行榜":
+    - generic: 排行榜
+- paragraph: "02"
+- paragraph: 十月
+- paragraph: "03"
+- paragraph: 十月
+- generic: 当天打卡率 11%
+- generic: 提醒打卡
+- generic: 1/9已打卡
+- generic: 浩翔
+- paragraph: 张浩翔
+- paragraph: 发布于 2024-10-03
+- generic: 暂未评分
+- generic: 00:00/01:39
+- slider "slider between 0 and 100"
+- img "后退10秒"
+- img "前进10秒"
+- img "播放速度"
+- text: 批改评分
+- text: A
+- superscript: +
+- generic: A
+- generic: B
+- generic: C
+- generic: D
+- paragraph: 暂无数据，还没有老师点评~
+- textbox "写下你的点评"
+- generic: 图片
+- button "发布" [disabled]:
+  - generic: 发布
+- text: 
+- generic: 
+- text: 
+- generic: 共 1 条
+- textbox "请选择": 5条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+- button "" [disabled]:
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 返回作业管理
+- generic: 作业模考
+- generic: 已批改
+- generic: 测试自定义
+- generic: 测试班002
+- generic: 日期
+- generic: 2026-04-08 09:30/2026-04-09 23:30
+- generic: 布置老师
+- generic: 王思贤
+- generic: 题目数
+- generic: "1"
+- generic: 批改老师
+- generic: 王思贤
+- generic: 平均成绩
+- generic: "0"
+- generic: 完成数
+- text: "1"
+- generic: /1
+- generic: 批改数
+- text: "1"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "再次布置"
+- button "预览"
+- tablist:
+  - tab "参与学生":
+    - generic: 参与学生
+  - tab "统计" [selected]:
+    - generic: 统计
+  - tab "排行榜":
+    - generic: 排行榜
+- text: 
+- paragraph: 富文本内容
+- paragraph
+- paragraph: 新建 DOCX 文档.docx
+- paragraph
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:                              
+- generic: 
+- text:                                                                                                                                                                                                                                                                                                                              

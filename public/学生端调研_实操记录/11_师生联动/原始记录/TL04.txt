@@ -1,0 +1,2430 @@
+Browser tab: 67, Title: "老师管理后台", URL: "https://learninghub.xhd.cn/org/teacher.html?xiaov=20261122&flagl=c12".
+1 AXWebArea 老师管理后台, URL: learninghub.xhd.cn/org/teacher.html?xiaov=20261122&flagl=c12
+	2 container
+		3 container myweb
+			4 container root-menu
+				5 container
+					6 image
+					7 text 首页
+				8 container
+					9 image
+					10 text 学员
+				11 container
+					12 image
+					13 text 班级
+				14 container
+					15 image
+					16 text 作业
+				17 container
+					18 image
+					19 text 课表
+				20 container
+					21 image
+					22 text 题库
+				23 container
+					24 image
+					25 text 教研
+				26 container
+					27 image
+					28 text 云盘
+				29 container
+					30 image
+					31 text 申请
+			32 container root-mv-right
+				33 container root-mv-header
+					34 image
+					35 container
+						36 text field (settable)
+						37 text 
+					38 button icon
+						39 image icon
+					40 button icon
+						41 image icon
+					42 container
+						43 text 
+						44 button icon
+							45 image icon
+					46 container
+						47 button icon
+							48 image icon
+						49 text 246
+					50 button icon
+						51 image icon
+					52 container
+						53 image
+						54 text 0
+					55 text 思贤
+				56 container root-container
+					57 container
+						58 text 作业管理
+						1857 text 
+						60 text 布置作业
+						61 content list
+							62 container
+								63 image
+								64 text 全部作业
+								65 text (17758)
+							66 container
+								67 image
+								68 text 单词作业
+								69 text (1995)
+							70 container
+								71 image
+								72 text 打卡作业
+								73 text (15)
+							74 container
+								75 image
+								76 text 作业模考
+								77 text (15747)
+							78 container
+								79 image
+								80 text 视频课件
+								81 text (1)
+							82 container
+								83 image
+								84 text 实时作业
+							85 container
+								86 image
+								87 text 未下发作业
+							88 container
+								89 image
+								90 text 我的批改
+								91 text (520)
+							92 container
+								93 image
+								94 text 我布置的
+								95 text (518)
+							96 container
+								97 image
+								98 text 收藏作业
+						99 text 全部作业
+						100 text 科目：
+						101 text 全部
+						102 text 雅思
+						103 text 托福
+						104 text AP
+						105 text SAT
+						106 text 状态：
+						107 text 全部
+						108 text 未开始
+						109 text 进行中
+						110 text 已完成
+						111 text 已逾期
+						112 text 未批改
+						113 text 部分批改
+						114 text 已批改
+						115 text 未查阅
+						116 text 部分查阅
+						117 text 已查阅
+						118 container
+							119 button 班级： ( 全部 ) 
+								120 text 班级：
+								121 text (
+								122 text 全部
+								123 text )
+								124 text 
+							125 text 时间
+							126 text 
+							127 container
+								128 text 
+							129 text field (settable)
+							130 text -
+							131 text field (settable)
+							132 text 筛选
+							133 container
+								134 text 排序
+								135 image
+							136 button 重置
+							137 text 
+							138 text field (settable)
+							139 button
+							140 button
+						141 container
+							142 table
+								143 row
+									144 cell
+										145 text 作业名称
+									146 cell
+										147 text 状态
+									148 cell
+										149 text 收藏
+									150 cell
+										151 text 班级
+									152 cell
+										153 text 截止时间
+									154 cell
+										155 text 题目数
+									156 cell
+										157 text 布置老师
+									158 cell
+										159 text 批改老师
+									160 cell
+										161 text 平均成绩
+									162 cell
+										163 text 完成数
+									164 cell
+										165 text 批改数
+									166 cell
+										167 text 学生数
+							168 table
+								169 row
+									170 cell
+										171 image
+										172 text 篇章跟读-Cambridge IELTS 12 Test8 Section4
+									173 cell
+										174 text 未开始
+									175 cell
+										176 text 
+									177 cell
+										178 text YS2501ZND007
+									179 cell
+										180 text 2025-05-28 17:30 至 2028-05-21 22:00
+									181 cell
+										182 text 39
+									183 cell
+										184 text 高源
+									185 cell
+										186 text 高源
+									187 cell
+										188 text -
+									189 cell
+										190 text 0
+									191 cell
+										192 text 0
+									193 cell
+										194 text 8
+									195 cell
+										196 button 查看详情
+										197 button 预览
+										198 button 
+											199 text 
+								200 row
+									201 cell
+										202 image
+										203 text 篇章跟读-Cambridge IELTS 12 Test8 Section4
+									204 cell
+										205 text 未开始
+									206 cell
+										207 text 
+									208 cell
+										209 text YS2503ZND009
+									210 cell
+										211 text 2025-05-28 17:30 至 2028-05-21 22:00
+									212 cell
+										213 text 39
+									214 cell
+										215 text 高源
+									216 cell
+										217 text 高源
+									218 cell
+										219 text -
+									220 cell
+										221 text 0
+									222 cell
+										223 text 0
+									224 cell
+										225 text 6
+									226 cell
+										227 button 查看详情
+										228 button 预览
+										229 button 
+											230 text 
+								231 row
+									232 cell
+										233 image
+										234 text 篇章跟读-Cambridge IELTS 12 Test8 Section4
+									235 cell
+										236 text 未开始
+									237 cell
+										238 text 
+									239 cell
+										240 text YS2503ZND002
+									241 cell
+										242 text 2025-05-28 17:30 至 2028-05-21 22:00
+									243 cell
+										244 text 39
+									245 cell
+										246 text 高源
+									247 cell
+										248 text 高源
+									249 cell
+										250 text -
+									251 cell
+										252 text 0
+									253 cell
+										254 text 0
+									255 cell
+										256 text 12
+									257 cell
+										258 button 查看详情
+										259 button 预览
+										260 button 
+											261 text 
+								262 row
+									263 cell
+										264 image
+										265 text 篇章跟读-Cambridge IELTS 12 Test8 Section4
+									266 cell
+										267 text 未开始
+									268 cell
+										269 text 
+									270 cell
+										271 text 邵旻思
+									272 cell
+										273 text 2025-05-28 17:30 至 2028-05-21 22:00
+									274 cell
+										275 text 39
+									276 cell
+										277 text 高源
+									278 cell
+										279 text 高源
+									280 cell
+										281 text -
+									282 cell
+										283 text 0
+									284 cell
+										285 text 0
+									286 cell
+										287 text 1
+									288 cell
+										289 button 查看详情
+										290 button 预览
+										291 button 
+											292 text 
+								293 row
+									294 cell
+										295 image
+										296 text 篇章跟读-新概念2 Lesson91 Three Men in a Basket
+									297 cell
+										298 text 未开始
+									299 cell
+										300 text 
+									301 cell
+										302 text 锦秋武昌-陈梓豪雅思
+									303 cell
+										304 text 2025-06-26 22:00 至 2027-06-20 23:30
+									305 cell
+										306 text 11
+									307 cell
+										308 text 高源
+									309 cell
+										310 text 高源
+									311 cell
+										312 text -
+									313 cell
+										314 text 0
+									315 cell
+										316 text 0
+									317 cell
+										318 text 1
+									319 cell
+										320 button 查看详情
+										321 button 预览
+										322 button 
+											323 text 
+								324 row
+									325 cell
+										326 image
+										327 text 篇章跟读-新概念2 Lesson91 Three Men in a Basket
+									328 cell
+										329 text 部分查阅
+									330 cell
+										331 text 
+									332 cell
+										333 text YS2503ZND002
+									334 cell
+										335 text 2025-06-26 22:00 至 2027-06-20 23:30
+									336 cell
+										337 text 11
+									338 cell
+										339 text 高源
+									340 cell
+										341 text 高源
+									342 cell
+										343 text 91
+									344 cell
+										345 text 1
+									346 cell
+										347 text 0
+									348 cell
+										349 text 12
+									350 cell
+										351 button 查看详情
+										352 button 预览
+										353 button 
+											354 text 
+								355 row
+									356 cell
+										357 image
+										358 text 篇章跟读-新概念2 Lesson88 Trapped in a Mine
+									359 cell
+										360 text 未开始
+									361 cell
+										362 text 
+									363 cell
+										364 text 锦秋武昌-陈梓豪雅思
+									365 cell
+										366 text 2025-06-26 22:00 至 2027-06-20 23:30
+									367 cell
+										368 text 13
+									369 cell
+										370 text 高源
+									371 cell
+										372 text 高源
+									373 cell
+										374 text -
+									375 cell
+										376 text 0
+									377 cell
+										378 text 0
+									379 cell
+										380 text 1
+									381 cell
+										382 button 查看详情
+										383 button 预览
+										384 button 
+											385 text 
+								386 row
+									387 cell
+										388 image
+										389 text 篇章跟读-新概念2 Lesson88 Trapped in a Mine
+									390 cell
+										391 text 进行中
+									392 cell
+										393 text 
+									394 cell
+										395 text YS2503ZND002
+									396 cell
+										397 text 2025-06-26 22:00 至 2027-06-20 23:30
+									398 cell
+										399 text 13
+									400 cell
+										401 text 高源
+									402 cell
+										403 text 高源
+									404 cell
+										405 text 87
+									406 cell
+										407 text 1
+									408 cell
+										409 text 0
+									410 cell
+										411 text 12
+									412 cell
+										413 button 查看详情
+										414 button 预览
+										415 button 
+											416 text 
+								417 row
+									418 cell
+										419 image
+										420 text 篇章跟读-新概念2 Lesson89 A Slip of the Tongue
+									421 cell
+										422 text 未开始
+									423 cell
+										424 text 
+									425 cell
+										426 text 锦秋武昌-陈梓豪雅思
+									427 cell
+										428 text 2025-06-26 22:00 至 2027-06-20 23:30
+									429 cell
+										430 text 10
+									431 cell
+										432 text 高源
+									433 cell
+										434 text 高源
+									435 cell
+										436 text -
+									437 cell
+										438 text 0
+									439 cell
+										440 text 0
+									441 cell
+										442 text 1
+									443 cell
+										444 button 查看详情
+										445 button 预览
+										446 button 
+											447 text 
+								448 row
+									449 cell
+										450 image
+										451 text 篇章跟读-新概念2 Lesson89 A Slip of the Tongue
+									452 cell
+										453 text 部分查阅
+									454 cell
+										455 text 
+									456 cell
+										457 text YS2503ZND002
+									458 cell
+										459 text 2025-06-26 22:00 至 2027-06-20 23:30
+									460 cell
+										461 text 10
+									462 cell
+										463 text 高源
+									464 cell
+										465 text 高源
+									466 cell
+										467 text 93
+									468 cell
+										469 text 1
+									470 cell
+										471 text 0
+									472 cell
+										473 text 12
+									474 cell
+										475 button 查看详情
+										476 button 预览
+										477 button 
+											478 text 
+								479 row
+									480 cell
+										481 image
+										482 text 篇章跟读-新概念2 Lesson90 What's for Supper?
+									483 cell
+										484 text 未开始
+									485 cell
+										486 text 
+									487 cell
+										488 text 锦秋武昌-陈梓豪雅思
+									489 cell
+										490 text 2025-06-26 22:00 至 2027-06-20 23:30
+									491 cell
+										492 text 10
+									493 cell
+										494 text 高源
+									495 cell
+										496 text 高源
+									497 cell
+										498 text -
+									499 cell
+										500 text 0
+									501 cell
+										502 text 0
+									503 cell
+										504 text 1
+									505 cell
+										506 button 查看详情
+										507 button 预览
+										508 button 
+											509 text 
+								510 row
+									511 cell
+										512 image
+										513 text 篇章跟读-新概念2 Lesson90 What's for Supper?
+									514 cell
+										515 text 部分查阅
+									516 cell
+										517 text 
+									518 cell
+										519 text YS2503ZND002
+									520 cell
+										521 text 2025-06-26 22:00 至 2027-06-20 23:30
+									522 cell
+										523 text 10
+									524 cell
+										525 text 高源
+									526 cell
+										527 text 高源
+									528 cell
+										529 text 91
+									530 cell
+										531 text 1
+									532 cell
+										533 text 0
+									534 cell
+										535 text 12
+									536 cell
+										537 button 查看详情
+										538 button 预览
+										539 button 
+											540 text 
+								541 row
+									542 cell
+										543 image
+										544 text 篇章跟读-新概念2 Lesson81 Escape
+									545 cell
+										546 text 未开始
+									547 cell
+										548 text 
+									549 cell
+										550 text 锦秋武昌-陈梓豪雅思
+									551 cell
+										552 text 2025-06-26 22:00 至 2027-06-20 23:30
+									553 cell
+										554 text 14
+									555 cell
+										556 text 高源
+									557 cell
+										558 text 高源
+									559 cell
+										560 text -
+									561 cell
+										562 text 0
+									563 cell
+										564 text 0
+									565 cell
+										566 text 1
+									567 cell
+										568 button 查看详情
+										569 button 预览
+										570 button 
+											571 text 
+								572 row
+									573 cell
+										574 image
+										575 text 篇章跟读-新概念2 Lesson81 Escape
+									576 cell
+										577 text 部分查阅
+									578 cell
+										579 text 
+									580 cell
+										581 text YS2503ZND002
+									582 cell
+										583 text 2025-06-26 22:00 至 2027-06-20 23:30
+									584 cell
+										585 text 14
+									586 cell
+										587 text 高源
+									588 cell
+										589 text 高源
+									590 cell
+										591 text 94
+									592 cell
+										593 text 1
+									594 cell
+										595 text 0
+									596 cell
+										597 text 12
+									598 cell
+										599 button 查看详情
+										600 button 预览
+										601 button 
+											602 text 
+								603 row
+									604 cell
+										605 image
+										606 text 篇章跟读-Cambridge IELTS 15 Test4 Section4
+									607 cell
+										608 text 未开始
+									609 cell
+										610 text 
+									611 cell
+										612 text 锦秋武昌-陈梓豪雅思
+									613 cell
+										614 text 2025-06-26 22:00 至 2027-06-20 23:30
+									615 cell
+										616 text 32
+									617 cell
+										618 text 高源
+									619 cell
+										620 text 高源
+									621 cell
+										622 text -
+									623 cell
+										624 text 0
+									625 cell
+										626 text 0
+									627 cell
+										628 text 1
+									629 cell
+										630 button 查看详情
+										631 button 预览
+										632 button 
+											633 text 
+								634 row
+									635 cell
+										636 image
+										637 text 篇章跟读-Cambridge IELTS 15 Test4 Section4
+									638 cell
+										639 text 部分查阅
+									640 cell
+										641 text 
+									642 cell
+										643 text YS2503ZND002
+									644 cell
+										645 text 2025-06-26 22:00 至 2027-06-20 23:30
+									646 cell
+										647 text 32
+									648 cell
+										649 text 高源
+									650 cell
+										651 text 高源
+									652 cell
+										653 text 90
+									654 cell
+										655 text 1
+									656 cell
+										657 text 0
+									658 cell
+										659 text 12
+									660 cell
+										661 button 查看详情
+										662 button 预览
+										663 button 
+											664 text 
+								665 row
+									666 cell
+										667 image
+										668 text 篇章跟读-Cambridge IELTS 16 Test1 Section1
+									669 cell
+										670 text 未开始
+									671 cell
+										672 text 
+									673 cell
+										674 text 锦秋武昌-陈梓豪雅思
+									675 cell
+										676 text 2025-06-26 22:00 至 2027-06-20 23:30
+									677 cell
+										678 text 60
+									679 cell
+										680 text 高源
+									681 cell
+										682 text 高源
+									683 cell
+										684 text -
+									685 cell
+										686 text 0
+									687 cell
+										688 text 0
+									689 cell
+										690 text 1
+									691 cell
+										692 button 查看详情
+										693 button 预览
+										694 button 
+											695 text 
+								696 row
+									697 cell
+										698 image
+										699 text 篇章跟读-Cambridge IELTS 16 Test1 Section1
+									700 cell
+										701 text 未开始
+									702 cell
+										703 text 
+									704 cell
+										705 text YS2503ZND002
+									706 cell
+										707 text 2025-06-26 22:00 至 2027-06-20 23:30
+									708 cell
+										709 text 60
+									710 cell
+										711 text 高源
+									712 cell
+										713 text 高源
+									714 cell
+										715 text -
+									716 cell
+										717 text 0
+									718 cell
+										719 text 0
+									720 cell
+										721 text 12
+									722 cell
+										723 button 查看详情
+										724 button 预览
+										725 button 
+											726 text 
+								727 row
+									728 cell
+										729 image
+										730 text 篇章跟读-Cambridge IELTS 15 Test2 Section3
+									731 cell
+										732 text 未开始
+									733 cell
+										734 text 
+									735 cell
+										736 text 锦秋武昌-陈梓豪雅思
+									737 cell
+										738 text 2025-06-26 22:00 至 2027-06-20 23:30
+									739 cell
+										740 text 75
+									741 cell
+										742 text 高源
+									743 cell
+										744 text 高源
+									745 cell
+										746 text -
+									747 cell
+										748 text 0
+									749 cell
+										750 text 0
+									751 cell
+										752 text 1
+									753 cell
+										754 button 查看详情
+										755 button 预览
+										756 button 
+											757 text 
+								758 row
+									759 cell
+										760 image
+										761 text 篇章跟读-Cambridge IELTS 15 Test2 Section3
+									762 cell
+										763 text 未开始
+									764 cell
+										765 text 
+									766 cell
+										767 text YS2503ZND002
+									768 cell
+										769 text 2025-06-26 22:00 至 2027-06-20 23:30
+									770 cell
+										771 text 75
+									772 cell
+										773 text 高源
+									774 cell
+										775 text 高源
+									776 cell
+										777 text -
+									778 cell
+										779 text 0
+									780 cell
+										781 text 0
+									782 cell
+										783 text 12
+									784 cell
+										785 button 查看详情
+										786 button 预览
+										787 button 
+											788 text 
+								789 row
+									790 cell
+										791 image
+										792 text 篇章跟读-Cambridge IELTS 16 Test1 Section2
+									793 cell
+										794 text 未开始
+									795 cell
+										796 text 
+									797 cell
+										798 text 锦秋武昌-陈梓豪雅思
+									799 cell
+										800 text 2025-06-26 22:00 至 2027-06-20 23:30
+									801 cell
+										802 text 36
+									803 cell
+										804 text 高源
+									805 cell
+										806 text 高源
+									807 cell
+										808 text -
+									809 cell
+										810 text 0
+									811 cell
+										812 text 0
+									813 cell
+										814 text 1
+									815 cell
+										816 button 查看详情
+										817 button 预览
+										818 button 
+											819 text 
+								820 row
+									821 cell
+										822 image
+										823 text 篇章跟读-Cambridge IELTS 16 Test1 Section2
+									824 cell
+										825 text 未开始
+									826 cell
+										827 text 
+									828 cell
+										829 text YS2503ZND002
+									830 cell
+										831 text 2025-06-26 22:00 至 2027-06-20 23:30
+									832 cell
+										833 text 36
+									834 cell
+										835 text 高源
+									836 cell
+										837 text 高源
+									838 cell
+										839 text -
+									840 cell
+										841 text 0
+									842 cell
+										843 text 0
+									844 cell
+										845 text 12
+									846 cell
+										847 button 查看详情
+										848 button 预览
+										849 button 
+											850 text 
+								851 row
+									852 cell
+										853 image
+										854 text 篇章跟读-Cambridge IELTS 16 Test1 Section3
+									855 cell
+										856 text 未开始
+									857 cell
+										858 text 
+									859 cell
+										860 text 锦秋武昌-陈梓豪雅思
+									861 cell
+										862 text 2025-06-26 22:00 至 2027-06-20 23:30
+									863 cell
+										864 text 73
+									865 cell
+										866 text 高源
+									867 cell
+										868 text 高源
+									869 cell
+										870 text -
+									871 cell
+										872 text 0
+									873 cell
+										874 text 0
+									875 cell
+										876 text 1
+									877 cell
+										878 button 查看详情
+										879 button 预览
+										880 button 
+											881 text 
+								882 row
+									883 cell
+										884 image
+										885 text 篇章跟读-Cambridge IELTS 16 Test1 Section3
+									886 cell
+										887 text 未开始
+									888 cell
+										889 text 
+									890 cell
+										891 text YS2503ZND002
+									892 cell
+										893 text 2025-06-26 22:00 至 2027-06-20 23:30
+									894 cell
+										895 text 73
+									896 cell
+										897 text 高源
+									898 cell
+										899 text 高源
+									900 cell
+										901 text -
+									902 cell
+										903 text 0
+									904 cell
+										905 text 0
+									906 cell
+										907 text 12
+									908 cell
+										909 button 查看详情
+										910 button 预览
+										911 button 
+											912 text 
+								913 row
+									914 cell
+										915 image
+										916 text 篇章跟读-Cambridge IELTS 16 Test1 Section4
+									917 cell
+										918 text 未开始
+									919 cell
+										920 text 
+									921 cell
+										922 text 锦秋武昌-陈梓豪雅思
+									923 cell
+										924 text 2025-06-26 22:00 至 2027-06-20 23:30
+									925 cell
+										926 text 32
+									927 cell
+										928 text 高源
+									929 cell
+										930 text 高源
+									931 cell
+										932 text -
+									933 cell
+										934 text 0
+									935 cell
+										936 text 0
+									937 cell
+										938 text 1
+									939 cell
+										940 button 查看详情
+										941 button 预览
+										942 button 
+											943 text 
+								944 row
+									945 cell
+										946 image
+										947 text 篇章跟读-Cambridge IELTS 16 Test1 Section4
+									948 cell
+										949 text 未开始
+									950 cell
+										951 text 
+									952 cell
+										953 text YS2503ZND002
+									954 cell
+										955 text 2025-06-26 22:00 至 2027-06-20 23:30
+									956 cell
+										957 text 32
+									958 cell
+										959 text 高源
+									960 cell
+										961 text 高源
+									962 cell
+										963 text -
+									964 cell
+										965 text 0
+									966 cell
+										967 text 0
+									968 cell
+										969 text 12
+									970 cell
+										971 button 查看详情
+										972 button 预览
+										973 button 
+											974 text 
+								975 row
+									976 cell
+										977 image
+										978 text 篇章跟读-Cambridge IELTS 15 Test3 Section3
+									979 cell
+										980 text 未开始
+									981 cell
+										982 text 
+									983 cell
+										984 text 锦秋武昌-陈梓豪雅思
+									985 cell
+										986 text 2025-06-26 22:00 至 2027-06-20 23:30
+									987 cell
+										988 text 52
+									989 cell
+										990 text 高源
+									991 cell
+										992 text 高源
+									993 cell
+										994 text -
+									995 cell
+										996 text 0
+									997 cell
+										998 text 0
+									999 cell
+										1000 text 1
+									1001 cell
+										1002 button 查看详情
+										1003 button 预览
+										1004 button 
+											1005 text 
+								1006 row
+									1007 cell
+										1008 image
+										1009 text 篇章跟读-Cambridge IELTS 15 Test3 Section3
+									1010 cell
+										1011 text 未开始
+									1012 cell
+										1013 text 
+									1014 cell
+										1015 text YS2503ZND002
+									1016 cell
+										1017 text 2025-06-26 22:00 至 2027-06-20 23:30
+									1018 cell
+										1019 text 52
+									1020 cell
+										1021 text 高源
+									1022 cell
+										1023 text 高源
+									1024 cell
+										1025 text -
+									1026 cell
+										1027 text 0
+									1028 cell
+										1029 text 0
+									1030 cell
+										1031 text 12
+									1032 cell
+										1033 button 查看详情
+										1034 button 预览
+										1035 button 
+											1036 text 
+								1037 row
+									1038 cell
+										1039 image
+										1040 text weather词汇
+									1041 cell
+										1042 text 未开始
+									1043 cell
+										1044 text 
+									1045 cell
+										1046 text 锦秋武昌-陈梓豪雅思
+									1047 cell
+										1048 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1049 cell
+										1050 text 2
+									1051 cell
+										1052 text 高源
+									1053 cell
+										1054 text 高源
+									1055 cell
+										1056 text -
+									1057 cell
+										1058 text 0
+									1059 cell
+										1060 text 0
+									1061 cell
+										1062 text 1
+									1063 cell
+										1064 button 查看详情
+										1065 button 预览
+										1066 button 
+											1067 text 
+								1068 row
+									1069 cell
+										1070 image
+										1071 text weather词汇
+									1072 cell
+										1073 text 未开始
+									1074 cell
+										1075 text 
+									1076 cell
+										1077 text 邵旻思
+									1078 cell
+										1079 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1080 cell
+										1081 text 3
+									1082 cell
+										1083 text 高源
+									1084 cell
+										1085 text 高源
+									1086 cell
+										1087 text -
+									1088 cell
+										1089 text 0
+									1090 cell
+										1091 text 0
+									1092 cell
+										1093 text 1
+									1094 cell
+										1095 button 查看详情
+										1096 button 预览
+										1097 button 
+											1098 text 
+								1099 row
+									1100 cell
+										1101 image
+										1102 text 口语
+									1103 cell
+										1104 text 未开始
+										1105 text +1
+									1106 cell
+										1107 text 
+									1108 cell
+										1109 text 锦秋武昌-陈梓豪雅思
+									1110 cell
+										1111 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1112 cell
+										1113 text 1
+									1114 cell
+										1115 text 高源
+									1116 cell
+										1117 text 高源
+									1118 cell
+										1119 text -
+									1120 cell
+										1121 text 0
+									1122 cell
+										1123 text 0
+									1124 cell
+										1125 text 1
+									1126 cell
+										1127 button 查看详情
+										1128 button 预览
+										1129 button 
+											1130 text 
+								1131 row
+									1132 cell
+										1133 image
+										1134 text 口语
+									1135 cell
+										1136 text 未开始
+										1137 text +1
+									1138 cell
+										1139 text 
+									1140 cell
+										1141 text 邵旻思
+									1142 cell
+										1143 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1144 cell
+										1145 text 1
+									1146 cell
+										1147 text 高源
+									1148 cell
+										1149 text 高源
+									1150 cell
+										1151 text -
+									1152 cell
+										1153 text 0
+									1154 cell
+										1155 text 0
+									1156 cell
+										1157 text 1
+									1158 cell
+										1159 button 查看详情
+										1160 button 预览
+										1161 button 
+											1162 text 
+								1163 row
+									1164 cell
+										1165 image
+										1166 text 口语
+									1167 cell
+										1168 text 未开始
+										1169 text +1
+									1170 cell
+										1171 text 
+									1172 cell
+										1173 text 锦秋武昌-陈梓豪雅思
+									1174 cell
+										1175 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1176 cell
+										1177 text 1
+									1178 cell
+										1179 text 高源
+									1180 cell
+										1181 text 高源
+									1182 cell
+										1183 text -
+									1184 cell
+										1185 text 0
+									1186 cell
+										1187 text 0
+									1188 cell
+										1189 text 1
+									1190 cell
+										1191 button 查看详情
+										1192 button 预览
+										1193 button 
+											1194 text 
+								1195 row
+									1196 cell
+										1197 image
+										1198 text 口语
+									1199 cell
+										1200 text 未开始
+										1201 text +1
+									1202 cell
+										1203 text 
+									1204 cell
+										1205 text 邵旻思
+									1206 cell
+										1207 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1208 cell
+										1209 text 1
+									1210 cell
+										1211 text 高源
+									1212 cell
+										1213 text 高源
+									1214 cell
+										1215 text -
+									1216 cell
+										1217 text 0
+									1218 cell
+										1219 text 0
+									1220 cell
+										1221 text 1
+									1222 cell
+										1223 button 查看详情
+										1224 button 预览
+										1225 button 
+											1226 text 
+								1227 row
+									1228 cell
+										1229 image
+										1230 text 口语
+									1231 cell
+										1232 text 未开始
+										1233 text +1
+									1234 cell
+										1235 text 
+									1236 cell
+										1237 text 锦秋武昌-陈梓豪雅思
+									1238 cell
+										1239 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1240 cell
+										1241 text 1
+									1242 cell
+										1243 text 高源
+									1244 cell
+										1245 text 高源
+									1246 cell
+										1247 text -
+									1248 cell
+										1249 text 0
+									1250 cell
+										1251 text 0
+									1252 cell
+										1253 text 1
+									1254 cell
+										1255 button 查看详情
+										1256 button 预览
+										1257 button 
+											1258 text 
+								1259 row
+									1260 cell
+										1261 image
+										1262 text 口语
+									1263 cell
+										1264 text 未开始
+										1265 text +1
+									1266 cell
+										1267 text 
+									1268 cell
+										1269 text 邵旻思
+									1270 cell
+										1271 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1272 cell
+										1273 text 1
+									1274 cell
+										1275 text 高源
+									1276 cell
+										1277 text 高源
+									1278 cell
+										1279 text -
+									1280 cell
+										1281 text 0
+									1282 cell
+										1283 text 0
+									1284 cell
+										1285 text 1
+									1286 cell
+										1287 button 查看详情
+										1288 button 预览
+										1289 button 
+											1290 text 
+								1291 row
+									1292 cell
+										1293 image
+										1294 text 口语
+									1295 cell
+										1296 text 未开始
+										1297 text +1
+									1298 cell
+										1299 text 
+									1300 cell
+										1301 text 锦秋武昌-陈梓豪雅思
+									1302 cell
+										1303 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1304 cell
+										1305 text 1
+									1306 cell
+										1307 text 高源
+									1308 cell
+										1309 text 高源
+									1310 cell
+										1311 text -
+									1312 cell
+										1313 text 0
+									1314 cell
+										1315 text 0
+									1316 cell
+										1317 text 1
+									1318 cell
+										1319 button 查看详情
+										1320 button 预览
+										1321 button 
+											1322 text 
+								1323 row
+									1324 cell
+										1325 image
+										1326 text 口语
+									1327 cell
+										1328 text 未开始
+										1329 text +1
+									1330 cell
+										1331 text 
+									1332 cell
+										1333 text 邵旻思
+									1334 cell
+										1335 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1336 cell
+										1337 text 1
+									1338 cell
+										1339 text 高源
+									1340 cell
+										1341 text 高源
+									1342 cell
+										1343 text -
+									1344 cell
+										1345 text 0
+									1346 cell
+										1347 text 0
+									1348 cell
+										1349 text 1
+									1350 cell
+										1351 button 查看详情
+										1352 button 预览
+										1353 button 
+											1354 text 
+								1355 row
+									1356 cell
+										1357 image
+										1358 text 2025年5-8月口语题库Part 2
+									1359 cell
+										1360 text 未开始
+										1361 text +1
+									1362 cell
+										1363 text 
+									1364 cell
+										1365 text 锦秋武昌-陈梓豪雅思
+									1366 cell
+										1367 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1368 cell
+										1369 text 1
+									1370 cell
+										1371 text 高源
+									1372 cell
+										1373 text 高源
+									1374 cell
+										1375 text -
+									1376 cell
+										1377 text 0
+									1378 cell
+										1379 text 0
+									1380 cell
+										1381 text 1
+									1382 cell
+										1383 button 查看详情
+										1384 button 预览
+										1385 button 
+											1386 text 
+								1387 row
+									1388 cell
+										1389 image
+										1390 text 2025年5-8月口语题库Part 2
+									1391 cell
+										1392 text 未开始
+										1393 text +1
+									1394 cell
+										1395 text 
+									1396 cell
+										1397 text 邵旻思
+									1398 cell
+										1399 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1400 cell
+										1401 text 1
+									1402 cell
+										1403 text 高源
+									1404 cell
+										1405 text 高源
+									1406 cell
+										1407 text -
+									1408 cell
+										1409 text 0
+									1410 cell
+										1411 text 0
+									1412 cell
+										1413 text 1
+									1414 cell
+										1415 button 查看详情
+										1416 button 预览
+										1417 button 
+											1418 text 
+								1419 row
+									1420 cell
+										1421 image
+										1422 text 2025年5-8月口语题库Part 2
+									1423 cell
+										1424 text 未开始
+										1425 text +1
+									1426 cell
+										1427 text 
+									1428 cell
+										1429 text 锦秋武昌-陈梓豪雅思
+									1430 cell
+										1431 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1432 cell
+										1433 text 1
+									1434 cell
+										1435 text 高源
+									1436 cell
+										1437 text 高源
+									1438 cell
+										1439 text -
+									1440 cell
+										1441 text 0
+									1442 cell
+										1443 text 0
+									1444 cell
+										1445 text 1
+									1446 cell
+										1447 button 查看详情
+										1448 button 预览
+										1449 button 
+											1450 text 
+								1451 row
+									1452 cell
+										1453 image
+										1454 text 2025年5-8月口语题库Part 2
+									1455 cell
+										1456 text 未开始
+										1457 text +1
+									1458 cell
+										1459 text 
+									1460 cell
+										1461 text 邵旻思
+									1462 cell
+										1463 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1464 cell
+										1465 text 1
+									1466 cell
+										1467 text 高源
+									1468 cell
+										1469 text 高源
+									1470 cell
+										1471 text -
+									1472 cell
+										1473 text 0
+									1474 cell
+										1475 text 0
+									1476 cell
+										1477 text 1
+									1478 cell
+										1479 button 查看详情
+										1480 button 预览
+										1481 button 
+											1482 text 
+								1483 row
+									1484 cell
+										1485 image
+										1486 text 2025年5-8月口语题库Part 2&3 老题/环保人士/口语/Part 3
+									1487 cell
+										1488 text 未开始
+										1489 text +1
+									1490 cell
+										1491 text 
+									1492 cell
+										1493 text 锦秋武昌-陈梓豪雅思
+									1494 cell
+										1495 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1496 cell
+										1497 text 1
+									1498 cell
+										1499 text 高源
+									1500 cell
+										1501 text 高源
+									1502 cell
+										1503 text -
+									1504 cell
+										1505 text 0
+									1506 cell
+										1507 text 0
+									1508 cell
+										1509 text 1
+									1510 cell
+										1511 button 查看详情
+										1512 button 预览
+										1513 button 
+											1514 text 
+								1515 row
+									1516 cell
+										1517 image
+										1518 text 2025年5-8月口语题库Part 2&3 老题/环保人士/口语/Part 3
+									1519 cell
+										1520 text 未开始
+										1521 text +1
+									1522 cell
+										1523 text 
+									1524 cell
+										1525 text 邵旻思
+									1526 cell
+										1527 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1528 cell
+										1529 text 1
+									1530 cell
+										1531 text 高源
+									1532 cell
+										1533 text 高源
+									1534 cell
+										1535 text -
+									1536 cell
+										1537 text 0
+									1538 cell
+										1539 text 0
+									1540 cell
+										1541 text 1
+									1542 cell
+										1543 button 查看详情
+										1544 button 预览
+										1545 button 
+											1546 text 
+								1547 row
+									1548 cell
+										1549 image
+										1550 text 2025年5-8月口语题库Part 2&3 老题/想去的外国/口语/Part 3
+									1551 cell
+										1552 text 未开始
+										1553 text +1
+									1554 cell
+										1555 text 
+									1556 cell
+										1557 text 锦秋武昌-陈梓豪雅思
+									1558 cell
+										1559 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1560 cell
+										1561 text 1
+									1562 cell
+										1563 text 高源
+									1564 cell
+										1565 text 高源
+									1566 cell
+										1567 text -
+									1568 cell
+										1569 text 0
+									1570 cell
+										1571 text 0
+									1572 cell
+										1573 text 1
+									1574 cell
+										1575 button 查看详情
+										1576 button 预览
+										1577 button 
+											1578 text 
+								1579 row
+									1580 cell
+										1581 image
+										1582 text 2025年5-8月口语题库Part 2&3 老题/想去的外国/口语/Part 3
+									1583 cell
+										1584 text 未开始
+										1585 text +1
+									1586 cell
+										1587 text 
+									1588 cell
+										1589 text 邵旻思
+									1590 cell
+										1591 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1592 cell
+										1593 text 1
+									1594 cell
+										1595 text 高源
+									1596 cell
+										1597 text 高源
+									1598 cell
+										1599 text -
+									1600 cell
+										1601 text 0
+									1602 cell
+										1603 text 0
+									1604 cell
+										1605 text 1
+									1606 cell
+										1607 button 查看详情
+										1608 button 预览
+										1609 button 
+											1610 text 
+								1611 row
+									1612 cell
+										1613 image
+										1614 text 2025年5-8月口语题库Part 2
+									1615 cell
+										1616 text 未开始
+										1617 text +1
+									1618 cell
+										1619 text 
+									1620 cell
+										1621 text 锦秋武昌-陈梓豪雅思
+									1622 cell
+										1623 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1624 cell
+										1625 text 1
+									1626 cell
+										1627 text 高源
+									1628 cell
+										1629 text 高源
+									1630 cell
+										1631 text -
+									1632 cell
+										1633 text 0
+									1634 cell
+										1635 text 0
+									1636 cell
+										1637 text 1
+									1638 cell
+										1639 button 查看详情
+										1640 button 预览
+										1641 button 
+											1642 text 
+								1643 row
+									1644 cell
+										1645 image
+										1646 text 2025年5-8月口语题库Part 2
+									1647 cell
+										1648 text 未开始
+										1649 text +1
+									1650 cell
+										1651 text 
+									1652 cell
+										1653 text 邵旻思
+									1654 cell
+										1655 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1656 cell
+										1657 text 1
+									1658 cell
+										1659 text 高源
+									1660 cell
+										1661 text 高源
+									1662 cell
+										1663 text -
+									1664 cell
+										1665 text 0
+									1666 cell
+										1667 text 0
+									1668 cell
+										1669 text 1
+									1670 cell
+										1671 button 查看详情
+										1672 button 预览
+										1673 button 
+											1674 text 
+								1675 row
+									1676 cell
+										1677 image
+										1678 text 2025年5-8月口语题库Part 2&3 老题/诗句或歌词/口语/Part 3
+									1679 cell
+										1680 text 未开始
+										1681 text +1
+									1682 cell
+										1683 text 
+									1684 cell
+										1685 text 锦秋武昌-陈梓豪雅思
+									1686 cell
+										1687 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1688 cell
+										1689 text 1
+									1690 cell
+										1691 text 高源
+									1692 cell
+										1693 text 高源
+									1694 cell
+										1695 text -
+									1696 cell
+										1697 text 0
+									1698 cell
+										1699 text 0
+									1700 cell
+										1701 text 1
+									1702 cell
+										1703 button 查看详情
+										1704 button 预览
+										1705 button 
+											1706 text 
+								1707 row
+									1708 cell
+										1709 image
+										1710 text 2025年5-8月口语题库Part 2&3 老题/诗句或歌词/口语/Part 3
+									1711 cell
+										1712 text 未开始
+										1713 text +1
+									1714 cell
+										1715 text 
+									1716 cell
+										1717 text 邵旻思
+									1718 cell
+										1719 text 2025-06-24 21:30 至 2027-06-20 23:30
+									1720 cell
+										1721 text 1
+									1722 cell
+										1723 text 高源
+									1724 cell
+										1725 text 高源
+									1726 cell
+										1727 text -
+									1728 cell
+										1729 text 0
+									1730 cell
+										1731 text 0
+									1732 cell
+										1733 text 1
+									1734 cell
+										1735 button 查看详情
+										1736 button 预览
+										1737 button 
+											1738 text 
+							1739 text 共 17758 条
+							1740 button 50 条/页 
+								1741 text 50 条/页
+								1742 text 
+							1743 button 1
+							1744 button 2
+							1745 button 3
+							1746 button 4
+							1747 button 5
+							1748 button 6
+							1749 button •••
+							1750 button 356
+							1751 button
+								1752 image
+							1753 text 前往
+							1754 text field (settable)
+							1755 text 页
+						1756 container
+							1757 text  返回作业管理
+						1758 image
+						1759 text 日期
+						1760 text /
+						1761 text 批改老师
+						1762 text -
+						1763 text 打卡频次 平均成绩 完成数 0 /- 批改数 0 /-
+						1764 container
+							1765 button AI作业分析
+								1766 image
+								1767 text AI作业分析
+							1768 image
+						1769 container
+							1770 tab group
+								1771 container
+									1772 tab (selected, settable, boolean) 参与学生, Value: 1
+									1773 tab (settable) 题目
+									1774 tab (settable) 统计
+									1775 tab (settable) 排行榜
+							1776 text 当天打卡率 0% 0/0已打卡
+							1777 image
+							1778 text 暂无数据，还没有学生的打卡内容~
+						1779 container
+							1780 text  返回作业管理
+						1781 image
+						1782 text 日期
+						1783 text /
+						1784 text 题目数
+						1785 text 批改老师
+						1786 text -
+						1787 text 平均成绩 完成数 0 /- 批改数 0 /-
+						1788 container
+							1789 button AI作业分析
+								1790 image
+								1791 text AI作业分析
+							1792 image
+						1793 button 再次布置
+						1794 button 预览
+						1795 tab group
+							1796 container
+								1797 tab (selected, settable, boolean) 参与学生, Value: 1
+								1798 tab (settable) 统计
+								1799 tab (settable) 排行榜
+						1800 container
+							1801 image
+							1802 text 暂无数据~
+				1803 image AI
+		1804 container dialog
+			1805 container
+				1806 tab group
+					1807 container
+						1808 tab (selected, settable, boolean) 基础练习, Value: 1
+						1809 tab (settable) 题型训练
+						1810 tab (settable) 模考测试
+						1811 tab (settable) 机构题库
+						1812 tab (settable) 自定义作业
+						1813 tab (settable) 打卡作业
+						1814 tab (settable) 视频课件作业
+				1815 button 新窗口打开
+				1816 button 添加至常用作业
+				1817 button 预览
+				1818 button 布置
+				1858 text 
+			1820 container
+				1859 container (showing 0-500 of 527 items)
+					1860 text entry area (settable) 【调研测试】实时词汇联动_20261026
+					1861 text 21/100
+					1862 container
+						1863 text 选择班级
+						1864 text (1)
+						1865 text 
+					1866 container
+						1867 text 选择学生
+						1868 text 
+					1869 container
+						1870 text 批改老师
+						1871 text (1)
+						1872 text 
+					1873 image
+					1874 text 王小格-SAT
+					1875 text 
+					1876 container introStep1
+						1877 image
+						1878 text field (settable) 2026-10-26 10:00
+					1879 combo box
+						1880 text field (settable) 60分钟
+					1881 text 提示：实时作业需要设置开始时间和考试时长哦~
+					1882 image
+					1883 text 关联音视频 ( 未关联 )
+					1884 checkbox 开启实时作业, Value: 1
+						1885 checkbox (settable, integer) Description: 开启实时作业, Value: 1
+						1886 text 开启实时作业
+					1887 image
+					1888 checkbox 强监管模式, Value: 0
+						1889 checkbox (settable, integer) Description: 强监管模式, Value: 0
+						1890 text 强监管模式
+					1891 image
+					1892 heading 题型筛选, Value: 2
+						1893 text 题型筛选
+					1894 text 
+					1895 text field (settable)
+					1896 text 题型
+					1897 text 单词
+					1898 text 读
+					1899 text 听
+					1900 text 写
+					1901 text 说
+					1902 text 布置类型
+					1903 text 单次
+					1904 text 多次
+					1905 text 抽查
+					1906 text 来源
+					1907 text 自有
+					1908 text 系统
+					1909 text 作答方式 (可多选)
+					1910 image
+					1911 text 全选
+					1912 image
+					1913 text 清除 听
+					1914 text 音译中(选择)
+					1915 text 音译中(填空)
+					1916 text 音译英中
+					1917 text 音译英
+					1918 text 说
+					1919 text 中译音
+					1920 text 读
+					2452 text 英译中(选择)
+					1924 text 英译中(填空)
+					1925 text 英译英(选择)
+					1926 text 英译英(填空)
+					1927 text 补全单词
+					1928 text 写
+					1929 text 中译英
+					1930 text 选词填空
+					1931 text 同义词替换(选择)
+					1932 text 词库
+					1933 text 刘海芃
+					1934 text 郭舒诺
+					1935 text 00 KET场景词汇
+					1936 text 00 PET必备词汇
+					1937 text 00 初中英语必备词汇
+					1938 text 00 高中英语必备词汇
+					1939 text 00留预入门级核心词汇
+					1940 text 00留预听说一级核心词汇
+					1941 text 00留预听说三级核心单词
+					1942 text 00留预听说二级核心词汇
+					1943 text 00留预听说四级核心词汇
+					1944 text 00留预读写一级核心词汇
+					1945 text 00留预读写三级核心词汇
+					1946 text 00留预读写二级核心词汇
+					1947 text 00留预读写四级核心词汇
+					1948 text 0228 张雅真
+					1949 text 0307 张雅真
+					1950 text 0314 张雅真
+					1951 text 0316 陶项灵熙
+					1952 text 0316 魏恩曦
+					1953 text 0320 张雅真
+					1954 text 0322 常昊铭
+					1955 text 0323 陶项灵熙
+					1956 text 0325 AP 刘嘉铭
+					1957 text 0325 戈伊朵
+					1958 text 0328 张雅真
+					1959 text 0329 王晨卓
+					1960 text 0331 戈伊朵
+					1961 text 0331 龚雨棠
+					1962 text 0401龚雨棠
+					1963 text 0402 孙文龙
+					1964 text 0402 龚雨棠
+					1965 text 0403 龚雨棠
+					1966 text 0404 张雅真
+					1967 text 0404戈伊朵
+					1968 text 0406 魏恩曦
+					1969 text 0408龚雨棠
+					1970 text 0410 龚雨棠
+					1971 text 0412陶项灵熙
+					1972 text 0414 张雅真
+					1973 text 0416 戈伊朵
+					1974 text 0419 刘心淼
+					1975 text 0419 戈伊朵
+					1976 text 0420 陶项灵熙
+					1977 text 0421 张雅真
+					1978 text 0423 戈伊朵
+					1979 text 0501 戈伊朵
+					1980 text 0501 陶项灵熙
+					1981 text 0506 戈伊朵
+					1982 text 0510 戈伊朵
+					1983 text 11.17写作
+					1984 text 1、王琪越错词库练习3.22
+					1985 text 21天单词list1-3错词复习
+					1986 text 2，王琪越阅读错词3.22
+					1987 text 3.3托福写作单词
+					1988 text 8.9单词
+					1989 text 8王家乐单词训练 更新中
+					1990 text A-level 学科核心词汇
+					1991 text Alex SAT
+					1992 text AP calculus AB 核心词
+					1993 text AP calculus BC 核心词
+					1994 text AP Language and Composition terms
+					1995 text AP language生词本
+					1996 text AP化学分单元单词表
+					1997 text AP宏观经济
+					1998 text AP统计学词汇表
+					1999 text B L2
+					2000 text B L3
+					2001 text B L4
+					2002 text B L5
+					2003 text B L6+L7
+					2004 text C L1阅读生词
+					2005 text C L2
+					2006 text C L3
+					2007 text C L5-L6
+					2008 text C-L4
+					2009 text CAIE Physics AS Word List
+					2010 text details+
+					2011 text DSE Rolling Words List
+					2012 text EDE IAL Physics Unit 1
+					2013 text EDE IAL Physics Unit 5
+					2014 text Edexcel IAL Physic Unit 4
+					2015 text Edexcel IAL Physics Unit 2
+					2016 text Edexcel IAL Physics Unit 3
+					2017 text GRE3000
+					2018 text GRE阅读 词汇1
+					2019 text HGJJ
+					2020 text rhetorical synthesis
+					2021 text SAT必考词汇 1
+					2022 text SAT必考词汇2
+					2023 text SAT数学词汇
+					2024 text SAT文法单词
+					2025 text SAT核心词汇
+					2026 text SAT词汇zxy_1
+					2027 text SAT词汇zxy_2
+					2028 text SAT词汇zxy_3
+					2029 text SAT词汇zxy_4
+					2030 text SAT错词
+					2031 text SAT错词整理--刘嘉铭
+					2032 text TPO13T4海洋生物
+					2033 text Travel
+					2034 text WGJJ
+					2035 text WJF
+					2036 text words in context
+					2037 text Y单词
+					2038 text 一心雅思词汇
+					2039 text 一本通-古生物学删减版
+					2040 text 一本通-微生物删减
+					2041 text 一本通-海洋生物删减
+					2042 text 一本通-生物原理删减版
+					2043 text 付梓峻SA单词
+					2044 text 付睿泽 托福阅读
+					2045 text 付睿西托福阅读词汇
+					2046 text 任婉余 阅读词汇
+					2047 text 何子川 阅读词汇
+					2048 text 兰珊听力单词 0121
+					2049 text 兰珊听力单词2.15
+					2050 text 兰珊听力单词2.5
+					2051 text 兰珊听力词汇316
+					2052 text 冯超-巅峰口语-词汇unit1
+					2053 text 冯超单词表
+					2054 text 刘嘉铭 阅读词汇 List 1
+					2055 text 刘嘉铭 阅读词汇 List 2
+					2056 text 刘嘉铭 阅读词汇 List 3
+					2057 text 刘嘉铭 阅读词汇 List 4
+					2058 text 刘嘉铭 阅读词汇 List 5
+					2059 text 刘嘉铭 阅读词汇 List 6
+					2060 text 刘嘉铭 阅读词汇 List 7
+					2061 text 刘嘉铭 阅读词汇 List 8
+					2062 text 刘嘉铭 阅读词汇 List 9
+					2063 text 刘嘉铭1230
+					2064 text 刘嘉铭听力词汇1128
+					2065 text 刘嘉铭听力词汇2
+					2066 text 刘嘉铭词汇
+					2067 text 刘嘉铭错词5.23
+					2068 text 刘心淼
+					2069 text 刘沁雅生词积累
+					2070 text 刘泽辰生词积累
+					2071 text 刘涛铭听力单词（持续更新）
+					2072 text 刘雨彤 6
+					2073 text 刘雨彤 7
+					2074 text 刘雨彤精读单词2
+					2075 text 初中词汇1600词
+					2076 text 包嘉诚
+					2077 text 包嘉诚 0123
+					2078 text 包嘉诚听力单词1.25
+					2079 text 包嘉诚听力单词2.5
+					2080 text 化学学科 EDE AS U1 U2
+					2081 text 单嘉宸单词1
+					2082 text 单嘉宸单词2
+					2083 text 单嘉宸托福21天list3
+					2084 text 口语词汇- Transportation
+					2085 text 口语词汇-Travel
+					2086 text 叶俊炟
+					2087 text 叶俊炟 1-600
+					2088 text 叶俊炟听力单词2
+					2089 text 叶俊炟听力词汇1
+					2090 text 叶子豪听力错词（1月23日前）
+					2091 text 叶子豪听力错题生词（1月6日）
+					2092 text 听力一本通-动物删减版
+					2093 text 听力一本通-植物删减版
+					2094 text 听力一本通（考古学）
+					2095 text 听力词汇 - 图书馆场景
+					2096 text 听力词汇一本通( 全部)
+					2097 text 吴若菲-L1-7生词
+					2098 text 吴若菲-L1-L2生词
+					2099 text 吴若菲L3-4生词
+					2100 text 吴闻昊 托福单词 list 1
+					2101 text 吴闻昊 托福核心词汇 List 1
+					2102 text 吴闻昊 托福核心词汇 List 1+2+3+4【强化】
+					2103 text 吴闻昊 托福核心词汇 List 1+2+3【强化】
+					2104 text 吴闻昊 托福核心词汇 List 1+2【强化】
+					2105 text 吴闻昊 托福核心词汇 List 1【强化】
+					2106 text 吴闻昊 托福核心词汇 List 2
+					2107 text 吴闻昊 托福核心词汇 List 3
+					2108 text 吴闻昊 托福核心词汇 List 4
+					2109 text 吴闻昊 托福核心词汇 List 5
+					2110 text 吴闻昊 托福核心词汇 List 6
+					2111 text 吴闻昊 托福核心词汇 List 7
+					2112 text 吴闻昊 托福核心词汇 List 8
+					2113 text 吴闻昊 托福核心词汇 重点复习1
+					2114 text 吴闻昊 托福核心词汇+常考词汇题
+					2115 text 吴闻昊 托福核心词汇-复习
+					2116 text 吴闻昊 生物词汇
+					2117 text 吴闻昊 阅读生词
+					2118 text 吴闻昊 阅读词汇
+					2119 text 吴闻昊 阅读词汇合集
+					2120 text 吴闻昊听力词汇0219
+					2121 text 吴雪晨 TPO20 综合写作词表
+					2122 text 吴雪晨 阅读课堂词汇1
+					2123 text 吴雪晨课前测试综合写作词表
+					2124 text 周妍雅
+					2125 text 周文宇 0221
+					2126 text 周文宇听力单词0227
+					2127 text 周文宇听力单词0305
+					2128 text 周文宇听力单词314
+					2129 text 周诣越生词书
+					2130 text 唐瑞喆错词积累（更新版）
+					2131 text 四级 list 14
+					2132 text 四级 list 15
+					2133 text 四级 list 16
+					2134 text 四级 list 27
+					2135 text 四级 list 29
+					2136 text 四级 list 30-35
+					2137 text 四级 list10
+					2138 text 四级 list11
+					2139 text 四级 list12
+					2140 text 四级 list13
+					2141 text 四级 list17
+					2142 text 四级 list18
+					2143 text 四级 list19
+					2144 text 四级 list20
+					2145 text 四级 list21
+					2146 text 四级 list22
+					2147 text 四级 list23
+					2148 text 四级 list24
+					2149 text 四级 list25
+					2150 text 四级 list26
+					2151 text 四级 list28
+					2152 text 四级 list7
+					2153 text 四级 list8
+					2154 text 四级 list9
+					2155 text 四级L3-王子周诺
+					2156 text 四级list6
+					2157 text 四级list8
+					2158 text 四级词汇 list1
+					2159 text 四级词汇 list2
+					2160 text 四级词汇 list3
+					2161 text 四级词汇 list4
+					2162 text 四级词汇 list5
+					2163 text 四级词汇 list6
+					2164 text 四级词汇16
+					2165 text 四级词汇17
+					2166 text 四级词汇list5
+					2167 text 多邻国单词汇总（田腾飞）
+					2168 text 大白皮-雅思大作文词伙
+					2169 text 姜又嘉生词积累
+					2170 text 孙子涵0213
+					2171 text 孙子涵听力单词1
+					2172 text 孙文龙听力319
+					2173 text 孙文龙听力单词 4.4
+					2174 text 孙文龙听力单词312
+					2175 text 孙文龙阅读单词1
+					2176 text 孙文龙阅读单词2
+					2177 text 学术讨论写作核心话题词汇
+					2178 text 宋彦霆听力错题词汇（2月4日）
+					2179 text 小托 list 13
+					2180 text 小托 list10
+					2181 text 小托 list11
+					2182 text 小托 list12
+					2183 text 小托 list14
+					2184 text 小托 list15-70
+					2185 text 小托 list7
+					2186 text 小托 list8
+					2187 text 小托 list9
+					2188 text 小托福核心词汇 list1
+					2189 text 小托福核心词汇 list2
+					2190 text 小托福核心词汇list3
+					2191 text 小托福核心词汇list4
+					2192 text 小托福核心词汇list5
+					2193 text 小托福核心词汇list6
+					2194 text 小托福词汇 第一课
+					2195 text 小托福词汇第二课
+					2196 text 崔国花 小托福核心词汇
+					2197 text 崔国花 小托福词汇
+					2198 text 崔邦钰生词积累
+					2199 text 常昊铭
+					2200 text 常昊铭 0111
+					2201 text 常昊铭 0120
+					2202 text 常昊铭 0124
+					2203 text 常昊铭 0222
+					2204 text 常昊铭 0320
+					2205 text 常昊铭听力单词1.23
+					2206 text 常昊铭听力单词215
+					2207 text 常昊铭听力场景词汇
+					2208 text 廖泽然 阅读词汇
+					2209 text 张天润阅读词汇
+					2210 text 张奕家错词抽查
+					2211 text 张欣妍听力词汇
+					2212 text 彭锦程 DSE阅读 词汇积累本
+					2213 text 徐乐生词本
+					2214 text 徐伟铂听力词汇2.9
+					2215 text 徐佳睿生词本
+					2216 text 徐嘉誉sat词汇
+					2217 text 思培写作必背词汇
+					2218 text 思培口语必背加拿大日常口语表达
+					2219 text 思培口语必背表达
+					2220 text 思培听力必背词汇
+					2221 text 思培阅读必背词汇Unit1
+					2222 text 思培阅读必背词汇Unit2
+					2223 text 思培阅读必背词汇Unit3
+					2224 text 思培阅读必背词汇Unit4
+					2225 text 戈伊朵
+					2226 text 戈伊朵 1119
+					2227 text 戈伊朵 1220
+					2228 text 戴承尧 阅读词汇
+					2229 text 戴承尧list2
+					2230 text 托福21天 list 5
+					2231 text 托福21天 list 6
+					2232 text 托福21天 list 7
+					2233 text 托福21天 list 8
+					2234 text 托福21天 list 9
+					2235 text 托福21天 list3
+					2236 text 托福21天 list4
+					2237 text 托福21天13-21 赵
+					2238 text 托福21天list1
+					2239 text 托福21天list2
+					2240 text 托福21天list3
+					2241 text 托福21天list4
+					2242 text 托福21天词汇list1
+					2243 text 托福21天词汇list5-12
+					2244 text 托福听力词汇-生物学
+					2245 text 托福天文学词汇（一本通）
+					2246 text 托福天文学词汇（核心词汇）
+					2247 text 托福核心基础词汇list1-25 赵逸柔
+					2248 text 托福阅读 分文章生词
+					2249 text 托福阅读词汇-地质
+					2250 text 数学类学科基础词
+					2251 text 新TF B 阅读词汇
+					2252 text 新托福 生活阅读-学业-活动类
+					2253 text 新托福口语场景词汇
+					2254 text 新托福阅读 历史
+					2255 text 新托福阅读 学业 课程类
+					2256 text 新托福阅读 心理学
+					2257 text 新托福阅读 生命科学
+					2258 text 新托福阅读 社会科学
+					2259 text 新托福阅读 自然科学
+					2260 text 新托福阅读 艺术
+					2261 text 新托福阅读-填空答案词
+					2262 text 新托福阅读-生活-商业
+					2263 text 新托福阅读-生活-活动展览类
+					2264 text 新托福阅读词汇-文明
+					2265 text 施婧琳 阅读
+					2266 text 易锦词汇复习
+					2267 text 李婷婷 gre阅读
+					2268 text 李应玺单词表
+					2269 text 李应谦 单词本
+					2270 text 李映衡听力错题生词（1月6日）
+					2271 text 李昳衡听力错词（1月23日前）
+					2272 text 杨嘉乐生词本
+					2273 text 杨宜萱SAT阅读词汇
+					2274 text 杨宜霖 SAT词汇
+					2275 text 杨淳越 阅读词汇
+					2276 text 杨淳越生词库
+					2277 text 杨舒悦SAT生词积累
+					2278 text 林昊泽物理词汇
+					2279 text 林清瑜 大漠点词pdf版 生词
+					2280 text 林清瑜 阅读课堂词汇汇总 1
+					2281 text 柯心爱生词
+					2282 text 梅妙如 0204
+					2283 text 梅妙如0206
+					2284 text 毛灿听力单词1
+					2285 text 毛灿听力单词2
+					2286 text 毛灿听力单词3
+					2287 text 汤应姗 1118
+					2288 text 汤应姗12月听力生词
+					2289 text 汤应姗听力词汇
+					2290 text 汤鼎玥精读单词1014
+					2291 text 汪子煜 阅读词汇
+					2292 text 潘薪博单词本
+					2293 text 牛小马 小托阅读
+					2294 text 牛小马小托福语法单词
+					2295 text 王双永怡小托福单词（4.5）
+					2296 text 王双永怡托福阅读词汇（天文学）
+					2297 text 王可佩生词本
+					2298 text 王子周诺8-9单词
+					2299 text 王子周诺list7
+					2300 text 王子周诺四级单词10-11
+					2301 text 王子周诺四级单词list12-13
+					2302 text 王子四级L4
+					2303 text 王子晗 阅读词汇
+					2304 text 王子晗 阅读词汇2
+					2305 text 王学才4.5 听力
+					2306 text 王家乐生词（更新中）
+					2307 text 王晨茜单词背诵
+					2308 text 王浩西 阅读词汇 list 1
+					2309 text 王理杨生词本
+					2310 text 王琪越 阅读单词 List 1
+					2311 text 王琪越1月错词积累
+					2312 text 王琪越听力单词（5.17）
+					2313 text 王竞祎听力单词2
+					2314 text 王竞祎听力词汇1
+					2315 text 王逸 阅读单词
+					2316 text 王雨潇听力错题生词
+					2317 text 甘恩亦
+					2318 text 生词积累
+					2319 text 童治雄 词汇
+					2320 text 肖钰诺生词本
+					2321 text 胡媤淋生词书
+					2322 text 胡子妍SAT词汇（0225）
+					2323 text 胡子妍SAT阅读词汇
+					2324 text 胡子妍SAT阅读词汇（0124）
+					2325 text 胡昊鲲生词本
+					2326 text 胡艺婷 托福阅读L1 词汇
+					2327 text 胡艺婷 托福阅读L2 词汇
+					2328 text 胡艺婷 托福阅读L3 词汇
+					2329 text 胡艺婷的托福词汇
+					2330 text 蒋承羲生词积累
+					2331 text 蔡泽一-3500 list 1
+					2332 text 蔡泽一听力单词检测
+					2333 text 袁沐辰阅读词汇
+					2334 text 谢育祺 阅读词汇
+					2335 text 谭诗蕊托福生词表
+					2336 text 贺睿汐 SAT词汇表
+					2337 text 贺英珏 1118
+					2338 text 贺英珏听力词汇
+					2339 text 贺英珏听力词汇10.9
+					2340 text 辛在洲 阅读词汇
+					2341 text 连梓含听力单词0224
+					2342 text 邓卓珩 ACT英语 真题词表
+					2343 text 邱裕宸听力0121
+					2344 text 邱裕宸听力词汇1
+					2345 text 邱裕宸听力词汇2
+					2346 text 邹乐佳单词背诵
+					2347 text 金柏成 20241005 课堂词汇
+					2348 text 金柏成 20241221 阅读词汇
+					2349 text 金柏成 阅读词汇 list 1
+					2350 text 金柏成词汇1
+					2351 text 金柏成词汇2
+					2352 text 金柏成词汇3
+					2353 text 闫逸飞错词合集
+					2354 text 阅读单词复习3.22
+					2355 text 陈九九听力词汇1
+					2356 text 陈子阳单词8.8
+					2357 text 陈思锦 阅读生词表
+					2358 text 陈杰森 托福阅读L1 词汇
+					2359 text 陈杰森 托福阅读L2 词汇
+					2360 text 陈梦昕生词本
+					2361 text 陈禹霏 阅读词汇
+					2362 text 陈稳好美高生物词汇
+					2363 text 陶项灵熙
+					2364 text 雅思写作B段作业
+					2365 text 雅思口语重点词汇
+					2366 text 雅思口语重点词汇- animals
+					2367 text 雅思口语重点词汇- clothes
+					2368 text 雅思口语重点词汇- environment
+					2369 text 雅思口语重点词汇- festival and traditions
+					2370 text 雅思口语重点词汇- housework
+					2371 text 雅思口语重点词汇- music
+					2372 text 雅思口语重点词汇- shopping
+					2373 text 雅思口语重点词汇- sports
+					2374 text 雅思口语重点词汇- swimming
+					2375 text 雅思口语重点词汇- travelling
+					2376 text 雅思口语重点词汇- weather
+					2377 text 雅思口语重点词汇- wedding
+					2378 text 雅思口语重点词汇-hat/shoes/bags
+					2379 text 雅思听力6分核心词（卢沛杉)
+				1851 heading 题目, Value: 2
+					1852 text 题目
+				2453 container
+					2454 button 查看已选
+					2461 text 1
+				2381 text 0411 本词库共33个单词
+				2382 container
+					2383 text 从第
+					2384 stepper (settable, integer) 1
+					2385 text 个单词
+				2386 text ?
+				2387 container
+					2388 text 开始本次布置
+					2389 stepper (settable, integer) 3
+					2390 text 个
+				2455 container 
+					2456 text 
+				2457 text 0712 本词库共63个单词
+				2392 container
+					2393 text 从第
+					2394 stepper (settable)
+					2395 text 个单词
+				2396 text ?
+				2397 container
+					2398 text 开始本次布置
+					2399 stepper (settable)
+					2400 text 个
+				2401 text  0907 本词库共46个单词
+				2402 container
+					2403 text 从第
+					2404 stepper (settable)
+					2405 text 个单词
+				2406 text ?
+				2407 container
+					2408 text 开始本次布置
+					2409 stepper (settable)
+					2410 text 个
+				2411 text  0914 本词库共39个单词
+				2412 container
+					2413 text 从第
+					2414 stepper (settable)
+					2415 text 个单词
+				2416 text ?
+				2417 container
+					2418 text 开始本次布置
+					2419 stepper (settable)
+					2420 text 个
+				2421 text  1012 本词库共40个单词
+				2422 container
+					2423 text 从第
+					2424 stepper (settable)
+					2425 text 个单词
+				2426 text ?
+				2427 container
+					2428 text 开始本次布置
+					2429 stepper (settable)
+					2430 text 个
+				2431 text  1207 本词库共26个单词
+				2432 container
+					2433 text 从第
+					2434 stepper (settable)
+					2435 text 个单词
+				2436 text ?
+				2437 container
+					2438 text 开始本次布置
+					2439 stepper (settable)
+					2440 text 个
+				2458 text  1214 本词库共17个单词
+				2442 container
+					2443 text 从第
+					2444 stepper (settable)
+					2445 text 个单词
+				2446 text ?
+				2447 container
+					2448 text 开始本次布置
+					2449 stepper (settable)
+					2450 text 个
+				2451 text 
+				1853 heading 已选择题目, Value: 2
+					1854 text 已选择题目
+				2459 button 全部删除
+				2460 heading 单词记忆, Value: 2
+					2462 text 单词记忆
+				2463 text 
+				2464 text 0411从第1个单词开始的3个
+				2465 text threaten, restrict, endanger
+		2466 container 不填写可以选择整本单词书哦~, ID: el-tooltip-6736
+			2467 text 不填写可以选择整本单词书哦~
+
+The focused UI element is 2455 container 

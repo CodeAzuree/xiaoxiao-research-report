@@ -1,0 +1,163 @@
+Browser tab: 52, Title: "测试结果", URL: "https://learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122".
+0 AXWebArea 测试结果, URL: learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122
+	1 container
+		2 container result-app
+			3 text 雅思
+			229 text 
+			5 text 2026.05.23 13:59 - 2026.05.23 13:59
+			6 container
+				7 container
+					8 text 作业结果 答题解析 巩固训练
+				129 container highlight-global-view
+					130 tab group
+						131 container
+							132 tab (selectable, settable, boolean) 阅读, Value: 0
+					133 container
+						134 tab group
+							135 button (expanded) Reading Passage 3 40 S , Secondary Actions: Collapse
+								136 text Reading Passage 3
+								137 text 40 S
+								230 text 
+							139 content list
+								140 container
+									141 text (27) 
+								142 container
+									143 text (28) 
+								144 container
+									145 text (29)
+									146 image
+									147 image
+									231 text 
+								149 container
+									150 text (30) 
+								151 container
+									152 text (31)
+									153 image
+									154 image
+									232 text 
+								156 container
+									157 text (32)
+									158 image
+									159 image
+									233 text 
+								161 container
+									162 text (33)
+									163 image
+									164 image
+									234 text 
+								166 container
+									167 text (34)
+									168 image
+									169 image
+									235 text 
+								171 container
+									172 text (35)
+									173 image
+									174 image
+									236 text 
+								176 container
+									177 text (38)
+									178 image
+									179 image
+									237 text 
+								181 container
+									182 text (39)
+									183 image
+									184 image
+									238 text 
+								186 container
+									187 text (40)
+									188 image
+									189 image
+									239 text 
+						191 container read-scroll-view
+							192 text 阅读材料
+							193 container
+								194 text 文本翻译
+								195 switch 0
+									196 checkbox (settable, integer) 0
+							197 container
+								198 text Whale Culture 
+
+A
+Most social scientists stubbornly resist the idea that animals have culture. Even such advanced cetacean mammals as whales and dolphins clearly don't have art, literature, or architecture. But patient obs ervation over many ye ars has begun to reveal behaviours that can only be learnt from other whales. And that, say whale biologists, constitutes culture.
+
+B
+So far, humpback and killer whales provide the best evidence of culture in cetaceans, and the song of the male humpback is among the most striking examples. Humpback populations in different oceans sing different songs, but within the same ocean they all stick to the same one. However, during the breeding season the sounds change, as it appears that females are drawn to novel songs. One male might add an extra set of groans; another might drop a series of grunts. Soon all the other males have altered their own rendition to incorporate the changes until they are once again singing the same song. Since this occurs among thousands of whales spread across a vast part of the planet, the change cannot be in response to any factor in the animal's environment. The latest version of the song can be learnt only from other whales – almost certainly by imitation.
+
+C
+Culture plays an even bigger part in the life of killer whales. Nowhere is this more obvious than along the north-west coast of America, where killer whales are split into two distinct populations – 'residents' and 'transients'. They live in the same stretch of water, but they don't mingle. In effect, they belong to two quite separate cultures. Residents live in stable groups, or 'pods', made up of two or three mothers and their offspring – perhaps 20 whales in all. Calves stay with their mothers throughout adulthood, and in many years of observation no one has ever seen a whale switch pods. Transients travel in smaller, more changeable groups of between three and six.
+
+D
+One of the most obvious distinctions between the transient and resident societies is the way they impart information. Killer whales detect prey with a range of echo-locating clicks, but converse with a vocabulary of squeaks, whistles and whines. Transients have only a few such calls, and all transient societies share the same ones. Residents have a much more extensive repertoire, and each family group has its own unique and distinctive set of calls. Despite regular interaction between them, each resident pod sticks firmly to its own dialect. Research shows these dialects are maintained for at least 40 years.
+
+E
+To qualify as part of killer whale culture, dialects must be learnt from other members of the pod. Animals with different dialects share the same waters, so the variation can't be a product of physical environment. 'And we can throw out the notion that dialects are inherited,' says Lance Barrett-Lennard of the University of British Columbia. He has spent the past seven years analysing DNA from 270 whales. His paternity tests reveal that female killer whales invariably attract mates from outside their own pod – males with a very different dialect. If dialects were programmed by genetics, call patterns from both father and mother would be passed on to the calf. 'A calf uses the calls of its maternal pod very precisely. There's no input from the father,' says Barrett-Lennard.
+
+F
+The question still remains – is this culture? It is, according to Frans de Waal of Emory University in Atlanta, who argues that culture is just another biological adaptation that has evolved in many creatures. One benefit of viewing culture in this way is that you can start to understand how and why it might have arisen in these creatures. Whales have several biological attributes that give them an advantage in social learning. Apart from their advanced mental abilities, they are adept at recognising sounds: ideal for communicating in the marine environment. Many species spend years rearing their offspring, and live in small, stable, multi-generational societies, a social system that provides ample opportunity for teaching and learning.
+
+G
+But why have cetaceans evolved the ability to learn from other group members? Experts in whale biology believe that ecological factors and the need to adapt to sudden changes in the environment played a large part in the emergence of culture. Although the ocean is a relatively stable habitat in many ways, it is highly changeable in one crucial respect – the availability of food. One moment there might be a plentiful supply of fish, the next they've disappeared. When that happens, the past experience of senior members of the group – and the ability to share this knowledge – is a huge asset. The dialects of killer whales allow members of the group to identify each other, enabling them to share information about food hot spots. Among resident killer whales, it also allows females to avoid inbreeding by picking out a mate with a strange dialect from outside their pod, says Barrett-Lennard.
+
+H
+The importance of sharing information seems to have led to biological changes in at least some species of whale. Female killer whales, like humans, are very unusual in that they live up to a quarter of a century after they have had their descendants. And what whale matriarchs offer is the most important thing of all – cultural knowledge, vital for the group's survival, passed directly from one generation to the next.
+						199 container
+							200 text 题目
+							201 text 正确率
+							202 text 78%
+							203 text 中位用时
+							204 text -
+							205 text 区分度
+							206 text 0.6
+							207 text 争议率
+							208 text 0.14% Questions 27–31 
+Do the following statements agree with the views of the writer in Reading Passage 3?
+In boxes 27–31 on your answer sheet, write
+ YES  if the statement agrees with the claims of the writer
+ NO  if the statement contradicts the claims of the writer
+ NOT GIVEN  if it is impossible to say what the writer thinks about this 27  Resident killer whales appear to remain with their maternal group for life.
+							209 content list
+								210 container
+									211 text A YES 正确选项 78% 选择
+								212 container
+									213 text B NO 11% 选择
+								214 container
+									215 text C NOT GIVEN 11% 选择
+							216 text 知识点
+							217 text 题目来源
+							218 text Y/N/NG判断题
+							219 button  题目解析, ID: xx-capsule-radio__item-0
+								240 text 
+								221 text 题目解析
+							222 button 名师讲解, ID: xx-capsule-radio__item-1
+							223 button 笔记列表, ID: xx-capsule-radio__item-2
+							224 text 学生答案 对此题提出疑问？
+							225 text 学生答案
+							226 text A
+							227 text 正确答案
+							228 text A
+			107 container
+				108 image
+				109 text Jane Austen
+				110 button icon
+					111 image icon
+				112 button icon
+					113 image icon
+				114 button 
+					241 text 
+				116 text 重点词汇
+				117 text 翻译
+				118 text 答题解析
+				119 text 题目订正
+				120 container
+					121 text entry area (settable)
+					242 text 
+					123 text 思路讲解
+					124 button (disabled) icon
+						125 image icon
+					126 text 内容由 AI 生成
+		127 container
+			128 text 已生成当前作业的订正练习，点击去练习巩固薄弱知识点 去练习 
+
+The focused UI element is 0 AXWebArea 测试结果, URL: learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122

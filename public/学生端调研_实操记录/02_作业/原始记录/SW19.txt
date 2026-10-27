@@ -1,0 +1,187 @@
+Browser tab: 52, Title: "测试结果", URL: "https://learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122".
+0 AXWebArea 测试结果, URL: learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122
+	1 container result-app
+		2 text 雅思
+		125 text 
+		4 text 2026.05.23 13:59 - 2026.05.23 13:59
+		5 container
+			6 container
+				7 text 作业结果 答题解析 巩固训练
+			8 container highlight-global-view
+				9 tab group
+					10 container
+						11 tab (selectable, settable, boolean) 阅读, Value: 0
+				12 container
+					13 tab group
+						14 button (expanded) Reading Passage 3 40 S , Secondary Actions: Collapse
+							15 text Reading Passage 3
+							16 text 40 S
+							126 text 
+						18 content list
+							19 container
+								20 text (27) 
+							21 container
+								22 text (28) 
+							23 container
+								24 text (29)
+								25 image
+								26 image
+								127 text 
+							28 container
+								29 text (30) 
+							30 container
+								31 text (31)
+								32 image
+								33 image
+								128 text 
+							35 container
+								36 text (32)
+								37 image
+								38 image
+								129 text 
+							40 container
+								41 text (33)
+								42 image
+								43 image
+								130 text 
+							45 container
+								46 text (34)
+								47 image
+								48 image
+								131 text 
+							50 container
+								51 text (35)
+								52 image
+								53 image
+								132 text 
+							55 container
+								56 text (38)
+								57 image
+								58 image
+								133 text 
+							60 container
+								61 text (39)
+								62 image
+								63 image
+								134 text 
+							65 container
+								66 text (40)
+								67 image
+								68 image
+								135 text 
+					70 container read-scroll-view
+						71 text 阅读材料
+						72 container
+							73 text 文本翻译
+							74 switch 0
+								75 checkbox (settable, integer) 0
+						76 container
+							77 text Whale Culture 
+
+A
+Most social scientists stubbornly resist the idea that animals have culture. Even such advanced cetacean mammals as whales and dolphins clearly don't have art, literature, or architecture. But patient obs ervation over many ye ars has begun to reveal behaviours that can only be learnt from other whales. And that, say whale biologists, constitutes culture.
+
+B
+So far, humpback and killer whales provide the best evidence of culture in cetaceans, and the song of the male humpback is among the most striking examples. Humpback populations in different oceans sing different songs, but within the same ocean they all stick to the same one. However, during the breeding season the sounds change, as it appears that females are drawn to novel songs. One male might add an extra set of groans; another might drop a series of grunts. Soon all the other males have altered their own rendition to incorporate the changes until they are once again singing the same song. Since this occurs among thousands of whales spread across a vast part of the planet, the change cannot be in response to any factor in the animal's environment. The latest version of the song can be learnt only from other whales – almost certainly by imitation.
+
+C
+Culture plays an even bigger part in the life of killer whales. Nowhere is this more obvious than along the north-west coast of America, where killer whales are split into two distinct populations – 'residents' and 'transients'. They live in the same stretch of water, but they don't mingle. In effect, they belong to two quite separate cultures. Residents live in stable groups, or 'pods', made up of two or three mothers and their offspring – perhaps 20 whales in all. Calves stay with their mothers throughout adulthood, and in many years of observation no one has ever seen a whale switch pods. Transients travel in smaller, more changeable groups of between three and six.
+
+D
+One of the most obvious distinctions between the transient and resident societies is the way they impart information. Killer whales detect prey with a range of echo-locating clicks, but converse with a vocabulary of squeaks, whistles and whines. Transients have only a few such calls, and all transient societies share the same ones. Residents have a much more extensive repertoire, and each family group has its own unique and distinctive set of calls. Despite regular interaction between them, each resident pod sticks firmly to its own dialect. Research shows these dialects are maintained for at least 40 years.
+
+E
+To qualify as part of killer whale culture, dialects must be learnt from other members of the pod. Animals with different dialects share the same waters, so the variation can't be a product of physical environment. 'And we can throw out the notion that dialects are inherited,' says Lance Barrett-Lennard of the University of British Columbia. He has spent the past seven years analysing DNA from 270 whales. His paternity tests reveal that female killer whales invariably attract mates from outside their own pod – males with a very different dialect. If dialects were programmed by genetics, call patterns from both father and mother would be passed on to the calf. 'A calf uses the calls of its maternal pod very precisely. There's no input from the father,' says Barrett-Lennard.
+
+F
+The question still remains – is this culture? It is, according to Frans de Waal of Emory University in Atlanta, who argues that culture is just another biological adaptation that has evolved in many creatures. One benefit of viewing culture in this way is that you can start to understand how and why it might have arisen in these creatures. Whales have several biological attributes that give them an advantage in social learning. Apart from their advanced mental abilities, they are adept at recognising sounds: ideal for communicating in the marine environment. Many species spend years rearing their offspring, and live in small, stable, multi-generational societies, a social system that provides ample opportunity for teaching and learning.
+
+G
+But why have cetaceans evolved the ability to learn from other group members? Experts in whale biology believe that ecological factors and the need to adapt to sudden changes in the environment played a large part in the emergence of culture. Although the ocean is a relatively stable habitat in many ways, it is highly changeable in one crucial respect – the availability of food. One moment there might be a plentiful supply of fish, the next they've disappeared. When that happens, the past experience of senior members of the group – and the ability to share this knowledge – is a huge asset. The dialects of killer whales allow members of the group to identify each other, enabling them to share information about food hot spots. Among resident killer whales, it also allows females to avoid inbreeding by picking out a mate with a strange dialect from outside their pod, says Barrett-Lennard.
+
+H
+The importance of sharing information seems to have led to biological changes in at least some species of whale. Female killer whales, like humans, are very unusual in that they live up to a quarter of a century after they have had their descendants. And what whale matriarchs offer is the most important thing of all – cultural knowledge, vital for the group's survival, passed directly from one generation to the next.
+					78 container
+						79 text 题目
+						136 container
+							137 text 78% - 0.6 0.14%
+						138 text Questions 27–31 
+Do the following statements agree with the views of the writer in Reading Passage 3?
+In boxes 27–31 on your answer sheet, write
+ YES  if the statement agrees with the claims of the writer
+ NO  if the statement contradicts the claims of the writer
+ NOT GIVEN  if it is impossible to say what the writer thinks about this 27  Resident killer whales appear to remain with their maternal group for life.
+						88 content list
+							89 container
+								90 text A YES 正确选项 78% 选择
+							91 container
+								92 text B NO 11% 选择
+							93 container
+								94 text C NOT GIVEN 11% 选择
+						95 text 知识点
+						96 text 题目来源
+						97 text Y/N/NG判断题
+						98 button 题目解析, ID: xx-capsule-radio__item-0
+						99 button 名师讲解, ID: xx-capsule-radio__item-1
+						100 button  笔记列表, ID: xx-capsule-radio__item-2
+							139 text 
+							102 text 笔记列表
+						103 container note-add-header
+							104 text 练习笔记
+							105 button 添加笔记
+						106 image
+						107 text 2026-05-23
+						108 image
+						109 text ervation over many ye
+						110 image
+						111 text 订正笔记
+						112 button 添加笔记
+						123 image
+						124 text 暂无笔记，快去添加新的笔记吧~
+		140 container
+			141 image
+			142 text Jane Austen
+			143 button icon
+				144 image icon
+			145 button icon
+				146 image icon
+			147 button 
+				148 text 
+			158 text 嗨，王小格同学，我是你的AI助教 Jane 👋 学习中遇到问题，随时来找我就好～ 如果我的回答和老师的讲解有所不同，建议以老师的内容为准哦，我们也可以一起分析 📚
+			161 text 对此题的答题解析
+			162 container
+				163 text 这道题考察的是  细节定位与同义替换判断能力 （具体为 YES/NO/NOT GIVEN 题型中的 YES 判断），核心在于能否准确识别原文中与题干陈述一致的明确支持信息，尤其注意“for life”（终生）这一绝对化表述是否被原文直接证实。
+			164 container
+				165 text ✅  正确答案：A. YES
+				166 text 依据在段落 C ：
+			167 container
+				168 text “Residents live in stable groups, or 'pods', made up of two or three mothers and their offspring – perhaps 20 whales in all.  Calves stay with their mothers throughout adulthood , and in many years of observation  no one has ever seen a whale switch pods .”
+			169 content list
+				170 text “stay with their mothers throughout adulthood” → 对应题干中 “remain with their maternal group for life” 的核心含义（成年后不离开，且长期观察中从未发现脱离行为）；
+				171 text “no one has ever seen a whale switch pods” 是极强的支持性证据，排除了中途加入其他群体的可能性，间接但有力地支撑“for life”这一终身性表述（因无反例，且社会结构稳定、代际共居）；
+				172 text 注意：“maternal group” = “pod”（由母亲及其后代组成），原文明确定义 residents 的 pod 结构，故“maternal group”指的就是该 pod。
+			173 container
+				174 text ❌  干扰项分析 ：
+			175 content list
+				176 container
+					177 text B. NO  错误：原文没有任何信息表明 resident killer whales  ever  leave their maternal pod — 相反，强调“throughout adulthood”和“never seen switch”，与 NO 直接矛盾。
+				178 container
+					179 text C. NOT GIVEN  错误：这不是无法判断的情况。题干不是推断（如“they  must  pass knowledge to calves”），而是对一个可验证事实的陈述，而原文提供了足够明确、一致、无歧义的观察证据（two decades+ of observation, zero observed transfers），因此属于  YES  而非 NOT GIVEN。
+			180 container
+				181 text 🔍  解题技巧提示 ：
+				182 text 在 YES/NO/NOT GIVEN 题中， YES 不要求原文用相同词汇复述，但必须有直接、无矛盾、可充分支持的陈述 ；特别警惕“for life”“always”“never”等绝对词——若原文用“throughout adulthood”+“never observed switching”双重限定，即构成有效支持。
+			184 text 你可能还想问
+			185 text ：为什么“throughout adulthood”能支持“for life”？如果鲸鱼寿命远超成年期，这个推理会不会有问题？
+			186 text ：段落E提到雄性来自外部pod，那雌性 calves 留在母pod，是否意味着只有雌性才“for life”？题干说“Resident killer whales”泛指，这样概括是否合理？
+			187 text ：如果题目改成“Resident killer whales *never* leave their pod under any circumstances”，答案还应该是YES吗？区别在哪里？
+			183 text 重点词汇 翻译 答题解析 题目订正
+			188 text entry area (settable)
+			151 text 
+			152 container
+				153 image
+				154 text 思路讲解
+			189 button (disabled) icon
+				190 image icon
+			157 text 内容由 AI 生成
+
+The focused UI element is 0 AXWebArea 测试结果, URL: learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122

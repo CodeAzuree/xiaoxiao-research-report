@@ -1,0 +1,141 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- button "添加记录":
+  - generic: 添加记录
+- paragraph: 暂无考试记录
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:              
+- dialog "添加":
+  - generic: 添加
+  - button "Close":
+    - generic: 
+  - generic: "*科目"
+  - textbox "请选择科目" [active]
+  - generic: 
+  - generic: "*考试名称"
+  - textbox
+  - generic: "*考试时间"
+  - textbox "请选择考试时间"
+  - generic: 
+  - generic: 考试成绩
+  - spinbutton
+  - checkbox "考试前一天通知我？"
+  - generic: 考试前一天通知我？
+  - generic: 考试地点
+  - textbox
+  - generic: 各项成绩
+  - button "+添加分项":
+    - generic: +添加分项
+  - generic: 上传凭证
+  - generic: 
+  - generic: 上传附件
+  - generic: 
+  - generic: 添加附件
+  - generic: 
+  - button "取消":
+    - generic: 取消
+  - button "确认":
+    - generic: 确认
+- list:
+  - generic: 托福
+  - generic: 雅思
+  - generic: SAT
+  - generic: 小托福
+  - generic: ACT
+  - generic: PTE
+  - generic: SSAT
+  - generic: BEC
+  - generic: AP
+  - generic: A-Level
+  - generic: 小语种
+  - generic: GRE
+  - generic: GMAT
+  - generic: 其他
+  - generic: KET
+  - generic: PET
+  - generic: FCE
+  - generic: Duolingo English Test
+  - generic: CAE
+  - generic: CPE
+  - generic: IB
+  - generic: 能力英语
+  - generic: 巅峰口语
+  - generic: DSE
+  - generic: 考研
+  - generic: 多邻国
+  - generic: 新托福2026
+  - generic: CAE
+  - generic: CPE
+  - generic: Duolingo English Test
+  - generic: FCE
+  - generic: IB

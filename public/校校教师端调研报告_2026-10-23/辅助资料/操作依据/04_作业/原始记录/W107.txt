@@ -1,0 +1,204 @@
+- code:
+  - generic: 评语
+  - generic: 
+  - text: 
+  - generic: 
+  - list:
+    - generic: 昶君
+    - generic: 已批改
+    - generic: 柳昶君
+  - generic: 3.18 阅读写作一套
+  - generic: 
+  - generic: 2026.03.18 15:25 - 2026.03.18 17:35
+  - text:    
+  - button "导出PDF"
+  - button "发布成绩"
+  - text: 
+  - button "生成报告"
+  - text: 
+  - generic: 作业结果
+  - generic: 答题解析
+  - generic: 答题录屏
+  - generic: 巩固训练
+  - text:       
+  - tablist:
+    - tab "阅读":
+      - generic: 阅读
+    - tab "写作" [active] [selected]:
+      - generic: 写作
+  - generic: 显示答案
+  - switch [checked]:
+    - checkbox [checked]
+  - tablist:
+    - button "Writing Task 1 1860 S " [expanded]:
+      - generic: Writing Task 1
+      - paragraph: 1860 S
+      - generic: 
+    - region:
+      - paragraph
+      - list:
+        - paragraph: (01)
+        - paragraph
+        - paragraph: "-"
+    - button "Writing Task 2 0 S ":
+      - generic: Writing Task 2
+      - paragraph: 0 S
+      - generic: 
+    - region:
+      - paragraph
+      - list:
+        - paragraph: (02)
+        - paragraph
+        - paragraph: "-"
+  - paragraph:
+    - generic: 题目
+  - generic: 正确率
+  - generic: "-"
+  - generic: 中位用时
+  - generic: "-"
+  - generic: 区分度
+  - generic: "0.67"
+  - generic: 争议率
+  - generic: "-"
+  - generic: 
+  - generic: 写作材料
+  - generic: "1"
+  - text: .
+  - generic: WRITING TASK 1 You should spend about 20 minutes on this task. The first table below shows changes in the total population of New York City from 1800 to 2000. The second and third tables show changes in the population of the five districts of the city (Manhattan, Brooklyn, Bronx, Queens, Staten Island) over the same period. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.
+  - button "":
+    - generic: 
+  - button "":
+    - generic: 
+  - button "":
+    - generic: 
+  - button "Copy URL":
+    - generic: Copy URL
+  - img "Image loading failed"
+  - generic: 知识点
+  - generic: 题目来源
+  - button "添加知识点"
+  - generic: 表格
+  - text: 
+  - radiogroup:
+    - button " 题目解析":
+      - generic: 
+      - generic: 题目解析
+    - button "名师讲解":
+      - generic: 名师讲解
+    - button "笔记列表":
+      - generic: 笔记列表
+  - generic: AI未批改
+  - paragraph: 开启AI智能批改 · 查看官方写作标准评分建议、逐句批改、润色文章
+  - generic: AI智能批改
+  - generic: 题目得分
+  - generic: 对此题提出疑问？
+  - text: 
+  - generic: 得分
+  - button "-"
+  - generic: 分，总分9分
+  - generic: （未进行AI智能批改，分数可能不准确，请点击AI智能批改）
+  - tablist:
+    - tab "分项批改" [selected]:
+      - generic: 分项批改
+    - tab "逐句批改":
+      - generic: 逐句批改
+    - tab "润色文章":
+      - generic: 润色文章
+  - generic: 字数统计 112
+  - generic: 句子数量 5
+  - generic: 每句平均单词 22
+  - generic: 分数评价
+  - paragraph:
+    - generic: 细节
+    - button "5.5"
+    - generic: 分
+  - paragraph:
+    - generic: 语法
+    - button "2"
+    - generic: 分
+  - paragraph:
+    - generic: 语言能力
+    - button "-"
+    - generic: 分
+  - paragraph:
+    - generic: 观点
+    - button "-"
+    - generic: 分
+  - paragraph:
+    - generic: 组织与发展
+    - button "-"
+    - generic: 分
+  - generic: 
+  - text: 整体评价
+  - generic:  细节
+  - generic:  语法
+  - generic:  语言能力
+  - generic:  观点
+  - generic:  组织与发展
+  - generic: 暂无评价
+  - generic: 
+  - text: 写作批改
+  - generic: 不错
+  - generic: 待提高
+  - generic: AI智能批改
+  - checkbox "不再提醒"
+  - generic: 不再提醒
+  - generic: 
+  - text: The table shows the
+  - generic: "1"
+  - text: New York City's changes in toal
+  - generic: "2"
+  - text: population from 1800 to 2000, and also describe
+  - generic: "3"
+  - text: the five districts changes in the population of New York on
+  - generic: "4"
+  - text: the same time. At first, NewYork
+  - generic: "5"
+  - text: City had 79, 216 population in the
+  - generic: "6"
+  - text: 1800, but o
+  - generic: "7"
+  - text: nly 10 years, the population increase
+  - generic: "8"
+  - text: quickly to 3, 437, 202 in the
+  - generic: "9"
+  - text: 1900. This is a very large number, respect
+  - generic: "10"
+  - text: a sharp increase in population. Similarly, also ten years p
+  - generic: "11"
+  - text: assed, the popopulation
+  - generic: "12"
+  - text: has the
+  - generic: "13"
+  - text: sharply increase,
+  - generic: "14"
+  - text: reach to
+  - generic: "15"
+  - text: 8009185 popultion, this
+  - generic: "16"
+  - text: is the largest on near
+  - generic: "17"
+  - text: 30 year.
+  - generic: "18"
+  - text: Meanwhile, in 1800, the population of Manhattan had
+  - generic: "19"
+  - text: approximate
+  - generic: "20"
+  - text: 90 percent of the total population of New York City.
+  - generic: 批改详情
+  - generic: 细节
+  - generic: "2"
+  - generic: 语法
+  - generic: "18"
+  - generic: 语言能力
+  - generic: 观点
+  - generic: 组织与发展
+  - list:
+    - generic: 1. 语法结构多样(GD)
+    - generic: 批注
+    - text: 拼写建议
+    - text: 疑似拼写错误，建议将〖toal〗修正为【total】
+    - generic: 2. 语法结构多样(GD)
+    - generic: 批注
+    - text: 格式建议
+    - text: 疑似空格冗余，建议将〖Manhattan had〗修改为【Manhattan had】

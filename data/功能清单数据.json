@@ -1,0 +1,3780 @@
+{
+  "updated": "2026-10-26",
+  "scope": "已调研的教师端9个菜单和学员端10个菜单；不涵盖未提供的校长、教务或其他角色。",
+  "groups": [
+    [
+      "B01",
+      "教学对象与跟进",
+      "围绕学生个人和班级群体，管理档案、学习记录及跟进信息。"
+    ],
+    [
+      "B02",
+      "教学资源与教研",
+      "准备题目、试卷、讲解、文件与教学方案，供后续教学反复使用。"
+    ],
+    [
+      "B03",
+      "课程与学习计划",
+      "安排上课和个人学习时间，记录课堂出勤、表现与要求。"
+    ],
+    [
+      "B04",
+      "作业教学",
+      "完成从布置、接收、作答到批改、反馈与订正的教学任务过程。"
+    ],
+    [
+      "B05",
+      "自主学习与复习",
+      "让学员主动选内容学习，积累词汇、补弱、记笔记，并建立考试目标。"
+    ],
+    [
+      "B06",
+      "学情分析与报告",
+      "从个人、班级和教学工作范围了解学习表现，形成阶段总结。"
+    ],
+    [
+      "B07",
+      "工作台与班级沟通",
+      "聚合教师待办和学员任务，通过班级消息与学习激励支持日常使用。"
+    ]
+  ],
+  "features": [
+    {
+      "id": "XX001",
+      "group": "B07",
+      "name": "教师待办事项",
+      "priority": "核心",
+      "purpose": "集中找到需要批改的作业，直接进入具体学生的作业结果。",
+      "teacher_refs": [
+        "K02"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "待批改卡片展示作业名称、时间、班级和学生，老师可以从不同班级的待批改作业中选择要处理的一项。",
+        "点击作业卡片进入结果页，再查看答卷、解析或后续批改工具。首页负责找到待办，完整的结果和批改功能在作业篇说明。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "有没有统一的待批改入口；能否从待办直接进入对应学生的作业结果。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K02",
+          "text": "已确认的待办类型是待批改作业；没有把空状态中的课程文字扩写为完整的课程待办功能。"
+        }
+      ],
+      "detail_file": "B07_工作台与班级沟通.html",
+      "source_group": "01",
+      "legacy_detail_file": "01_工作台与班级沟通.html",
+      "block_id": "B07",
+      "block_name": "工作台与班级沟通",
+      "module_id": "M21",
+      "module_name": "教师与学员工作台",
+      "checkpoints": [
+        "待批改作业集中展示",
+        "定位班级和学员",
+        "进入具体作业结果"
+      ]
+    },
+    {
+      "id": "XX002",
+      "group": "B07",
+      "name": "学员学习工作台",
+      "priority": "核心",
+      "purpose": "先看自己的学习概况，再找到今天、本周和逾期任务。",
+      "teacher_refs": [],
+      "student_refs": [
+        "SH-C01",
+        "SH-C02"
+      ],
+      "teacher_points": [],
+      "student_points": [
+        "首页按所选班级展示待完成作业数、课程出勤率和待完成任务数。",
+        "阅读、听力词汇水平分别显示等级和词汇量；详细报告统一在下方“词汇量测评”说明。",
+        "页面上方展示一周签到情况和签到获得的校币，作为坚持学习的辅助提示。",
+        "今日任务用卡片显示名称、类型和起止日期；点击任务可进入学习内容。",
+        "本周任务用日历显示安排，跨天作业连续占据对应日期。",
+        "逾期任务集中显示原定时间和逾期天数，方便学生补做。",
+        "页面提供课程、作业、任务三类事项入口；现有内容样例以作业为主。"
+      ],
+      "scope_note": "出勤统计与词汇水平是概况信息，不等于已确认签到或自动任务生成规则。",
+      "relationship": "学员端",
+      "teacher_shot": "",
+      "student_shot": "SH05",
+      "extra": "",
+      "compare": "首页是否同时回答“还有多少要学”和“目前学得怎样”。",
+      "roles": [
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "SH-C01",
+          "text": "出勤率已有展示；当前样例没有课程数据，具体统计规则待补。"
+        },
+        {
+          "ref": "SH-C02",
+          "text": "任务日历不等于待办清单：已有完成的作业仍可出现在时间安排中。顶部待完成数量与日历条数不能直接等同。"
+        }
+      ],
+      "detail_file": "B07_工作台与班级沟通.html",
+      "source_group": "01",
+      "legacy_detail_file": "01_工作台与班级沟通.html",
+      "block_id": "B07",
+      "block_name": "工作台与班级沟通",
+      "module_id": "M21",
+      "module_name": "教师与学员工作台",
+      "checkpoints": [
+        "作业、课程、任务与词汇概况",
+        "今日、本周、逾期任务",
+        "进入具体学习任务"
+      ]
+    },
+    {
+      "id": "XX003",
+      "group": "B07",
+      "name": "班级消息与作业通知",
+      "priority": "核心",
+      "purpose": "老师向班级发布消息，学员查看通知、关联作业和已有回复。",
+      "teacher_refs": [
+        "K03"
+      ],
+      "student_refs": [
+        "SH-C04"
+      ],
+      "teacher_points": [
+        "动态可按作业、课程、考试、通知、活动、日常、假期等类型查看。卡片显示发布者、内容和所属班级，已有作业动态中可见相关作业卡片。",
+        "发布时填写标题和正文，并选择所有班级可见或部分班级可见；表单另有媒体入口。"
+      ],
+      "student_points": [
+        "消息显示老师、发布时间、类型和正文；作业消息还显示截止时间及关联作业卡片。",
+        "点击关联作业卡片，会进入“我的作业”并定位对应任务，再点击“打开”进入学习。",
+        "作业、课程、考试、通知、活动、日常、假期可按类型查看；实际内容样例为作业与通知。"
+      ],
+      "scope_note": "同一测试通知和教师原有回复已在学员端确认；新学员评论在教师侧如何提醒未补齐。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "H19",
+      "student_shot": "SH14",
+      "extra": "",
+      "compare": "能否围绕班级和教学事项发布消息、控制可见范围，并集中查看回复。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K03",
+          "text": "已有测试班级通知及评论样例；2026-10-23已在学生账号看到同一通知和已有教师回复。学生新评论后的教师侧展示、其他班级的可见边界、消息提醒及置顶/重要效果待补。"
+        },
+        {
+          "ref": "SH-C04",
+          "text": "学生页面已看到评论与回复入口，未见独立发布动态入口；学生新评论的教师侧展示另列在联动说明中待补。"
+        }
+      ],
+      "detail_file": "B07_工作台与班级沟通.html",
+      "source_group": "01",
+      "legacy_detail_file": "01_工作台与班级沟通.html",
+      "block_id": "B07",
+      "block_name": "工作台与班级沟通",
+      "module_id": "M22",
+      "module_name": "班级消息与互动",
+      "checkpoints": [
+        "班级通知发布",
+        "全部或指定班级可见",
+        "作业消息关联具体任务"
+      ]
+    },
+    {
+      "id": "XX004",
+      "group": "B06",
+      "name": "教学数据看板",
+      "priority": "核心",
+      "purpose": "把学生学习表现和老师教学跟进情况汇总成趋势与明细。",
+      "teacher_refs": [
+        "K04"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "总览展示学生作业完成率趋势；详情可看作业完成率、平均练习时长和作业正确率。",
+        "学生明细把成绩、已上/剩余课时、反馈/回访、作业和词汇情况放在同一张表中，方便一起查看。",
+        "总览展示老师布置作业数；详情提供平均提分率、作业查阅率和作业批改率等指标。",
+        "老师明细可选在授学生数、课时数、未反馈数、课后未布置作业班级数等字段，帮助检查教学工作是否跟进。",
+        "总览可看近7天或近30天；详情可按日、周、月查看，并选择考试类型、班级等统计范围。",
+        "明细表可选择展示哪些字段，并提供数据导出。提分分析也有独立区域，目前没有数据样例。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "是否能同时观察学习结果、练习投入和教学跟进，而不只是统计作业数量。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K04",
+          "text": "学生分析已有数据行；老师分析缺明细样例，提分分析为空。老师字段依据实际表头设置记录；指标算法、更新规则及导出文件内容仍待确认。"
+        }
+      ],
+      "detail_file": "B06_学情分析与报告.html",
+      "source_group": "01",
+      "legacy_detail_file": "01_工作台与班级沟通.html",
+      "block_id": "B06",
+      "block_name": "学情分析与报告",
+      "module_id": "M19",
+      "module_name": "教学统计与AI分析",
+      "checkpoints": [
+        "作业完成与正确率趋势",
+        "学员学习情况明细",
+        "教师教学跟进指标",
+        "明细字段选择与数据导出"
+      ]
+    },
+    {
+      "id": "XX005",
+      "group": "B06",
+      "name": "AI教学数据问答",
+      "priority": "次要",
+      "purpose": "用自然语言询问教学数据，获得统计表、分析和建议。",
+      "teacher_refs": [
+        "K01"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "可以自己输入问题，也可以选“今日作业完成率分析”“本周学情周报”“学生薄弱知识点分析”等推荐问题。",
+        "点击推荐问题后，会先填入一段提问内容，老师可以修改后再发送。",
+        "回答可包含统计文字、表格和建议。对话会展示查询进度，生成过程中可以停止。",
+        "可以新建对话、查找并重新打开历史对话，继续查看之前的分析。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "H07",
+      "student_shot": "",
+      "extra": "",
+      "compare": "老师能否直接询问教学问题、复看分析记录，并了解回答依据。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K01",
+          "text": "已有实际回答。推荐问题中的“提醒”只是提问模板，尚未确认会直接向学生发送提醒；AI统计范围和数字需结合原始记录核对。"
+        }
+      ],
+      "detail_file": "B06_学情分析与报告.html",
+      "source_group": "01",
+      "legacy_detail_file": "01_工作台与班级沟通.html",
+      "block_id": "B06",
+      "block_name": "学情分析与报告",
+      "module_id": "M19",
+      "module_name": "教学统计与AI分析",
+      "checkpoints": [
+        "自然语言提问与推荐问题",
+        "统计文字、表格和建议",
+        "查看生成进度及历史对话"
+      ]
+    },
+    {
+      "id": "XX006",
+      "group": "B07",
+      "name": "消息回复与重要标记",
+      "priority": "次要",
+      "purpose": "围绕一条班级消息交流，老师可置顶或标为重要。",
+      "teacher_refs": [
+        "K03"
+      ],
+      "student_refs": [
+        "SH-C04"
+      ],
+      "teacher_points": [
+        "老师可以发布评论、展开查看回复；页面另有“最新回复”入口，便于集中查看互动。",
+        "自己的动态提供置顶、标为重要和删除入口，方便管理班级消息。"
+      ],
+      "student_points": [
+        "消息下可查看已有评论、展开评论输入框；已有评论旁也有回复入口。“最新回复”提供集中查看回复的入口。"
+      ],
+      "scope_note": "教师发布回复已操作，学员端已见评论输入框；未发送新的学员评论。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "",
+      "student_shot": "SH18",
+      "extra": "",
+      "compare": "讨论是否留在对应消息下，老师能否突出关键通知。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K03",
+          "text": "已有测试班级通知及评论样例；2026-10-23已在学生账号看到同一通知和已有教师回复。学生新评论后的教师侧展示、其他班级的可见边界、消息提醒及置顶/重要效果待补。"
+        },
+        {
+          "ref": "SH-C04",
+          "text": "学生页面已看到评论与回复入口，未见独立发布动态入口；学生新评论的教师侧展示另列在联动说明中待补。"
+        }
+      ],
+      "detail_file": "B07_工作台与班级沟通.html",
+      "source_group": "01",
+      "legacy_detail_file": "01_工作台与班级沟通.html",
+      "block_id": "B07",
+      "block_name": "工作台与班级沟通",
+      "module_id": "M22",
+      "module_name": "班级消息与互动",
+      "checkpoints": [
+        "消息评论与回复",
+        "最新回复入口",
+        "动态置顶与重要标记"
+      ]
+    },
+    {
+      "id": "XX007",
+      "group": "B01",
+      "name": "学员档案",
+      "priority": "核心",
+      "purpose": "集中查看学生基础信息、关联班级与入学测评记录。",
+      "teacher_refs": [
+        "K05"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "基础资料包括联系方式、学校、年级、顾问等；页面分别显示学生和家长的公众号关注状态。",
+        "同一学生可以关联多个班级，查看各班级的课程名称、开课时间和在读状态。",
+        "入学模考有日期、题目、状态、做题时长和分数的记录位置。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "跨班级学习时，学生的资料和学习历史是否仍归在同一档案中。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K05",
+          "text": "入学模考当前缺有数据样例；关注状态不等于消息已经送达。"
+        }
+      ],
+      "detail_file": "B01_教学对象与跟进.html",
+      "source_group": "02",
+      "legacy_detail_file": "02_学员与班级管理.html",
+      "block_id": "B01",
+      "block_name": "教学对象与跟进",
+      "module_id": "M01",
+      "module_name": "学员档案与跟进",
+      "checkpoints": [
+        "基础资料与联系人",
+        "一个学员关联多个班级",
+        "入学模考记录",
+        "学生与家长公众号关注状态"
+      ]
+    },
+    {
+      "id": "XX008",
+      "group": "B01",
+      "name": "班级概况与成员",
+      "priority": "核心",
+      "purpose": "查看班级开课状态、课程进度和师生名单，从班级进入个人学习档案。",
+      "teacher_refs": [
+        "K44",
+        "F53"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "班级摘要显示班级名称、课程名称、开课状态与日期、课程进度和学生人数。",
+        "成员区显示老师、助教身份及学生名单，帮助了解当前班级的人员组成。",
+        "点击学生进入该生档案，可继续查看学习报告、错题等个人情况，并返回我的班级。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "能否同时了解班级教学进度和成员，再从班级快速进入个人跟进。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K44",
+          "text": "当前教师端未见新建班级入口；不据此判断其他角色能否建班。"
+        },
+        {
+          "ref": "F53",
+          "text": "班级概况依据班级摘要实际显示；不包含当前教师角色未见的新建班级、排课或课程进度修改能力。"
+        }
+      ],
+      "detail_file": "B01_教学对象与跟进.html",
+      "source_group": "02",
+      "legacy_detail_file": "02_学员与班级管理.html",
+      "block_id": "B01",
+      "block_name": "教学对象与跟进",
+      "module_id": "M02",
+      "module_name": "班级管理",
+      "checkpoints": [
+        "班级、课程与开课日期",
+        "开课状态、课程进度和人数",
+        "老师、助教与学员名单",
+        "从成员进入个人档案"
+      ]
+    },
+    {
+      "id": "XX009",
+      "group": "B01",
+      "name": "班级作业情况",
+      "priority": "核心",
+      "purpose": "在学生与作业的矩阵中比较全班表现，再进入个人结果。",
+      "teacher_refs": [
+        "K14"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "矩阵按作业和学生展示状态、分数与评语数量，适合比较全班表现。",
+        "列表可以展开学生，进入学习报告、错题、练习统计或该份作业结果。",
+        "从班级可进入提交名单、排行和AI分析；详细结果与批改工具在作业篇统一说明。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "能否先看全班差异，再进入需要帮助的学生或具体答卷。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K14",
+          "text": "首页看待处理事项，班级看同一教学群体；两者不是两套作业结果。"
+        }
+      ],
+      "detail_file": "B01_教学对象与跟进.html",
+      "source_group": "02",
+      "legacy_detail_file": "02_学员与班级管理.html",
+      "block_id": "B01",
+      "block_name": "教学对象与跟进",
+      "module_id": "M02",
+      "module_name": "班级管理",
+      "checkpoints": [
+        "学员与作业的表现矩阵",
+        "状态、分数与评语数量",
+        "从群体比较进入个人结果"
+      ]
+    },
+    {
+      "id": "XX010",
+      "group": "B01",
+      "name": "个人练习记录",
+      "priority": "核心",
+      "purpose": "按学生或资源回看练习状态、成绩、时间和训练方式。",
+      "teacher_refs": [
+        "K43"
+      ],
+      "student_refs": [
+        "SQ-C03"
+      ],
+      "teacher_points": [
+        "练习情况提供作业、自适应统计、单词书、开放题库和词汇量测试等入口。",
+        "作业记录可查看任务类型、完成状态、成绩及结果；开放题库保留题目、开始/提交时间、成绩和训练模式等记录。",
+        "自适应统计按科目和能力查看练习情况；学习笔记有文字/材料笔记、来源和关联作业等记录位置。"
+      ],
+      "student_points": [
+        "资源卡片显示完成状态、最新成绩和Top高错点，提供回顾表现的线索。",
+        "展开“查看结果”可见历次记录的序号、分数、正确率、日期及查看入口。"
+      ],
+      "scope_note": "两端均有练习记录入口；未确认所有自主练习都会自动归集到教师端。",
+      "relationship": "两端入口，归集规则待补",
+      "teacher_shot": "",
+      "student_shot": "SQ08",
+      "extra": "",
+      "compare": "是否能从个人档案统一查看多种练习记录，而不用到各类作业中逐个寻找。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K43",
+          "text": "这里只记录自适应统计页面，不推定其推荐算法；笔记和部分统计缺有效样例。"
+        },
+        {
+          "ref": "SQ-C03",
+          "text": "高错点的统计范围尚未确认，不能直接理解为当前学生的全部错误。"
+        }
+      ],
+      "detail_file": "B01_教学对象与跟进.html",
+      "source_group": "02",
+      "legacy_detail_file": "02_学员与班级管理.html",
+      "block_id": "B01",
+      "block_name": "教学对象与跟进",
+      "module_id": "M01",
+      "module_name": "学员档案与跟进",
+      "checkpoints": [
+        "不同来源的练习记录",
+        "任务状态、成绩和时间",
+        "开放题库训练模式记录"
+      ]
+    },
+    {
+      "id": "XX011",
+      "group": "B03",
+      "name": "个人学习日历",
+      "priority": "核心",
+      "purpose": "把课程、作业、考试和自定义事项放在同一张日历中安排。",
+      "teacher_refs": [
+        "K06"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "同一月历中呈现课程、作业、考试、自定义任务四类事项。",
+        "老师可以添加任务名称、所属班级、起止时间和提醒时间。"
+      ],
+      "student_points": [],
+      "scope_note": "提醒时间可配置，实际送达未确认。此项说明教师个人计划管理；学员首页的任务入口另见学习工作台。",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "能否为学生安排完整的学习计划，并生成便于沟通的清单。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K06",
+          "text": "已见提醒配置及清单图片生成入口；提醒送达和生成文件内容未核对。"
+        }
+      ],
+      "detail_file": "B03_课程与学习计划.html",
+      "source_group": "02",
+      "legacy_detail_file": "02_学员与班级管理.html",
+      "block_id": "B03",
+      "block_name": "课程与学习计划",
+      "module_id": "M08",
+      "module_name": "个人学习计划",
+      "checkpoints": [
+        "课程、作业和考试统一日历",
+        "添加个人自定义事项",
+        "班级、起止时间与提醒配置"
+      ]
+    },
+    {
+      "id": "XX012",
+      "group": "B03",
+      "name": "学习清单图片",
+      "priority": "次要",
+      "purpose": "按时间范围与事项类型生成列表或日历式学习清单。",
+      "teacher_refs": [
+        "K06"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "可选时间范围和事项类型，加上整体点评，预览列表或日历样式并生成任务清单图片。"
+      ],
+      "student_points": [],
+      "scope_note": "已见点评、预览和生成图片入口；生成文件内容未完整核对。",
+      "relationship": "教师端",
+      "teacher_shot": "S18",
+      "student_shot": "",
+      "extra": "",
+      "compare": "能否把阶段学习安排整理成方便学员阅读和保存的清单。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K06",
+          "text": "已见提醒配置及清单图片生成入口；提醒送达和生成文件内容未核对。"
+        }
+      ],
+      "detail_file": "B03_课程与学习计划.html",
+      "source_group": "02",
+      "legacy_detail_file": "02_学员与班级管理.html",
+      "block_id": "B03",
+      "block_name": "课程与学习计划",
+      "module_id": "M08",
+      "module_name": "个人学习计划",
+      "checkpoints": [
+        "选择事项和时间范围",
+        "整体点评",
+        "列表或日历式预览",
+        "生成清单图片入口"
+      ]
+    },
+    {
+      "id": "XX013",
+      "group": "B01",
+      "name": "回访记录",
+      "priority": "次要",
+      "purpose": "记录沟通内容、图片与回访时间，保留下次跟进日期。",
+      "teacher_refs": [
+        "K12"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "历史列表保留回访时间、回访人、内容和图片，提供添加、编辑、删除入口。",
+        "填写本次回访内容时，可以另外设置下次回访日期。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "沟通记录能否持续积累，并接上下一次跟进。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K12",
+          "text": "已有保存的测试回访；下次回访日期是否触发提醒未确认。"
+        }
+      ],
+      "detail_file": "B01_教学对象与跟进.html",
+      "source_group": "02",
+      "legacy_detail_file": "02_学员与班级管理.html",
+      "block_id": "B01",
+      "block_name": "教学对象与跟进",
+      "module_id": "M01",
+      "module_name": "学员档案与跟进",
+      "checkpoints": [
+        "回访图文记录",
+        "历史回访的添加与维护",
+        "下次回访日期"
+      ]
+    },
+    {
+      "id": "XX014",
+      "group": "B01",
+      "name": "考试成绩档案",
+      "priority": "次要",
+      "purpose": "记录正式考试的日期、地点、总分、分项和凭证。",
+      "teacher_refs": [
+        "K13"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "支持托福、雅思、SAT、AP、A-Level等考试类型，并使用相应成绩分项；可添加自定义分项。",
+        "可填写考试时间、地点、总分和分项，附凭证或附件；表单有考前一天通知选项。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "能否记录不同考试的分项成绩、考试安排及凭证。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K13",
+          "text": "已有保存并回读的SAT样例；通知送达、附件上传及成绩自动同步尚未确认。"
+        }
+      ],
+      "detail_file": "B01_教学对象与跟进.html",
+      "source_group": "02",
+      "legacy_detail_file": "02_学员与班级管理.html",
+      "block_id": "B01",
+      "block_name": "教学对象与跟进",
+      "module_id": "M01",
+      "module_name": "学员档案与跟进",
+      "checkpoints": [
+        "多考试类型与成绩分项",
+        "考试时间、地点和总分",
+        "自定义分项及凭证附件",
+        "考前通知配置"
+      ]
+    },
+    {
+      "id": "XX015",
+      "group": "B02",
+      "name": "题库选题与组卷",
+      "priority": "核心",
+      "purpose": "从系统与机构题库中选整篇或单题，组成适合教学的练习。",
+      "teacher_refs": [
+        "K32"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "按考试、分项、来源目录查找试卷或篇章，再结合知识点、难度和已有统计选题。",
+        "可选择整篇或单题，集中查看已选内容，收藏为试卷或从题库直接进入布置配置。",
+        "页面有我的试卷、共享试卷，以及机构的个人/共享试卷范围。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "能否按教学目标灵活选题，并复用系统和机构的内容。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K32",
+          "text": "个人/共享系统试卷当前缺有数据样例；直接布置的对象、时间和规则在作业篇说明。"
+        }
+      ],
+      "detail_file": "B02_教学资源与教研.html",
+      "source_group": "03",
+      "legacy_detail_file": "03_内容资源与教研.html",
+      "block_id": "B02",
+      "block_name": "教学资源与教研",
+      "module_id": "M03",
+      "module_name": "题库与试卷",
+      "checkpoints": [
+        "系统与机构题库选题",
+        "整篇或单题选择",
+        "集中查看已选内容",
+        "收藏组卷并进入布置"
+      ]
+    },
+    {
+      "id": "XX016",
+      "group": "B05",
+      "name": "学员自主选题",
+      "priority": "核心",
+      "purpose": "学员按学习目标自己选择资源，并选择模考或日常学练入口。",
+      "teacher_refs": [],
+      "student_refs": [
+        "SQ-C01",
+        "SQ-C02"
+      ],
+      "teacher_points": [],
+      "student_points": [
+        "资源分整套和篇章，科目入口包括新托福2026、雅思、SAT、SAT机考、AP。",
+        "雅思按听力、阅读、写作、口语组织；篇章还提供话题、知识点和学习状态等找题方式。",
+        "篇章卡片保留名称、来源与话题，方便判断内容是否适合当前学习目标。",
+        "篇章卡片同时提供“模考模式”和“学练模式”。",
+        "已进入的雅思阅读学练页将原文与题目并列，题号可跳转，并提供完成测试入口。",
+        "该学练页面可见笔记和AI助教，顶部没有倒计时。相关工具的共用功能见作业篇。"
+      ],
+      "scope_note": "模考与学练入口已见，完整作答差异仍待补。",
+      "relationship": "学员端",
+      "teacher_shot": "",
+      "student_shot": "SQ03",
+      "extra": "",
+      "compare": "学生能否按学习目标主动选内容，资源来源和主题是否清楚。",
+      "roles": [
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "SQ-C01",
+          "text": "实际内容依据为雅思阅读篇章；其他科目与整套的内容待补。"
+        },
+        {
+          "ref": "SQ-C02",
+          "text": "目前不能据两个入口推定完整的计时、提示或评分差异。"
+        }
+      ],
+      "detail_file": "B05_自主学习与复习.html",
+      "source_group": "03",
+      "legacy_detail_file": "03_内容资源与教研.html",
+      "block_id": "B05",
+      "block_name": "自主学习与复习",
+      "module_id": "M14",
+      "module_name": "自主选题练习",
+      "checkpoints": [
+        "按科目、题型与主题自主选题",
+        "选择模考或学练入口"
+      ]
+    },
+    {
+      "id": "XX017",
+      "group": "B02",
+      "name": "机构试卷与单题录入",
+      "priority": "核心",
+      "purpose": "将机构自有材料、题目、答案和解析保存为可维护的试卷。",
+      "teacher_refs": [
+        "K34"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "八类单题覆盖选择、填空、简答、写作、口语、精听和跟读，设置答案、知识点、难度、分值和解析。",
+        "材料与子题可组成题目组；填空可配置多个可接受答案，简答可填写参考答案与批改规则。",
+        "试卷可分类、调整题目顺序，并填写名称、科目、成绩说明与共享范围。",
+        "可查看整卷材料、题号、总分，也有逐题正确率、均分等答题统计。",
+        "提供编辑及导出入口；导出时可选是否包含答案/解析。直接布置仍使用作业配置。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "机构内容能否长期沉淀，保留题组、答案、讲解和后续使用数据。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K34",
+          "text": "已有个人测试卷；他人试卷出现不可编辑提示。多子题保存形态、上传后音频分割仍待补。"
+        }
+      ],
+      "detail_file": "B02_教学资源与教研.html",
+      "source_group": "03",
+      "legacy_detail_file": "03_内容资源与教研.html",
+      "block_id": "B02",
+      "block_name": "教学资源与教研",
+      "module_id": "M03",
+      "module_name": "题库与试卷",
+      "checkpoints": [
+        "多题型单题录入",
+        "材料与子题组成题目组",
+        "答案、分值、知识点和解析",
+        "分类、题序与共享范围",
+        "编辑及导出入口"
+      ]
+    },
+    {
+      "id": "XX018",
+      "group": "B02",
+      "name": "题目讲解与备课",
+      "priority": "核心",
+      "purpose": "对照材料、答案、知识点和讲解准备课堂内容。",
+      "teacher_refs": [
+        "K33"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "查看材料、题干、答案、听力音频/原文，以及正确率和选项分布等统计。",
+        "可为题目关联知识点，阅读解析、名师讲解、公开笔记，并补文字、图片或音频讲解。"
+      ],
+      "student_points": [],
+      "scope_note": "解析、名师讲解和公开笔记入口已见，具体内容完整程度随题目变化。",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "题目能否积累可复用的讲解，并用于课堂讲评。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K33",
+          "text": "讲解和公开笔记部分缺内容样例；知识点的完整讲解维护在教研篇。"
+        }
+      ],
+      "detail_file": "B02_教学资源与教研.html",
+      "source_group": "03",
+      "legacy_detail_file": "03_内容资源与教研.html",
+      "block_id": "B02",
+      "block_name": "教学资源与教研",
+      "module_id": "M04",
+      "module_name": "知识点与题目讲解",
+      "checkpoints": [
+        "对照材料、题干和答案",
+        "听力原文及题目统计",
+        "关联知识点",
+        "解析、讲解和公开笔记入口"
+      ]
+    },
+    {
+      "id": "XX019",
+      "group": "B02",
+      "name": "知识点库",
+      "priority": "核心",
+      "purpose": "独立积累可复用的知识讲解，支持题目关联与团队共享。",
+      "teacher_refs": [
+        "K40"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "知识点按科目和类型组织，可分个人与共享，填写名称和说明。",
+        "内容可包含富文本、公式、视频、音频和配套文件；已有音频支持播放、进度和倍速。",
+        "机构录题可快捷添加知识点，页面提示音视频讲解和附件到教研补充。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "知识讲解能否独立积累、共享并与题目结合，而不是每次重新填写。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K40",
+          "text": "共享样例当前只读；不同科目或来源的知识点是否共用同一体系尚未确认。"
+        }
+      ],
+      "detail_file": "B02_教学资源与教研.html",
+      "source_group": "03",
+      "legacy_detail_file": "03_内容资源与教研.html",
+      "block_id": "B02",
+      "block_name": "教学资源与教研",
+      "module_id": "M04",
+      "module_name": "知识点与题目讲解",
+      "checkpoints": [
+        "个人与共享知识点",
+        "富文本和公式讲解",
+        "音视频与配套附件",
+        "与题目的知识点关联"
+      ]
+    },
+    {
+      "id": "XX020",
+      "group": "B02",
+      "name": "教学云盘",
+      "priority": "核心",
+      "purpose": "管理个人与共享文件，在作业或大纲中选用。",
+      "teacher_refs": [
+        "K41"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "文件区分我的云盘与共享云盘；共享列表显示上传老师，已有PDF和MP3样例。",
+        "上传前可选择个人或共享范围；页面提供容量展示和文件下载。",
+        "要把文件交给学生学习，需要从作业或大纲的资源入口选用；云盘本页未见直接布置按钮。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "教学文件是否既能个人保存、团队共享，又能在实际教学任务中复用。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K41",
+          "text": "已见上传前配置；个人文件列表为空，上传完成后管理、共享权限细节待补。"
+        }
+      ],
+      "detail_file": "B02_教学资源与教研.html",
+      "source_group": "03",
+      "legacy_detail_file": "03_内容资源与教研.html",
+      "block_id": "B02",
+      "block_name": "教学资源与教研",
+      "module_id": "M05",
+      "module_name": "教学文件管理",
+      "checkpoints": [
+        "个人与共享教学文件",
+        "上传范围和容量信息",
+        "文件下载",
+        "在作业或大纲中选用文件"
+      ]
+    },
+    {
+      "id": "XX021",
+      "group": "B02",
+      "name": "作业大纲",
+      "priority": "核心",
+      "purpose": "按周或阶段编排题目、词汇与课件，形成可重复使用的教学方案。",
+      "teacher_refs": [
+        "K39"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "按科目和分类管理大纲，再按周或阶段建立目录，组织任务和先后顺序。",
+        "任务可关联单词、作业、音视频或课件；选中任务可查看关联材料摘要。",
+        "单词关联入口可把词库分成多个单元，并设置学习模式和词汇形式。",
+        "作业关联入口沿用已有编辑器，完成动作是“确认关联”；音视频和课件从资源选择器选入。",
+        "可预览已有任务的答题和结果样式；给谁做、什么时候下发在班级应用阶段安排。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "能否把教师经验保存成方案，换班使用时按进度安排，而不必从头布置。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K39",
+          "text": "本章的确认关联不是向学生发布。大纲应用次数已见，但应用对象明细、正式下发和后续修改影响待补。"
+        }
+      ],
+      "detail_file": "B02_教学资源与教研.html",
+      "source_group": "03",
+      "legacy_detail_file": "03_内容资源与教研.html",
+      "block_id": "B02",
+      "block_name": "教学资源与教研",
+      "module_id": "M06",
+      "module_name": "教学大纲",
+      "checkpoints": [
+        "按科目和阶段编排目录",
+        "关联作业、词汇与课件",
+        "目录任务顺序",
+        "预览关联内容"
+      ]
+    },
+    {
+      "id": "XX022",
+      "group": "B02",
+      "name": "大纲下发计划",
+      "priority": "核心",
+      "purpose": "把已有大纲应用到一个班级，按开始日期和每周频次安排下发。",
+      "teacher_refs": [
+        "K17"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "选择科目、分类和大纲后，查看各目录中的作业和课件。",
+        "可按起始日期、下发时间和每周频次预览计划，也可选择全部下发。"
+      ],
+      "student_points": [],
+      "scope_note": "关联、排程和预览已见；未确认正式下发生成任务以及后续修改的影响，学员接收侧仍待补。",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "是否能复用教学方案，并按不同班级的进度调整执行时间。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K17",
+          "text": "已查看关联和排程配置；正式下发生成任务、后续修改大纲的影响仍待补。"
+        }
+      ],
+      "detail_file": "B02_教学资源与教研.html",
+      "source_group": "03",
+      "legacy_detail_file": "03_内容资源与教研.html",
+      "block_id": "B02",
+      "block_name": "教学资源与教研",
+      "module_id": "M06",
+      "module_name": "教学大纲",
+      "checkpoints": [
+        "为班级关联大纲",
+        "起始日期与下发时间",
+        "每周频次或全部下发",
+        "下发计划预览"
+      ]
+    },
+    {
+      "id": "XX023",
+      "group": "B02",
+      "name": "Word／Excel批量录题",
+      "priority": "次要",
+      "purpose": "将已有文档按格式或模板批量转成可编辑题目。",
+      "teacher_refs": [
+        "K36"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "按格式粘贴Word文本，一边编辑，一边看题型、答案、解析等识别预览。",
+        "也可下载Word/Excel模板后上传；已见模板支持选择、填空、简答和写作等题型。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "现有教学文档能否减少重复录入，导入后是否方便校对。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K36",
+          "text": "已有格式示例和预览，真实上传文件的识别结果待补；Excel词表的规则放在词书功能中。"
+        }
+      ],
+      "detail_file": "B02_教学资源与教研.html",
+      "source_group": "03",
+      "legacy_detail_file": "03_内容资源与教研.html",
+      "block_id": "B02",
+      "block_name": "教学资源与教研",
+      "module_id": "M03",
+      "module_name": "题库与试卷",
+      "checkpoints": [
+        "按格式粘贴Word内容",
+        "题型、答案和解析识别预览",
+        "Word与Excel模板入口"
+      ]
+    },
+    {
+      "id": "XX024",
+      "group": "B02",
+      "name": "AI出题",
+      "priority": "次要",
+      "purpose": "按科目、年级、题型、难度和要求生成题目，再检查编辑后入库。",
+      "teacher_refs": [
+        "K37"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "指定科目、年级、题数、难度、题型和描述，可选择课程标准体系。",
+        "生成时可查看进度；完成后题目进入当前试卷，可检查题干、选项、答案和解析，再编辑保存。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "AI出题能否对齐教学要求，内容是否可检查、修改后入库。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K37",
+          "text": "已有AI单选题生成和保存样例；不以成功生成推定题目质量或全部题型都已实际生成。"
+        }
+      ],
+      "detail_file": "B02_教学资源与教研.html",
+      "source_group": "03",
+      "legacy_detail_file": "03_内容资源与教研.html",
+      "block_id": "B02",
+      "block_name": "教学资源与教研",
+      "module_id": "M03",
+      "module_name": "题库与试卷",
+      "checkpoints": [
+        "科目、年级与课程标准",
+        "题数、难度、题型与描述",
+        "查看生成进度",
+        "人工检查、编辑与保存"
+      ]
+    },
+    {
+      "id": "XX025",
+      "group": "B02",
+      "name": "试卷计时与分数换算",
+      "priority": "核心",
+      "purpose": "设置分项作答时长和原始分到标准分的对应关系。",
+      "teacher_refs": [
+        "K35"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "可以按分类分别填写答题时长。",
+        "可以选择换算模板，或设置不同分类的原始分、标准分及分段对应关系。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "能否支持分项计时，以及原始分到考试标准分的换算。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K35",
+          "text": "已见规则配置，未验证一份真实答卷按新规则计时或换分的结果。"
+        }
+      ],
+      "detail_file": "B02_教学资源与教研.html",
+      "source_group": "03",
+      "legacy_detail_file": "03_内容资源与教研.html",
+      "block_id": "B02",
+      "block_name": "教学资源与教研",
+      "module_id": "M03",
+      "module_name": "题库与试卷",
+      "checkpoints": [
+        "按分类设置答题时长",
+        "选择分数换算模板",
+        "原始分与标准分对应",
+        "自定义分段换算规则"
+      ]
+    },
+    {
+      "id": "XX026",
+      "group": "B05",
+      "name": "Excel词表导入",
+      "priority": "次要",
+      "purpose": "按工作表与单元结构录入词表，减少重复整理词汇资料。",
+      "teacher_refs": [
+        "K38"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "可按Excel模板新增词表，每个sheet对应一个单元；支持单词、音标、释义及例句等字段。页面说明未填写的音标、释义、例句等可自动匹配。"
+      ],
+      "student_points": [],
+      "scope_note": "模板与自动匹配说明已见；实际导入、自动补全效果未验证。",
+      "relationship": "教师端",
+      "teacher_shot": "Q57",
+      "student_shot": "",
+      "extra": "",
+      "compare": "已有词表能否按单元导入，导入后是否能校对和维护。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K38",
+          "text": "Excel模板的自动补全是页面说明，实际上传与补全质量尚未验证。"
+        }
+      ],
+      "detail_file": "B05_自主学习与复习.html",
+      "source_group": "03",
+      "legacy_detail_file": "03_内容资源与教研.html",
+      "block_id": "B05",
+      "block_name": "自主学习与复习",
+      "module_id": "M15",
+      "module_name": "词汇学习",
+      "checkpoints": [
+        "按Excel工作表组织单元",
+        "词条、音标、释义与例句字段",
+        "自动匹配说明（效果待补）"
+      ]
+    },
+    {
+      "id": "XX027",
+      "group": "B02",
+      "name": "课堂白板",
+      "priority": "次要",
+      "purpose": "从题目预览打开白板，用画笔、文字、形状等辅助讲题。",
+      "teacher_refs": [
+        "K33"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "答题预览入口另有白板，可用画笔、文字、形状或激光笔等工具辅助讲评。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "Q68",
+      "student_shot": "",
+      "extra": "",
+      "compare": "讲题时能否直接在题目或材料旁标记和演示。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K33",
+          "text": "讲解和公开笔记部分缺内容样例；知识点的完整讲解维护在教研篇。"
+        }
+      ],
+      "detail_file": "B02_教学资源与教研.html",
+      "source_group": "03",
+      "legacy_detail_file": "03_内容资源与教研.html",
+      "block_id": "B02",
+      "block_name": "教学资源与教研",
+      "module_id": "M04",
+      "module_name": "知识点与题目讲解",
+      "checkpoints": [
+        "题目预览中的白板入口",
+        "画笔、文字和形状",
+        "激光笔等讲评工具"
+      ]
+    },
+    {
+      "id": "XX028",
+      "group": "B04",
+      "name": "布置作业与学习规则",
+      "priority": "核心",
+      "purpose": "指定学习内容、班级或学生、批改老师、起止时间与适用规则。",
+      "teacher_refs": [
+        "K18"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "选择班级、学生和批改老师，设置名称、开始与截止时间。",
+        "提供基础练习、题型训练、模考、机构题库、自定义、打卡和视频课件等布置入口。",
+        "相关入口可配置倒计时、到时禁止作答、结果页答案显示、强监管和实时模式。",
+        "已选内容可增删、按分项检查；布置前可预览答题页和结果页。SAT预览另有标记复习、笔记和计算器等考试工具。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "能否针对教学对象、学习周期和作答要求配置任务。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K18",
+          "text": "不同入口的规则不完全相同；预览只是检查样式，不是学生实际作答。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "04",
+      "legacy_detail_file": "04_作业与实时教学.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M10",
+      "module_name": "作业布置与跟进",
+      "checkpoints": [
+        "指定班级、学员和批改老师",
+        "设置开始与截止时间",
+        "适用入口的计时与到期规则",
+        "答案显示、强监管及实时配置",
+        "布置前预览答题和结果"
+      ]
+    },
+    {
+      "id": "XX029",
+      "group": "B04",
+      "name": "我的作业",
+      "priority": "核心",
+      "purpose": "让学员找到待完成、进行中、已完成的任务，并查看新评语。",
+      "teacher_refs": [],
+      "student_refs": [
+        "SW-C01"
+      ],
+      "teacher_points": [],
+      "student_points": [
+        "待完成、进行中、已完成对应学习进度；卡片按状态提供进入作业、继续作答、查看结果或打开课件。",
+        "已批改和有新评语帮助学生找到老师的反馈；即将过期、已逾期帮助学生处理快到期或需要补做的作业。",
+        "卡片显示作业名称、类型、班级、老师和起止时间；还提供收藏作业入口。"
+      ],
+      "scope_note": "",
+      "relationship": "学员端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "能否让学生直接找到下一步要做的事，而不只看到一长串作业名称。",
+      "roles": [
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "SW-C01",
+          "text": ""
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "04",
+      "legacy_detail_file": "04_作业与实时教学.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M10",
+      "module_name": "作业布置与跟进",
+      "checkpoints": [
+        "待完成、进行中、已完成任务",
+        "继续已有草稿",
+        "新评语及到期提醒",
+        "进入作答或回看结果"
+      ]
+    },
+    {
+      "id": "XX030",
+      "group": "B04",
+      "name": "词汇练习",
+      "priority": "核心",
+      "purpose": "老师按词库与学习节奏安排练词，学员作答后逐词查看对错、发音和用时。",
+      "teacher_refs": [
+        "K19"
+      ],
+      "student_refs": [
+        "SW-C02"
+      ],
+      "teacher_points": [
+        "从词库和单元选择词汇，指定词序和数量；可配置单次、多次或抽查，连续计划可按天分配词数。",
+        "听说读写有13种形式，包括听音拼写、英译中、中译英、中译音、补全单词和选词填空等，可组合使用。",
+        "结果可看逐词对错、正确/错误词数、正确率和用时，以及提交/批改名单。"
+      ],
+      "student_points": [
+        "实际见到英译中选择和听音选义两种样例：选择释义完成词汇题；不能据此当作全部练习方式。",
+        "逐词回看时保留原选项、自己的答案、正确答案和耗时，便于定位错词。",
+        "听音样例提供单词音频、美式发音选项和标准发音列表。成绩与订正练习的共用流程在后文集中说明。"
+      ],
+      "scope_note": "教师配置中见13种形式；学员实操样例覆盖英译中选择与听音选义，不能当作全部形式都已逐一作答。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "W43",
+      "student_shot": "SW04",
+      "extra": "",
+      "compare": "能否按天安排词汇学习，并追踪到具体词条和不同作答形式。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K19",
+          "text": "部分单词结果的发音/解析被加载遮罩遮挡；整本词书计划在题库篇，个人词汇情况在学员篇。"
+        },
+        {
+          "ref": "SW-C02",
+          "text": ""
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "04",
+      "legacy_detail_file": "04_作业与实时教学.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M11",
+      "module_name": "作业内容与题型",
+      "checkpoints": [
+        "词库、单元、词序和数量",
+        "单次、多次或抽查安排",
+        "连续计划按天分配",
+        "多种听说读写练词形式",
+        "逐词对错、发音和用时"
+      ]
+    },
+    {
+      "id": "XX031",
+      "group": "B04",
+      "name": "听说读写专项练习",
+      "priority": "核心",
+      "purpose": "针对精听、听写、跟读、精读、语法和翻译等能力安排专项训练。",
+      "teacher_refs": [
+        "K20"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "听力有精听、逐句精听、单词词组听写、句子听力和句子听写。",
+        "口语有口语跟读、篇章跟读，部分入口可配置原文显示。",
+        "阅读有基础语法、长难句、精读、阅读逻辑、语法改错和词汇专项。",
+        "句子翻译可以按从句、非谓语等句式或语法类别选择练习。"
+      ],
+      "student_points": [],
+      "scope_note": "教师布置入口与配置已有依据；各专项的学员完整作答样例未全部补齐。",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "是否有贴近日常教学动作的练习方式，而不只是通用做题。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K20",
+          "text": ""
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "04",
+      "legacy_detail_file": "04_作业与实时教学.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M11",
+      "module_name": "作业内容与题型",
+      "checkpoints": [
+        "精听与各类听写",
+        "口语、篇章跟读",
+        "语法、长难句与精读",
+        "阅读逻辑、改错和词汇专项",
+        "按句式或语法选择翻译练习"
+      ],
+      "role_note": "学员：专项完整作答样例待补"
+    },
+    {
+      "id": "XX032",
+      "group": "B04",
+      "name": "题型练习与模考",
+      "priority": "核心",
+      "purpose": "既能针对题型练习，也能做整套或组卷模考，按考试模板计时作答。",
+      "teacher_refs": [
+        "K21"
+      ],
+      "student_refs": [
+        "SW-C03"
+      ],
+      "teacher_points": [
+        "题型训练可按考试分项、知识点选题；AP另有学科和技能分类。",
+        "模考支持组卷或整套；部分SAT入口区分机考/笔试。",
+        "机构题库入口可使用机构自有题目；来源、难度和题目形式用于挑选适合的内容。"
+      ],
+      "student_points": [
+        "已有雅思、SAT和新托福样例，题目按科目、题组组织；不同考试使用相应的页面模板。",
+        "实际进入的新托福组句题提供词块、句子空位、倒计时和下一题入口。",
+        "Review答题概览按题号标记已答、部分作答、未答、未浏览等状态，并提供跳转到指定题目的操作。",
+        "写作准备页还介绍邮件写作、学术讨论，完整编辑页和作文批改尚待补充。成绩与题目解析统一见后文。"
+      ],
+      "scope_note": "学员已见新托福组句题与Review答题概览；标准写作等完整编辑、提交仍待补。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "",
+      "student_shot": "SW28",
+      "extra": "",
+      "compare": "能否在专项训练和完整模考之间切换，并使用机构自有内容。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K21",
+          "text": "题库篇讲资源维护，作业篇讲怎样把选好的资源交给学生。"
+        },
+        {
+          "ref": "SW-C03",
+          "text": ""
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "04",
+      "legacy_detail_file": "04_作业与实时教学.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M11",
+      "module_name": "作业内容与题型",
+      "checkpoints": [
+        "按考试分项、题型和知识点练习",
+        "组卷或整套模考",
+        "使用机构自有题目",
+        "按考试模板计时作答",
+        "答题概览与题号跳转"
+      ]
+    },
+    {
+      "id": "XX033",
+      "group": "B04",
+      "name": "口语作业与批改",
+      "priority": "核心",
+      "purpose": "把题目、学员录音、转写和分项批改放在一起，指出具体表达问题。",
+      "teacher_refs": [
+        "K26"
+      ],
+      "student_refs": [
+        "SW-C04"
+      ],
+      "teacher_points": [
+        "按题型查看成绩，按小题对照题干与学生录音。",
+        "学生答案有录音和转写，文本中的标记与侧边评分维度、评价对应。",
+        "已有AI评价及教师调整入口；部分面试题型另有润色后的回答。"
+      ],
+      "student_points": [
+        "已有新托福口语样例包含跟读复述、模拟面试；跟读题可查看场景要求、题目音频、原文和分问题。",
+        "学生答案保留录音播放器和转写文字，可以把自己说的内容与原题对照。",
+        "批改分内容完整性、语言准确性、表达等维度，并将具体文字标记与批改详情放在一起。"
+      ],
+      "scope_note": "已有录音结果和批改样例；学员首次录音、重录、提交过程尚未完整记录。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "W104",
+      "student_shot": "SW31",
+      "extra": "",
+      "compare": "评价是否能对应到具体语句，老师是否能复核或调整AI反馈。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K26",
+          "text": "不同口语题型的评分和工具不同，不把某个样例的润色功能扩展到全部口语题。"
+        },
+        {
+          "ref": "SW-C04",
+          "text": "已有依据覆盖答案回听和批改；首次录音、重录与提交的完整过程尚未记录。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "04",
+      "legacy_detail_file": "04_作业与实时教学.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M12",
+      "module_name": "作业结果与批改",
+      "checkpoints": [
+        "按题型与小题查看录音",
+        "学员录音及转写文字",
+        "分项评分与文本批改标记",
+        "教师复核调整入口",
+        "部分题型的回答润色"
+      ]
+    },
+    {
+      "id": "XX034",
+      "group": "B04",
+      "name": "作文批改",
+      "priority": "核心",
+      "purpose": "对照作文原文中的具体字句，查看分项评分、分类批注和修改建议。",
+      "teacher_refs": [
+        "K27"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "查看写作材料、学生作文、分项评分，以及字数和句子统计。",
+        "原文的编号/颜色标记对应分类批注，可逐条看语法、用词等建议。",
+        "另有AI逐句批改与润色入口；页面按原文、批改内容和修改建议组织。"
+      ],
+      "student_points": [],
+      "scope_note": "历史作文批注可见；未启用的AI逐句批改与润色只记录入口，学员完整写作提交流程待补。",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "评分是否能落到具体字句，学生能否知道哪里需要修改。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K27",
+          "text": "历史作文批注已有样例；当前未启用的AI工具只记录入口和说明。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "04",
+      "legacy_detail_file": "04_作业与实时教学.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M12",
+      "module_name": "作业结果与批改",
+      "checkpoints": [
+        "作文原文、字数和句子统计",
+        "写作分项评分",
+        "字句标记与分类批注",
+        "AI逐句批改和润色入口（启用与效果有范围限制）"
+      ],
+      "role_note": "学员：标准写作提交与反馈回看待补"
+    },
+    {
+      "id": "XX035",
+      "group": "B04",
+      "name": "自定义作业",
+      "priority": "核心",
+      "purpose": "把自有讲义、材料或开放问题变成可用图文、录音和视频提交的任务。",
+      "teacher_refs": [
+        "K22"
+      ],
+      "student_refs": [
+        "SW-C05"
+      ],
+      "teacher_points": [
+        "富文本编辑材料，配上单选、多选、填空、写作或口语答题卡，也有Excel答题卡入口。",
+        "可附本地或云盘文件；历史材料复用见作业复用。",
+        "结果页可查看学生提交的文字、图片、录音或视频，并进入评分区。"
+      ],
+      "student_points": [
+        "作答页将老师的任务要求与学生答题区并列，提供富文本输入、图片、音频、视频上传及交卷入口。",
+        "进行中的作业可继续已有草稿；已提交样例保留原要求、附件、文字或媒体答案及题目得分。",
+        "这里是开放提交方式；标准作文的专门编辑和批改另需样例，不能用自定义作业代替说明。"
+      ],
+      "scope_note": "",
+      "relationship": "常规两端功能",
+      "teacher_shot": "W113",
+      "student_shot": "SW20",
+      "extra": "",
+      "compare": "已有讲义和非标准化训练能否转成可提交、可批改的线上任务。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K22",
+          "text": "附件限制按此编辑器单独记录，不与云盘或教研的上传上限混用。"
+        },
+        {
+          "ref": "SW-C05",
+          "text": ""
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "04",
+      "legacy_detail_file": "04_作业与实时教学.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M11",
+      "module_name": "作业内容与题型",
+      "checkpoints": [
+        "自编材料与多种答题卡",
+        "本地或云盘附件",
+        "文字、图片、音频或视频提交",
+        "草稿继续与原始答案回看",
+        "教师评分"
+      ]
+    },
+    {
+      "id": "XX036",
+      "group": "B04",
+      "name": "打卡作业",
+      "priority": "核心",
+      "purpose": "按日期与每周频次安排持续训练，收集逐次提交并点评。",
+      "teacher_refs": [
+        "K23"
+      ],
+      "student_refs": [
+        "SW32"
+      ],
+      "teacher_points": [
+        "设置日期范围、每周频次和提醒时间，用文字或媒体说明要求。",
+        "可指定学生作答形式，并设置允许补卡、是否能看到同学回答。",
+        "按日期查看提交，给等级分或文字/图片点评；查看每日完成情况和打卡天数排行。"
+      ],
+      "student_points": [
+        "“我的作业”已有“打卡作业”分类；现有测试账号该分类为空。",
+        "尚未记录学员打卡、补卡、查看同学回答和接收点评的具体页面，不据教师配置推定实际效果。"
+      ],
+      "scope_note": "教师端配置和历史点评已见；学员端分类存在但暂无任务样例，补卡和同学互看效果待补。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "",
+      "student_shot": "SW32",
+      "extra": "",
+      "compare": "是否支持长期训练的频次、补卡、逐次反馈与持续记录。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K23",
+          "text": "已见教师端配置和历史点评；提醒送达、补卡及同学互看还需学生端样例。"
+        },
+        {
+          "ref": "SW32",
+          "text": "学员打卡分类与空列表截图，尚无具体任务和提交样例。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "04",
+      "legacy_detail_file": "04_作业与实时教学.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M11",
+      "module_name": "作业内容与题型",
+      "checkpoints": [
+        "日期范围、每周频次与提醒",
+        "指定提交形式",
+        "补卡和同学互看配置",
+        "按日期查看与点评",
+        "完成情况和打卡排行"
+      ],
+      "role_note": "学员：分类入口已见，提交样例待补"
+    },
+    {
+      "id": "XX037",
+      "group": "B04",
+      "name": "课件学习（PDF／音视频）",
+      "priority": "核心",
+      "purpose": "老师把资料作为有对象和期限的任务布置，学员打开学习，老师查看完成记录。",
+      "teacher_refs": [
+        "K24"
+      ],
+      "student_refs": [
+        "SW-C08"
+      ],
+      "teacher_points": [
+        "从个人或共享云盘选文件，设置学习名称、接收学生及起止时间。",
+        "教师侧查看参与学生、完成数和文件，可打开课件或下载。"
+      ],
+      "student_points": [
+        "课件任务显示老师、班级和起止时间；点击“打开”后进入新的文档查看标签页。",
+        "已有PDF样例通过浏览器文档查看器阅读，可翻页和缩放；这些是文档查看器提供的阅读工具。",
+        "本PDF样例打开后，学生列表中的任务变为“已完成”。音视频的学习页和播放完成条件另待补充。"
+      ],
+      "scope_note": "本轮重新查看了教师端：PDF样例完成数1/1，课件页关联PDF文件。学员原记录显示打开后标记完成，未见手动交卷。音视频播放与完成条件尚待补。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "联动_TL11",
+      "student_shot": "SW02",
+      "extra": "R01_PDF教师完成记录",
+      "compare": "能否把发材料变成有对象、期限和完成记录的学习任务。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K24",
+          "text": "PDF已确认学生接收、打开后完成及教师端完成数1/1。仅适用于该PDF样例；音视频播放进度与完成判定仍待补。"
+        },
+        {
+          "ref": "SW-C08",
+          "text": "打开即显示完成是当前PDF样例的观察结果，不代表所有媒体类型的完成规则。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "04",
+      "legacy_detail_file": "04_作业与实时教学.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M11",
+      "module_name": "作业内容与题型",
+      "checkpoints": [
+        "选择个人或共享课件",
+        "指定接收对象与学习期限",
+        "学员打开资料学习",
+        "教师查看完成记录",
+        "PDF与音视频完成规则分别记录"
+      ]
+    },
+    {
+      "id": "XX038",
+      "group": "B04",
+      "name": "实时作业",
+      "priority": "核心",
+      "purpose": "用统一时间组织同步练习，老师查看实时表现并结束本场，学员结束后查看结果。",
+      "teacher_refs": [
+        "K30"
+      ],
+      "student_refs": [
+        "SW-C10"
+      ],
+      "teacher_points": [
+        "作业管理设有实时作业分类；练习、模考、自定义及词汇抽查的部分布置入口可以开启实时模式。",
+        "实时是现有任务的执行模式；本次在基础词汇作业中设置开始时间和60分钟时长。",
+        "学生从作业进入等待区，可见参与人数和名单；本次到设定时间自动开始答题。",
+        "教师实时看板呈现参与人数、客观题答对数、准确率与排行榜；本次已确认1名学生三词全对。",
+        "教师可结束答题，结束后显示总分并进入答题详情；学生提交后需等待教师结束，再查看普通结果。",
+        "答题详情继续使用词汇作业结果和逐题解析，沿用共用模块说明。"
+      ],
+      "student_points": [
+        "实时作业仍从“我的作业”进入，卡片增加实时标签和统一起止时间；它是组织方式，不是另一套题目类型。",
+        "开始前进入等待区，能看到开答倒计时和参与学员；已有样例到设定时间后自动进入英译中选择题。",
+        "作答时显示统一倒计时；确认交卷后，页面提示“请等待老师结束答题”，不会立即展示成绩。",
+        "本场结束后任务显示已完成，可以查看成绩和逐题解析；这些结果页面沿用本篇共用说明。"
+      ],
+      "scope_note": "已完成1名学员、3道词汇选择题的两端样例；多人、手动提前开始、强监管与主观题差异未逐一验证。",
+      "relationship": "同步联动",
+      "teacher_shot": "联动_TL08",
+      "student_shot": "联动:SL02",
+      "extra": "R03_实时作业结束后详情",
+      "compare": "是否支持课堂同步组织、即时观察表现和统一收束，并保留课后回顾。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K30",
+          "text": "2026-10-26已完成教师布置、学生接收与三词作答、提交等待、教师结束及两端结果查看。手动提前开始、多人、强监管和主观题差异未操作。"
+        },
+        {
+          "ref": "SW-C10",
+          "text": "已观察1名学生、3道词汇选择题；其他题型与多人场景的差异见独立联动说明。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "04",
+      "legacy_detail_file": "04_作业与实时教学.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M13",
+      "module_name": "作业执行与订正",
+      "checkpoints": [
+        "统一开始时间和作答时长",
+        "学员等待区与参与名单",
+        "开答与统一计时",
+        "教师参与和答题表现看板",
+        "学员交卷后等待本场结束",
+        "结束后复用成绩与解析"
+      ]
+    },
+    {
+      "id": "XX039",
+      "group": "B04",
+      "name": "作业复用",
+      "priority": "次要",
+      "purpose": "通过常用、收藏、跨班拷贝和历史存档重复使用已有作业材料。",
+      "teacher_refs": [
+        "K45"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "可收藏作业、添加至常用作业，或从已有班级选择作业拷贝。",
+        "拷贝时可参考原作业完成率、均分并预览内容，再修改名称和发布/截止时间。",
+        "自定义作业另有历史存档，可取用以前保存的材料。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "常用内容能否跨班、跨时间复用，并按新任务调整安排。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K45",
+          "text": "已见再次布置、常用与拷贝配置；本轮没有执行新拷贝或发布。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "04",
+      "legacy_detail_file": "04_作业与实时教学.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M10",
+      "module_name": "作业布置与跟进",
+      "checkpoints": [
+        "常用与收藏作业",
+        "跨班作业拷贝",
+        "再次布置时调整名称和时间",
+        "自定义材料历史存档"
+      ]
+    },
+    {
+      "id": "XX040",
+      "group": "B04",
+      "name": "作业完成情况与成绩",
+      "priority": "核心",
+      "purpose": "老师从整份作业跟进到具体学生，学员查看得分、诊断和分析建议。",
+      "teacher_refs": [
+        "K25"
+      ],
+      "student_refs": [
+        "SW-C06"
+      ],
+      "teacher_points": [
+        "查看完成数、批改数、均分和学生状态；按未提交、待批阅、已批改等名单跟进，提供催交和复制名单入口。",
+        "查看个人成绩、分项和知识点表现；题目型任务可对照逐题答案、得分和用时。",
+        "提供成绩排行、分享海报，以及针对这份作业的AI完成/作答分析。"
+      ],
+      "student_points": [
+        "作业结果按模板展示总分、分科或分项成绩。词汇样例有正确率和对错词数，SAT样例分读写、数学展示。",
+        "能力诊断可展开分项评价、知识点掌握情况、高错点，以及耗时和正确率对比。",
+        "部分结果页另有“分析&建议”，将优势、待提升点、时长分析和行动建议整理成文字。"
+      ],
+      "scope_note": "成绩与诊断字段随考试、题型和作业模板变化；催交、分享和评语在各自功能中分开说明。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "",
+      "student_shot": "SW09",
+      "extra": "",
+      "compare": "能否从未完成名单、整份成绩继续看到学生的具体问题。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K25",
+          "text": "催交为已见入口，本轮未发送；不同作业类型的详情字段和工具不同。"
+        },
+        {
+          "ref": "SW-C06",
+          "text": "诊断字段随题型和模板不同；平台生成的建议与任课老师的评语分开显示。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "05",
+      "legacy_detail_file": "05_结果批改与复习.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M12",
+      "module_name": "作业结果与批改",
+      "checkpoints": [
+        "完成、批改与提交状态",
+        "均分和学员成绩",
+        "分科、知识点与用时表现",
+        "成绩排行和作业AI分析",
+        "学员查看诊断与建议"
+      ]
+    },
+    {
+      "id": "XX041",
+      "group": "B04",
+      "name": "答题解析",
+      "priority": "核心",
+      "purpose": "回到原题和材料，对照学员答案、正确答案与用时理解错误。",
+      "teacher_refs": [
+        "K25"
+      ],
+      "student_refs": [
+        "SW-C11"
+      ],
+      "teacher_points": [
+        "查看个人成绩、分项和知识点表现；题目型任务可对照逐题答案、得分和用时。"
+      ],
+      "student_points": [
+        "按分科、题组和题号切换，题号旁保留对错和用时，方便先看错题或耗时较长的题。",
+        "阅读样例将原文与题目并排展示，提供文本翻译入口、学生答案、正确答案、选项分布、知识点和题目来源。",
+        "页面还提供题目解析、名师讲解、笔记列表入口；名师讲解的具体内容是否齐全需按题目确认。",
+        "词汇、口语和自定义作业按各自内容展示原题与答案，前文仅说明差异，不重复这一整套导航结构。"
+      ],
+      "scope_note": "题目讲解和选项统计已有展示；统计样本、部分名师讲解内容仍待确认。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "W33",
+      "student_shot": "SW13",
+      "extra": "",
+      "compare": "能否从未完成名单、整份成绩继续看到学生的具体问题。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K25",
+          "text": "催交为已见入口，本轮未发送；不同作业类型的详情字段和工具不同。"
+        },
+        {
+          "ref": "SW-C11",
+          "text": "选项分布、正确率等统计仅记录页面展示，统计样本范围尚未确认。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "05",
+      "legacy_detail_file": "05_结果批改与复习.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M12",
+      "module_name": "作业结果与批改",
+      "checkpoints": [
+        "按科目、题组和题号回看",
+        "原文、学员答案与正确答案",
+        "逐题对错和用时",
+        "知识点、选项统计及讲解入口"
+      ]
+    },
+    {
+      "id": "XX042",
+      "group": "B04",
+      "name": "老师评语",
+      "priority": "核心",
+      "purpose": "在作业结果中保留老师的文字或语音反馈，学员找到并查看新评语。",
+      "teacher_refs": [
+        "K29"
+      ],
+      "student_refs": [
+        "SW-C06"
+      ],
+      "teacher_points": [
+        "老师可以添加文字或语音评语。"
+      ],
+      "student_points": [
+        "评语页显示老师姓名、日期和具体内容；“有新评语”入口提醒学生查看，读过后该样例的新评语标记消失。"
+      ],
+      "scope_note": "学员已有评语样例，读过后新评语标记消失；本轮没有新增评语验证通知送达。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "",
+      "student_shot": "SW10",
+      "extra": "",
+      "compare": "学员能否方便找到新反馈，回看反馈人、时间和具体建议。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K29",
+          "text": "功能随作业类型变化；学生端接收、订正状态回流和新报告内容仍待补。"
+        },
+        {
+          "ref": "SW-C06",
+          "text": "诊断字段随题型和模板不同；平台生成的建议与任课老师的评语分开显示。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "05",
+      "legacy_detail_file": "05_结果批改与复习.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M12",
+      "module_name": "作业结果与批改",
+      "checkpoints": [
+        "教师文字或语音评语",
+        "反馈人、时间与内容",
+        "学员查看新评语"
+      ]
+    },
+    {
+      "id": "XX043",
+      "group": "B04",
+      "name": "订正练习",
+      "priority": "核心",
+      "purpose": "围绕原作业的错误内容安排关联练习，再单独查看订正结果。",
+      "teacher_refs": [
+        "K29"
+      ],
+      "student_refs": [
+        "SW-C12"
+      ],
+      "teacher_points": [
+        "适用结果页有巩固训练，显示订正练习及状态；参与学生表也可显示订正笔记/练习状态。"
+      ],
+      "student_points": [
+        "结果页的“巩固训练”提供关联订正练习及其完成状态，可以进入或查看结果；部分结果页也有“去练习”提示。",
+        "已有词汇样例：原作业10个词中错2个，关联订正练习只包含这2个词，并有独立的100分结果。",
+        "这说明复习可以承接具体作业；学生是否能自行生成、其他题型如何选题尚待补充。"
+      ],
+      "scope_note": "已有10词作业错2词、关联2词订正任务的样例；生成方式、选题规则和状态更新细节待补。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "W52",
+      "student_shot": "SW06",
+      "extra": "",
+      "compare": "批改之后是否还能反馈、订正，并输出学习成果。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K29",
+          "text": "功能随作业类型变化；学生端接收、订正状态回流和新报告内容仍待补。"
+        },
+        {
+          "ref": "SW-C12",
+          "text": "样例确认了两份作业之间的关联，尚未确认自动生成和选题规则。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "05",
+      "legacy_detail_file": "05_结果批改与复习.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M13",
+      "module_name": "作业执行与订正",
+      "checkpoints": [
+        "从原作业进入巩固训练",
+        "关联订正任务及完成状态",
+        "订正练习单独记录成绩",
+        "教师查看订正状态入口"
+      ]
+    },
+    {
+      "id": "XX044",
+      "group": "B05",
+      "name": "错题集与错题再练",
+      "priority": "核心",
+      "purpose": "按知识点集中看错题，结合错误原因分析和复习建议，进入针对性再练并查看修复进度。",
+      "teacher_refs": [
+        "K09"
+      ],
+      "student_refs": [
+        "SX-C01",
+        "SX-C02",
+        "SX-C03"
+      ],
+      "teacher_points": [
+        "按学科、机构、能力和错词等视角查看错误记录。",
+        "可查看错误原因、错误次数、最近答错时间，以及待修复/已修复和修复率。",
+        "进入题目后，对照学生答案与正确答案，查看解析、讲解和知识点。"
+      ],
+      "student_points": [
+        "“我的进步”展示本周修复数、总修复数和修复率。",
+        "错误归因将常见问题按定位错误、判断题边界混淆等原因展示比例。",
+        "知识点修复建议帮助学生圈定下一步复习的题型或知识点。",
+        "知识点树显示分项和错题数量，可按知识点定位需要复习的题目。",
+        "清单保留题目内容、分项、知识点、错误次数、错误原因和最近答错日期。",
+        "待修复和已修复分开展示；已修复的题目仍保留在历史清单中。",
+        "点开错题能看到原文、题目、自己的答案、正确答案和错误原因。",
+        "“开始练习”会打开包含所选错题的独立练习任务。",
+        "详情中的解析、笔记和AI助教沿用共用组件，本篇只说明错题上下文与再练入口。"
+      ],
+      "scope_note": "学科错题、错误原因比例与知识点建议已有页面样例；机构与能力视角暂无数据。归因和建议的生成依据、再练后的修复判定与教师同步规则仍待补。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "S44",
+      "student_shot": "SX01",
+      "extra": "",
+      "compare": "能否把错题、错误原因和知识点建议连起来，帮助学员选择下一步复习内容。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K09",
+          "text": "已见修复统计和错词布置配置；学生完成后如何更新修复状态，留到学生端阶段补充。"
+        },
+        {
+          "ref": "SX-C01",
+          "text": "“修复”是页面使用的状态名称，判定条件和修复率口径仍待补。"
+        },
+        {
+          "ref": "SX-C02",
+          "text": ""
+        },
+        {
+          "ref": "SX-C03",
+          "text": "已见再练任务，尚未记录再练提交后的修复状态变化。"
+        }
+      ],
+      "detail_file": "B05_自主学习与复习.html",
+      "source_group": "05",
+      "legacy_detail_file": "05_结果批改与复习.html",
+      "block_id": "B05",
+      "block_name": "自主学习与复习",
+      "module_id": "M16",
+      "module_name": "错题与错词复习",
+      "checkpoints": [
+        "按学科、知识点等组织错题",
+        "错误原因分析与比例",
+        "知识点复习建议",
+        "错误次数、时间及修复进度",
+        "待修复与已修复记录、错题再练"
+      ]
+    },
+    {
+      "id": "XX045",
+      "group": "B05",
+      "name": "错词复习",
+      "priority": "核心",
+      "purpose": "从错词集中挑选内容，让学员集中复习，老师可再安排针对性训练。",
+      "teacher_refs": [
+        "K09"
+      ],
+      "student_refs": [
+        "SB-C04"
+      ],
+      "teacher_points": [
+        "词卡保留错误次数、时间、释义和例句。",
+        "可按错误次数或随机范围选择词数，再进入布置配置。"
+      ],
+      "student_points": [
+        "错词本分“待修复、已修复”；词卡显示错误次数、日期、发音、释义和例句，保留选择与收藏入口。",
+        "开始练习可设置单词数量和词汇范围，现有配置默认按错误次数选词。",
+        "单元详情也能只看错词，方便围绕本单元复习。错词本另有导出入口。"
+      ],
+      "scope_note": "教师错词选词布置与学员错词复习入口都已见；未逐条核对所有词库来源和跨端修复规则。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "S55",
+      "student_shot": "SB09",
+      "extra": "",
+      "compare": "能否按知识点和错误原因复习，并由个人错词安排后续练习。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K09",
+          "text": "已见修复统计和错词布置配置；学生完成后如何更新修复状态，留到学生端阶段补充。"
+        },
+        {
+          "ref": "SB-C04",
+          "text": "修复条件与状态更新规则尚未确认。"
+        }
+      ],
+      "detail_file": "B05_自主学习与复习.html",
+      "source_group": "05",
+      "legacy_detail_file": "05_结果批改与复习.html",
+      "block_id": "B05",
+      "block_name": "自主学习与复习",
+      "module_id": "M16",
+      "module_name": "错题与错词复习",
+      "checkpoints": [
+        "集中查看错词",
+        "错误历史、释义与例句",
+        "选择范围和词数",
+        "教师布置与学员错词复习入口"
+      ]
+    },
+    {
+      "id": "XX046",
+      "group": "B04",
+      "name": "答题录屏与监管",
+      "priority": "次要",
+      "purpose": "回看答题过程和异常时间线，为老师复核学习过程提供线索。",
+      "teacher_refs": [
+        "K28"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "按作答次数和时间段查看录屏。",
+        "异常区展示网络异常及切屏、长时间无操作、答题中断等时间线提示。"
+      ],
+      "student_points": [],
+      "scope_note": "异常提示包括切屏、网络、长时间无操作或中断；这些提示本身不是作弊结论。强监管规则由适用的布置入口配置。",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "老师能否回到具体时点查看过程，而不只看最后成绩。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K28",
+          "text": "异常提示是复核线索，不能直接当作作弊结论。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "05",
+      "legacy_detail_file": "05_结果批改与复习.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M13",
+      "module_name": "作业执行与订正",
+      "checkpoints": [
+        "按作答次数与时间段回看录屏",
+        "切屏、网络和无操作等异常时间线",
+        "结合作答过程复核"
+      ]
+    },
+    {
+      "id": "XX047",
+      "group": "B04",
+      "name": "作业催交与名单复制",
+      "priority": "次要",
+      "purpose": "从未提交名单进入催交，或复制名单用于后续跟进。",
+      "teacher_refs": [
+        "K25"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "查看完成数、批改数、均分和学生状态；按未提交、待批阅、已批改等名单跟进，提供催交和复制名单入口。"
+      ],
+      "student_points": [],
+      "scope_note": "催交和复制入口已见；本轮未发送催交，提醒对象、渠道和送达效果不作推断。",
+      "relationship": "教师端",
+      "teacher_shot": "W24",
+      "student_shot": "",
+      "extra": "",
+      "compare": "老师能否快速定位未提交者，明确催交范围和后续跟进对象。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K25",
+          "text": "催交为已见入口，本轮未发送；不同作业类型的详情字段和工具不同。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "05",
+      "legacy_detail_file": "05_结果批改与复习.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M10",
+      "module_name": "作业布置与跟进",
+      "checkpoints": [
+        "未提交学员名单",
+        "催交入口",
+        "复制名单跟进"
+      ]
+    },
+    {
+      "id": "XX048",
+      "group": "B04",
+      "name": "成绩发布、海报与导出",
+      "priority": "次要",
+      "purpose": "将一次作业的结果输出为成绩报告、PDF、排名或分享海报。",
+      "teacher_refs": [
+        "K29",
+        "K25"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "部分模考结果可发布成绩、导出PDF或生成报告，自定义和单词结果也有报告入口。",
+        "提供成绩排行、分享海报，以及针对这份作业的AI完成/作答分析。"
+      ],
+      "student_points": [],
+      "scope_note": "工具随作业类型变化，部分仅查看入口；不与按周期汇总的阶段学习报告混为一项。",
+      "relationship": "教师端",
+      "teacher_shot": "W98",
+      "student_shot": "",
+      "extra": "",
+      "compare": "单次作业结果能否整理成方便反馈、讲评或分享的成果。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K29",
+          "text": "功能随作业类型变化；学生端接收、订正状态回流和新报告内容仍待补。"
+        },
+        {
+          "ref": "K25",
+          "text": "催交为已见入口，本轮未发送；不同作业类型的详情字段和工具不同。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "05",
+      "legacy_detail_file": "05_结果批改与复习.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M12",
+      "module_name": "作业结果与批改",
+      "checkpoints": [
+        "适用结果页的成绩发布",
+        "单次作业报告或PDF导出入口",
+        "排名、分享海报等输出"
+      ]
+    },
+    {
+      "id": "XX049",
+      "group": "B05",
+      "name": "单词书学习",
+      "priority": "核心",
+      "purpose": "老师布置整本词书并设置测试要求，学员按单元学习、自测并查看进度。",
+      "teacher_refs": [
+        "K38",
+        "K08"
+      ],
+      "student_refs": [
+        "SB-C01",
+        "SB-C02",
+        "SB-C03"
+      ],
+      "teacher_points": [
+        "整本词书布置时，选择开始学习日期、班级和学生，再指定测试形式与测试数量百分比。",
+        "限时方式可选不限时、每个单词或整个作业，并设置限时时间；过关方式可选无或正确率，再填写过关正确率。",
+        "词书详情汇总学习人数、完成率和测试正确率；可进入个人详情，查看单元进度、正确率和错词。",
+        "单元词表保留词数、发音、释义和例句；指定部分单元抽查的差异在“词书抽查”统一说明。"
+      ],
+      "student_points": [
+        "总览显示累计已学、今日已学和待复习错词数；每本书显示单元数、词数、正确率和完成度。",
+        "展开后按单元显示词数、正确率和学习状态：已学单元可看结果，当前可学单元可开始，后续单元显示未解锁。",
+        "查看详情后可按单元进入词表或查看本单元错词。",
+        "词表提供英美音标和发音、双语释义、例句；可遮挡释义进行自查。",
+        "逐词学习显示当前单词和进度；翻卡后展示与单词有关的记忆配图。",
+        "每个词提供“认识、模糊、生疏”三种掌握判断。判断后如何安排复习，当前依据尚不能确认。",
+        "词表页提供“开始测试”，已学单元提供“查看结果”。",
+        "单元自测结果与词汇作业共用页面，可查看成绩、逐词解析、重新测试及关联订正练习。"
+      ],
+      "scope_note": "整本布置中的测试比例、限时和过关字段已见；学员单元解锁与熟悉度如何影响后续学习尚未确认，不能把配置入口当作完整的自适应规则。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "Q52",
+      "student_shot": "SB06",
+      "extra": "",
+      "compare": "能否把词书长期学习、过关条件和阶段抽查结合起来。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K38",
+          "text": "Excel模板的自动补全是页面说明，实际上传与补全质量尚未验证。"
+        },
+        {
+          "ref": "K08",
+          "text": "整本词书的布置规则在题库篇说明；此处侧重个人的学习结果。"
+        },
+        {
+          "ref": "SB-C01",
+          "text": "已看到解锁状态，具体解锁条件尚待补充。"
+        },
+        {
+          "ref": "SB-C02",
+          "text": "记忆配图已实际看到；图片来源和生成方式未确认。"
+        },
+        {
+          "ref": "SB-C03",
+          "text": "过关标准和对后续单元解锁的影响尚待补充。"
+        }
+      ],
+      "detail_file": "B05_自主学习与复习.html",
+      "source_group": "06",
+      "legacy_detail_file": "06_词汇学习与测评.html",
+      "block_id": "B05",
+      "block_name": "自主学习与复习",
+      "module_id": "M15",
+      "module_name": "词汇学习",
+      "checkpoints": [
+        "整本词书布置、对象与开始日期",
+        "测试形式与测试数量比例",
+        "按词或整份限时、过关正确率",
+        "单元进度与词卡学习、自测",
+        "熟悉度自查与个人错词"
+      ]
+    },
+    {
+      "id": "XX050",
+      "group": "B05",
+      "name": "词书抽查",
+      "priority": "核心",
+      "purpose": "老师从词书单元中选择范围和数量进行阶段抽查。",
+      "teacher_refs": [
+        "K38"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "勾选单元后可按指定词数抽查，部分入口提供实时开关。"
+      ],
+      "student_points": [],
+      "scope_note": "抽查数量、测试形式和部分实时开关已见；抽查学员样例未单独补齐。",
+      "relationship": "教师端",
+      "teacher_shot": "Q62",
+      "student_shot": "",
+      "extra": "",
+      "compare": "能否按已学单元、词数和测试形式安排阶段检查。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K38",
+          "text": "Excel模板的自动补全是页面说明，实际上传与补全质量尚未验证。"
+        }
+      ],
+      "detail_file": "B05_自主学习与复习.html",
+      "source_group": "06",
+      "legacy_detail_file": "06_词汇学习与测评.html",
+      "block_id": "B05",
+      "block_name": "自主学习与复习",
+      "module_id": "M15",
+      "module_name": "词汇学习",
+      "checkpoints": [
+        "从词书中选择抽查单元",
+        "设置测试词数及形式",
+        "部分入口的实时开关"
+      ]
+    },
+    {
+      "id": "XX051",
+      "group": "B05",
+      "name": "词汇量测评",
+      "priority": "核心",
+      "purpose": "分别了解阅读和听力词汇水平，查看测评记录、CEFR等级与能力说明。",
+      "teacher_refs": [
+        "K08"
+      ],
+      "student_refs": [
+        "SH-C03"
+      ],
+      "teacher_points": [
+        "词汇量测评记录时间和时长，分别展示阅读/听力词汇量、CEFR等级和能力说明。"
+      ],
+      "student_points": [
+        "从首页词汇卡片进入历史报告，查看测试时间、耗时及阅读和听力成绩。",
+        "详细报告分别显示词汇量、CEFR等级和文字能力说明，并提供平台的语言考试换算表。",
+        "报告可生成分享链接；重新测试前会提示将覆盖已有成绩。"
+      ],
+      "scope_note": "测评记录和结果已有样例，整场测评及估算规则未完整记录。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "S83",
+      "student_shot": "SH11",
+      "extra": "",
+      "compare": "能否区分学过多少、掌握多少，以及词汇能力达到什么程度。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K08",
+          "text": "整本词书的布置规则在题库篇说明；此处侧重个人的学习结果。"
+        },
+        {
+          "ref": "SH-C03",
+          "text": "考试换算表是平台提供的参考；换算依据尚未核验。首页听力词汇量显示具体数值，报告按区间展示。"
+        }
+      ],
+      "detail_file": "B05_自主学习与复习.html",
+      "source_group": "06",
+      "legacy_detail_file": "06_词汇学习与测评.html",
+      "block_id": "B05",
+      "block_name": "自主学习与复习",
+      "module_id": "M15",
+      "module_name": "词汇学习",
+      "checkpoints": [
+        "阅读与听力词汇量测评",
+        "测评记录与时长",
+        "CEFR等级与能力说明",
+        "成绩回看"
+      ]
+    },
+    {
+      "id": "XX052",
+      "group": "B05",
+      "name": "考试目标与首次测评",
+      "priority": "核心",
+      "purpose": "选择托福或雅思、设置目标分数，再进入首次模考。",
+      "teacher_refs": [],
+      "student_refs": [
+        "SA-C01"
+      ],
+      "teacher_points": [],
+      "student_points": [
+        "目标考试提供托福、雅思两个入口。",
+        "“设置目标分数”弹窗同时选择考试类型和目标分数，下一步是“开始模考”。",
+        "页面用流程图介绍首次测试、学习计划和阶段测试之间的路径；生成后的个人计划尚缺样例。"
+      ],
+      "scope_note": "实际见到目标设置与开始模考入口；测评后计划、阶段测试、推荐内容和难度调整只见路径说明，不写成已实测的功能细节。 本轮重新打开目标设置弹窗，仍是目标考试、分数和“开始模考”，未启动测评或保存新目标。",
+      "relationship": "学员端",
+      "teacher_shot": "",
+      "student_shot": "SA02",
+      "extra": "R06_自适应目标与首次测评",
+      "compare": "是否能从明确的考试目标进入测评，并让学生理解后续学习路径。",
+      "roles": [
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "SA-C01",
+          "text": "已看到目标设置和测评入口；每日任务、推荐与难度调整暂不作为已观察功能展开。"
+        }
+      ],
+      "detail_file": "B05_自主学习与复习.html",
+      "source_group": "06",
+      "legacy_detail_file": "06_词汇学习与测评.html",
+      "block_id": "B05",
+      "block_name": "自主学习与复习",
+      "module_id": "M18",
+      "module_name": "考试目标与自适应",
+      "checkpoints": [
+        "托福或雅思目标考试",
+        "目标分数设置",
+        "首次模考入口",
+        "生成后计划与调整规则待补"
+      ]
+    },
+    {
+      "id": "XX053",
+      "group": "B05",
+      "name": "题目笔记",
+      "priority": "核心",
+      "purpose": "在题目旁记录练习和订正思路，并保留题目上下文。",
+      "teacher_refs": [],
+      "student_refs": [
+        "SW-C07"
+      ],
+      "teacher_points": [],
+      "student_points": [
+        "笔记列表区分“练习笔记”和“订正笔记”，可以查看已有内容或添加文字、图片、音频、录音。",
+        "“订正笔记”用于记录理解和思路；“订正练习”会进入另一份练习，二者用途不同。笔记的集中整理与复习见笔记篇。"
+      ],
+      "scope_note": "题内笔记的添加方式已见；教师能否查看全部学员笔记及可见范围待补。",
+      "relationship": "学员端",
+      "teacher_shot": "",
+      "student_shot": "SW14",
+      "extra": "",
+      "compare": "能否边看题边记思路、追问疑点，并方便后续复习。",
+      "roles": [
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "SW-C07",
+          "text": ""
+        }
+      ],
+      "detail_file": "B05_自主学习与复习.html",
+      "source_group": "07",
+      "legacy_detail_file": "07_笔记与AI答疑.html",
+      "block_id": "B05",
+      "block_name": "自主学习与复习",
+      "module_id": "M17",
+      "module_name": "学习笔记与答疑",
+      "checkpoints": [
+        "练习笔记与订正笔记",
+        "题目旁记录思路",
+        "文字、图片、音频和录音入口"
+      ]
+    },
+    {
+      "id": "XX054",
+      "group": "B05",
+      "name": "AI题目答疑",
+      "priority": "次要",
+      "purpose": "围绕当前题目追问词汇、原文依据、答案和解题方法。",
+      "teacher_refs": [],
+      "student_refs": [
+        "SW-C07"
+      ],
+      "teacher_points": [],
+      "student_points": [
+        "AI助教在题目旁提供重点词汇、翻译、答题解析、题目订正等快捷提问，也支持自由输入问题。",
+        "已有AI回答包含考点、正确答案、原文依据、干扰项分析和解题技巧。"
+      ],
+      "scope_note": "",
+      "relationship": "学员端",
+      "teacher_shot": "",
+      "student_shot": "SW19",
+      "extra": "",
+      "compare": "能否边看题边记思路、追问疑点，并方便后续复习。",
+      "roles": [
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "SW-C07",
+          "text": ""
+        }
+      ],
+      "detail_file": "B05_自主学习与复习.html",
+      "source_group": "07",
+      "legacy_detail_file": "07_笔记与AI答疑.html",
+      "block_id": "B05",
+      "block_name": "自主学习与复习",
+      "module_id": "M17",
+      "module_name": "学习笔记与答疑",
+      "checkpoints": [
+        "围绕当前题目自由提问",
+        "词汇、翻译与解析快捷提问",
+        "原文依据、干扰项和解题方法说明"
+      ]
+    },
+    {
+      "id": "XX055",
+      "group": "B05",
+      "name": "笔记整理与回看",
+      "priority": "核心",
+      "purpose": "把不同练习的笔记集中起来，整理重点并回到关联作业。",
+      "teacher_refs": [],
+      "student_refs": [
+        "SN-C01"
+      ],
+      "teacher_points": [],
+      "student_points": [
+        "页面区分文字笔记与材料笔记，并提供重点笔记列和只看重点的入口。",
+        "材料笔记将选中的材料片段与补充文字并列，保留来源题目、关联作业和添加时间。",
+        "“查看详情”可打开关联作业结果；已有样例落在结果总览，并未直接定位到原题。",
+        "题内添加笔记的编辑器统一见作业篇；集中列表另有删除入口。"
+      ],
+      "scope_note": "",
+      "relationship": "学员端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "笔记能否集中复习、挑出重点，同时保留题目和作业来源。",
+      "roles": [
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "SN-C01",
+          "text": "目前有材料笔记样例，文字笔记为空；标记后的呈现尚待补充。"
+        }
+      ],
+      "detail_file": "B05_自主学习与复习.html",
+      "source_group": "07",
+      "legacy_detail_file": "07_笔记与AI答疑.html",
+      "block_id": "B05",
+      "block_name": "自主学习与复习",
+      "module_id": "M17",
+      "module_name": "学习笔记与答疑",
+      "checkpoints": [
+        "集中回看跨练习笔记",
+        "挑选和整理重点",
+        "保留材料、文字与来源",
+        "回到关联作业"
+      ]
+    },
+    {
+      "id": "XX056",
+      "group": "B05",
+      "name": "AI笔记分析",
+      "priority": "次要",
+      "purpose": "让AI整理已有笔记、指出记录问题并提供复习建议。",
+      "teacher_refs": [],
+      "student_refs": [
+        "SN-C02"
+      ],
+      "teacher_points": [],
+      "student_points": [
+        "点击“AI笔记分析”后，在侧边显示分析文本和更新时间，之后可以重新分析。",
+        "已有返回包含笔记数量与来源、内容质量、常见记录问题和复习建议。",
+        "分析对象是现有笔记；它与作业页围绕某一道题给出解答的AI助教用途不同。"
+      ],
+      "scope_note": "",
+      "relationship": "学员端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "笔记是否有整理和复习支持，能否帮助学生改进记录方式。",
+      "roles": [
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "SN-C02",
+          "text": "分析文本是AI生成的建议；数据范围与更新规则尚待补充。"
+        }
+      ],
+      "detail_file": "B05_自主学习与复习.html",
+      "source_group": "07",
+      "legacy_detail_file": "07_笔记与AI答疑.html",
+      "block_id": "B05",
+      "block_name": "自主学习与复习",
+      "module_id": "M17",
+      "module_name": "学习笔记与答疑",
+      "checkpoints": [
+        "AI整理已有笔记",
+        "指出记录问题",
+        "复习建议"
+      ]
+    },
+    {
+      "id": "XX057",
+      "group": "B02",
+      "name": "题目内容纠错",
+      "priority": "次要",
+      "purpose": "发现材料、答案或解析有问题时，针对当前题目填写纠错反馈。",
+      "teacher_refs": [],
+      "student_refs": [
+        "SW-C09"
+      ],
+      "teacher_points": [],
+      "student_points": [
+        "“对此题提出疑问”实际打开题目纠错表单，可选材料、答案、解析、其他，补充文字说明。",
+        "这是反馈题目内容问题的入口，未见向任课老师直接发问的流程。"
+      ],
+      "scope_note": "已见问题类型和说明表单，未提交；这是题目内容反馈，不等于向任课老师即时提问。",
+      "relationship": "学员端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "是否支持针对具体题目反馈内容问题，反馈是否保留题目上下文。",
+      "roles": [
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "SW-C09",
+          "text": "已有表单观察记录，尚未提交纠错。"
+        }
+      ],
+      "detail_file": "B02_教学资源与教研.html",
+      "source_group": "07",
+      "legacy_detail_file": "07_笔记与AI答疑.html",
+      "block_id": "B02",
+      "block_name": "教学资源与教研",
+      "module_id": "M03",
+      "module_name": "题库与试卷",
+      "checkpoints": [
+        "针对当前题目反馈内容问题",
+        "材料、答案、解析等问题分类",
+        "填写纠错说明"
+      ]
+    },
+    {
+      "id": "XX058",
+      "group": "B03",
+      "name": "课程安排",
+      "priority": "核心",
+      "purpose": "从教师、班级和学员视角查看课程日期与时间安排。",
+      "teacher_refs": [
+        "K15",
+        "K31"
+      ],
+      "student_refs": [
+        "SC-C01"
+      ],
+      "teacher_points": [
+        "班级月历展示课程名称、课次和时段；课程详情包括老师、内容、人数、校区和地点。",
+        "周概览将课程、作业和模考放在同一周内，任务卡可查看完成情况并进入详情。",
+        "班级也有按时间范围查看课程明细和总课时的入口。",
+        "月历按日期和星期展示课程位置，支持查看不同月份。"
+      ],
+      "student_points": [
+        "月历按星期和日期组织课程时间，今天有突出标记；可以查看其他月份或回到本月。"
+      ],
+      "scope_note": "教师和学员个人课表当前为空，班级已有历史课程详情；当前教师角色未见新增课程入口，不扩展为排课管理能力。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "C63",
+      "student_shot": "SC01",
+      "extra": "",
+      "compare": "课程和课后任务是否能一起安排、查看，并进入相关记录。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K15",
+          "text": "班级已有历史课次；不据此把当前空白的教师个人课表写成已有相同数据。"
+        },
+        {
+          "ref": "K31",
+          "text": "当前个人课表与课时查询没有课程样例，课程卡片与有数据统计待补；排课不在当前教师页直接完成。"
+        },
+        {
+          "ref": "SC-C01",
+          "text": "现有9月、10月截图都没有课程数据。课程卡片、老师、地点和详情尚无样例。"
+        }
+      ],
+      "detail_file": "B03_课程与学习计划.html",
+      "source_group": "08",
+      "legacy_detail_file": "08_课程与学情报告.html",
+      "block_id": "B03",
+      "block_name": "课程与学习计划",
+      "module_id": "M07",
+      "module_name": "课程安排与课时",
+      "checkpoints": [
+        "教师、班级与学员课表视角",
+        "班级课程详情",
+        "周内课程与学习任务安排"
+      ]
+    },
+    {
+      "id": "XX059",
+      "group": "B03",
+      "name": "课时明细",
+      "priority": "次要",
+      "purpose": "按时间段查看授课明细和上课总时长。",
+      "teacher_refs": [
+        "K31"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "指定起止日期查询课时明细和总上课时长；明细列包括课程、班级、内容、方式、时间、时长和类型。"
+      ],
+      "student_points": [],
+      "scope_note": "明细表头和查询入口可见，当前个人账号暂无有数据记录。",
+      "relationship": "教师端",
+      "teacher_shot": "K02",
+      "student_shot": "",
+      "extra": "",
+      "compare": "老师能否按时间段核对具体授课记录与上课总时长。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K31",
+          "text": "当前个人课表与课时查询没有课程样例，课程卡片与有数据统计待补；排课不在当前教师页直接完成。"
+        }
+      ],
+      "detail_file": "B03_课程与学习计划.html",
+      "source_group": "08",
+      "legacy_detail_file": "08_课程与学情报告.html",
+      "block_id": "B03",
+      "block_name": "课程与学习计划",
+      "module_id": "M07",
+      "module_name": "课程安排与课时",
+      "checkpoints": [
+        "按时间段查询授课明细",
+        "课程、班级、时间与类型字段",
+        "上课总时长"
+      ]
+    },
+    {
+      "id": "XX060",
+      "group": "B03",
+      "name": "课堂考勤",
+      "priority": "核心",
+      "purpose": "按具体课次记录学生出勤或请假，汇总应到、出勤与请假人数。",
+      "teacher_refs": [
+        "K16"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "先选择课程和课次，再填写学生出勤或请假；可以汇总应到、出勤和请假人数。"
+      ],
+      "student_points": [],
+      "scope_note": "已见教师考勤配置；学生签到、家长接收和保存后的更新方式未确认。",
+      "relationship": "教师端",
+      "teacher_shot": "C16",
+      "student_shot": "",
+      "extra": "",
+      "compare": "出勤、表现、课后作业和家长反馈是否能对应同一节课。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K16",
+          "text": "已见配置和AI生成草稿；保存/发送后的个人页和学生端效果待补。"
+        }
+      ],
+      "detail_file": "B03_课程与学习计划.html",
+      "source_group": "08",
+      "legacy_detail_file": "08_课程与学情报告.html",
+      "block_id": "B03",
+      "block_name": "课程与学习计划",
+      "module_id": "M09",
+      "module_name": "课堂考勤与反馈",
+      "checkpoints": [
+        "按课程与课次选择学员",
+        "记录出勤或请假",
+        "应到、出勤和请假人数汇总"
+      ]
+    },
+    {
+      "id": "XX061",
+      "group": "B03",
+      "name": "课堂反馈",
+      "priority": "核心",
+      "purpose": "老师按课次填写课堂表现和学习建议，学员有独立课堂反馈查看入口。",
+      "teacher_refs": [
+        "K16"
+      ],
+      "student_refs": [
+        "SF-C01"
+      ],
+      "teacher_points": [
+        "建议分为复习检查、课堂内容、学员表现、课后作业、辅导要求五部分，可附图片。",
+        "可以用AI起草，再由老师修改；发送对象提供学生、家长及全班范围等选项。",
+        "班级可按学生查看课堂评分和建议；个人档案也有课程反馈入口。"
+      ],
+      "student_points": [
+        "页面将“课堂评分”和“学习建议”放在一起。",
+        "评分旁注明“课堂评分为多位老师评分的平均值”。"
+      ],
+      "scope_note": "教师结构化反馈和AI草稿已见；学员页当前缺有效评分及正文，同一条反馈的发布接收还待补。 本轮重新查看学员反馈页，仍只有课堂评分说明和学习建议区域，未见有效内容。",
+      "relationship": "两端入口，发布接收待补",
+      "teacher_shot": "C21",
+      "student_shot": "",
+      "extra": "R05_学员课堂反馈",
+      "compare": "出勤、表现、课后作业和家长反馈是否能对应同一节课。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K16",
+          "text": "已见配置和AI生成草稿；保存/发送后的个人页和学生端效果待补。"
+        },
+        {
+          "ref": "SF-C01",
+          "text": "当前没有有效评分和建议正文，尚不能描述评分维度、历史详情或学生回复。"
+        }
+      ],
+      "detail_file": "B03_课程与学习计划.html",
+      "source_group": "08",
+      "legacy_detail_file": "08_课程与学情报告.html",
+      "block_id": "B03",
+      "block_name": "课程与学习计划",
+      "module_id": "M09",
+      "module_name": "课堂考勤与反馈",
+      "checkpoints": [
+        "结构化课堂建议",
+        "课堂表现与评分入口",
+        "图片附件",
+        "AI起草后人工修改",
+        "接收对象配置"
+      ]
+    },
+    {
+      "id": "XX062",
+      "group": "B03",
+      "name": "排课申请",
+      "priority": "次要",
+      "purpose": "老师提出班级排课需求，查看处理状态、已排课时和驳回原因。",
+      "teacher_refs": [
+        "K42"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "发起时选择班级、填写备注；当前表单未见直接选择授课日期、教室或授课老师的排课字段。",
+        "列表保留申请人、时间和备注，并显示待处理/已处理/已驳回、已排/总课时、处理人和驳回原因。",
+        "待处理记录提供取消申请入口。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "排课需求能否交给对应人员处理，并让老师看到结果和进度。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K42",
+          "text": "已见教师申请侧和待处理样例；未提交新申请或取消记录，处理端及实际生成课程待补。"
+        }
+      ],
+      "detail_file": "B03_课程与学习计划.html",
+      "source_group": "08",
+      "legacy_detail_file": "08_课程与学情报告.html",
+      "block_id": "B03",
+      "block_name": "课程与学习计划",
+      "module_id": "M07",
+      "module_name": "课程安排与课时",
+      "checkpoints": [
+        "按班级提出排课需求",
+        "填写备注",
+        "处理进度与已排课时",
+        "处理人、驳回原因和取消入口"
+      ]
+    },
+    {
+      "id": "XX063",
+      "group": "B06",
+      "name": "阶段学习报告",
+      "priority": "核心",
+      "purpose": "按周期汇总成绩、课程、作业、词书和知识点，保留老师评语供学员回顾。",
+      "teacher_refs": [
+        "K07"
+      ],
+      "student_refs": [
+        "SR-C01",
+        "SR-C02"
+      ],
+      "teacher_points": [
+        "按科目和时间选择报告范围，查看课时、作业完成率和成绩等汇总。",
+        "成绩分析看模考走势和分项成绩；课程分析看课时与课堂表现。",
+        "作业和词书分析看完成、正确、逾期及学习进度；知识点和词汇分析看练习覆盖、掌握情况与词汇量。"
+      ],
+      "student_points": [
+        "报告卡片保留周期、科目、生成老师和日期，并标记是否有教师评语。",
+        "报告概览展示学生、班级、老师、已上课时、作业完成率、成绩分项与知识点区域。",
+        "老师评语在报告中单独展示，保留反馈老师、班级和日期。",
+        "成绩：模考趋势、平均分、分项成绩及模考记录；记录提供查看详情入口。",
+        "课程：按班级和科目展示已上／总课时，另有课堂表现评分和建议区域。",
+        "作业：按班级汇总完成数／总数、完成率、正确率和逾期完成数；单词书另列单元数、词数、进度、正确率和错词数量。",
+        "知识点：设置词汇量与走势、知识点正误及掌握程度、练习次数、知识图谱等栏目。"
+      ],
+      "scope_note": "已确认同一周期SAT报告与教师评语在学员端可见；预测分、各指标算法和更新机制待补。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "S93",
+      "student_shot": "SR03",
+      "extra": "",
+      "compare": "是否能把成绩、课程和练习记录整理为阶段报告，并补上老师的判断。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K07",
+          "text": "已有生成样例；2026-10-26已在学生账号看见同周期SAT报告、教师评语及分项内容，并查看分享弹窗。预测分与指标算法、报告刷新规则及分享访问控制仍待确认。"
+        },
+        {
+          "ref": "SR-C01",
+          "text": "当前主要样例为2026-09-01至10-22的SAT报告；教师生成与学生接收的对应过程见独立联动说明。"
+        },
+        {
+          "ref": "SR-C02",
+          "text": "当前课程为0/0，词书和知识点多处为空；空白区域仅说明已有栏目，不推定其图表和计算规则。"
+        }
+      ],
+      "detail_file": "B06_学情分析与报告.html",
+      "source_group": "08",
+      "legacy_detail_file": "08_课程与学情报告.html",
+      "block_id": "B06",
+      "block_name": "学情分析与报告",
+      "module_id": "M20",
+      "module_name": "阶段学习报告",
+      "checkpoints": [
+        "按科目和周期生成报告",
+        "成绩、课程、作业和词书分析",
+        "知识点与词汇情况",
+        "老师评语与学员回看",
+        "历史报告"
+      ]
+    },
+    {
+      "id": "XX064",
+      "group": "B06",
+      "name": "报告定制与分享",
+      "priority": "次要",
+      "purpose": "选择报告模块、撰写或用AI起草评语，通过链接和二维码分享阶段报告。",
+      "teacher_refs": [
+        "K07"
+      ],
+      "student_refs": [
+        "SR-C03"
+      ],
+      "teacher_points": [
+        "老师可手写评语，也可用AI起草后修改、保存。",
+        "可选择报告包含的模块，保留历史报告，再用链接或二维码分享。"
+      ],
+      "student_points": [
+        "报告列表和报告预览都提供分享入口。",
+        "分享弹窗包含链接、复制链接、二维码和下载二维码。"
+      ],
+      "scope_note": "定制、保存和分享入口已见；链接访问控制、有效期与对外打开效果尚未确认。",
+      "relationship": "常规两端功能",
+      "teacher_shot": "S26",
+      "student_shot": "SR08",
+      "extra": "",
+      "compare": "是否能把成绩、课程和练习记录整理为阶段报告，并补上老师的判断。",
+      "roles": [
+        "教师端",
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K07",
+          "text": "已有生成样例；2026-10-26已在学生账号看见同周期SAT报告、教师评语及分项内容，并查看分享弹窗。预测分与指标算法、报告刷新规则及分享访问控制仍待确认。"
+        },
+        {
+          "ref": "SR-C03",
+          "text": "已看到分享形式；链接的有效期、访问条件和打开后的内容尚待补充。"
+        }
+      ],
+      "detail_file": "B06_学情分析与报告.html",
+      "source_group": "08",
+      "legacy_detail_file": "08_课程与学情报告.html",
+      "block_id": "B06",
+      "block_name": "学情分析与报告",
+      "module_id": "M20",
+      "module_name": "阶段学习报告",
+      "checkpoints": [
+        "选择报告模块",
+        "手写或AI起草评语",
+        "保存和分享报告",
+        "链接与二维码"
+      ]
+    },
+    {
+      "id": "XX065",
+      "group": "B06",
+      "name": "个人AI学情分析",
+      "priority": "次要",
+      "purpose": "综合一个学生的练习来源，生成学习洞察、问题分析和建议。",
+      "teacher_refs": [
+        "K11"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "分析覆盖作业、单词书、真题、开放题库与词汇量等来源。",
+        "结果分为洞察、分析和建议，老师可以阅读后重新分析。"
+      ],
+      "student_points": [],
+      "scope_note": "",
+      "relationship": "教师端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "",
+      "compare": "AI能否结合学生的多种练习记录提供可复核的建议。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "K11",
+          "text": "AI文字是辅助判断，其中的心理和动机推断不能直接当作学生事实。"
+        }
+      ],
+      "detail_file": "B06_学情分析与报告.html",
+      "source_group": "08",
+      "legacy_detail_file": "08_课程与学情报告.html",
+      "block_id": "B06",
+      "block_name": "学情分析与报告",
+      "module_id": "M19",
+      "module_name": "教学统计与AI分析",
+      "checkpoints": [
+        "汇总个人多个练习来源",
+        "学习洞察、分析与建议",
+        "重新分析入口"
+      ]
+    },
+    {
+      "id": "XX066",
+      "group": "B07",
+      "name": "签到与校币展示",
+      "priority": "次要",
+      "purpose": "在首页展示签到奖励提示与校币信息，提供学习激励的呈现。",
+      "teacher_refs": [],
+      "student_refs": [
+        "SH-C01"
+      ],
+      "teacher_points": [],
+      "student_points": [
+        "首页显示签到奖励提示，顶部同时显示校币数字。",
+        "本次只记录实际展示，没有测试签到触发、兑换或奖励累计规则。"
+      ],
+      "scope_note": "本轮登录后实际见到“签到已获得校币150个”提示及顶部校币数字。未手动签到；发放条件、累计规则、兑换用途及两处数字关系仍待补。",
+      "relationship": "学员端",
+      "teacher_shot": "",
+      "student_shot": "",
+      "extra": "R04_学员首页签到校币展示",
+      "compare": "是否需要学习激励呈现，奖励的发放与使用规则是否容易理解。",
+      "roles": [
+        "学员端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "SH-C01",
+          "text": "出勤率已有展示；当前样例没有课程数据，具体统计规则待补。"
+        }
+      ],
+      "detail_file": "B07_工作台与班级沟通.html",
+      "source_group": "01",
+      "legacy_detail_file": "01_工作台与班级沟通.html",
+      "block_id": "B07",
+      "block_name": "工作台与班级沟通",
+      "module_id": "M23",
+      "module_name": "学习激励",
+      "checkpoints": [
+        "首页签到奖励提示",
+        "顶部校币信息",
+        "发放、累计与使用规则待补"
+      ]
+    },
+    {
+      "id": "XX067",
+      "group": "B04",
+      "name": "教师作业管理",
+      "priority": "核心",
+      "purpose": "集中管理跨班级作业，分清自己布置的任务、负责批改的任务及未下发内容。",
+      "teacher_refs": [
+        "F85",
+        "F86",
+        "F88"
+      ],
+      "student_refs": [],
+      "teacher_points": [
+        "“我布置的”与“我的批改”分别组织教师发布的任务和负责批改的任务；也可从全部作业或单词、模考、打卡、课件、实时等类型进入。",
+        "“未下发作业”集中呈现尚未下发的内容；“收藏作业”保留常用任务入口，收藏和再次布置的具体操作统一见作业复用。",
+        "学习进度区分未开始、进行中、已完成和已逾期；批改进度区分未批改、部分批改、已批改；查阅进度另分未查阅、部分查阅、已查阅，三类状态不能混为一谈。",
+        "作业卡片保留班级、布置老师、批改老师、起止时间及完成、批改概况，教师可从任务进入对应结果；具体批改、催交和报告不在此重复。"
+      ],
+      "student_points": [],
+      "scope_note": "已确认教师作业管理入口与状态分类；“未下发”不等于已确认支持任意草稿编辑或自动定时下发，不据此补写生成与发布规则。",
+      "relationship": "教师端",
+      "teacher_shot": "W01",
+      "student_shot": "",
+      "extra": "",
+      "compare": "是否能跨班级管理任务，并区分布置责任、批改责任、学习进度和查阅进度。",
+      "roles": [
+        "教师端"
+      ],
+      "source_scopes": [
+        {
+          "ref": "F85",
+          "text": "教师作业管理的职责范围与分类入口已有实际页面依据。"
+        },
+        {
+          "ref": "F86",
+          "text": "学习、批改与查阅是页面分别列出的状态维度；未把筛选、排序、分页本身计为核心功能。"
+        },
+        {
+          "ref": "F88",
+          "text": "收藏与再次布置归作业复用；未下发内容的后续发布细节待补。"
+        }
+      ],
+      "detail_file": "B04_作业教学.html",
+      "source_group": "04",
+      "legacy_detail_file": "04_作业与实时教学.html",
+      "block_id": "B04",
+      "block_name": "作业教学",
+      "module_id": "M10",
+      "module_name": "作业布置与跟进",
+      "checkpoints": [
+        "跨班级集中管理作业",
+        "我布置的、我的批改",
+        "未下发与收藏作业入口",
+        "学习、批改和查阅状态分别跟进"
+      ]
+    }
+  ],
+  "legacy_groups": [
+    [
+      "01",
+      "工作台与班级沟通",
+      "发现要处理的工作、当天学习任务与班级消息。"
+    ],
+    [
+      "02",
+      "学员与班级管理",
+      "以个人档案或班级群体组织学习记录与教学跟进。"
+    ],
+    [
+      "03",
+      "内容资源与教研",
+      "准备题目、试卷、文件、知识点和可复用教学方案。"
+    ],
+    [
+      "04",
+      "作业与实时教学",
+      "把教学内容变成有对象、有时间、有反馈的学习任务。"
+    ],
+    [
+      "05",
+      "结果批改与复习",
+      "查看学习表现、反馈问题，接着订正和针对性再练。"
+    ],
+    [
+      "06",
+      "词汇学习与测评",
+      "按词书持续学词，安排抽查，了解词汇和考试起点。"
+    ],
+    [
+      "07",
+      "笔记与AI答疑",
+      "围绕题目记录思路，集中整理笔记并获得解释。"
+    ],
+    [
+      "08",
+      "课程与学情报告",
+      "安排课程、记录课堂表现，回顾阶段学习情况。"
+    ]
+  ],
+  "schema_version": 2,
+  "organization": "功能板块 → 功能模块 → 具体功能点",
+  "blocks": [
+    {
+      "id": "B01",
+      "name": "教学对象与跟进",
+      "purpose": "围绕学生个人和班级群体，管理档案、学习记录及跟进信息。",
+      "modules": [
+        {
+          "id": "M01",
+          "name": "学员档案与跟进",
+          "purpose": "了解这个学生的背景、练习与考试情况，保留沟通记录。",
+          "features": [
+            "XX007",
+            "XX010",
+            "XX014",
+            "XX013"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端",
+            "学员端"
+          ]
+        },
+        {
+          "id": "M02",
+          "name": "班级管理",
+          "purpose": "把学生组织成教学群体，比较班级学习表现，再进入个人档案。",
+          "features": [
+            "XX008",
+            "XX009"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端"
+          ]
+        }
+      ],
+      "file": "B01_教学对象与跟进.html"
+    },
+    {
+      "id": "B02",
+      "name": "教学资源与教研",
+      "purpose": "准备题目、试卷、讲解、文件与教学方案，供后续教学反复使用。",
+      "modules": [
+        {
+          "id": "M03",
+          "name": "题库与试卷",
+          "purpose": "选题组卷，维护机构题目和考试规则，并补充或反馈内容。",
+          "features": [
+            "XX015",
+            "XX017",
+            "XX023",
+            "XX024",
+            "XX025",
+            "XX057"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端",
+            "学员端"
+          ]
+        },
+        {
+          "id": "M04",
+          "name": "知识点与题目讲解",
+          "purpose": "积累知识讲解和题目解析，支持备课与课堂演示。",
+          "features": [
+            "XX019",
+            "XX018",
+            "XX027"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端"
+          ]
+        },
+        {
+          "id": "M05",
+          "name": "教学文件管理",
+          "purpose": "保存个人和共享文件，让作业与大纲取用。",
+          "features": [
+            "XX020"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端"
+          ]
+        },
+        {
+          "id": "M06",
+          "name": "教学大纲",
+          "purpose": "编排阶段教学内容，再按班级节奏安排下发。",
+          "features": [
+            "XX021",
+            "XX022"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端"
+          ]
+        }
+      ],
+      "file": "B02_教学资源与教研.html"
+    },
+    {
+      "id": "B03",
+      "name": "课程与学习计划",
+      "purpose": "安排上课和个人学习时间，记录课堂出勤、表现与要求。",
+      "modules": [
+        {
+          "id": "M07",
+          "name": "课程安排与课时",
+          "purpose": "查看各视角课表、核对授课明细，并提出排课需求。",
+          "features": [
+            "XX058",
+            "XX059",
+            "XX062"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端",
+            "学员端"
+          ]
+        },
+        {
+          "id": "M08",
+          "name": "个人学习计划",
+          "purpose": "把课程、作业、考试和自定义事项放到个人日历，形成可查看的学习安排。",
+          "features": [
+            "XX011",
+            "XX012"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端"
+          ]
+        },
+        {
+          "id": "M09",
+          "name": "课堂考勤与反馈",
+          "purpose": "按课次记录出勤、课堂表现和课后建议。",
+          "features": [
+            "XX060",
+            "XX061"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端",
+            "学员端"
+          ]
+        }
+      ],
+      "file": "B03_课程与学习计划.html"
+    },
+    {
+      "id": "B04",
+      "name": "作业教学",
+      "purpose": "完成从布置、接收、作答到批改、反馈与订正的教学任务过程。",
+      "modules": [
+        {
+          "id": "M10",
+          "name": "作业布置与跟进",
+          "purpose": "确定给谁做、何时做、由谁批改，并支持接收、复用和催交。",
+          "features": [
+            "XX067",
+            "XX028",
+            "XX029",
+            "XX039",
+            "XX047"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端",
+            "学员端"
+          ]
+        },
+        {
+          "id": "M11",
+          "name": "作业内容与题型",
+          "purpose": "按教学目标选择词汇、专项、模考、开放提交、打卡或课件等内容。",
+          "features": [
+            "XX030",
+            "XX031",
+            "XX032",
+            "XX035",
+            "XX036",
+            "XX037"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端",
+            "学员端"
+          ]
+        },
+        {
+          "id": "M12",
+          "name": "作业结果与批改",
+          "purpose": "查看完成与成绩，对照答案批改，并把评语和结果交给学员理解。",
+          "features": [
+            "XX040",
+            "XX041",
+            "XX033",
+            "XX034",
+            "XX042",
+            "XX048"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端",
+            "学员端"
+          ]
+        },
+        {
+          "id": "M13",
+          "name": "作业执行与订正",
+          "purpose": "组织实时同步练习、回看作答过程，并围绕原作业安排订正。",
+          "features": [
+            "XX038",
+            "XX046",
+            "XX043"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端",
+            "学员端"
+          ]
+        }
+      ],
+      "file": "B04_作业教学.html"
+    },
+    {
+      "id": "B05",
+      "name": "自主学习与复习",
+      "purpose": "让学员主动选内容学习，积累词汇、补弱、记笔记，并建立考试目标。",
+      "modules": [
+        {
+          "id": "M14",
+          "name": "自主选题练习",
+          "purpose": "不依赖单次教师布置，学员自己选择资源与练习模式。",
+          "features": [
+            "XX016"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "学员端"
+          ]
+        },
+        {
+          "id": "M15",
+          "name": "词汇学习",
+          "purpose": "按书和单元持续学词，配合自测、抽查、词汇量测评及自建词表。",
+          "features": [
+            "XX049",
+            "XX050",
+            "XX051",
+            "XX026"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端",
+            "学员端"
+          ]
+        },
+        {
+          "id": "M16",
+          "name": "错题与错词复习",
+          "purpose": "集中定位已有错误，围绕知识点和错词安排针对性复习。",
+          "features": [
+            "XX044",
+            "XX045"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端",
+            "学员端"
+          ]
+        },
+        {
+          "id": "M17",
+          "name": "学习笔记与答疑",
+          "purpose": "围绕题目记录思路，集中整理笔记，并获得AI解释或分析。",
+          "features": [
+            "XX053",
+            "XX055",
+            "XX054",
+            "XX056"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "学员端"
+          ]
+        },
+        {
+          "id": "M18",
+          "name": "考试目标与自适应",
+          "purpose": "明确考试和目标分数，从首次测评进入后续学习路径。生成后计划仍待补。",
+          "features": [
+            "XX052"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "学员端"
+          ]
+        }
+      ],
+      "file": "B05_自主学习与复习.html"
+    },
+    {
+      "id": "B06",
+      "name": "学情分析与报告",
+      "purpose": "从个人、班级和教学工作范围了解学习表现，形成阶段总结。",
+      "modules": [
+        {
+          "id": "M19",
+          "name": "教学统计与AI分析",
+          "purpose": "查看统计看板、询问教学数据，并分析个人学习情况。",
+          "features": [
+            "XX004",
+            "XX005",
+            "XX065"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端"
+          ]
+        },
+        {
+          "id": "M20",
+          "name": "阶段学习报告",
+          "purpose": "按周期汇总学习情况、保存老师评语，并定制和分享报告。",
+          "features": [
+            "XX063",
+            "XX064"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端",
+            "学员端"
+          ]
+        }
+      ],
+      "file": "B06_学情分析与报告.html"
+    },
+    {
+      "id": "B07",
+      "name": "工作台与班级沟通",
+      "purpose": "聚合教师待办和学员任务，通过班级消息与学习激励支持日常使用。",
+      "modules": [
+        {
+          "id": "M21",
+          "name": "教师与学员工作台",
+          "purpose": "教师找到待批改事项，学员看到学习概况和待做任务。",
+          "features": [
+            "XX001",
+            "XX002"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端",
+            "学员端"
+          ]
+        },
+        {
+          "id": "M22",
+          "name": "班级消息与互动",
+          "purpose": "发布通知和作业消息，在对应消息下交流并突出重要内容。",
+          "features": [
+            "XX003",
+            "XX006"
+          ],
+          "priority": "核心模块",
+          "roles": [
+            "教师端",
+            "学员端"
+          ]
+        },
+        {
+          "id": "M23",
+          "name": "学习激励",
+          "purpose": "展示签到奖励与校币信息；具体发放、累计和使用规则待补。",
+          "features": [
+            "XX066"
+          ],
+          "priority": "辅助模块",
+          "roles": [
+            "学员端"
+          ]
+        }
+      ],
+      "file": "B07_工作台与班级沟通.html"
+    }
+  ]
+}

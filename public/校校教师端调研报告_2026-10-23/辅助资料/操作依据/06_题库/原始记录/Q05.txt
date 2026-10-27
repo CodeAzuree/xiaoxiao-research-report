@@ -1,0 +1,468 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- radiogroup:
+  - button " 按试卷":
+    - generic: 
+    - generic: 按试卷
+  - button "按篇章":
+    - generic: 按篇章
+  - separator
+  - button "我的试卷":
+    - generic: 我的试卷
+  - button "共享试卷":
+    - generic: 共享试卷
+- generic: 科目
+- generic "新托福2026"
+- generic "雅思"
+- generic "SAT机考"
+- generic "SAT"
+- generic "小托福"
+- generic "ACT"
+- generic "GRE"
+- generic "KET"
+- generic "PET"
+- generic "AP"
+- generic: 分项
+- generic "不限"
+- generic "阅读"
+- generic "听力"
+- generic "写作"
+- generic "口语"
+- text: 
+- generic: 来源
+- button "开放题库" [disabled]
+- checkbox [checked]:
+  - checkbox [checked]
+- generic: 不限
+- checkbox:
+  - checkbox
+- generic: 托福机经合集
+- checkbox:
+  - checkbox
+- generic: 机经模拟题
+- checkbox:
+  - checkbox
+- generic: Academic Discussion
+- checkbox:
+  - checkbox
+- generic: 模拟题库
+- button "知识点 ":
+  - text: 知识点
+  - generic: 
+- button "级别 ":
+  - text: 级别
+  - generic: 
+- button "难度 ":
+  - text: 难度
+  - generic: 
+- generic: 筛选
+- generic: 排序
+- button "重置"
+- generic: 
+- textbox "搜索试卷"
+- button "查看已选"
+- generic: 
+- generic: 
+- generic: Read in Daily Life(2题版) 37
+- generic: New
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "-"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: Read in Daily Life(2题版) 36
+- generic: New
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "-"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: Read in Daily Life(2题版) 35
+- generic: New
+- generic: 中等
+- generic: 正确率
+- generic: 62%
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "76"
+- generic: 方差
+- generic: "23"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.95"
+- button "预览"
+- button "查看"
+- generic: Read in Daily Life(2题版) 34
+- generic: New
+- generic: 偏易
+- generic: 正确率
+- generic: 81%
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "98"
+- generic: 方差
+- generic: "12"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.48"
+- button "预览"
+- button "查看"
+- generic: Read in Daily Life(2题版) 33
+- generic: New
+- generic: 中等
+- generic: 正确率
+- generic: 63%
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "63"
+- generic: 方差
+- generic: "14"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.6"
+- button "预览"
+- button "查看"
+- generic: Read in Daily Life(2题版) 32
+- generic: New
+- generic: 容易
+- generic: 正确率
+- generic: 85%
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "100"
+- generic: 方差
+- generic: "11"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.5"
+- button "预览"
+- button "查看"
+- generic: Read in Daily Life(2题版) 31
+- generic: New
+- generic: 偏易
+- generic: 正确率
+- generic: 77%
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "100"
+- generic: 方差
+- generic: "16"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.78"
+- button "预览"
+- button "查看"
+- generic: Read in Daily Life(2题版) 30
+- generic: New
+- generic: 容易
+- generic: 正确率
+- generic: 87%
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "100"
+- generic: 方差
+- generic: "10"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.5"
+- button "预览"
+- button "查看"
+- generic: Read in Daily Life(2题版) 29
+- generic: New
+- generic: 偏难
+- generic: 正确率
+- generic: 50%
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "50"
+- generic: 方差
+- generic: "25"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "1"
+- button "预览"
+- button "查看"
+- generic: Read in Daily Life(2题版) 28
+- generic: New
+- generic: 偏易
+- generic: 正确率
+- generic: 75%
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "75"
+- generic: 方差
+- generic: "13"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.5"
+- button "预览"
+- button "查看"
+- generic: Read in Daily Life(2题版) 27
+- generic: New
+- generic: 偏易
+- generic: 正确率
+- generic: 77%
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "92"
+- generic: 方差
+- generic: "17"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.7"
+- button "预览"
+- button "查看"
+- generic: Read in Daily Life(2题版) 26
+- generic: New
+- generic: 偏易
+- generic: 正确率
+- generic: 76%
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "86"
+- generic: 方差
+- generic: "16"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.57"
+- button "预览"
+- button "查看"
+- generic: Listen and Repeat 20
+- generic: New
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "1"
+- generic: 中位分
+- generic: "64"
+- generic: 方差
+- generic: "3"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.41"
+- button "预览"
+- button "查看"
+- generic: Complete the Words (Router) 45
+- generic: New
+- generic: 困难
+- generic: 正确率
+- generic: 16%
+- generic: 题目数
+- generic: "1"
+- generic: 中位分
+- generic: "78"
+- generic: 方差
+- generic: "4"
+- generic: 中位用时
+- generic: 2min
+- generic: 区分度
+- generic: "0.51"
+- button "预览"
+- button "查看"
+- generic: Complete the Words (Router) 44
+- generic: New
+- generic: 困难
+- generic: 正确率
+- generic: 15%
+- generic: 题目数
+- generic: "1"
+- generic: 中位分
+- generic: "82"
+- generic: 方差
+- generic: "4"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.48"
+- button "预览"
+- button "查看"
+- generic: Complete the Words (Router) 43
+- generic: New
+- generic: 困难
+- generic: 正确率
+- generic: 9%
+- generic: 题目数
+- generic: "1"
+- generic: 中位分
+- generic: "60"
+- generic: 方差
+- generic: "4"
+- generic: 中位用时
+- generic: 2min
+- generic: 区分度
+- generic: "0.56"
+- button "预览"
+- button "查看"
+- generic: Complete the Words (Router) 42
+- generic: New
+- generic: 困难
+- generic: 正确率
+- generic: 27%
+- generic: 题目数
+- generic: "1"
+- generic: 中位分
+- generic: "84"
+- generic: 方差
+- generic: "4"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.51"
+- button "预览"
+- button "查看"
+- generic: Complete the Words (Upper) 41
+- generic: New
+- generic: 困难
+- generic: 正确率
+- generic: 37%
+- generic: 题目数
+- generic: "1"
+- generic: 中位分
+- generic: "90"
+- generic: 方差
+- generic: "5"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.53"
+- button "预览"
+- button "查看"
+- generic: Read in Daily Life(2题版) 25
+- generic: New
+- generic: 偏易
+- generic: 正确率
+- generic: 80%
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "80"
+- generic: 方差
+- generic: "12"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.4"
+- button "预览"
+- button "查看"
+- generic: Read in Daily Life(2题版) 24
+- generic: New
+- generic: 偏易
+- generic: 正确率
+- generic: 75%
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "75"
+- generic: 方差
+- generic: "13"
+- generic: 中位用时
+- generic: 1min
+- generic: 区分度
+- generic: "0.5"
+- button "预览"
+- button "查看"
+- text: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text: 
+- tooltip "区分度 不限  最近上新 不限  讲解题目 不限  话题 不限 ":
+  - generic: 区分度
+  - textbox: 不限
+  - text: 
+  - generic: 
+  - generic: 最近上新
+  - textbox: 不限
+  - text: 
+  - generic: 
+  - generic: 讲解题目
+  - textbox: 不限
+  - text: 
+  - generic: 
+  - generic: 话题
+  - textbox: 不限
+  - text: 
+  - generic: 

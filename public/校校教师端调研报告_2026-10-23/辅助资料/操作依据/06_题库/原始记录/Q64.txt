@@ -1,0 +1,685 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- radiogroup:
+  - button "按试卷":
+    - generic: 按试卷
+  - button " 按篇章":
+    - generic: 
+    - generic: 按篇章
+  - separator
+  - button "我的试卷":
+    - generic: 我的试卷
+  - button "共享试卷":
+    - generic: 共享试卷
+- text:  
+- generic: 科目
+- generic "新托福2026"
+- generic "雅思"
+- generic "SAT机考"
+- generic "SAT"
+- generic "小托福"
+- generic "ACT"
+- generic "GRE"
+- generic "KET"
+- generic "PET"
+- generic "AP"
+- generic: 分项
+- generic "不限"
+- generic "听力"
+- generic "阅读"
+- generic "写作"
+- generic "口语"
+- text:    
+- generic: 来源
+- generic: 
+- button "名称 ( 不限 ) ":
+  - text: 名称
+  - text: (
+  - generic: 不限
+  - text: )
+  - generic: 
+- text:              
+- generic: 筛选
+- generic: 排序
+- button "重置"
+- textbox "请选择": 标题
+- generic: 
+- textbox "请输入你要搜索的题目"
+- button "":
+  - generic: 
+- radiogroup:
+  - button
+  - button
+- table:
+  - rowgroup:
+    - row "题目名称 分项 来源 话题 状态 新增练习数 更新时间":
+      - columnheader
+      - columnheader
+      - columnheader "题目名称":
+        - generic: 题目名称
+      - columnheader "分项":
+        - generic: 分项
+      - columnheader "来源":
+        - generic: 来源
+      - columnheader "话题":
+        - generic: 话题
+      - columnheader "状态":
+        - generic: 状态
+      - columnheader "新增练习数":
+        - generic: 新增练习数
+      - columnheader "更新时间":
+        - generic: 更新时间
+      - columnheader
+- table:
+  - rowgroup:
+    - row " CIT-C21-T4 / Part 1 (Survey about shopping in Broadbeach) 听力 CIT 消费购物 偏难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T4 / Part 1 (Survey about shopping in Broadbeach)":
+        - generic: CIT-C21-T4 / Part 1 (Survey about shopping in Broadbeach)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "消费购物":
+        - generic: 消费购物
+      - cell "偏难":
+        - generic: 偏难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看" [active]
+    - row " CIT-C21-T4 / Part 2 (a business exhibition) 听力 CIT 活动介绍 困难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T4 / Part 2 (a business exhibition)":
+        - generic: CIT-C21-T4 / Part 2 (a business exhibition)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "活动介绍":
+        - generic: 活动介绍
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T4 / Part 3 (Presentation on houses of the future) 听力 CIT 课业讨论 困难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T4 / Part 3 (Presentation on houses of the future)":
+        - generic: CIT-C21-T4 / Part 3 (Presentation on houses of the future)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "课业讨论":
+        - generic: 课业讨论
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T4 / Part 4 (Music therapy for surgical patients) 听力 CIT 医疗与健康 困难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T4 / Part 4 (Music therapy for surgical patients)":
+        - generic: CIT-C21-T4 / Part 4 (Music therapy for surgical patients)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "医疗与健康":
+        - generic: 医疗与健康
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T3 / Part 1 (Ferry to Shetland Islands) 听力 CIT 旅游出行 偏难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T3 / Part 1 (Ferry to Shetland Islands)":
+        - generic: CIT-C21-T3 / Part 1 (Ferry to Shetland Islands)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "旅游出行":
+        - generic: 旅游出行
+      - cell "偏难":
+        - generic: 偏难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T3 / Part 2 (street food) 听力 CIT 餐厅与食物 困难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T3 / Part 2 (street food)":
+        - generic: CIT-C21-T3 / Part 2 (street food)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "餐厅与食物":
+        - generic: 餐厅与食物
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T3 / Part 3 (sustainable fashion) 听力 CIT 课业讨论 困难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T3 / Part 3 (sustainable fashion)":
+        - generic: CIT-C21-T3 / Part 3 (sustainable fashion)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "课业讨论":
+        - generic: 课业讨论
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T3 / Part 4 (Invasive species) 听力 CIT 生物学 偏难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T3 / Part 4 (Invasive species)":
+        - generic: CIT-C21-T3 / Part 4 (Invasive species)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "生物学":
+        - generic: 生物学
+      - cell "偏难":
+        - generic: 偏难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T2 / Part 1 (One-day classes at Steynford College) 听力 CIT 教育 偏难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T2 / Part 1 (One-day classes at Steynford College)":
+        - generic: CIT-C21-T2 / Part 1 (One-day classes at Steynford College)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "教育":
+        - generic: 教育
+      - cell "偏难":
+        - generic: 偏难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T2 / Part 2 (Melby Coal Mine) 听力 CIT 旅游出行 困难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T2 / Part 2 (Melby Coal Mine)":
+        - generic: CIT-C21-T2 / Part 2 (Melby Coal Mine)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "旅游出行":
+        - generic: 旅游出行
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T2 / Part 3 (food safety) 听力 CIT 餐厅与食物 困难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T2 / Part 3 (food safety)":
+        - generic: CIT-C21-T2 / Part 3 (food safety)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "餐厅与食物":
+        - generic: 餐厅与食物
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T2 / Part 4 (Challenges facing the cruise ship industry) 听力 CIT 旅游出行 偏难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T2 / Part 4 (Challenges facing the cruise ship industry)":
+        - generic: CIT-C21-T2 / Part 4 (Challenges facing the cruise ship industry)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "旅游出行":
+        - generic: 旅游出行
+      - cell "偏难":
+        - generic: 偏难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T1 / Part 1 (Oyster Bay Sailing Club Courses) 听力 CIT 体育运动 偏难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T1 / Part 1 (Oyster Bay Sailing Club Courses)":
+        - generic: CIT-C21-T1 / Part 1 (Oyster Bay Sailing Club Courses)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "体育运动":
+        - generic: 体育运动
+      - cell "偏难":
+        - generic: 偏难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T1 / Part 2 (Working as a makeup trainee) 听力 CIT 艺术类 偏难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T1 / Part 2 (Working as a makeup trainee)":
+        - generic: CIT-C21-T1 / Part 2 (Working as a makeup trainee)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "艺术类":
+        - generic: 艺术类
+      - cell "偏难":
+        - generic: 偏难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T1 / Part 3 (Ocean Biodiversity) 听力 CIT 课业讨论 困难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T1 / Part 3 (Ocean Biodiversity)":
+        - generic: CIT-C21-T1 / Part 3 (Ocean Biodiversity)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "课业讨论":
+        - generic: 课业讨论
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " CIT-C21-T1 / Part 4 (Sources of rubber) 听力 CIT 科技 偏难 - 2026/06/20 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "CIT-C21-T1 / Part 4 (Sources of rubber)":
+        - generic: CIT-C21-T1 / Part 4 (Sources of rubber)
+      - cell "听力":
+        - generic: 听力
+      - cell "CIT":
+        - generic: CIT
+      - cell "科技":
+        - generic: 科技
+      - cell "偏难":
+        - generic: 偏难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/06/20":
+        - generic: 2026/06/20
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 雅思听力机经第2套 / Part 1 (Job Inquiry) 听力 机经合集 工作求职 困难 - 2026/05/31 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "雅思听力机经第2套 / Part 1 (Job Inquiry)":
+        - generic: 雅思听力机经第2套 / Part 1 (Job Inquiry)
+      - cell "听力":
+        - generic: 听力
+      - cell "机经合集":
+        - generic: 机经合集
+      - cell "工作求职":
+        - generic: 工作求职
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/05/31":
+        - generic: 2026/05/31
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 雅思听力机经第2套 / Part 2 (Toy Factory) 听力 机经合集 工作求职 偏难 - 2026/05/31 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "雅思听力机经第2套 / Part 2 (Toy Factory)":
+        - generic: 雅思听力机经第2套 / Part 2 (Toy Factory)
+      - cell "听力":
+        - generic: 听力
+      - cell "机经合集":
+        - generic: 机经合集
+      - cell "工作求职":
+        - generic: 工作求职
+      - cell "偏难":
+        - generic: 偏难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/05/31":
+        - generic: 2026/05/31
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 雅思听力机经第2套 / Part 3 (Maori Carving) 听力 机经合集 艺术类 偏难 - 2026/05/31 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "雅思听力机经第2套 / Part 3 (Maori Carving)":
+        - generic: 雅思听力机经第2套 / Part 3 (Maori Carving)
+      - cell "听力":
+        - generic: 听力
+      - cell "机经合集":
+        - generic: 机经合集
+      - cell "艺术类":
+        - generic: 艺术类
+      - cell "偏难":
+        - generic: 偏难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/05/31":
+        - generic: 2026/05/31
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 雅思听力机经第2套 / Part 4 (The Mangrove Regeneration Project) 听力 机经合集 环境类 困难 - 2026/05/31 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "雅思听力机经第2套 / Part 4 (The Mangrove Regeneration Project)":
+        - generic: 雅思听力机经第2套 / Part 4 (The Mangrove Regeneration Project)
+      - cell "听力":
+        - generic: 听力
+      - cell "机经合集":
+        - generic: 机经合集
+      - cell "环境类":
+        - generic: 环境类
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/05/31":
+        - generic: 2026/05/31
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+- generic: 共 651 条
+- button "20 条/页 ":
+  - text: 20 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button "2"
+- button "3"
+- button "4"
+- button "5"
+- button "6"
+- button "•••":
+  - generic: •••
+- button "33"
+- button:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- generic: 
+- dialog "dialog":
+  - text: 
+  - text: 
+  - textbox "请输入关键词查找帮助中心内容"
+  - generic: 
+  - button "icon":
+    - img "icon"
+  - button "icon":
+    - img "icon"
+  - generic: 
+  - button "icon":
+    - img "icon"
+  - button "icon":
+    - img "icon"
+  - paragraph: "244"
+  - text: 
+  - button "icon":
+    - img "icon"
+  - text: 
+  - text: "500"
+  - text: 
+  - text:  
+  - generic: 思贤
+  - text:    
+  - navigation "Breadcrumb":
+    - list:
+      - generic: 系统题库
+      - generic: 
+      - generic: 详情
+  - paragraph:
+    - generic: 雅思
+  - generic: CIT-C21-T4 / Part 1 (Survey about shopping in Broadbeach)
+  - generic: 听力
+  - generic: 偏难
+  - generic: 参与数
+  - generic: "-"
+  - generic: 正确率
+  - generic: 73%
+  - generic: 题目数
+  - generic: "10"
+  - generic: 中位分
+  - generic: "90"
+  - generic: 方差
+  - generic: "18"
+  - generic: 中位用时
+  - generic: "-"
+  - generic: 区分度
+  - generic: "0.78"
+  - button "题目 (10)":
+    - generic: 题目 (10)
+  - generic: 显示答案
+  - switch:
+    - checkbox
+  - text:     
+  - generic: (1)
+  - generic: (2)
+  - generic: (3)
+  - generic: (4)
+  - generic: (5)
+  - generic: (6)
+  - generic: (7)
+  - generic: (8)
+  - generic: (9)
+  - generic: (10)
+  - paragraph:
+    - generic: 题目
+  - generic: 正确率
+  - generic: 93%
+  - generic: 中位用时
+  - generic: "-"
+  - generic: 区分度
+  - generic: "0.25"
+  - generic: 争议率
+  - generic: "-"
+  - generic: 
+  - paragraph: PART 1 Questions 1-10 Complete the form below. Write ONE WORD ONLY for each answer.
+  - generic: 00:00/06:29
+  - slider "slider between 0 and 100"
+  - img "后退10秒"
+  - img "前进10秒"
+  - img "播放速度"
+  - generic: 原文
+  - table:
+    - rowgroup:
+      - 'row "Survey about shopping in Broadbeach Name: Martyn 1 ______ Today''s journey to Broadbeach town centre: used his 2 _____ Purpose of today''s trip: has visited the 3 _______ looking for a new 4 _______ collecting 5 _______ (after repair) Preferred day for shopping: 6 ________ Opinions about shopping in the town centre Finds the service in shops is excellent Thinks there are too many places selling 7 _______ Would like more places to buy 8 _______ Opinions about new out-of-town Shopping Centre Likes the 9 _____ best Believes the 10 ______ is unnecessary"':
+        - 'cell "Survey about shopping in Broadbeach Name: Martyn 1 ______ Today''s journey to Broadbeach town centre: used his 2 _____ Purpose of today''s trip: has visited the 3 _______ looking for a new 4 _______ collecting 5 _______ (after repair) Preferred day for shopping: 6 ________ Opinions about shopping in the town centre Finds the service in shops is excellent Thinks there are too many places selling 7 _______ Would like more places to buy 8 _______ Opinions about new out-of-town Shopping Centre Likes the 9 _____ best Believes the 10 ______ is unnecessary"':
+          - paragraph:
+            - strong: Survey about shopping in Broadbeach
+          - paragraph
+          - paragraph: "Name: Martyn 1 ______"
+          - paragraph: "Today's journey to Broadbeach town centre: used his 2 _____"
+          - paragraph: "Purpose of today's trip:"
+          - paragraph: has visited the 3 _______
+          - paragraph: looking for a new 4 _______
+          - paragraph: collecting 5 _______ (after repair)
+          - paragraph: "Preferred day for shopping: 6 ________"
+          - paragraph
+          - paragraph:
+            - strong: Opinions about shopping in the town centre
+          - paragraph: Finds the service in shops is excellent
+          - paragraph: Thinks there are too many places selling 7 _______
+          - paragraph: Would like more places to buy 8 _______
+          - paragraph
+          - paragraph:
+            - strong: Opinions about new out-of-town Shopping Centre
+          - paragraph: Likes the 9 _____ best
+          - paragraph: Believes the 10 ______ is unnecessary
+  - paragraph
+  - generic: 知识点
+  - generic: 题目来源
+  - button "添加知识点"
+  - generic: Table表格填空
+  - text: 
+  - radiogroup:
+    - button " 题目信息":
+      - generic: 
+      - generic: 题目信息
+    - button "名师讲解":
+      - generic: 名师讲解
+    - button "笔记列表":
+      - generic: 笔记列表
+  - paragraph: 答题解析
+  - paragraph:
+    - generic: 暂无解析
+  - generic: 
+  - img "AI"
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:                       

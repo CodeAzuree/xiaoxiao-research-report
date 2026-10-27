@@ -1,0 +1,46 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>云盘｜实操图文记录</title><style>body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif;color:#25344a;max-width:1180px;margin:45px auto;padding:0 25px;line-height:1.8;background:#f5f7fb}h1{font-size:32px}h2{font-size:27px;margin-top:65px;border-bottom:2px solid #416ddd;padding-bottom:8px}h3{font-size:21px}article{background:white;border:1px solid #dfe5ee;border-radius:12px;margin:24px 0;padding:24px}img{display:block;width:100%;height:auto;border:1px solid #e1e5ec;margin-top:18px}figcaption{font-size:13px;color:#697587}table{border-collapse:collapse;width:100%;background:white}th,td{border:1px solid #dfe5ee;padding:10px;text-align:left}.status{font-size:14px;background:#eaf0ff;color:#254eaf;padding:4px 8px;border-radius:5px}nav{display:flex;gap:20px;position:sticky;top:0;background:white;padding:12px;border:1px solid #dfe5ee;z-index:5}a{color:#285dcc}p{margin:12px 0}.muted{color:#657287}html{scroll-behavior:smooth}nav{flex-wrap:wrap;gap:8px 18px}figure{margin:18px 0}img{box-sizing:border-box}article{scroll-margin-top:110px}h2{scroll-margin-top:110px}.chapter{display:flex;gap:20px;flex-wrap:wrap}.tools{background:#edf2fc;padding:15px;border-radius:8px}.tag{font-size:13px;color:#657287}input{font:inherit;border:1px solid #b9c8df;border-radius:6px;padding:8px;width:min(90%,650px)}.hidden{display:none}summary{cursor:pointer}footer{margin:60px 0} @media(max-width:700px){body{padding:0 14px;margin:22px auto}article{padding:16px}h1{font-size:26px}h2{font-size:23px}nav{position:static}th,td{padding:7px;font-size:14px}} @media print{nav,.tools{display:none}body{background:white;max-width:none}article{break-inside:avoid;border-color:#ddd}a{color:inherit}}figure{margin:18px 0}summary{cursor:pointer;color:#285dcc}details{margin-top:14px}article{scroll-margin-top:100px}.intro{padding:16px;background:#eaf0ff;border-radius:10px}nav{flex-wrap:wrap;gap:8px 18px} @media(max-width:750px){nav{position:static}body{padding:0 14px}article{padding:15px}}</style><link rel="stylesheet" href="../../../资源/记录定位.css" data-record-anchor="style"><script defer src="../../../资源/记录定位.js" data-record-anchor="script"></script></head><body><p><a href="../../../index.html">← 总览</a> · <a href="../../../08_云盘/云盘调研报告.html">功能结构报告 →</a></p><h1>云盘：实操图文记录</h1><p class="structure-link"><b>调研报告：</b><a href="../../../08_云盘/云盘调研报告.html">云盘功能结构与清单</a>。本页保留逐次操作和截图，供追溯具体证据。</p><p>2026-10-23 · 教师端；按实际页面记录，不以帮助文档补写。</p>
+<article id="CD01"><h2>CD01 切换个人与共享文件</h2>
+<p><b>功能内容：</b>顶部有我的云盘、共享云盘两张入口；个人列表包含文件名称、大小、上传日期、操作；共享列表额外显示上传老师；共享样例包含PDF和MP3，文件行提供下载入口</p>
+<p><b>实际操作：</b>分别查看个人空列表与共享资源列表。</p>
+<p><b>范围说明：</b>个人云盘当前无文件，不能据此推定个人文件行的改名、共享、删除等操作。</p>
+<figure><a href="../../../08_云盘/截图/D01.png" target="_blank"><img loading="lazy" src="../../../08_云盘/截图/D01.png" alt="云盘首页：我的/共享云盘、容量、上传、文件搜索列表分页" width="1456" height="763"></a><figcaption>D01｜云盘首页：我的/共享云盘、容量、上传、文件搜索列表分页 · <a href="原始记录/D01.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../08_云盘/截图/D02.png" target="_blank"><img loading="lazy" src="../../../08_云盘/截图/D02.png" alt="共享列表增加上传老师，展示PDF/MP3名称大小日期和下载入口" width="1456" height="763"></a><figcaption>D02｜共享列表增加上传老师，展示PDF/MP3名称大小日期和下载入口 · <a href="原始记录/D02.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="CD02"><h2>CD02 查看云盘容量</h2>
+<p><b>功能内容：</b>顶部容量条展示已用量和总容量；当前页面显示501M / 2G</p>
+<p><b>实际操作：</b>读取个人和共享页共同显示的容量条。</p>
+<p><b>范围说明：</b>只记录容量展示，不推定统计归属、计费方式或空间扩容规则；样例数值不是固定额度承诺。</p>
+<figure><a href="../../../08_云盘/截图/D01.png" target="_blank"><img loading="lazy" src="../../../08_云盘/截图/D01.png" alt="云盘首页：我的/共享云盘、容量、上传、文件搜索列表分页" width="1456" height="763"></a><figcaption>D01｜云盘首页：我的/共享云盘、容量、上传、文件搜索列表分页 · <a href="原始记录/D01.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="CD03"><h2>CD03 按文件名称搜索</h2>
+<p><b>功能内容：</b>搜索框提示请输入搜索文件名称，旁边有搜索按钮；搜索后显示匹配文件与总条数；可清空关键词重新搜索</p>
+<p><b>实际操作：</b>在共享云盘搜索13-2，看到两个MP3；随后清空恢复。</p>
+<p><b>范围说明：</b>按实际页面记录；未上传、共享或删除文件。</p>
+<figure><a href="../../../08_云盘/截图/D03.png" target="_blank"><img loading="lazy" src="../../../08_云盘/截图/D03.png" alt="文件名搜索13-2后列表仅保留两个MP3；显示匹配总数与分页" width="1456" height="763"></a><figcaption>D03｜文件名搜索13-2后列表仅保留两个MP3；显示匹配总数与分页 · <a href="原始记录/D03.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="CD04"><h2>CD04 分页浏览文件</h2>
+<p><b>功能内容：</b>每页可选10、15、20、50条；底部显示总条数、上一页、页码、下一页和跳页输入</p>
+<p><b>实际操作：</b>展开每页条数菜单，查看分页控件。</p>
+<p><b>范围说明：</b>当前样例只有一页，没有把禁用的上下页按钮解释为功能缺失。</p>
+<figure><a href="../../../08_云盘/截图/D04.png" target="_blank"><img loading="lazy" src="../../../08_云盘/截图/D04.png" alt="云盘分页：10/15/20/50条每页、总数与跳页" width="1456" height="763"></a><figcaption>D04｜云盘分页：10/15/20/50条每页、总数与跳页 · <a href="原始记录/D04.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="CD05"><h2>CD05 下载共享文件</h2>
+<p><b>功能内容：</b>共享文件行的操作列提供下载；文件名、大小、上传人、上传日期可用于确认目标文件</p>
+<p><b>实际操作：</b>查看PDF与MP3行的下载入口，尝试点击MP3名称。</p>
+<p><b>范围说明：</b>本次没有点击下载；点击文件名未出现新的播放或阅读页，不能据此补写在线预览能力。</p>
+<figure><a href="../../../08_云盘/截图/D02.png" target="_blank"><img loading="lazy" src="../../../08_云盘/截图/D02.png" alt="共享列表增加上传老师，展示PDF/MP3名称大小日期和下载入口" width="1456" height="763"></a><figcaption>D02｜共享列表增加上传老师，展示PDF/MP3名称大小日期和下载入口 · <a href="原始记录/D02.txt">原始页面记录</a></figcaption></figure>
+<figure><a href="../../../08_云盘/截图/D07.png" target="_blank"><img loading="lazy" src="../../../08_云盘/截图/D07.png" alt="恢复共享云盘完整文件列表；文件名点击未出现新的阅读或播放页" width="1456" height="763"></a><figcaption>D07｜恢复共享云盘完整文件列表；文件名点击未出现新的阅读或播放页 · <a href="原始记录/D07.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="CD06"><h2>CD06 选择上传范围与文件</h2>
+<p><b>功能内容：</b>上传按钮打开上传文件窗口；窗口可选择我的云盘或共享云盘，提供选择文件按钮和待添加文件区；页面提示最大支持500M文件，建议先压缩媒体文件</p>
+<p><b>实际操作：</b>打开上传窗口，切换共享目标，随后关闭。</p>
+<p><b>范围说明：</b>没有选择本地文件或上传；未查看文件选入后的队列、进度、失败重试或上传完成操作。</p>
+<figure><a href="../../../08_云盘/截图/D05.png" target="_blank"><img loading="lazy" src="../../../08_云盘/截图/D05.png" alt="上传文件窗口：我的/共享云盘、选择文件、500M提示与待添加文件区" width="1456" height="763"></a><figcaption>D05｜上传文件窗口：我的/共享云盘、选择文件、500M提示与待添加文件区 · <a href="原始记录/D05.txt">原始页面记录</a></figcaption></figure>
+</article>
+<article id="CD07"><h2>CD07 将云盘资料用于作业与大纲</h2>
+<p><b>功能内容：</b>作业和教研的文件选择入口会使用个人／共享云盘资源；该一级页面负责浏览与上传，当前未见直接布置按钮；选文件与关联的共用说明见作业篇</p>
+<p><b>实际操作：</b>对照本页共享PDF列表与已记录的作业、大纲文件选择器。</p>
+<p><b>范围说明：</b>这是跨页面资源关系，不能理解为从云盘列表直接一键布置；共用选择器不重新调研。</p>
+<figure><a href="../../../08_云盘/截图/D02.png" target="_blank"><img loading="lazy" src="../../../08_云盘/截图/D02.png" alt="共享列表增加上传老师，展示PDF/MP3名称大小日期和下载入口" width="1456" height="763"></a><figcaption>D02｜共享列表增加上传老师，展示PDF/MP3名称大小日期和下载入口 · <a href="原始记录/D02.txt">原始页面记录</a></figcaption></figure>
+</article>
+<p><a href="原始记录/操作索引.json">操作索引</a> · <a href="云盘功能清单.csv">CSV清单</a></p></body></html>

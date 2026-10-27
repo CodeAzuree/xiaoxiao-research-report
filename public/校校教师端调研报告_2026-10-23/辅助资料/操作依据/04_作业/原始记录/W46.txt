@@ -1,0 +1,506 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业管理
+- generic: 
+- text: 布置作业
+- list:
+  - generic: 全部作业
+  - generic: (1)
+  - generic: 单词作业
+  - generic: 打卡作业
+  - generic: 作业模考
+  - generic: (1)
+  - generic: 视频课件
+  - generic: 实时作业
+  - generic: 未下发作业
+  - generic: 我的批改
+  - generic: (1)
+  - generic: 我布置的
+  - generic: (1)
+  - generic: 收藏作业
+- generic: 我布置的
+- generic: 科目：
+- generic: 全部
+- generic: 雅思
+- generic: 托福
+- generic: AP
+- generic: SAT
+- generic: 状态：
+- generic: 全部
+- generic: 未开始
+- generic: 进行中
+- generic: 已完成
+- generic: 已逾期
+- generic: 未批改
+- generic: 部分批改
+- generic: 已批改
+- generic: 未查阅
+- generic: 部分查阅
+- generic: 已查阅
+- button "班级： ( 全部 ) ":
+  - text: 班级：
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- text: 时间
+- generic: 
+- generic: 
+- textbox "开始日期"
+- generic: "-"
+- textbox "结束日期"
+- generic: 筛选
+- generic: 排序
+- button "重置"
+- generic: 
+- textbox "请输入作业名称": sat全科测试
+- generic: 
+- radiogroup:
+  - button
+  - button
+- table:
+  - rowgroup:
+    - row "作业名称 状态 收藏 班级 截止时间 题目数 布置老师 批改老师 平均成绩 完成数 批改数 学生数":
+      - columnheader "作业名称":
+        - generic: 作业名称
+      - columnheader "状态":
+        - generic: 状态
+      - columnheader "收藏":
+        - generic: 收藏
+      - columnheader "班级":
+        - generic: 班级
+      - columnheader "截止时间":
+        - generic: 截止时间
+      - columnheader "题目数":
+        - generic: 题目数
+      - columnheader "布置老师":
+        - generic: 布置老师
+      - columnheader "批改老师":
+        - generic: 批改老师
+      - columnheader "平均成绩":
+        - generic: 平均成绩
+      - columnheader "完成数":
+        - generic: 完成数
+      - columnheader "批改数":
+        - generic: 批改数
+      - columnheader "学生数":
+        - generic: 学生数
+      - columnheader
+- table:
+  - rowgroup:
+    - row "sat全科测试 已查阅  王小格-SAT 2026-09-23 13:30 至 2026-09-24 23:30 147 王思贤 王思贤 420 1 0 1 查看详情 预览 ":
+      - cell "sat全科测试":
+        - generic: sat全科测试
+      - cell "已查阅":
+        - generic: 已查阅
+      - cell "":
+        - generic: 
+      - cell "王小格-SAT":
+        - generic: 王小格-SAT
+      - cell "2026-09-23 13:30 至 2026-09-24 23:30":
+        - generic: 2026-09-23 13:30 至 2026-09-24 23:30
+      - cell "147":
+        - generic: "147"
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "420":
+        - generic: "420"
+      - cell "1":
+        - generic: "1"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+- generic: 共 1 条
+- button "50 条/页 ":
+  - text: 50 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button [disabled]:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 返回作业管理
+- generic: 打卡作业
+- generic: 已逾期
+- generic: 进行中
+- generic: 口译录音
+- generic: YS2409ZND013
+- generic: 日期
+- generic: 2024-10-02/2024-10-03 22:00
+- generic: 布置老师
+- generic: 高源
+- generic: 批改老师
+- generic: 高源
+- generic: 打卡频次
+- generic: 周一
+- generic: 周二
+- generic: 周三
+- generic: 周四
+- generic: 周五
+- generic: 周六
+- generic: 周日
+- generic: 打卡率
+- generic: 11%
+- generic: 完成数
+- text: "2"
+- generic: /9
+- generic: 批改数
+- generic: "-"
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- tablist:
+  - tab "参与学生" [selected]:
+    - generic: 参与学生
+  - tab "题目":
+    - generic: 题目
+  - tab "统计":
+    - generic: 统计
+  - tab "排行榜":
+    - generic: 排行榜
+- paragraph: "02"
+- paragraph: 十月
+- paragraph: "03"
+- paragraph: 十月
+- generic: 当天打卡率 11%
+- generic: 提醒打卡
+- generic: 1/9已打卡
+- generic: 浩翔
+- paragraph: 张浩翔
+- paragraph: 发布于 2024-10-03
+- generic: 暂未评分
+- generic: 00:00/01:39
+- slider "slider between 0 and 100"
+- img "后退10秒"
+- img "前进10秒"
+- img "播放速度"
+- text: 批改评分
+- text: A
+- superscript: +
+- generic: A
+- generic: B
+- generic: C
+- generic: D
+- paragraph: 暂无数据，还没有老师点评~
+- textbox "写下你的点评"
+- generic: 图片
+- button "发布" [disabled]:
+  - generic: 发布
+- text: 
+- generic: 
+- text: 
+- generic: 共 1 条
+- textbox "请选择": 5条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+- button "" [disabled]:
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 返回作业管理
+- generic: 作业模考
+- generic: 已批改
+- generic: 测试自定义
+- generic: 测试班002
+- generic: 日期
+- generic: 2026-04-08 09:30/2026-04-09 23:30
+- generic: 布置老师
+- generic: 王思贤
+- generic: 题目数
+- generic: "1"
+- generic: 批改老师
+- generic: 王思贤
+- generic: 平均成绩
+- generic: "0"
+- generic: 完成数
+- text: "1"
+- generic: /1
+- generic: 批改数
+- text: "1"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "再次布置"
+- button "预览"
+- tablist:
+  - tab "参与学生":
+    - generic: 参与学生
+  - tab "统计" [selected]:
+    - generic: 统计
+  - tab "排行榜":
+    - generic: 排行榜
+- text: 
+- paragraph: 富文本内容
+- paragraph
+- paragraph: 新建 DOCX 文档.docx
+- paragraph
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:                              
+- generic: 
+- text:               
+- dialog "dialog":
+  - text: 
+  - tablist:
+    - tab "基础练习" [selected]:
+      - generic: 基础练习
+    - tab "题型训练":
+      - generic: 题型训练
+    - tab "模考测试":
+      - generic: 模考测试
+    - tab "机构题库":
+      - generic: 机构题库
+    - tab "自定义作业":
+      - generic: 自定义作业
+    - tab "打卡作业":
+      - generic: 打卡作业
+    - tab "视频课件作业":
+      - generic: 视频课件作业
+  - button "新窗口打开"
+  - button "添加至常用作业"
+  - button "预览"
+  - button "布置"
+  - generic: 
+  - textbox "请输入作业名称"
+  - generic: 0/100
+  - text: 选择班级
+  - generic: (1)
+  - generic: 
+  - text: 
+  - generic: 选择学生
+  - generic: 
+  - text: 批改老师
+  - generic: (1)
+  - generic: 
+  - generic: 测试班002
+  - generic: 
+  - textbox "请选择开始时间": 2026-10-23 11:00
+  - text: 
+  - generic: ~
+  - textbox "请选择结束时间": 2026-10-24 23:30
+  - text: 
+  - paragraph:
+    - text: 关联音视频
+    - generic: ( 未关联 )
+  - checkbox "开启实时作业":
+    - checkbox "开启实时作业"
+    - generic: 开启实时作业
+  - checkbox "强监管模式":
+    - checkbox "强监管模式"
+    - generic: 强监管模式
+  - heading "题型筛选" [level=2]
+  - text: 
+  - generic: 题型
+  - generic: 单词
+  - generic [active]: 读
+  - generic: 听
+  - generic: 写
+  - generic: 说
+  - generic: 分项
+  - generic: 基础语法
+  - generic: 长难句
+  - generic: 精读
+  - generic: 阅读逻辑
+  - generic: 语法改错
+  - generic: 词汇专项
+  - generic: 能力
+  - generic: 全部
+  - generic: 词法
+  - generic: 时态语态
+  - generic: 主谓一致
+  - generic: 并列句
+  - generic: 非谓语动词
+  - generic: 复合句
+  - generic: 特殊句型（强调句，倒装句）
+  - generic: 虚拟语气
+  - text:    
+  - heading "题目" [level=2]
+  - generic: 排序
+  - button "重置"
+  - generic: 
+  - textbox "请输入搜索内容"
+  - button " 添加全部":
+    - generic: 
+    - text: 添加全部
+  - button "查看已选"
+  - generic: "Q: Tom _____ in the library every night over the last three months."
+  - generic: 正确率 48%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: Experiments of this kind ________ in both the U.S and Europe well before the Second World War."
+  - generic: 正确率 53%
+  - generic: 
+  - text: 
+  - generic: "Q: Along with the letter was her promise ________ she was free she would visit me this weekend."
+  - generic: 正确率 53%
+  - generic: 
+  - text: 
+  - generic: "Q: News came from the school office ________ Wang Lin had been admitted to Beijing University."
+  - generic: 正确率 59%
+  - generic: 
+  - text: 
+  - generic: "Q: The fact has worried many scientists ________ the earth is becoming warmer and warmer these years."
+  - generic: 正确率 71%
+  - generic: 
+  - text: 
+  - generic: "Q: He often asked me the question ________ the work was worth doing."
+  - generic: 正确率 62%
+  - generic: 
+  - text: 
+  - generic: "Q: The reason ________ the little actress has been such a success is ________ she is both clever and hard-working."
+  - generic: 正确率 67%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: Information has been put forward ________ more middle school graduates will be admitted into Universities."
+  - generic: 正确率 50%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: Do you know if ________ back next week? If he ________ back, please let me know."
+  - generic: 正确率 68%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: - I'm a teenager's mother. Sometimes I don't know ________. - Love and understanding."
+  - generic: 正确率 57%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: - Did Mrs. King leave a message? - Yes. She wanted to know ________ this Sunday."
+  - generic: 正确率 61%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: - Could you tell me ________? He is wanted by the head teacher. - Sorry, I’ve no idea. But he ________ here just now."
+  - generic: 正确率 58%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: - David, look at the man in white over there. Can you tell me________? - He is a doctor."
+  - generic: 正确率 40%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: We don’t know when ________ next week. Please call me when he arrives."
+  - generic: 正确率 63%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: - Do you know ________ zongzi in tradition in China, Li Ping? - Usually during the Dragon Boat Festival."
+  - generic: 正确率 83%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: - Excuse me, Miss Chen, could you tell me ________ ? - It is short for the Silk Road Economic Belt and 21st Century Maritime Silk Road."
+  - generic: 正确率 51%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: The problem is ________ we can master modern science and technology in a short time."
+  - generic: 正确率 55%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: The last time we had great fun was ________ we were visiting the Water Park."
+  - generic: 正确率 80%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: ________ made the school proud was ________ more than 90% of the students had been admitted to key universities."
+  - generic: 正确率 69%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: ________ she couldn't understand was ________ fewer and fewer students showed interest in her lessons."
+  - generic: 正确率 56%
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: 共 1053 条
+  - button "20 条/页 ":
+    - text: 20 条/页
+    - generic: 
+  - button [disabled]:
+  - button "1"
+  - button "2"
+  - button "3"
+  - button "4"
+  - button "5"
+  - button "6"
+  - button "•••":
+    - generic: •••
+  - button "53"
+  - button:
+  - generic: 前往
+  - textbox
+  - generic: 页
+  - text:                                 
+  - heading "已选择题目" [level=2]
+  - paragraph:
+    - generic: 你还没选择题目哦~
+  - text:                                                      
+  - generic: 
+  - text: 

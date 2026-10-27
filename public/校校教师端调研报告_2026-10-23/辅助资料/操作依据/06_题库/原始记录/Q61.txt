@@ -1,0 +1,1867 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- text:                            
+- generic: 单词书
+- generic: 
+- generic: 查看详情
+- generic: SAT数学词汇
+- generic: 杨宸【SAT】
+- generic: 进行中
+- generic: 杨宸
+- paragraph: 杨宸
+- paragraph: 单词数量 182 已学 19 词 错词 2 个
+- generic: 89%
+- paragraph: Unit1
+- generic: 182 词
+- text: 进行中
+- generic: "1"
+- generic: 首次完成时间：-
+- generic: 错词数量：2
+- generic: 错词
+- generic: standard deviation
+- generic: 未学习
+- generic: 英 /ˌstændəd dɪˈveɪʃn/
+- generic: 美 /ˌstændɚd dɪˈveɪʃn/
+- generic: 标准差
+- generic: A measure of how spread out values are around the mean in a data set.
+- generic: 例句
+- text: "1."
+- generic: The standard deviation was small.
+- generic: 标准差很小。
+- generic: weighted average
+- generic: 未学习
+- generic: 英 /ˌweɪtɪd ˈævərɪdʒ/
+- generic: 美 /ˌweɪtɪd ˈævərɪdʒ/
+- generic: 加权平均数
+- generic: A mean calculated by giving different weights to the values being averaged.
+- generic: 例句
+- text: "1."
+- generic: His finance notes said the weighted average of the costs was the figure to use.
+- generic: 他的财务笔记写道，应使用成本的加权平均数。
+- generic: median
+- generic: 未学习
+- generic: 英 /ˈmiːdiən/
+- generic: 美 /ˈmiːdiən/
+- generic: 中数，中位数
+- generic: The middle value in an ordered set of numbers; also a central dividing line or strip.
+- generic: 例句
+- text: "1."
+- generic: The median of the set is 7.
+- generic: 这组数的中位数是7。
+- generic: mode
+- generic: 未学习
+- generic: 英 /məʊd/
+- generic: 美 /moʊd/
+- generic: 众数
+- generic: A way, manner, or state in which something is done or exists; in mathematics and statistics, the value that appears most often in a set of data.
+- generic: 例句
+- text: "1."
+- generic: "Electronic Devices: Ensure that all electronic devices, such as phones and laptops, are set to silent mode."
+- generic: 电子设备：确保所有电子设备，如手机和笔记本电脑，都设为静音模式。
+- generic: geometric mean
+- generic: 未学习
+- generic: 英 /ˌdʒiːəˈmetrɪk miːn/
+- generic: 美 /ˌdʒiːəˈmetrɪk miːn/
+- generic: 几何平均数
+- generic: The mean of a set of positive numbers obtained by multiplying the numbers together and taking the nth root, where n is the number of values.
+- generic: 例句
+- text: "1."
+- generic: The geometric mean of 2, 8, and 18 is 6.
+- generic: 2、8和18的几何平均数是6。
+- generic: arithmetic mean-average
+- generic: 英 [ˌærɪθˈmetɪk ˈmiːn ˈævərɪdʒ]
+- generic: 美 [ˌærɪθˈmetɪk ˈmiːn ˈævərɪdʒ]
+- generic: （算术）平均数
+- generic: The arithmetic mean-average is the sum of a set of values divided by the number of values.
+- generic: 例句
+- text: "1."
+- generic: The arithmetic mean-average is 10.
+- generic: 算术平均数是十。
+- generic: point of symmetry
+- generic: 未学习
+- generic: 英 /pɔɪnt əv ˈsɪm.ə.tri/
+- generic: 美 /pɔɪnt əv ˈsɪm.ə.tri/
+- generic: 对称点
+- generic: A point about which a figure or structure is symmetrical; the central point that balances matching parts on either side.
+- generic: 例句
+- text: "1."
+- generic: The mirror was placed so that the point of symmetry lined up with the center of the room.
+- generic: 镜子被放置得使对称中心与房间中央对齐。
+- generic: symmetry
+- generic: 未学习
+- generic: 英 /ˈsɪmətri/
+- generic: 美 /ˈsɪmətri/
+- generic: 对称
+- generic: The quality or state of being made of exactly similar parts facing each other or around a center.
+- generic: 例句
+- text: "1."
+- generic: She enjoyed the symmetry, the unalterable rules, and also the freaks and vagaries that nature brought to her kitchen.
+- generic: 她喜欢那种对称、不可更改的规则，以及大自然给她厨房带来的怪异和变幻无常。
+- generic: reflect
+- generic: 未学习
+- generic: 英 /rɪˈflekt/
+- generic: 美 /rɪˈflekt/
+- generic: 反射，镜面对称
+- generic: To show, express, or make evident a quality, condition, or idea.
+- generic: 例句
+- text: "1."
+- generic: In fact, Grimms' Fairy Tales please in many ways, some of which seem to reflect our emotions and interests as we read.
+- generic: 事实上，《格林童话》在许多方面令人愉悦，其中一些似乎在我们阅读时反映出我们的情感和兴趣。
+- generic: rotate
+- generic: 未学习
+- generic: 英 /ˈrəʊteɪt/
+- generic: 美 /ˈroʊteɪt/
+- generic: 旋转
+- generic: To turn around a central point or axis; also, to cause something to turn around a central point or axis.
+- generic: 例句
+- text: "1."
+- generic: Pedalling provides a workout for the astronaut's muscles and cardiovascular system, but it also causes the seat to rotate vertically around a central axis so the rider experiences artificial gravity while exercising.
+- generic: 踩踏板既能锻炼宇航员的肌肉和心血管系统，也会使座椅绕着中心轴垂直旋转，让骑乘者在运动时体验人工重力。
+- generic: transformation
+- generic: 未学习
+- generic: 英 /ˌtrænsfəˈmeɪʃən/
+- generic: 美 /ˌtrænsfərˈmeɪʃən/
+- generic: 变换
+- generic: A change in form, nature, or appearance; the process of becoming different.
+- generic: 例句
+- text: "1."
+- generic: Urbanization is the transformation of rural areas into urban ones.
+- generic: 城市化是将农村地区转变为城市地区的过程。
+- generic: parallel
+- generic: 未学习
+- generic: 英 /ˈpærəlel/
+- generic: 美 /ˈpærəlel/
+- generic: 平行
+- generic: Having the same distance apart at every point and never meeting.
+- generic: 例句
+- text: "1."
+- generic: Artists created the illusion of depth by using vanishing points on horizon lines, which are points in the background where parallel lines converge.
+- generic: 艺术家通过在地平线上使用消失点来营造深度错觉，这些点是背景中平行线汇聚的地方。
+- generic: coordinate geometry
+- generic: 未学习
+- generic: 英 /ˌkəʊˈɔːdɪnət dʒiˈɒmɪtri/
+- generic: 美 /ˌkoʊˈɔːrdɪnət dʒiˈɑːmɪtri/
+- generic: 解析几何
+- generic: The branch of geometry that uses coordinates and algebraic methods to study points, lines, curves, and shapes.
+- generic: 例句
+- text: "1."
+- generic: In class, the teacher explains coordinate geometry, and the students copy the formulas into their notebooks.
+- generic: 在课堂上，老师讲解了解析几何，学生们把公式抄进了笔记本。
+- generic: rectangular coordinate
+- generic: 英 /ˌrekˈtæŋɡjʊlə ˈkəʊɔːdɪnət/
+- generic: 美 /ˌrekˈtæŋɡjələr ˈkoʊˌɔːrdɪnət/
+- generic: 直角坐标系
+- generic: A coordinate value in a rectangular (Cartesian) coordinate system, used to locate a point.
+- generic: 例句
+- text: "1."
+- generic: The rectangular coordinate is marked on the graph.
+- generic: 这个直角坐标标在图上。
+- generic: origin
+- generic: 未学习
+- generic: 英 /ˈɒrɪdʒɪn/
+- generic: 美 /ˈɔːrɪdʒɪn/
+- generic: 原点
+- generic: the place where something begins, where it springs into being
+- generic: 例句
+- text: "1."
+- generic: The origin of the river is in the mountains.
+- generic: 这条河的起源在山脉中。
+- generic: plane
+- generic: 未学习
+- generic: 英 /pleɪn/
+- generic: 美 /pleɪn/
+- generic: 平面
+- generic: A flying vehicle or a flat surface / level in geometry or physics.
+- generic: 例句
+- text: "1."
+- generic: When she turned one hundred, Daisy Farrington celebrated her one-hundredth birthday by taking her first plane ride.
+- generic: 当她一百岁时，黛西·法灵顿通过乘坐她人生中的第一次飞机旅行来庆祝自己的百岁生日。
+- generic: counterclockwise
+- generic: 未学习
+- generic: 英 /ˌkaʊntəˈklɑːkwaɪz/
+- generic: 美 /ˌkaʊntərˈklaʊkwaɪz/
+- generic: 逆时针的
+- generic: Moving, turning, or arranged in a direction opposite to the hands of a clock.
+- generic: 例句
+- text: "1."
+- generic: "There are infinite possibilities for ways in which the photon can be made to spiral: clockwise, counterclockwise, tight spirals or loose ones."
+- generic: 光子可以被做成螺旋运动的方式有无穷多种：顺时针、逆时针、紧螺旋或松螺旋。
+- generic: clockwise
+- generic: 未学习
+- generic: 英 /ˈklɒkwaɪz/
+- generic: 美 /ˈklɑːkwaɪz/
+- generic: 顺时针的
+- generic: In the direction in which the hands of a clock move.
+- generic: 例句
+- text: "1."
+- generic: Turn clockwise to open the lid.
+- generic: 向顺时针方向转动以打开盖子。
+- generic: volume
+- generic: 未学习
+- generic: 英 /ˈvɒljuːm/
+- generic: 美 /ˈvɑːljuːm/
+- generic: 容积
+- generic: A book or one of a set of books; the amount of space something occupies; the amount a container can hold; the loudness of a sound; or a large quantity of something.
+- generic: 例句
+- text: "1."
+- generic: The volume on headphones must be kept low.
+- generic: 耳机的音量必须保持低一些。
+- generic: surface area
+- generic: 英 /ˈsɜːfɪs ˌeəriə/
+- generic: 美 /ˈsɝːfɪs ˌeriə/
+- generic: 表面积
+- generic: The total area of the outer surface of a three-dimensional object or physical thing.
+- generic: 例句
+- text: "1."
+- generic: Stadiums are ideal for these purposes, because their canopies have a large surface area for fitting photovoltaic panels and rise high enough (more than 40 metres) to make use of micro wind turbines.
+- generic: 体育场很适合这些用途，因为它们的顶棚表面积很大，便于安装光伏板，而且高度足够高（超过四十米），可以利用微型风力涡轮机。
+- generic: altitude
+- generic: 未学习
+- generic: 英 /ˈæltɪtjuːd/
+- generic: 美 /ˈæltɪtuːd/
+- generic: 高；顶垂线
+- generic: the height of a place, object, or point measured from sea level or from the ground.
+- generic: 例句
+- text: "1."
+- generic: The figure also indicates the layers of the atmosphere and how atmospheric density, pressure, and temperature vary with altitude.
+- generic: 这张图还说明了大气层的各个层次，以及大气密度、气压和温度如何随海拔变化。
+- generic: pyramid
+- generic: 未学习
+- generic: 英 /ˈpɪrəmɪd/
+- generic: 美 /ˈpɪrəmɪd/
+- generic: 棱锥体
+- generic: A structure with a wide base and a narrow top, especially a hierarchical system with many at the bottom and few at the top, or an ancient tomb of this shape.
+- generic: 例句
+- text: "1."
+- generic: Traditionally, universities operate in a pyramid structure.
+- generic: 传统上，大学采用金字塔式结构运作。
+- generic: cone
+- generic: 未学习
+- generic: 英 /kəʊn/
+- generic: 美 /koʊn/
+- generic: 圆锥体
+- generic: A solid or object that tapers smoothly from a broad circular base to a point, or a similar plant structure such as a pine cone.
+- generic: 例句
+- text: "1."
+- generic: Dishing refers to the dish-like shape of an advanced wooden wheel, which looks rather like a flat cone.
+- generic: “dishing”指的是一种高级木轮像碟子一样的形状，看起来很像一个扁平的圆锥体。
+- generic: sphere
+- generic: 未学习
+- generic: 英 /sfɪə/
+- generic: 美 /sfɪr/
+- generic: 球
+- generic: A round three-dimensional shape, like a ball, with every point on the surface the same distance from the center.
+- generic: 例句
+- text: "1."
+- generic: Advanced computer models now depict the core not as a homogeneous sphere, but as a layered structure with distinct regions.
+- generic: 先进的计算机模型现在将地核描绘为并非一个均质球体，而是具有不同区域的分层结构。
+- generic: cylinder
+- generic: 未学习
+- generic: 英 /ˈsɪlɪndə/
+- generic: 美 /ˈsɪlɪndɚ/
+- generic: 圆柱
+- generic: A solid or hollow three-dimensional shape with circular ends and a curved side; also, in a machine or engine, a chamber in which a piston moves.
+- generic: 例句
+- text: "1."
+- generic: Hidden under the waves, Aquarius is a bright yellow, forty-three-foot-long cylinder.
+- generic: 在波浪下方，水瓶座号是一根亮黄色、四十三英尺长的圆筒状物。
+- generic: right prism
+- generic: 未学习
+- generic: 英 /raɪt ˈprɪzəm/
+- generic: 美 /raɪt ˈprɪzəm/
+- generic: 直棱柱
+- generic: A prism whose lateral edges are perpendicular to its bases.
+- generic: 例句
+- text: "1."
+- generic: In geometry class, the teacher said a right prism has rectangular side faces.
+- generic: 在几何课上，老师说直棱柱有长方形侧面。
+- generic: prism
+- generic: 未学习
+- generic: 英 /ˈprɪzəm/
+- generic: 美 /ˈprɪzəm/
+- generic: 棱柱
+- generic: A transparent optical body with flat faces, used to refract or disperse light.
+- generic: 例句
+- text: "1."
+- generic: Tiny silica spheres create the internal structure of opals, and these spheres diffract light, separating it into colors, much like a prism does.
+- generic: 微小的二氧化硅球体构成了蛋白石的内部结构，这些球体会衍射光线，把光分成不同颜色，就像棱镜一样。
+- generic: cube
+- generic: 未学习
+- generic: 英 /kjuːb/
+- generic: 美 /kjuːb/
+- generic: 立方体
+- generic: A solid object with six equal square faces; also a die or a Rubik's Cube.
+- generic: 例句
+- text: "1."
+- generic: Many people go just to see the pristine glass cube, which houses the spherical aluminum Hayden Planetarium as if it were a ship in a giant glass bottle.
+- generic: 许多人去那里只是为了看那座洁净的玻璃立方体，它容纳着球形的铝制海登天文馆，仿佛它是一艘装在巨大玻璃瓶里的船。
+- generic: rectangular solid
+- generic: 未学习
+- generic: 英 /ˌrek.tæŋ.ɡjə.lə ˈsɒl.ɪd/
+- generic: 美 /ˌrek.tæŋ.ɡjə.lɚ ˈsɑː.lɪd/
+- generic: 长方体
+- generic: A three-dimensional solid bounded by six rectangular faces, with opposite faces equal and parallel.
+- generic: 例句
+- text: "1."
+- generic: A rectangular solid is easier to pack than a sphere.
+- generic: 长方体比球体更容易包装。
+- generic: solid
+- generic: 未学习
+- generic: 英 /ˈsɒlɪd/
+- generic: 美 /ˈsɑːlɪd/
+- generic: 立方体
+- generic: firm, strong, and dependable; also continuous or without gaps, and of good quality.
+- generic: 例句
+- text: "1."
+- generic: His design laid a solid foundation for all the torches in the future.
+- generic: 他的设计为未来的一切奠定了坚实的基础。
+- generic: central angle
+- generic: 未学习
+- generic: 英 /ˌsentrəl ˈæŋɡəl/
+- generic: 美 /ˌsɛntrəl ˈæŋɡəl/
+- generic: 圆心角
+- generic: An angle whose vertex is at the center of a circle and whose sides are radii.
+- generic: 例句
+- text: "1."
+- generic: The central angle subtends the arc.
+- generic: 这个圆心角所对的是这段弧。
+- generic: circumference
+- generic: 未学习
+- generic: 英 /səˈkʌm.fər.əns/
+- generic: 美 /sɚˈkʌm.fɚ.əns/
+- generic: 圆的周长
+- generic: The distance around the outside of a circle or other round shape; the boundary line around something round.
+- generic: 例句
+- text: "1."
+- generic: The circumference of the wheel was measured carefully.
+- generic: 车轮的周长被仔细测量。
+- generic: be inscribed in
+- generic: 未学习
+- generic: 英 /biː ɪnˈskraɪbd ɪn/
+- generic: 美 /biː ɪnˈskraɪbd ɪn/
+- generic: 内接于
+- generic: To be written, carved, engraved, or recorded in or on something.
+- generic: 例句
+- text: "1."
+- generic: His name can be inscribed in the memorial stone.
+- generic: 他的名字可以被刻在纪念石上。
+- generic: tangent to
+- generic: 英 /ˈtændʒənt tuː/
+- generic: 美 /ˈtændʒənt tuː/
+- generic: 相切
+- generic: touching a curve or surface at exactly one point, without crossing it.
+- generic: 例句
+- text: "1."
+- generic: The line is tangent to the circle at one point.
+- generic: 这条直线在一个点上与圆相切。
+- generic: chord
+- generic: 未学习
+- generic: 英 /kɔːd/
+- generic: 美 /kɔːrd/
+- generic: 弦
+- generic: A musical combination or progression of notes, especially one sounded together as harmony; also a cord or string.
+- generic: 例句
+- text: "1."
+- generic: Lifting her fingers from the keys, letting the last chord ring, the woman rose to leave.
+- generic: 她把手指从琴键上抬起，让最后一个和弦回响，女人起身离开。
+- generic: sector
+- generic: 英 /ˈsektə/
+- generic: 美 /ˈsektɚ/
+- generic: 扇形
+- generic: A distinct part of an economy, society, area, or a divided shape; also a fixed area of responsibility or operation.
+- generic: 例句
+- text: "1."
+- generic: Tourism is a growing sector of the global economy.
+- generic: 旅游业是全球经济中不断增长的一个部门。
+- generic: arc
+- generic: 未学习
+- generic: 英 /ɑːk/
+- generic: 美 /ɑːrk/
+- generic: 弧
+- generic: A curved line or the part of a curve; also a curved path or sweep through space.
+- generic: 例句
+- text: "1."
+- generic: I bent the kinks out and gave it a smooth arc.
+- generic: 我把弯折都弄平了，让它形成了一条平滑的弧线。
+- generic: radius
+- generic: 未学习
+- generic: 英 /ˈreɪ.di.əs/
+- generic: 美 /ˈreɪ.di.əs/
+- generic: 半径 (pl. radii)
+- generic: The distance from the center of a circle or sphere to its edge or surface; also, a line segment from the center to the circumference.
+- generic: 例句
+- text: "1."
+- generic: The radius of curvature is also important, and depends on the particle’s velocity and mass.
+- generic: 曲率半径也很重要，并且取决于粒子的速度和质量。
+- generic: diameter
+- generic: 未学习
+- generic: 英 /daɪˈæmɪtə/
+- generic: 美 /daɪˈæmɪtər/
+- generic: 直径
+- generic: The length of a straight line passing through the center of a circle or sphere and touching the boundary at both ends.
+- generic: 例句
+- text: "1."
+- generic: Figure 1 shows the computer-generated plume, its diameter, and how long, in millions of years (Myr), it would take the head of the plume to reach the surface.
+- generic: 图一展示了计算机生成的羽流、它的直径，以及羽流头部到达地表需要多少百万年。
+- generic: circle
+- generic: 未学习
+- generic: 英 /ˈsɜː.kəl/
+- generic: 美 /ˈsɝː.kəl/
+- generic: 圆
+- generic: A round shape, or a group of people who share a common interest, activity, or social connection.
+- generic: 例句
+- text: "1."
+- generic: Having a wide circle of friends offers diverse perspectives and experiences, enriching one's social life.
+- generic: 拥有广泛的朋友圈能提供多样的视角和经历，丰富一个人的社交生活。
+- generic: diagonal
+- generic: 未学习
+- generic: 英 /daɪˈæɡənl/
+- generic: 美 /daɪˈæɡənl/
+- generic: 对角线
+- generic: Slanting or running at an angle, not horizontal or vertical; positioned diagonally.
+- generic: 例句
+- text: "1."
+- generic: To create sharp visual breaks and clean edges of color in these expansive works, he paints slashing diagonal lines and rays.
+- generic: 为了在这些宏大的作品中创造鲜明的视觉断裂和清晰的色块边缘，他画出凌厉的斜线和光芒。
+- generic: hexagon
+- generic: 未学习
+- generic: 英 /ˈheksəɡən/
+- generic: 美 /ˈheksəɡɑːn/
+- generic: 六边形
+- generic: A plane figure with six straight sides and six angles.
+- generic: 例句
+- text: "1."
+- generic: In the scene, a hexagon frame sits beside the window.
+- generic: 在这个场景里，一个六边形框架放在窗边。
+- generic: pentagon
+- generic: 未学习
+- generic: 英 /ˈpentəɡən/
+- generic: 美 /ˈpentəɡɑːn/
+- generic: 五边形
+- generic: The Pentagon is the headquarters of the U.S. Department of Defense; it can also mean a five-sided polygon or shape.
+- generic: 例句
+- text: "1."
+- generic: Besides ordering the California National Guard on Monday to make 1,500 guardsmen available for firefighting efforts, Gov Arnold Schwarzenegger asked the Pentagon to send all available Modular Airborne Fighting Systems to the area.
+- generic: 除了在周一命令加州国民警卫队提供一千五百名士兵参与灭火行动外，阿诺德·施瓦辛格州长还请求五角大楼向该地区派遣所有可用的机动空降作战系统。
+- generic: polygon
+- generic: 英 /ˈpɒlɪɡən/
+- generic: 美 /ˈpɑːlɪɡən/
+- generic: 多边形
+- generic: A flat geometric figure with three or more straight sides and angles.
+- generic: 例句
+- text: "1."
+- generic: The polygon sits on the page beside a circle.
+- generic: 这个多边形在页面上，旁边还有一个圆。
+- generic: trapezoid
+- generic: 未学习
+- generic: 英 /ˈtræp.ə.zɔɪd/
+- generic: 美 /ˈtræp.ə.zɔɪd/
+- generic: 梯形
+- generic: A quadrilateral with at least one pair of parallel sides.
+- generic: 例句
+- text: "1."
+- generic: The trapezoid lay on the table beside the ruler.
+- generic: 那个梯形放在尺子旁边的桌上。
+- generic: perimeter
+- generic: 未学习
+- generic: 英 /pəˈrɪmɪtə/
+- generic: 美 /pəˈrɪmɪtər/
+- generic: 周长
+- generic: The boundary line or outer edge of a shape, area, or object; also the distance around it.
+- generic: 例句
+- text: "1."
+- generic: The garden wall ran along the perimeter of the house.
+- generic: 花园墙沿着房子的周界延伸。
+- generic: area
+- generic: 未学习
+- generic: 英 /ˈeəriə/
+- generic: 美 /ˈeriə/
+- generic: 面积
+- generic: A part of a place, space, or subject; also the extent of a surface.
+- generic: 例句
+- text: "1."
+- generic: The consequences of an excessive number of livestock grazing in an area are the reduction of the vegetation cover and the trampling and pulverization of the soil.
+- generic: 过多牲畜在某一区域放牧的后果是植被覆盖减少以及土壤被践踏和粉碎。
+- generic: rectangle
+- generic: 未学习
+- generic: 英 /ˈrek.tæŋ.ɡəl/
+- generic: 美 /ˈrek.tæŋ.ɡəl/
+- generic: 长方形，矩形
+- generic: A four-sided shape with four right angles; a shape whose opposite sides are equal and parallel.
+- generic: 例句
+- text: "1."
+- generic: The cave's entrance was carved into an exact rectangle and was clearly not a natural formation.
+- generic: 洞口被凿成了一个精确的矩形，显然不是天然形成的。
+- generic: parallelogram
+- generic: 未学习
+- generic: 英 /ˈpærəlɛləɡræm/
+- generic: 美 /ˈpærəˌlɛləˌɡræm/
+- generic: 平行四边形
+- generic: A four-sided plane figure with both pairs of opposite sides parallel.
+- generic: 例句
+- text: "1."
+- generic: In geometry class, the parallelogram stood beside the triangle on the page.
+- generic: 在几何课上，平行四边形在纸上和三角形并排出现。
+- generic: quadrilateral
+- generic: 未学习
+- generic: 英 /ˌkwɒdrɪˈlætərəl/
+- generic: 美 /ˌkwɑːdrɪˈlætərəl/
+- generic: 四边形
+- generic: A four-sided polygon, especially a plane figure with four straight sides.
+- generic: 例句
+- text: "1."
+- generic: The quadrilateral has two pairs of parallel sides.
+- generic: 这个四边形有两对平行边。
+- generic: similar triangle
+- generic: 未学习
+- generic: 英 /ˈsɪmɪlə ˈtraɪæŋɡl/
+- generic: 美 /ˈsɪmələr ˈtraɪæŋɡl/
+- generic: 相似三角形
+- generic: A triangle that is similar to another triangle, meaning the two have equal corresponding angles and proportional corresponding sides.
+- generic: 例句
+- text: "1."
+- generic: In geometry class, the teacher drew a similar triangle to show how the sides stayed proportional.
+- generic: 在几何课上，老师画了一个相似三角形来展示边长如何保持比例。
+- generic: congruent
+- generic: 未学习
+- generic: 英 /ˈkɒŋɡruənt/
+- generic: 美 /ˈkɑːŋɡruənt/
+- generic: 全等的，相等的
+- generic: Having the same shape and size so that one can fit exactly on top of the other; matching or in agreement.
+- generic: 例句
+- text: "1."
+- generic: The two triangles are congruent.
+- generic: 这两个三角形是全等的。
+- generic: exterior angle
+- generic: 未学习
+- generic: 英 /ɪkˈstɪəriə(r) ˈæŋɡəl/
+- generic: 美 /ɪkˈstɪriər ˈæŋɡəl/
+- generic: 外角
+- generic: An angle formed outside a polygon by one side and the extension of an adjacent side.
+- generic: 例句
+- text: "1."
+- generic: In the diagram, the exterior angle equals the sum of the two remote interior angles.
+- generic: 在图中，外角等于另外两个不相邻内角的和。
+- generic: interior angle
+- generic: 未学习
+- generic: 英 /ɪnˈtɪəriə ˈæŋɡəl/
+- generic: 美 /ɪnˈtɪriər ˈæŋɡəl/
+- generic: 内角
+- generic: An angle inside a polygon, formed by two adjacent sides.
+- generic: 例句
+- text: "1."
+- generic: The interior angle of a triangle always adds up to 180 degrees.
+- generic: 三角形的内角总和总是 180 度。
+- generic: height
+- generic: 未学习
+- generic: 英 /haɪt/
+- generic: 美 /haɪt/
+- generic: 高
+- generic: The measurement from bottom to top; how tall something or someone is; or a high point or level.
+- generic: 例句
+- text: "1."
+- generic: Then, the scientist poured water at a temperature of 85°C into the beaker until the height of the water was 10 cm.
+- generic: 随后，科学家把八十五摄氏度的水倒入烧杯，直到水的高度达到十厘米。
+- generic: leg
+- generic: 英 /lɛɡ/
+- generic: 美 /lɛɡ/
+- generic: 直角三角形的长直角边
+- generic: The lower limb of a person or animal, used for standing, walking, and movement.
+- generic: 例句
+- text: "1."
+- generic: He rested his leg on the chair.
+- generic: 他把腿搭在椅子上。
+- generic: arm
+- generic: 未学习
+- generic: 英 /ɑːm/
+- generic: 美 /ɑːrm/
+- generic: 直角三角形的短直角边
+- generic: The upper limb of the human body from the shoulder to the hand.
+- generic: 例句
+- text: "1."
+- generic: Her arms seemed to lift not from the elbow or the arm socket, but from the base of the spine.
+- generic: 她的手臂似乎不是从肘部或肩窝抬起，而是从脊柱底部抬起。
+- generic: hypotenuse
+- generic: 未学习
+- generic: 英 /ˈhaɪpətjuːn/
+- generic: 美 /ˈhaɪpətuːn/
+- generic: 直角三角形的斜边
+- generic: The side of a right-angled triangle that is opposite the right angle; the longest side.
+- generic: 例句
+- text: "1."
+- generic: In the textbook, the hypotenuse is the side opposite the right angle.
+- generic: 在课本里，斜边是与直角相对的那条边。
+- generic: right triangle
+- generic: 未学习
+- generic: 英 /ˌraɪt ˈtraɪæŋɡl/
+- generic: 美 /ˌraɪt ˈtraɪæŋɡl/
+- generic: 直角三角形
+- generic: A triangle with one angle of 90 degrees.
+- generic: 例句
+- text: "1."
+- generic: In Geometry, a right triangle has one right angle.
+- generic: 在《几何》中，直角三角形有一个直角。
+- generic: isosceles triangle
+- generic: 未学习
+- generic: 英 /aɪˌsɒs.əl.iːz ˈtraɪ.æŋ.ɡl/
+- generic: 美 /aɪˌsɑː.sə.liːz ˈtraɪ.æŋ.ɡl/
+- generic: 等腰三角形
+- generic: A triangle with two equal sides and two equal angles.
+- generic: 例句
+- text: "1."
+- generic: In the movie Good Will Hunting, the chalkboard sketch was an isosceles triangle.
+- generic: 在电影《心灵捕手》中，黑板上的草图是一个等腰三角形。
+- generic: equilateral triangle
+- generic: 未学习
+- generic: 英 /ˌiːkwɪˈlætərəl ˈtraɪæŋɡl/
+- generic: 美 /ˌiːkwɪˈlætərəl ˈtraɪæŋɡl/
+- generic: 等边三角形
+- generic: A triangle with all three sides equal and all three angles equal.
+- generic: 例句
+- text: "1."
+- generic: The equilateral triangle in the textbook helps students compare side lengths.
+- generic: 教科书里的等边三角形帮助学生比较边长。
+- generic: triangle
+- generic: 未学习
+- generic: 英 /ˈtraɪæŋɡl/
+- generic: 美 /ˈtraɪæŋɡl/
+- generic: 三角形
+- generic: A three-sided polygon; also, something shaped like or arranged in the form of a triangle.
+- generic: 例句
+- text: "1."
+- generic: Talbot Park is a triangle of government-owned land, which in the early 1960s was developed for state housing built around a linear garden that ran through the middle.
+- generic: 塔尔博特公园是一块政府拥有的三角形土地，在二十世纪六十年代初被开发为州立住房，周围围绕着一条穿过中央的线性花园。
+- generic: perpendicular line
+- generic: 未学习
+- generic: 英 /ˌpɜːpənˈdɪkjʊlə ˈlaɪn/
+- generic: 美 /ˌpɝːpənˈdɪkjələr ˈlaɪn/
+- generic: 垂线
+- generic: A line that meets another line or surface at a right angle.
+- generic: 例句
+- text: "1."
+- generic: The perpendicular line cuts the segment in half.
+- generic: 这条垂线把线段平分了。
+- generic: corresponding angle
+- generic: 未学习
+- generic: 英 /kəˈrɒspɒndɪŋ ˈæŋɡəl/
+- generic: 美 /kəˈrɑːspɑːndɪŋ ˈæŋɡəl/
+- generic: 同位角
+- generic: A geometry term for one of a pair of angles in corresponding positions when a transversal crosses two parallel lines.
+- generic: 例句
+- text: "1."
+- generic: The detective and the librarian sat over a diagram of corresponding angle, tracing the lines with a pencil.
+- generic: 那位侦探和那位图书管理员坐在一张对应角的图示前，用铅笔描着线条。
+- generic: alternate angle
+- generic: 未学习
+- generic: 英 /ˌɔːltəneɪt ˈæŋɡəl/
+- generic: 美 /ˌɔːltɚneɪt ˈæŋɡəl/
+- generic: 内错角
+- generic: An angle formed on the opposite side of a transversal from another angle, especially one of a pair of equal angles between parallel lines.
+- generic: 例句
+- text: "1."
+- generic: The alternate angle at the intersection helped the class identify the parallel lines.
+- generic: 交点处的错角帮助全班识别出了平行线。
+- generic: adjacent angle
+- generic: 未学习
+- generic: 英 /ədˈdʒeɪsənt ˈæŋɡəl/
+- generic: 美 /ədˈdʒeɪsənt ˈæŋɡəl/
+- generic: 邻角
+- generic: An angle that is adjacent to another angle, typically sharing a vertex and one side.
+- generic: 例句
+- text: "1."
+- generic: The adjacent angle is supplementary to the first angle.
+- generic: 这个邻角与第一个角互补。
+- generic: vertical angle
+- generic: 错词
+- generic: 英 /ˌvɜːtɪkəl ˈæŋɡəl/
+- generic: 美 /ˌvɝːtɪkəl ˈæŋɡəl/
+- generic: 对顶角
+- generic: Either of the pair of opposite angles formed by two intersecting lines.
+- generic: 例句
+- text: "1."
+- generic: The vertical angle across from the 60-degree angle is also 60 degrees.
+- generic: 与六十度角相对的对顶角也是六十度。
+- generic: complementary angle
+- generic: 未学习
+- generic: 英 /ˌkɒmplɪˈmentəri ˈæŋɡəl/
+- generic: 美 /ˌkɑːmpləˈmentəri ˈæŋɡəl/
+- generic: 余角
+- generic: One of two angles whose measures add up to 180 degrees.
+- generic: 例句
+- text: "1."
+- generic: The complementary angle and its partner form a straight line.
+- generic: 这个补角和它的另一个角组成一条直线。
+- generic: supplementary angle
+- generic: 未学习
+- generic: 英 /ˌsʌplɪˈmentri ˈæŋɡl/
+- generic: 美 /ˌsʌpləˈmɛnteri ˈæŋɡəl/
+- generic: 补角
+- generic: An angle that, together with another angle, adds up to 180 degrees.
+- generic: 例句
+- text: "1."
+- generic: The sketchbook page labeled supplementary angle sat open beside the geometry textbook.
+- generic: 标注为补角的那页素描本摊开着，放在几何课本旁边。
+- generic: straight angle
+- generic: 未学习
+- generic: 英 /ˌstreɪt ˈæŋɡəl/
+- generic: 美 /ˌstreɪt ˈæŋɡəl/
+- generic: 平角
+- generic: An angle measuring 180 degrees, forming a straight line.
+- generic: 例句
+- text: "1."
+- generic: The straight angle on the chalkboard showed 180 degrees.
+- generic: 黑板上的平角显示为一百八十度。
+- generic: round angle
+- generic: 英 /raʊnd ˈæŋɡəl/
+- generic: 美 /raʊnd ˈæŋɡəl/
+- generic: 周角
+- generic: No established standalone noun sense is attested for this exact lemma in mainstream learner dictionaries.
+- generic: 例句
+- text: "1."
+- generic: The table has a round angle to make it safer for children.
+- generic: 这张桌子有一个圆角，以便让孩子们更安全。
+- generic: right angle
+- generic: 未学习
+- generic: 英 /ˌraɪt ˈæŋɡəl/
+- generic: 美 /ˌraɪt ˈæŋɡəl/
+- generic: 直角
+- generic: A 90-degree angle formed by two lines or surfaces.
+- generic: 例句
+- text: "1."
+- generic: It was a male reclining figure with its knees drawn up together, and its head at a right angle to its body.
+- generic: 那是一尊男性侧卧像，双膝并拢蜷起，头部与身体成直角。
+- generic: obtuse angle
+- generic: 未学习
+- generic: 英 /əbˈtjuːs ˈæŋ.ɡl̩/
+- generic: 美 /ɑbˈtuːs ˈæŋ.ɡəl/
+- generic: 钝角
+- generic: A geometric angle greater than 90 degrees and less than 180 degrees.
+- generic: 例句
+- text: "1."
+- generic: In The Big Bang Theory, Raj says the obtuse angle is larger than a right angle.
+- generic: 在《生活大爆炸》中，拉杰说这个钝角比直角大。
+- generic: acute angle
+- generic: 未学习
+- generic: 英 /əˌkjuːt ˈæŋɡəl/
+- generic: 美 /əˌkjuːt ˈæŋɡəl/
+- generic: 锐角
+- generic: An angle greater than 0° and less than 90°.
+- generic: 例句
+- text: "1."
+- generic: An acute angle formed by the roofline and the wall gave the room a sharp, geometric look.
+- generic: 屋顶线与墙面形成的锐角让房间看起来有种锐利的几何感。
+- generic: vertex
+- generic: 未学习
+- generic: 英 /ˈvɜːteks/
+- generic: 美 /ˈvɝːteks/
+- generic: 角的顶点；抛物线顶点 (pl. vertices)
+- generic: The highest point or top; in anatomy, the crown of the head; in geometry, the point where two lines, line segments, or edges meet.
+- generic: 例句
+- text: "1."
+- generic: The vertex of the roof caught the last light.
+- generic: 屋顶的顶点接住了最后一缕光。
+- generic: length
+- generic: 未学习
+- generic: 英 /leŋθ/
+- generic: 美 /leŋkθ/
+- generic: 长度
+- generic: The measurement of how long something is from one end to the other, or the amount of space, time, or extent covered.
+- generic: 例句
+- text: "1."
+- generic: Here the length of each segment to be translated makes a difference to the interpreter's strategies and outcomes.
+- generic: 这里，每个待翻译片段的长度会对口译员的策略和结果产生影响。
+- generic: ray
+- generic: 未学习
+- generic: 英 /reɪ/
+- generic: 美 /reɪ/
+- generic: 射线
+- generic: A beam or line of light, a ray of radiation or energy, a straight line extending from a point, or the name Ray.
+- generic: 例句
+- text: "1."
+- generic: Cloud cover may increase because of an increase in the cosmic ray flux (number of high-energy particles from space reaching Earth per m² per hour).
+- generic: 云量可能因为宇宙射线通量增加而上升（即每平方米每小时到达地球的高能粒子数增加）。
+- generic: angle
+- generic: 英 /ˈæŋɡəl/
+- generic: 美 /ˈæŋɡəl/
+- generic: 角
+- generic: A figure or space formed by two lines or surfaces meeting at a point; the degree of tilt or turn; or a point of view or approach.
+- generic: 例句
+- text: "1."
+- generic: To determine longitude, navigators had no choice but to measure the angle with the naval sextant between Moon centre and a specific star—lunar distance—along with the height of both heavenly bodies.
+- generic: 为了确定经度，航海者别无选择，只能用海军六分仪测量月心与某颗特定恒星之间的角度——即月距——并同时测量这两个天体的高度。
+- generic: line segment
+- generic: 未学习
+- generic: 英 /ˈlaɪn ˌseɡmənt/
+- generic: 美 /ˈlaɪn ˌseɡmənt/
+- generic: 线段
+- generic: A part of a line bounded by two endpoints.
+- generic: 例句
+- text: "1."
+- generic: The line segment between A and B represents the shortest distance.
+- generic: Ａ和Ｂ之间的线段表示最短距离。
+- generic: line
+- generic: 未学习
+- generic: 英 /laɪn/
+- generic: 美 /laɪn/
+- generic: 直线
+- generic: A long, narrow mark or object; a boundary or row; a telephone or transport connection; a course of action; or a series of related products or services.
+- generic: 例句
+- text: "1."
+- generic: Besides, those on the poverty line can earn a decent income by making, maintaining and operating bicycle taxis.
+- generic: 此外，那些处在贫困线以下的人可以通过制造、维护和运营自行车出租车获得不错的收入。
+- generic: midpoint
+- generic: 未学习
+- generic: 英 /ˈmɪd.pɔɪnt/
+- generic: 美 /ˈmɪd.pɔɪnt/
+- generic: 中点
+- generic: The point that is exactly in the middle of a line, interval, range, or space.
+- generic: 例句
+- text: "1."
+- generic: We did not define a sharp cutoff to separate maximisers from satisficers, but in general, we think of individuals whose average scores are higher than 4 (the scale's midpoint) as maximisers and those whose scores are lower than the midpoint as satisficers.
+- generic: 我们并没有划定一个明确的界线来区分最大化者和满足者，但一般来说，我们把平均分高于4（量表的中点）的人看作最大化者，把分数低于中点的人看作满足者。
+- generic: radian
+- generic: 未学习
+- generic: 英 /ˈreɪdiən/
+- generic: 美 /ˈreɪdiən/
+- generic: 弧度
+- generic: A unit of angular measure used in mathematics and science.
+- generic: 例句
+- text: "1."
+- generic: A radian is about 57.3 degrees.
+- generic: 弧度约等于五十七点三度。
+- generic: trigonometry
+- generic: 未学习
+- generic: 英 /ˌtrɪɡəˈnɒmətri/
+- generic: 美 /ˌtrɪɡəˈnɑːmətri/
+- generic: 三角学
+- generic: The branch of mathematics concerned with the relationships between the sides and angles of triangles and with related functions.
+- generic: 例句
+- text: "1."
+- generic: There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, or trigonometry.
+- generic: 高等数学中有些发现并不依赖专门知识，甚至不依赖代数、几何或三角学。
+- generic: asymptote
+- generic: 未学习
+- generic: 英 /ˈæs.ɪm.təʊt/
+- generic: 美 /ˈæs.ɪm.toʊt/
+- generic: 渐近线
+- generic: A line that a curve approaches more and more closely, but never touches or crosses in the limit.
+- generic: 例句
+- text: "1."
+- generic: The graph approaches an asymptote as x increases.
+- generic: 当x增大时，这条图像趋近于一条渐近线。
+- generic: parabola
+- generic: 未学习
+- generic: 英 /pəˈræbələ/
+- generic: 美 /pəˈræbələ/
+- generic: 抛物线
+- generic: A curve formed by the intersection of a plane and a cone, or a similar U-shaped curve in mathematics.
+- generic: 例句
+- text: "1."
+- generic: The graph forms a parabola.
+- generic: 这幅图形成了一条抛物线。
+- generic: y-coordinate
+- generic: 未学习
+- generic: 英 /waɪ ˈkɒrdɪnət/
+- generic: 美 /waɪ ˈkɔːrdɪnət/
+- generic: 纵坐标
+- generic: The vertical coordinate of a point in a two-dimensional or three-dimensional coordinate system.
+- generic: 例句
+- text: "1."
+- generic: The y-coordinate tells us how high the point is on the graph.
+- generic: 纵坐标告诉我们这个点在图上的高度。
+- generic: x-coordinate
+- generic: 未学习
+- generic: 英 /ˈɛks ˌkɒrdɪnət/
+- generic: 美 /ˈɛks ˌkɔːrdəneɪt/
+- generic: 横坐标
+- generic: The horizontal coordinate of a point in a coordinate system.
+- generic: 例句
+- text: "1."
+- generic: The x-coordinate determines how far the point lies from the y-axis.
+- generic: x坐标决定该点离y轴有多远。
+- generic: coordinate
+- generic: 未学习
+- generic: 英 /ˈkəʊədɪneɪt/
+- generic: 美 /ˈkoʊˌɔːrdɪneɪt/
+- generic: 坐标
+- generic: To organize different people, tasks, or parts so they work together effectively.
+- generic: 例句
+- text: "1."
+- generic: They set about forming the Nobel Foundation as an organization to take care of the financial assets left by Nobel for this purpose and to coordinate the work of the Prize – Awarding Institutions.
+- generic: 他们着手把诺贝尔基金会建成一个组织，用来管理诺贝尔为此留下的金融资产，并协调颁奖机构的工作。
+- generic: quadratic function
+- generic: 未学习
+- generic: 英 /kwɒˈdrætɪk ˈfʌŋkʃən/
+- generic: 美 /kwɑːˈdrætɪk ˈfʌŋkʃən/
+- generic: 二次函数
+- generic: A function of the form ax² + bx + c, where a ≠ 0.
+- generic: 例句
+- text: "1."
+- generic: The quadratic function quadratic function is used to model the height of the ball.
+- generic: 二次函数用于描述球的高度。
+- generic: intercept
+- generic: 未学习
+- generic: 英 /ˈɪntəsept/
+- generic: 美 /ˈɪntərsept/
+- generic: 截距
+- generic: To stop, catch, or take hold of something before it reaches its destination or intended recipient.
+- generic: 例句
+- text: "1."
+- generic: However, real mind reading requires some way to intercept those signals before they hit the motor cortex.
+- generic: 然而，真正的读心术需要某种方法在这些信号到达运动皮层之前将它们拦截住。
+- generic: slope
+- generic: 未学习
+- generic: 英 /sləʊp/
+- generic: 美 /sloʊp/
+- generic: 斜率
+- generic: A surface or piece of ground that slopes; also, the degree or measure of steepness of a surface.
+- generic: 例句
+- text: "1."
+- generic: At dawn a hunter crept across a steep, wooded, pine-covered slope in northwest Wyoming.
+- generic: 黎明时分，一名猎人悄悄穿过怀俄明州西北部一处陡峭、长满树林和松树的坡地。
+- generic: collinear
+- generic: 未学习
+- generic: 英 /ˌkəʊˈlɪniə/
+- generic: 美 /ˌkoʊˈlɪniər/
+- generic: 同线的
+- generic: (of points, forces, or vectors) lying on the same straight line.
+- generic: 例句
+- text: "1."
+- generic: The three points are collinear.
+- generic: 这三个点是共线的。
+- generic: linear function
+- generic: 未学习
+- generic: 英 /ˈlɪniə ˈfʌŋkʃən/
+- generic: 美 /ˈlɪniər ˈfʌŋkʃən/
+- generic: 线性函数；一次函数
+- generic: A function whose graph is a straight line; typically one that can be written in the form y = mx + b.
+- generic: 例句
+- text: "1."
+- generic: A linear function is enough for the model at this stage.
+- generic: 在这个阶段，这个模型用线性函数就够了。
+- generic: range
+- generic: 未学习
+- generic: 英 /reɪndʒ/
+- generic: 美 /reɪndʒ/
+- generic: 值域
+- generic: A range is the extent, limit, or span between two points or values, or a set of different things of the same kind.
+- generic: 例句
+- text: "1."
+- generic: Researchers are optimistic that these advancements will transform expert systems, enabling them to tackle a wider range of challenges and operate more independently.
+- generic: 研究人员乐观地认为，这些进展将改变专家系统，使它们能够应对更广泛的挑战并更独立地运作。
+- generic: domain
+- generic: 未学习
+- generic: 英 /dəˈmeɪn/
+- generic: 美 /doʊˈmeɪn/
+- generic: 定义域
+- generic: An area of knowledge, activity, or influence; also a territory or region ruled or controlled by someone or something.
+- generic: 例句
+- text: "1."
+- generic: An expert perceives meaningful patterns in her domain better than non-experts.
+- generic: 专家比非专家更能在自己的领域中看出有意义的模式。
+- generic: quadrant
+- generic: 未学习
+- generic: 英 /ˈkwɒdrənt/
+- generic: 美 /ˈkwɑːdrənt/
+- generic: 象限
+- generic: One of four equal parts into which a plane, circle, sphere, or compass is divided by two perpendicular lines or planes; also, a quarter of the horizon or compass.
+- generic: 例句
+- text: "1."
+- generic: The quadrant of the map showed the harbor and the old city.
+- generic: 地图上的那个象限显示了港口和老城区。
+- generic: inversely proportional to
+- generic: 未学习
+- generic: 英 /ˌɪnvɜːsli prəˈpɔːʃənəl tuː/
+- generic: 美 /ˌɪnvɝːsli prəˈpɔːrʃənəl tuː/
+- generic: 成反比
+- generic: Used to describe a relationship in which one quantity decreases as the other increases, with the same proportionality constant.
+- generic: 例句
+- text: "1."
+- generic: The force is inversely proportional to the distance, and in The Big Bang Theory the line
+- generic: 这个阶段的星云大小与其质量成反比。
+- generic: directly proportional to
+- generic: 未学习
+- generic: 英 /ˌdraɪktli ˌprɒpəʃənəl tuː/
+- generic: 美 /ˌdraɪktli ˌprɑːpərʃənəl tuː/
+- generic: 成正比
+- generic: Having a relationship in which one quantity increases or decreases in the same ratio as another quantity.
+- generic: 例句
+- text: "1."
+- generic: The amount of expansion is directly proportional to the rotation of the final pulley.
+- generic: 膨胀的程度与最终滑轮的转动成正比。
+- generic: inequality
+- generic: 未学习
+- generic: 英 /ˌɪnɪˈkwɒlɪti/
+- generic: 美 /ˌɪnɪˈkwɑːləti/
+- generic: 不等式
+- generic: The state of being unequal, especially in rights, opportunities, wealth, or status.
+- generic: 例句
+- text: "1."
+- generic: Critics of libertarianism argue that a lack of regulation can lead to social inequality and exploitation.
+- generic: 自由意志主义的批评者认为，缺乏监管会导致社会不平等和剥削。
+- generic: solution
+- generic: 未学习
+- generic: 英 /səˈluːʃən/
+- generic: 美 /səˈluːʃən/
+- generic: 答案；解
+- generic: A means of solving a problem or a liquid mixture in which a substance is dissolved.
+- generic: 例句
+- text: "1."
+- generic: Practical Action has come up with an ingenious solution—an aerial ropeway, used as a safe and efficient way for material, even people.
+- generic: 实用行动组织想出了一个巧妙的解决办法——空中索道，用作安全而高效的运送材料甚至人员的方式。
+- generic: velocity
+- generic: 未学习
+- generic: 英 /vəˈlɒsəti/
+- generic: 美 /vəˈlɑːsəti/
+- generic: 速度
+- generic: The speed of something in a particular direction, or the rate at which something changes or happens.
+- generic: 例句
+- text: "1."
+- generic: To give you an idea of how fast or slow that is, a parachute jumper will reach a velocity of almost 50 metres per second.
+- generic: 为了让你了解那到底有多快或多慢，跳伞者的速度将接近每秒五十米。
+- generic: absolute value
+- generic: 未学习
+- generic: 英 /ˌæbsəluːt ˈvæljuː/
+- generic: 美 /ˌæbsəluːt ˈvæljuː/
+- generic: 绝对值
+- generic: The distance of a number from zero, without regard to its sign.
+- generic: 例句
+- text: "1."
+- generic: The greater the absolute value of the difference between the ENs of 2 elements, | EN1- EN2 |, the more polar is the bond between atoms of the elements.
+- generic: 两个元素的电负性之差的绝对值越大，元素原子之间的键就越极性。
+- generic: cube root
+- generic: 未学习
+- generic: 英 /ˌkjuːb ˈruːt/
+- generic: 美 /ˌkjuːb ˈruːt/
+- generic: 立方根
+- generic: The number that, when cubed, gives a specified number.
+- generic: 例句
+- text: "1."
+- generic: Therefore, the machine could instantly determine the cube root of 2,589 to the 16th power.
+- generic: 因此，这台机器能够瞬间求出二五八九的十六次幂的立方根。
+- generic: radical sign
+- generic: 未学习
+- generic: 英 /ˈrædɪkəl saɪn/
+- generic: 美 /ˈrædɪkəl saɪn/
+- generic: 根号
+- generic: The mathematical symbol used to indicate a square root or other root.
+- generic: 例句
+- text: "1."
+- generic: In Good Will Hunting, the radical sign appears beside the square root problem on the blackboard.
+- generic: 在《心灵捕手》中，黑板上的平方根题旁边出现了根号。
+- generic: root
+- generic: 未学习
+- generic: 英 /ruːt/
+- generic: 美 /ruːt/
+- generic: 根
+- generic: The underground part of a plant, the basic source or origin of something, or a mathematical root.
+- generic: 例句
+- text: "1."
+- generic: These fungi extend the root system of plants, allowing them to access water and nutrients more efficiently.
+- generic: 这些真菌扩展了植物的根系，使它们能够更有效地获取水分和养分。
+- generic: base
+- generic: 未学习
+- generic: 英 /beɪs/
+- generic: 美 /beɪs/
+- generic: 基数；底数
+- generic: The bottom or lowest part of something; a supporting foundation or underlying basis; a place used as a center of operations.
+- generic: 例句
+- text: "1."
+- generic: In the 1970s, Hobson and his colleague Robert McCarley created a new term, 'activation-synthesis hypothesis', which explains how dreams are formed by nerve signals released during REM sleep from the pons, a small area at the base of the brain.
+- generic: 在二十世纪七十年代，霍布森和他的同事罗伯特·麦卡利创造了一个新术语“激活—综合假说”，它解释了梦是如何由快速眼动睡眠期间从脑桥释放出的神经信号形成的，脑桥是大脑底部的一小块区域。
+- generic: index
+- generic: 未学习
+- generic: 英 /ˈɪndeks/
+- generic: 美 /ˈɪndeks/
+- generic: 指数 (pl. indices)
+- generic: A list or system for locating information, a pointer or indicator, a statistical measure, or the forefinger.
+- generic: 例句
+- text: "1."
+- generic: For each Chinese character, I first had to determine the ideographic root, then count the brush strokes, then turn to an index ordered by root and by number of strokes, then match the character, then figure out its romanized spelling, then look up its definition.
+- generic: 对于每个汉字，我首先必须确定表意部首，然后数笔画，再查按部首和笔画数排列的索引，然后匹配该字，再弄清它的罗马拼写，最后查它的释义。
+- generic: exponent
+- generic: 未学习
+- generic: 英 /ˈekspənənt/
+- generic: 美 /ˈekspoʊnənt/
+- generic: 指数
+- generic: A person who strongly supports or skillfully represents a doctrine, art, sport, style, or cause.
+- generic: 例句
+- text: "1."
+- generic: The principal exponent of nonviolent resistance was admired by many.
+- generic: 这位非暴力抵抗的主要倡导者受到许多人的敬佩。
+- generic: like or similar terms
+- generic: 未学习
+- generic: 英 [laɪk ɔː ˈsɪmɪlə tɜːmz]
+- generic: 美 [laɪk ɔr ˈsɪmələr tɝːmz]
+- generic: 同类项
+- generic: A phrase meaning words or expressions that are alike or similar in meaning, form, or use.
+- generic: 例句
+- text: "1."
+- generic: The glossary grouped like or similar terms together for easy reference.
+- generic: 词汇表把类似的词语归在一起，便于查阅。
+- generic: compound number
+- generic: 未学习
+- generic: 英 /ˈkɒmpaʊnd ˌnʌmbə/
+- generic: 美 /ˈkɑːmpaʊnd ˌnʌmbɚ/
+- generic: 复数
+- generic: A number made up of two or more parts or elements.
+- generic: 例句
+- text: "1."
+- generic: In the lesson, the teacher says compound number is easier to read than a long decimal.
+- generic: 在这节课上，老师说复合数比很长的小数更容易读。
+- generic: imaginary number
+- generic: 未学习
+- generic: 英 /ˈɪm.ɪ.nər.i ˈnʌm.bər/
+- generic: 美 /ˈɪm.ɪˌner.i ˈnʌm.bɚ/
+- generic: 虚数
+- generic: A complex number that can be written as a real number multiplied by the imaginary unit i.
+- generic: 例句
+- text: "1."
+- generic: The imaginary number i made the calculation possible.
+- generic: 虚数单位i使这道计算成为可能。
+- generic: percent
+- generic: 未学习
+- generic: 英 /ˈpɜːs(ə)nt/
+- generic: 美 /ˈpɝːs(ə)nt/
+- generic: 百分数
+- generic: A rate, proportion, or amount expressed as parts per hundred.
+- generic: 例句
+- text: "1."
+- generic: These rodents developed about 25 percent more connections between their neurons than did those without any mentally stimulating recreation.
+- generic: 这些啮齿动物比没有任何智力刺激活动的那些动物，神经元之间多形成了大约百分之二十五的连接。
+- generic: proportion
+- generic: 未学习
+- generic: 英 /prəˈpɔːʃn/
+- generic: 美 /prəˈpɔːrʃn/
+- generic: 比例
+- generic: The relation of one part, amount, or number to another; a share or fraction of a whole.
+- generic: 例句
+- text: "1."
+- generic: At the moment, TV-related text messaging takes up a considerable proportion of mobile service providers' data revenues.
+- generic: 目前，与电视相关的短信占移动服务提供商数据收入的相当大比例。
+- generic: common ratio
+- generic: 未学习
+- generic: 英 /ˌkɒmən ˈreɪʃiəʊ/
+- generic: 美 /ˌkɑːmən ˈreɪʃioʊ/
+- generic: 公比
+- generic: The constant ratio between consecutive terms in a geometric sequence.
+- generic: 例句
+- text: "1."
+- generic: In a geometric sequence, the common ratio determines how each term changes from the one before it.
+- generic: 在等比数列中，公比决定每一项与前一项相比如何变化。
+- generic: ratio
+- generic: 未学习
+- generic: 英 /ˈreɪʃiəʊ/
+- generic: 美 /ˈreɪʃioʊ/
+- generic: 比率
+- generic: The relationship in quantity, amount, or size between two things, usually expressed by dividing one by the other.
+- generic: 例句
+- text: "1."
+- generic: I researched a bunch of options, and these have the best price-to-quality ratio.
+- generic: 我研究了很多选项，这些的性价比最好。
+- generic: composite number
+- generic: 未学习
+- generic: 英 /ˈkɒmpəzɪt ˈnʌmbə/
+- generic: 美 /ˈkɑːmpəzɪt ˈnʌmbɚ/
+- generic: 合数
+- generic: A whole number greater than 1 that has more than two factors.
+- generic: 例句
+- text: "1."
+- generic: Every composite number has a divisor other than 1 and itself.
+- generic: 每个合数除了 1 和它本身之外还有一个因数。
+- generic: prime number
+- generic: 未学习
+- generic: 英 /praɪm ˈnʌmbə/
+- generic: 美 /praɪm ˈnʌmbɚ/
+- generic: 质数
+- generic: A whole number greater than 1 that has no positive divisors other than 1 and itself.
+- generic: 例句
+- text: "1."
+- generic: 2 Is a prime number.
+- generic: 2是一个质数。
+- generic: remainder
+- generic: 未学习
+- generic: 英 /rɪˈmeɪndə/
+- generic: 美 /rɪˈmeɪndɚ/
+- generic: 余数
+- generic: The part that is left after the rest has been used, taken, dealt with, or separated.
+- generic: 例句
+- text: "1."
+- generic: She lived there for the remainder of her life, but due to failing eyesight she was forced to stop writing children's books.
+- generic: 她在那里度过了余生，但由于视力衰退，她不得不停止写儿童书籍。
+- generic: divisible
+- generic: 未学习
+- generic: 英 /ˈdɪvɪsəbəl/
+- generic: 美 /ˈdɪvɪsəbəl/
+- generic: 能被整除的
+- generic: Able to be divided without remainder; capable of being split into parts.
+- generic: 例句
+- text: "1."
+- generic: The number 12 is divisible by 3.
+- generic: 数字12可以被3整除。
+- generic: least common multiple
+- generic: 未学习
+- generic: 英 /ˌliːst ˌkɒmən ˈmʌltɪpl/
+- generic: 美 /ˌliːst ˌkɑːmən ˈmʌltɪpəl/
+- generic: 最小公倍数
+- generic: The smallest positive integer that is a multiple of two or more integers.
+- generic: 例句
+- text: "1."
+- generic: To solve the problem, you need the least common multiple of 4 and 6.
+- generic: 要解决这个问题，你需要四和六的最小公倍数。
+- generic: greatest common divisor
+- generic: 未学习
+- generic: 英 /ˌɡreɪtəst ˌkɒmən dɪˈvɪzə/
+- generic: 美 /ˌɡreɪtɪst ˌkɑːmən dɪˈvɪzər/
+- generic: 最大公约数
+- generic: The largest positive integer that divides two or more integers without leaving a remainder.
+- generic: 例句
+- text: "1."
+- generic: The greatest common divisor of 12 and 18 is 6.
+- generic: 十二和十八的最大公因数是六。
+- generic: common divisor
+- generic: 未学习
+- generic: 英 /ˌkɒmən dɪˈvaɪzə/
+- generic: 美 /ˌkɑːmən dɪˈvaɪzɚ/
+- generic: 公约数
+- generic: A number that divides two or more numbers exactly.
+- generic: 例句
+- text: "1."
+- generic: The common divisor of 12 and 18 is 6.
+- generic: 12 和 18 的公约数是 6。
+- generic: common multiple
+- generic: 未学习
+- generic: 英 /ˌkɒmən ˈmʌltɪpəl/
+- generic: 美 /ˌkɑːmən ˈmʌltɪpəl/
+- generic: 公倍数
+- generic: A number that is a multiple of two or more numbers.
+- generic: 例句
+- text: "1."
+- generic: The common multiple of 4 and 6 is 12.
+- generic: 4和6的公倍数是12。
+- generic: multiple
+- generic: 未学习
+- generic: 英 /ˈmʌltɪpəl/
+- generic: 美 /ˈmʌltəpəl/
+- generic: 倍数
+- generic: Having or involving more than one; many; several.
+- generic: 例句
+- text: "1."
+- generic: Some criticisms of the work were that even though there were multiple categories, the role of manager is still more complex.
+- generic: 有人批评这部作品，说虽然有多个类别，但经理这一角色仍然更为复杂。
+- generic: divisor
+- generic: 未学习
+- generic: 英 /dɪˈvaɪzə/
+- generic: 美 /dɪˈvaɪzər/
+- generic: 因数，约数
+- generic: A number that divides another number exactly, without leaving a remainder.
+- generic: 例句
+- text: "1."
+- generic: The divisor is 3, because 12 divided by 3 equals 4.
+- generic: 除数是三，因为十二除以三等于四。
+- generic: ones digit
+- generic: 英 /wʌnz ˈdɪdʒɪt/
+- generic: 美 /wʌnz ˈdɪdʒɪt/
+- generic: 个位
+- generic: The digit in the ones place of a number; the final digit on the right in a whole number.
+- generic: 例句
+- text: "1."
+- generic: In the number 47, the ones digit is 7.
+- generic: 在四十七这个数中，个位数是七。
+- generic: tenths unit or digit
+- generic: 未学习
+- generic: 英 [ˈtɛnθs ˌjuːnɪt ɔː ˈdɪdʒɪt]
+- generic: 美 [ˈtɛnθs ˌjuːnɪt ɔːr ˈdɪdʒɪt]
+- generic: 十分位数字
+- generic: A decimal place or digit in the tenths position.
+- generic: 例句
+- text: "1."
+- generic: The tenths unit or digit was highlighted on the chart.
+- generic: 图表上十分位上的数字被突出标示出来。
+- generic: unit
+- generic: 未学习
+- generic: 英 /ˈjuːnɪt/
+- generic: 美 /ˈjuːnɪt/
+- generic: 个位；单位
+- generic: A single thing or part considered as one; a standard quantity used for measurement; or a piece of equipment, machine, or organizational division.
+- generic: 例句
+- text: "1."
+- generic: This forms part of the propulsion unit when swimming fast under water.
+- generic: 这在快速水下游动时构成推进装置的一部分。
+- generic: digit
+- generic: 未学习
+- generic: 英 /ˈdɪdʒɪt/
+- generic: 美 /ˈdɪdʒɪt/
+- generic: （从0到9的任何一个）数字；数位
+- generic: A numeral or symbol used in writing numbers; also a finger or toe.
+- generic: 例句
+- text: "1."
+- generic: One crucial aspect is the emergence of one-of-a-kind four-, five- or six-digit numbers known as 'short codes'.
+- generic: 一个关键方面是出现了独一无二的四位、五位或六位数字，被称为“短代码”。
+- generic: place value
+- generic: 错词
+- generic: 英 /pleɪs ˈvæljuː/
+- generic: 美 /pleɪs ˈvæljuː/
+- generic: 位值；整数的数位
+- generic: The value of a digit determined by its position in a number.
+- generic: 例句
+- text: "1."
+- generic: In base ten, the place value of 3 in 3,421 is three thousand.
+- generic: 在十进制中，3421里３的位值是三千。
+- generic: rounding off
+- generic: 未学习
+- generic: 英 /ˈraʊndɪŋ ɒf/
+- generic: 美 /ˈraʊndɪŋ ɔːf/
+- generic: 四舍五入
+- generic: The participial form of round off, meaning making something rounded or neat, or bringing something to a close.
+- generic: 例句
+- text: "1."
+- generic: Rounding off the final scene, the director kept the camera on the empty stage.
+- generic: 在最后一幕收尾时，导演把镜头停留在空荡的舞台上。
+- generic: recurring decimal
+- generic: 未学习
+- generic: 英 /rɪˌkɜːrɪŋ ˈdesɪməl/
+- generic: 美 /rɪˌkɝːɪŋ ˈdesɪməl/
+- generic: 循环小数
+- generic: A decimal number in which a digit or group of digits repeats forever.
+- generic: 例句
+- text: "1."
+- generic: A recurring decimal can be written as a fraction.
+- generic: 循环小数可以写成分数。
+- generic: infinite decimal
+- generic: 未学习
+- generic: 英 /ˌɪnfɪnɪt ˈdesɪməl/
+- generic: 美 /ˌɪnfənɪt ˈdɛsɪməl/
+- generic: 无限小数
+- generic: A decimal number that continues without ending or repeating in a terminating pattern.
+- generic: 例句
+- text: "1."
+- generic: The fraction 1/3 is an infinite decimal.
+- generic: 分数三分之一是无限小数。
+- generic: decimal fraction
+- generic: 英 /ˌdesɪməl ˈfrækʃən/
+- generic: 美 /ˌdesɪməl ˈfrækʃən/
+- generic: 小数
+- generic: A fraction written in decimal notation, with a decimal point and digits to the right of it.
+- generic: 例句
+- text: "1."
+- generic: A decimal fraction such as 0.375 can be written exactly in the notebook.
+- generic: 像 0.375 这样的十进小数可以准确地写在笔记本里。
+- generic: decimal scale
+- generic: 未学习
+- generic: 英 /ˌdesɪməl ˈskeɪl/
+- generic: 美 /ˌdesɪməl ˈskeɪl/
+- generic: 十进制
+- generic: A scale or measuring system in which each step is based on ten, or in which values are divided into tenths or powers of ten.
+- generic: 例句
+- text: "1."
+- generic: The decimal scale made the measurements easier to compare.
+- generic: 这个十进制量表使这些测量结果更容易比较。
+- generic: decimal
+- generic: 未学习
+- generic: 英 /ˈdesɪməl/
+- generic: 美 /ˈdesɪməl/
+- generic: 小数
+- generic: A number written with a decimal point, especially a fraction expressed in base ten.
+- generic: 例句
+- text: "1."
+- generic: The decimal 0.75 is greater than 0.5.
+- generic: decimal 0.75 大于 0.5。
+- generic: reciprocal
+- generic: 未学习
+- generic: 英 /rɪˈsɪprəkəl/
+- generic: 美 /rɪˈsɪprəkəl/
+- generic: 倒数
+- generic: Mutual, shared, or involving two people or groups acting in the same way toward each other.
+- generic: 例句
+- text: "1."
+- generic: Their reciprocal respect made the discussion calm and honest.
+- generic: 他们彼此尊重，使讨论平静而坦诚。
+- generic: denominator
+- generic: 未学习
+- generic: 英 /dɪˈnɒmɪneɪtə(r)/
+- generic: 美 /dɪˈnɑːmɪneɪtər/
+- generic: 分母
+- generic: The bottom number or expression in a fraction, showing how many equal parts the whole is divided into.
+- generic: 例句
+- text: "1."
+- generic: "But he focused especially on a common denominator he had found in the approach of all the greats: their refusal to settle for anything less than a full command of their resources."
+- generic: 但他尤其关注他在所有伟大人物的方法中发现的一个共同点：他们拒绝满足于对自身资源缺乏完全掌控的任何状态。
+- generic: numerator
+- generic: 未学习
+- generic: 英 /ˈnjuːməreɪtə(r)/
+- generic: 美 /ˈnuːməreɪtər/
+- generic: 分子
+- generic: The top number in a fraction, showing how many parts are being considered.
+- generic: 例句
+- text: "1."
+- generic: In the fraction 3/4, numerator means the number above the line.
+- generic: 在分数三分之四中，分子是横线上的数字。
+- generic: complex or compound fraction
+- generic: 未学习
+- generic: 英 [ˌkɒmpleks ɔː kəmˈpaʊnd ˈfrækʃən]
+- generic: 美 [ˌkɑːmpleks ɔr kəmˈpaʊnd ˈfrækʃən]
+- generic: 繁分数
+- generic: A fraction that combines a whole number with a proper fraction, such as 3 1/2.
+- generic: 例句
+- text: "1."
+- generic: The teacher wrote a complex or compound fraction on the board.
+- generic: 老师在黑板上写下了一个复合分数。
+- generic: simple fraction
+- generic: 未学习
+- generic: 英 /ˌsɪm.pəl ˈfræk.ʃən/
+- generic: 美 /ˌsɪm.pəl ˈfræk.ʃən/
+- generic: 简分数
+- generic: A fraction written with whole numbers in the numerator and denominator, with no decimal or mixed-number form.
+- generic: 例句
+- text: "1."
+- generic: In the lesson, the teacher wrote a simple fraction on the board.
+- generic: 在课堂上，老师在黑板上写了一个简单分数。
+- generic: mixed number
+- generic: 英 /ˌmɪkst ˈnʌmbə/
+- generic: 美 /ˌmɪkst ˈnʌmbɚ/
+- generic: 带分数
+- generic: A number consisting of an integer and a proper fraction.
+- generic: 例句
+- text: "1."
+- generic: The mixed number 2 1/2 is greater than 2.
+- generic: 带分数 2 1/2 大于 2。
+- generic: improper fraction
+- generic: 未学习
+- generic: 英 /ˌɪmˌprɒpə ˈfrækʃən/
+- generic: 美 /ˌɪmˌprɑːpər ˈfrækʃən/
+- generic: 假分数
+- generic: A fraction whose numerator is greater than or equal to its denominator.
+- generic: 例句
+- text: "1."
+- generic: An improper fraction has a numerator that is larger than its denominator.
+- generic: 假分数的分子大于分母。
+- generic: proper fraction
+- generic: 未学习
+- generic: 英 /ˌprɒpə ˈfrækʃən/
+- generic: 美 /ˌprɑːpər ˈfrækʃən/
+- generic: 真分数
+- generic: A fraction whose numerator is less than its denominator.
+- generic: 例句
+- text: "1."
+- generic: The proper fraction proper fraction is less than 1.
+- generic: 这个真分数小于一。
+- generic: fraction
+- generic: 英 /ˈfrækʃən/
+- generic: 美 /ˈfrækʃən/
+- generic: 分数
+- generic: An equal part of a whole, especially one expressed as a number such as 1/2 or 3/4; also, a very small part or amount of something.
+- generic: 例句
+- text: "1."
+- generic: Today, numbers of tuatara are still a fraction of what they once were, but for the first time in 1,800 years the decline has been reversed.
+- generic: 如今，楔齿蜥的数量仍然只是从前的一小部分，但一千八百年来首次，这种下降趋势已经被扭转。
+- generic: square root
+- generic: 未学习
+- generic: 英 /ˈskweə ruːt/
+- generic: 美 /ˈskwer ruːt/
+- generic: 平方根
+- generic: The square root of a number is a number that, when multiplied by itself, gives the original number.
+- generic: 例句
+- text: "1."
+- generic: Because vt is proportional to the square root of the ratio of a sphere's mass to its radius, and because the ratio for X is equal to the ratio for Y, the spheres will reach the same vt.
+- generic: 因为终端速度与球体质量和半径之比的平方根成正比，而且Ｘ的这个比值与Ｙ相同，所以这两个球体会达到相同的终端速度。
+- generic: square
+- generic: 未学习
+- generic: 英 /skweə(r)/
+- generic: 美 /skwer/
+- generic: 平方
+- generic: A shape with four equal sides and four right angles; an open public place in a town or city; or the square of a number.
+- generic: 例句
+- text: "1."
+- generic: What I thought must be coming from a storefront’s speakers but it was actually drifting from the city square.
+- generic: 我原以为那声音一定是从店面扬声器里传来的，但其实是从城市广场飘来的。
+- generic: tick mark
+- generic: 未学习
+- generic: 英 /tɪk mɑːk/
+- generic: 美 /tɪk mɑːrk/
+- generic: （数轴上的）刻度
+- generic: A mark, usually ✓ or a similar sign, used to show that something is selected, completed, or correct.
+- generic: 例句
+- text: "1."
+- generic: The doctor asked me to put a tick mark next to the symptoms I had.
+- generic: 医生让我在我有的症状旁边打一个勾号。
+- generic: number line
+- generic: 未学习
+- generic: 英 /ˈnʌmbə laɪn/
+- generic: 美 /ˈnʌmbɚ laɪn/
+- generic: 数轴
+- generic: A straight line on which numbers are marked at equal intervals to show their order and position.
+- generic: 例句
+- text: "1."
+- generic: On the number line, zero sits between the negative and positive numbers.
+- generic: 在数轴上，零位于负数和正数之间。
+- generic: error
+- generic: 未学习
+- generic: 英 /ˈerər/
+- generic: 美 /ˈerɚ/
+- generic: 误差
+- generic: A wrong action, statement, or result; a deviation from what is correct or expected; a numerical difference from the true value; or a fault/message in a computer system.
+- generic: 例句
+- text: "1."
+- generic: Or are they, like photographs, a mix of fact, error and wishful illusion?
+- generic: 或者它们像照片一样，是事实、错误和一厢情愿的幻觉的混合体吗？
+- generic: score
+- generic: 未学习
+- generic: 英 /skɔː/
+- generic: 美 /skɔːr/
+- generic: 二十；二十个
+- generic: The number of points, goals, or marks achieved in a game, test, or competition.
+- generic: 例句
+- text: "1."
+- generic: The score sheet with the wrong answers does not include in it a child's lack of reasoning capacity; it only records that the children gave a different answer rather than the one the tester expected.
+- generic: 那张写有错误答案的记分表并没有反映孩子缺乏推理能力；它只是记录了孩子给出的答案不同于测试者预期的答案。
+- generic: dozen
+- generic: 未学习
+- generic: 英 /ˈdʌzən/
+- generic: 美 /ˈdʌzən/
+- generic: 十二个；一打
+- generic: A group or set of twelve; the number twelve used as a unit of quantity.
+- generic: 例句
+- text: "1."
+- generic: I joined a dozen others in that activity.
+- generic: 我和另外十二个人一起参加了那项活动。
+- generic: double
+- generic: 未学习
+- generic: 英 /ˈdʌbl/
+- generic: 美 /ˈdʌbl/
+- generic: 两倍
+- generic: Having two parts, layers, sides, or aspects; consisting of or involving two; being twice as much.
+- generic: 例句
+- text: "1."
+- generic: Paton has constructed a double-layered roof with an outer layer of clear polythene and an inner, coated layer that reflects infrared light.
+- generic: 帕顿建造了一种双层屋顶，外层是透明聚乙烯，内层是能反射红外光的涂层。
+- generic: nickel
+- generic: 未学习
+- generic: 英 /ˈnɪkəl/
+- generic: 美 /ˈnɪkəl/
+- generic: （美国和加拿大的）5分硬币
+- generic: A hard, silvery-white metallic chemical element used in alloys and plating.
+- generic: 例句
+- text: "1."
+- generic: Interestingly, these waves sometimes slow down in unexpected ways, suggesting that the core's makeup may be more complex than just iron and nickel as previously believed.
+- generic: 有趣的是，这些波有时会以意想不到的方式减速，这表明地核的组成可能比先前认为的仅有铁和镍更复杂。
+- generic: quarter
+- generic: 英 /ˈkwɔːtə/
+- generic: 美 /ˈkwɔːrtər/
+- generic: （美国和加拿大的）25分硬币
+- generic: A fourth part or share of something; a period of fifteen minutes; a district or area of a town or city; a side or section of a place; a coin worth one fourth of a dollar.
+- generic: 例句
+- text: "1."
+- generic: The same happened again in 1995, when a quarter of a million people were evacuated from the Netherlands.
+- generic: 同样的事情在一九九五年再次发生，当时有二十五万人从荷兰撤离。
+- generic: dime
+- generic: 未学习
+- generic: 英 /daɪm/
+- generic: 美 /daɪm/
+- generic: （美国或加拿大的）10分硬币
+- generic: A United States coin worth ten cents; also, a very small amount of money.
+- generic: 例句
+- text: "1."
+- generic: The novel selling, for a dime, might be worth its weight in gold.
+- generic: 这部小说只卖一角钱，却可能价值连城。
+- generic: compound
+- generic: 未学习
+- generic: 英 /ˈkɒmpaʊnd/
+- generic: 美 /ˈkɑːmpaʊnd/
+- generic: 以复利计算
+- generic: A substance made from two or more different elements or ingredients chemically combined; also a thing made of several parts or an enclosed group of buildings or rooms.
+- generic: 例句
+- text: "1."
+- generic: Rubber is a polymer — a compound containing large molecules that are formed by the bonding of many smaller, simpler units, repeated over and over again.
+- generic: 橡胶是一种聚合物——一种含有大分子的化合物，这些大分子由许多更小、更简单的单元反复结合而成。
+- generic: compound interest
+- generic: 未学习
+- generic: 英 /ˌkɒmpaʊnd ˈɪntrəst/
+- generic: 美 /ˌkɑːmpaʊnd ˈɪntrəst/
+- generic: 复利
+- generic: Interest calculated on both the original amount of money and on any interest already added.
+- generic: 例句
+- text: "1."
+- generic: The course explains how compound interest can grow savings over time.
+- generic: 这门课程解释了复利如何随着时间推移增加储蓄。
+- generic: simple interest
+- generic: 未学习
+- generic: 英 /ˌsɪmpl ˈɪntrəst/
+- generic: 美 /ˌsɪmpl ˈɪntrəst/
+- generic: 单利
+- generic: Interest calculated only on the original principal, not on accumulated interest.
+- generic: 例句
+- text: "1."
+- generic: Under simple interest, the bank charged the loan at a fixed rate.
+- generic: 按照单利计算时，银行按固定利率向这笔贷款计息。
+- generic: interest rate
+- generic: 未学习
+- generic: 英 /ˈɪntrəst reɪt/
+- generic: 美 /ˈɪn.tɚ.ɛst reɪt/
+- generic: 利率
+- generic: The percentage charged or paid for the use of money over a period of time.
+- generic: 例句
+- text: "1."
+- generic: The interest rate on the loan was higher than expected.
+- generic: 这笔贷款的利率比预期更高。
+- generic: interest
+- generic: 未学习
+- generic: 英 /ˈɪntrəst/
+- generic: 美 /ˈɪntrəst/
+- generic: 利息
+- generic: A feeling of curiosity or concern about something; something that is of importance, benefit, or stake to someone; or the money paid for borrowing.
+- generic: 例句
+- text: "1."
+- generic: Scientists are not alone in demonstrating great interest in the anti-aging issue.
+- generic: 科学家并不是唯一对抗衰老问题表现出浓厚兴趣的人。
+- generic: even number
+- generic: 未学习
+- generic: 英 /ˌiːvən ˈnʌmbə/
+- generic: 美 /ˌiːvən ˈnʌmbɚ/
+- generic: 偶数
+- generic: A whole number that can be divided by 2 without leaving a remainder.
+- generic: 例句
+- text: "1."
+- generic: An even number is divisible by two.
+- generic: 偶数能被二整除。
+- generic: odd number
+- generic: 未学习
+- generic: 英 /ˌɒd ˈnʌmbə/
+- generic: 美 /ˌɑːd ˈnʌmbɚ/
+- generic: 奇数
+- generic: A number that is not divisible by two; also used in the phrase 'an odd number of' to mean an unspecified quantity of something.
+- generic: 例句
+- text: "1."
+- generic: There was an odd number of chairs in the room.
+- generic: 房间里有若干把椅子。
+- generic: quotient
+- generic: 未学习
+- generic: 英 /ˈkwəʊʃənt/
+- generic: 美 /ˈkwoʊʃənt/
+- generic: 商
+- generic: The number obtained when one number is divided by another.
+- generic: 例句
+- text: "1."
+- generic: "The students were then administered an emotional quotient test: students were shown 40 images of eyes and asked what emotion each one displayed."
+- generic: 随后学生们接受了一项情绪商测试：他们会看到四十张眼睛的图片，并被要求说出每一张所表现的情绪。
+- generic: product
+- generic: 未学习
+- generic: 英 /ˈprɒdʌkt/
+- generic: 美 /ˈprɑːdʌkt/
+- generic: 乘积；积
+- generic: A thing made or produced for sale or use; also, in mathematics, the result of multiplying two or more numbers or quantities.
+- generic: 例句
+- text: "1."
+- generic: In 1799, as a commercial product, ice was first transported out of Canal Street in New York City to Charleston, South Carolina.
+- generic: 一七九九年，作为一种商品，冰首次从纽约市运出，经由运河街被运往南卡罗来纳州的查尔斯顿。
+- generic: difference
+- generic: 未学习
+- generic: 英 /ˈdɪf.ər.əns/
+- generic: 美 /ˈdɪf.ɚ.əns/
+- generic: 差
+- generic: The state or quality of being unlike; also an amount by which one thing is greater or smaller than another.
+- generic: 例句
+- text: "1."
+- generic: With the difference in medium, red chalk was used instead of black.
+- generic: 由于媒介不同，改用了红粉笔而不是黑粉笔。
+- generic: sum
+- generic: 未学习
+- generic: 英 /sʌm/
+- generic: 美 /sʌm/
+- generic: 和
+- generic: The total obtained by adding things together, or an amount of money, especially a fairly large amount.
+- generic: 例句
+- text: "1."
+- generic: If a school chose to specialise in professional outputs rather than academic outputs, it could use such a large sum of money and redirect it into more fruitful programs.
+- generic: 如果一所学校选择专注于职业产出而不是学术产出，它就可以使用这样一大笔钱，并把它重新投入到更有成效的项目中。
+- generic: divide
+- generic: 未学习
+- generic: 英 /dɪˈvaɪd/
+- generic: 美 /dɪˈvaɪd/
+- generic: 除
+- generic: To separate something into parts or sections, or to make something part into parts.
+- generic: 例句
+- text: "1."
+- generic: Therefore, he has tried to divide the studio into smaller parts, disregarding the risk of higher expenses.
+- generic: 因此，他一直试图把工作室分成更小的部分，而不顾更高开支的风险。
+- generic: multiply
+- generic: 未学习
+- generic: 英 /ˈmʌltɪplaɪ/
+- generic: 美 /ˈmʌltɪplaɪ/
+- generic: 乘
+- generic: combine by multiplication
+- generic: 例句
+- text: "1."
+- generic: If you multiply two by three, you get six.
+- generic: 如果你把二乘以三，你会得到六。
+- generic: subtract
+- generic: 未学习
+- generic: 英 /səbˈtrækt/
+- generic: 美 /səbˈtrækt/
+- generic: 减
+- generic: To take one number or amount away from another, or to deduct an amount.
+- generic: 例句
+- text: "1."
+- generic: With fewer choices under consideration, a person will have fewer opportunity costs to subtract.
+- generic: 在考虑的选择更少时，一个人要减去的机会成本也会更少。
+- generic: minus
+- generic: 未学习
+- generic: 英 /ˈmaɪnəs/
+- generic: 美 /ˈmaɪnəs/
+- generic: 减
+- generic: The word or symbol used to show subtraction or a negative value.
+- generic: 例句
+- text: "1."
+- generic: "A damaged gene that cannot code for its enzyme is labeled with a minus sign (for example: argl-)."
+- generic: 一个受损的基因如果不能编码其酶，就用减号标记（例如：argl-）。
+- generic: plus
+- generic: 未学习
+- generic: 英 /plʌs/
+- generic: 美 /plʌs/
+- generic: 加
+- generic: Used to add another item, fact, or consideration.
+- generic: 例句
+- text: "1."
+- generic: Since the only genuinely child-oriented literature at this time would have been a few instructional works to help with reading and general knowledge, plus the odd Puritanical tract as an aid to morality, the only course for keen child readers was to read adult literature.
+- generic: 由于当时真正面向儿童的文学作品只有少量用于识字和普通知识的教学读物，再加上偶尔几本作为道德辅助的清教小册子，热衷于阅读的儿童唯一的选择就是读成人文学。
+- generic: irrational number
+- generic: 未学习
+- generic: 英 /ɪˈræʃənəl ˈnʌmbə/
+- generic: 美 /ɪˈræʃənəl ˈnʌmbɚ/
+- generic: 无理数
+- generic: A real number that cannot be expressed as a ratio of two integers.
+- generic: 例句
+- text: "1."
+- generic: The irrational number is shown on the board during the lesson.
+- generic: 课上黑板上写出了这个无理数。
+- generic: rational number
+- generic: 未学习
+- generic: 英 /ˈræʃənəl ˈnʌmbə/
+- generic: 美 /ˈræʃənəl ˈnʌmbɚ/
+- generic: 有理数
+- generic: A number that can be expressed as a ratio of two integers, with the denominator not equal to zero.
+- generic: 例句
+- text: "1."
+- generic: A rational number is a number that can be written as a fraction.
+- generic: 有理数是可以写成分数的数。
+- generic: non-negative number
+- generic: 英 /ˌnɒnˈneɡətɪv ˈnʌmbə/
+- generic: 美 /ˌnɑːnˈnɛɡətɪv ˈnʌmbɚ/
+- generic: 非负数
+- generic: Not less than zero; greater than or equal to zero.
+- generic: 例句
+- text: "1."
+- generic: If x is a non-negative number, then x is a square.
+- generic: 如果 x 是一个非负数，那么 x 就是一个平方。
+- generic: negative number
+- generic: 未学习
+- generic: 英 /ˈneɡətɪv ˈnʌmbə/
+- generic: 美 /ˈneɡətɪv ˈnʌmbɚ/
+- generic: 负数
+- generic: A number less than zero.
+- generic: 例句
+- text: "1."
+- generic: A negative number can be used to show a debt.
+- generic: 负数可以用来表示债务。
+- generic: positive number
+- generic: 未学习
+- generic: 英 /ˌpɒzətɪv ˈnʌmbə/
+- generic: 美 /ˌpɑːzətɪv ˈnʌmbɚ/
+- generic: 正数
+- generic: A number greater than zero.
+- generic: 例句
+- text: "1."
+- generic: A positive number is greater than zero.
+- generic: 正数大于零。
+- generic: real number
+- generic: 未学习
+- generic: 英 /ˌrɪəl ˈnʌmbə/
+- generic: 美 /ˌriːəl ˈnʌmbɚ/
+- generic: 实数
+- generic: A number that can be represented on the number line, including rational and irrational numbers.
+- generic: 例句
+- text: "1."
+- generic: In A Beautiful Mind, the professor reminds his class that pi is a real number.
+- generic: 在《美丽心灵》中，教授提醒他的班级，圆周率是一个实数。
+- generic: consecutive integers
+- generic: 未学习
+- generic: 英 /kənˈsekjʊtɪv ˈɪntɪdʒəz/
+- generic: 美 /kənˈsɛkjətɪv ˈɪntɪdʒɚz/
+- generic: 连续的整数
+- generic: An ordered sequence of integers in which each integer differs from the next by 1.
+- generic: 例句
+- text: "1."
+- generic: The clue asks for consecutive integers.
+- generic: 这个提示要求找出连续整数。
+- generic: integer
+- generic: 英 /ˈɪntɪdʒə/
+- generic: 美 /ˈɪntɪdʒɚ/
+- generic: 整数
+- generic: A whole number that is not a fraction or decimal.
+- generic: 例句
+- text: "1."
+- generic: The integer 7 is greater than 3.
+- generic: 整数7大于3。
+- generic: whole number
+- generic: 英 /ˌhəʊl ˈnʌmbə/
+- generic: 美 /ˌhoʊl ˈnʌmbɚ/
+- generic: 整数
+- generic: A number without a fractional or decimal part; an integer.
+- generic: 例句
+- text: "1."
+- generic: The whole number 7 is smaller than 8.
+- generic: 整数 7 小于 8。
+- generic: natural number
+- generic: 未学习
+- generic: 英 /ˌnætʃrəl ˈnʌmbə/
+- generic: 美 /ˌnætʃrəl ˈnʌmbɚ/
+- generic: 自然数
+- generic: A positive integer used for counting, typically beginning with 1.
+- generic: 例句
+- text: "1."
+- generic: The natural number 5 appears in the puzzle.
+- generic: 这个谜题中出现了自然数 5。
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:                                        

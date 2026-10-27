@@ -1,0 +1,204 @@
+- generic: 
+- list:
+  - generic: 小格
+  - generic: 已查阅
+  - generic: 王小格
+- generic: sat全科测试
+- generic: 
+- generic: 2026.10.15 15:10 - 2026.10.15 15:11
+- button "生成结果报告"
+- button "生成报告"
+- text: 
+- generic: 作业结果
+- generic: 答题解析
+- generic: 答题录屏
+- generic: 巩固训练
+- text:                  
+- paragraph: 学生作答录屏
+- button "收起答题异常分析"
+- iframe:
+  - text:  
+  - banner:
+    - generic: 100%
+    - generic: "Module 1 (Routing): Reading"
+    - text: Directions
+    - generic: 
+    - generic: 00:19:47
+    - generic: Hide
+    - generic: Highlight & Notes
+    - generic: 
+    - generic: Calculator
+    - generic: 
+    - generic: More
+  - main:
+    - generic: 
+    - generic: "In 1919, Rafael Palma delivered an address advocating for women’s suffrage, or right to vote, to the Philippine Senate. Because the debate in the nation around this issue was similar to past debates about women’s education, Palma reminded his audience that any concerns were _____: only positive results had arisen from women’s education, and the same results would come from women’s suffrage."
+    - generic: "1"
+    - generic: Mark for Review
+    - generic: ABC
+    - generic: Which choice completes the text with the most logical and precise word or phrase?
+    - generic: A
+    - generic: required
+    - generic: B
+    - generic: ancient
+    - generic: C
+    - generic: unnecessary
+    - generic: D
+    - generic: curious
+  - contentinfo:
+    - generic: 王小格
+    - text:  
+    - text: Question 1 of 27
+    - generic: 
+    - button "Next"
+  - text: 
+  - generic: 
+  - generic: 
+  - generic: 
+- generic: 12:03
+- generic: 44:51
+- button:
+- button "0.5x" [disabled]
+- button "1x" [disabled]
+- button "2x" [disabled]
+- button "4x" [disabled]
+- button "8x" [disabled]
+- checkbox [checked] [disabled]
+- generic: 跳过无操作时间段
+- button:
+- generic: 2026-09-24 09:47:28
+- generic: "Loading: 147/170"
+- paragraph:
+  - text: 答题时间 - 作答次数
+  - generic: "2"
+- generic: 序号
+- generic: "1"
+- generic: 答题时间段
+- generic: 2026-10-09 09:48 - 09:48
+- generic: 序号
+- generic: "2"
+- generic: 答题时间段
+- generic: 2026-10-15 15:10 - 15:11
+- generic: 答题异常分析
+- paragraph: 高风险
+- paragraph: 综合异常等级
+- paragraph: 1 次
+- paragraph: 网络异常
+- paragraph: 关键行为
+- paragraph: 2026/09/24 09:35:32
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 09:36:48
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 09:40:15
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 09:46:34
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 09:47:38
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 09:47:42
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 09:47:43
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 09:47:48
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 09:49:12
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 09:54:09
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 09:54:14
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 09:55:37
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:00:02
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:00:13
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:00:52
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:00:56
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:04:26
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:06:27
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:06:44
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:07:22
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:08:14
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:08:25
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:08:30
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:08:41
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:11:05
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:11:16
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:11:22
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:11:26
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:11:47
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 10:11:47
+- generic: 长时间无操作
+- paragraph: 检测到一段时间内未发生鼠标点击、键盘输入或页面操作
+- paragraph: 2026/09/24 12:29:56
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 12:30:17
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 12:30:17
+- generic: 长时间无操作
+- paragraph: 检测到一段时间内未发生鼠标点击、键盘输入或页面操作
+- paragraph: 2026/09/24 13:37:34
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/09/24 13:37:34
+- generic: 答题中断
+- paragraph: 检测到答题过程中答题被中断，例如退出页面、页面刷新或重新进入等情况
+- paragraph: 2026/10/09 09:56:25
+- generic: 答题中断
+- paragraph: 检测到答题过程中答题被中断，例如退出页面、页面刷新或重新进入等情况
+- paragraph: 2026/10/15 15:09:11
+- generic: 答题中断
+- paragraph: 检测到答题过程中答题被中断，例如退出页面、页面刷新或重新进入等情况
+- paragraph: 2026/10/15 15:11:23
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为
+- paragraph: 2026/10/15 15:11:25
+- generic: 疑似切屏
+- paragraph: 检测到答题过程中疑似有离开答题页面或切换至其他窗口的行为

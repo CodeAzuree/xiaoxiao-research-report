@@ -1,0 +1,215 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 我的班级
+- button "科目 ":
+  - generic: 科目
+  - generic: 
+- textbox "请输入班级名称": 王小格-SAT
+- generic: 
+- button "班级类型 ":
+  - text: 班级类型
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- generic: AT
+- paragraph: 王小格-SAT
+- paragraph: SAT班
+- paragraph:
+  - generic: 王小格-SAT
+  - generic: 已开课
+  - text: (
+  - generic: 2026年09月23日
+  - text: )
+  - generic: "课程进度: 0/-"
+  - generic: 学生人数：1人
+- generic: 作业
+- generic: 课表
+- generic: 反馈
+- generic: 作业大纲
+- generic: 概览
+- text: 
+- generic: 2026年09月
+- button "本周":
+  - generic: 本周
+- button "":
+  - generic: 
+- button "":
+  - generic: 
+- textbox: 2026-09-21 - 2026-09-27
+- generic: 
+- generic: 课程
+- generic: 作业
+- generic: 模考
+- generic: 周一
+- generic: "21"
+- generic: 周二
+- generic: "22"
+- generic: 周三
+- generic: "23"
+- generic: 周四
+- generic: "24"
+- generic: 周五
+- generic: "25"
+- generic: 周六
+- generic: "26"
+- generic: 周日
+- generic: "27"
+- generic "sat全科测试":
+  - generic: sat全科测试
+- paragraph:
+  - generic: "完成情况:"
+  - text: 1/1
+  - generic: 
+- generic: 快捷功能
+- generic: 成员(1)
+- paragraph: 布置作业
+- paragraph: 模考作业
+- paragraph: 自定义作业
+- paragraph: 打卡作业
+- paragraph: 其他作业
+- paragraph: 常用作业
+- paragraph: 视频课件
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:            
+- dialog "dialog":
+  - text: 
+  - tablist:
+    - tab "基础练习":
+      - generic: 基础练习
+    - tab "题型训练":
+      - generic: 题型训练
+    - tab "模考测试":
+      - generic: 模考测试
+    - tab "机构题库":
+      - generic: 机构题库
+    - tab "自定义作业":
+      - generic: 自定义作业
+    - tab "打卡作业" [selected]:
+      - generic: 打卡作业
+    - tab "视频课件作业":
+      - generic: 视频课件作业
+  - button "新窗口打开"
+  - button "布置"
+  - generic: 
+  - text:                                                               
+  - generic: 作业名称 *
+  - textbox "请输入作业标题"
+  - paragraph: 注：标题内容限制最大20个字词~ (0/20)
+  - generic: 作业详情 *
+  - textbox "请输入作业内容"
+  - paragraph:
+    - generic: 图片
+  - paragraph:
+    - generic: 视频
+  - paragraph:
+    - generic: 音频
+  - paragraph:
+    - generic: 云盘
+  - text: 
+  - paragraph: 注：文件上传限制数量：图片(9个)、视频(6个)、音频(6个)
+  - generic: 布置班级 *
+  - generic: 王小格-SAT
+  - generic: 
+  - textbox
+  - textbox
+  - generic: 
+  - text: 
+  - generic: 布置学生 *
+  - text: 
+  - textbox
+  - textbox "全部（布置给所有学生）"
+  - generic: 
+  - generic: 打卡开始时间 *
+  - textbox: 2026-10-23
+  - generic: 
+  - generic: 打卡结束时间 *
+  - textbox
+  - generic: 
+  - generic: 打卡频次 *
+  - generic: 周一
+  - generic: 
+  - generic: 周二
+  - generic: 
+  - generic: 周三
+  - generic: 
+  - generic: 周四
+  - generic: 
+  - generic: 周五
+  - generic: 
+  - generic: 周六
+  - generic: 
+  - generic: 周日
+  - generic: 
+  - textbox
+  - generic: 
+  - text:       
+  - generic: 提醒打卡时间 *
+  - textbox: 09:00
+  - generic: 
+  - generic: 学生作答形式
+  - textbox "默认不限制" [active]
+  - generic: 
+  - generic: 允许补卡
+  - switch [checked]:
+    - checkbox [checked]
+  - generic: 学生是否可以看到其他学生的做答
+  - switch:
+    - checkbox
+  - generic: 
+  - generic: 
+  - generic: 
+  - text:       
+  - generic: 
+  - text: 
+- text:      
+- list:
+  - generic: 图文
+  - generic: 音频
+  - generic: 视频

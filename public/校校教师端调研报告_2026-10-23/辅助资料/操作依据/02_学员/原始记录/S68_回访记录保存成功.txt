@@ -1,0 +1,137 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- button "添加回访":
+  - generic: 添加回访
+- table:
+  - rowgroup:
+    - row "回访时间 回访人 角色 回访内容 图片":
+      - columnheader "回访时间":
+        - generic: 回访时间
+      - columnheader "回访人":
+        - generic: 回访人
+      - columnheader "角色":
+        - generic: 角色
+      - columnheader "回访内容":
+        - generic: 回访内容
+      - columnheader "图片":
+        - generic: 图片
+      - columnheader
+- table:
+  - rowgroup:
+    - row "2026-10-22 王思贤 老师 【调研测试】用于验证学员回访记录的保存和列表展示，无需处理。 --":
+      - cell "2026-10-22":
+        - generic: 2026-10-22
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "老师":
+        - generic: 老师
+      - cell "【调研测试】用于验证学员回访记录的保存和列表展示，无需处理。":
+        - generic: 【调研测试】用于验证学员回访记录的保存和列表展示，无需处理。
+      - cell "--":
+        - generic: "--"
+      - cell
+- table:
+  - rowgroup:
+    - row "操作":
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup:
+    - row "编辑 删除":
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell "编辑 删除":
+        - generic: 编辑
+        - generic: 删除
+- generic: 共 1 条
+- textbox "请选择": 10条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+- button "" [disabled]:
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:              

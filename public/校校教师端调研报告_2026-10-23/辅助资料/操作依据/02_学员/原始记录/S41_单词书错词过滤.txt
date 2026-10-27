@@ -1,0 +1,624 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- tablist:
+  - tab "练习统计" [selected]:
+    - generic: 练习统计
+  - tab "错题分析":
+    - generic: 错题分析
+  - tab "笔记":
+    - generic: 笔记
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- generic: 作业完成情况
+- generic: "18"
+- generic: /
+- generic: "71"
+- generic: 自适应统计
+- generic: 单词书进度
+- generic: 共学习 56 词
+- generic: 开放题库
+- generic: 词汇量测试
+- table:
+  - rowgroup:
+    - row "单词书 科目 布置老师 布置时间 单元 单词 学习进度 正确率 操作":
+      - columnheader "单词书":
+        - generic: 单词书
+      - columnheader "科目":
+        - generic: 科目
+      - columnheader "布置老师":
+        - generic: 布置老师
+      - columnheader "布置时间":
+        - generic: 布置时间
+      - columnheader "单元":
+        - generic: 单元
+      - columnheader "单词":
+        - generic: 单词
+      - columnheader "学习进度":
+        - generic: 学习进度
+      - columnheader "正确率":
+        - generic: 正确率
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup:
+    - row "陈梦昕生词本 托福 李宝燕 2026-03-24 17:28:45 4 222 25 34% 查看详情":
+      - cell "陈梦昕生词本":
+        - generic: 陈梦昕生词本
+      - cell "托福":
+        - generic: 托福
+      - cell "李宝燕":
+        - generic: 李宝燕
+      - cell "2026-03-24 17:28:45":
+        - generic: 2026-03-24 17:28:45
+      - cell "4":
+        - generic: "4"
+      - cell "222":
+        - generic: "222"
+      - cell "25":
+        - progressbar:
+          - generic: 1/4
+      - cell "34%":
+        - generic: 34%
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "陈梦昕生词本 托福 李宝燕 2026-03-24 17:34:41 4 222 0 0% 查看详情":
+      - cell "陈梦昕生词本":
+        - generic: 陈梦昕生词本
+      - cell "托福":
+        - generic: 托福
+      - cell "李宝燕":
+        - generic: 李宝燕
+      - cell "2026-03-24 17:34:41":
+        - generic: 2026-03-24 17:34:41
+      - cell "4":
+        - generic: "4"
+      - cell "222":
+        - generic: "222"
+      - cell "0":
+        - progressbar:
+          - generic: 0/4
+      - cell "0%":
+        - generic: 0%
+      - cell "查看详情":
+        - generic: 查看详情
+- generic: 共 2 条
+- textbox "请选择": 20条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+- button "" [disabled]:
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:       
+- dialog "dialog":
+  - text: 
+  - generic: 
+  - generic: 查看详情
+  - text: 
+  - generic: 陈梦昕生词本
+  - generic: 测试班002
+  - generic: 进行中
+  - generic: 小格
+  - paragraph: 王小格
+  - paragraph: 单词数量 222 已学 44 词 错词 29 个
+  - generic: 34%
+  - paragraph: "3.8"
+  - generic: 44 词
+  - generic: 已完成
+  - generic: 首次完成时间：2026-10-22 16:08
+  - generic: 0%
+  - paragraph: "7.01"
+  - generic: 31 词
+  - generic: 未学习
+  - generic: 未学习
+  - paragraph: "7.03"
+  - generic: 113 词
+  - generic: 未解锁
+  - generic: 未学习
+  - paragraph: "7.08"
+  - generic: 34 词
+  - generic: 未解锁
+  - generic: 错词数量：29
+  - generic: 错词
+  - generic: urgent
+  - generic: 英 /ˈɜːdʒənt/
+  - generic: 美 /ˈɜːrdʒənt/
+  - generic: adj. 紧急的；急迫的
+  - generic: compelling immediate action
+  - generic: 例句
+  - text: "1."
+  - generic: I have an urgent message for you.
+  - generic: 我有一条紧急的消息要告诉你。
+  - generic: regarding
+  - generic: 错词
+  - generic: 英 /rɪˈɡɑːdɪŋ/
+  - generic: 美 /rɪˈɡɑːrdɪŋ/
+  - generic: prep. 关于，至于；就……而论 v. 看待；（以特定方式）注视；注意；听从；涉及（regard 的现在分词）
+  - generic: concerning; in relation to; with respect to.
+  - generic: 例句
+  - text: "1."
+  - generic: I have a question regarding the homework.
+  - generic: 我有一个关于作业的问题。
+  - generic: contribution
+  - generic: 英 /ˌkɒntrɪˈbjuːʃ(ə)n/
+  - generic: 美 /ˌkɑːntrɪˈbjuːʃ(ə)n/
+  - generic: n. 贡献；捐献；投稿
+  - generic: any one of a number of individual efforts in a common endeavor
+  - generic: 例句
+  - text: "1."
+  - generic: Her contribution to the project was very helpful.
+  - generic: 她对这个项目的贡献非常有帮助。
+  - generic: constructive
+  - generic: 英 /kənˈstrʌktɪv/
+  - generic: 美 /kənˈstrʌktɪv/
+  - generic: adj. 建设性的；推定的；构造上的；有助益的
+  - generic: constructing or tending to construct or improve or promote development
+  - generic: 例句
+  - text: "1."
+  - generic: Her constructive feedback helped me improve my project.
+  - generic: 她的建设性反馈帮助我改进了我的项目。
+  - generic: colleagues
+  - generic: 英 /ˈkɒliːɡz/
+  - generic: 美 /ˈkɑːliːɡz/
+  - generic: n. 同事；同行（colleague的复数）
+  - generic: an associate you work with
+  - generic: 例句
+  - text: "1."
+  - generic: My colleagues are very friendly.
+  - generic: 我的同事们非常友好。
+  - generic: supervisor
+  - generic: 错词
+  - generic: 英 /ˈsuːpəvaɪzə(r)/
+  - generic: 美 /ˈsuːpərvaɪzər/
+  - generic: 监督人，指导者；[管理] 管理人；检查员
+  - generic: one who supervises or has charge and direction of
+  - generic: 例句
+  - text: "1."
+  - generic: My supervisor helps me with my work.
+  - generic: 我的监督者帮助我完成工作。
+  - generic: accomplishment
+  - generic: 错词
+  - generic: 英 /əˈkʌmplɪʃmənt/
+  - generic: 美 /əˈkɑːmplɪʃmənt/
+  - generic: n. 成就；完成；技艺，技能
+  - generic: the action of accomplishing something
+  - generic: 例句
+  - text: "1."
+  - generic: Winning the science fair was a great accomplishment for her.
+  - generic: 赢得科学展览对她来说是一个伟大的成就。
+  - generic: annual
+  - generic: 英 /ˈænjuəl/
+  - generic: 美 /ˈænjuəl/
+  - generic: adj. 年度的；每年的 n. 年刊，年鉴；一年生植物
+  - generic: occurring once a year; happening every year.
+  - generic: 例句
+  - text: "1."
+  - generic: We have an annual picnic in the park.
+  - generic: 我们每年在公园里举行一次野餐。
+  - generic: hesitate
+  - generic: 错词
+  - generic: 英 /ˈhezɪteɪt/
+  - generic: 美 /ˈhezɪteɪt/
+  - generic: vi. 踌躇，犹豫；不愿 vt. 踌躇，犹豫；有疑虑，不愿意
+  - generic: pause or hold back in uncertainty or unwillingness
+  - generic: 例句
+  - text: "1."
+  - generic: I hesitate to ask for help.
+  - generic: 我犹豫是否请求帮助。
+  - generic: assistance
+  - generic: 错词
+  - generic: 英 /əˈsɪstəns/
+  - generic: 美 /əˈsɪstəns/
+  - generic: n. 援助，帮助；辅助设备
+  - generic: the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose
+  - generic: 例句
+  - text: "1."
+  - generic: I need assistance with my homework.
+  - generic: 我需要帮助来完成我的作业。
+  - generic: forthcoming
+  - generic: 错词
+  - generic: 英 /ˌfɔːθˈkʌmɪŋ/
+  - generic: 美 /ˌfɔːrθˈkʌmɪŋ/
+  - generic: adj. 即将来临的 n. 来临
+  - generic: 1. About to happen or appear; imminent. 2. Available when required or as promised; existing or ready for use. 3. Willing to provide information or assistance; helpful.
+  - generic: 例句
+  - text: "1."
+  - generic: The forthcoming event will be very exciting.
+  - generic: 即将到来的活动将会非常令人兴奋。
+  - generic: evacuation
+  - generic: 英 /ɪˌvækjuˈeɪʃ(ə)n/
+  - generic: 美 /ɪˌvækjuˈeɪʃ(ə)n/
+  - generic: n. 疏散；撤离；排泄
+  - generic: The act of removing a person or a group of people from a place of danger to a safer location.
+  - generic: 例句
+  - text: "1."
+  - generic: The evacuation of the building was quick and safe.
+  - generic: 大楼的撤离迅速而安全。
+  - generic: equipped
+  - generic: 英 /ɪˈkwɪpt/
+  - generic: 美 /ɪˈkwɪpt/
+  - generic: v. 装备；（使）有所准备；（使）能够胜任（equip 的过去式及过去分词） adj. 装备齐全的；有能力的
+  - generic: provided or fitted out with what is necessary or useful or appropriate
+  - generic: 例句
+  - text: "1."
+  - generic: The classroom is equipped with new computers.
+  - generic: 教室里配备了新电脑。
+  - generic: stairwells
+  - generic: 错词
+  - generic: 英 [ˈsteəˌwelz]
+  - generic: 美 [ˈsterˌwelz]
+  - generic: n. 楼梯井；楼梯间
+  - generic: A vertical space in a building that allows people to move between different levels, often featuring steps.
+  - generic: 例句
+  - text: "1."
+  - generic: The stairwells in the building are very wide.
+  - generic: 这栋楼的楼梯间非常宽敞。
+  - generic: maintenance
+  - generic: 英 /ˈmeɪntənəns/
+  - generic: 美 /ˈmeɪntənəns/
+  - generic: n. 维护，维修；保持；生活费用
+  - generic: activity involved in maintaining something in good working order
+  - generic: 例句
+  - text: "1."
+  - generic: The school needs regular maintenance to keep it clean and safe.
+  - generic: 学校需要定期维护，以保持清洁和安全。
+  - generic: features
+  - generic: 错词
+  - generic: 英 /ˈfiːtʃəz/
+  - generic: 美 /fitʃər/
+  - generic: n. 产品特点，特征；容貌；嘴脸（feature的复数） v. 是…的特色，使突出（feature的第三人称单数）
+  - generic: a prominent aspect of something
+  - generic: 例句
+  - text: "1."
+  - generic: The new phone has many exciting features.
+  - generic: 这款新手机有许多令人兴奋的特点。
+  - generic: installation
+  - generic: 错词
+  - generic: 英 /ˌɪnstəˈleɪʃ(ə)n/
+  - generic: 美 /ˌɪnstəˈleɪʃ(ə)n/
+  - generic: n. 安装，装置；就职
+  - generic: the act of installing something (as equipment)
+  - generic: 例句
+  - text: "1."
+  - generic: The installation of the new computer took only an hour.
+  - generic: 新电脑的安装只花了一个小时。
+  - generic: conducted
+  - generic: 错词
+  - generic: 英 /ˈkɒndʌktid/
+  - generic: 美 /kənˈdʌktɪd/
+  - generic: v. 管理（conduct的过去分词）；引导；指挥
+  - generic: manner of acting or controlling yourself
+  - generic: 例句
+  - text: "1."
+  - generic: The teacher conducted a fun science experiment.
+  - generic: 老师进行了一个有趣的科学实验。
+  - generic: leak
+  - generic: 错词
+  - generic: 英 /liːk/
+  - generic: 美 /liːk/
+  - generic: v. 使渗漏，泄露；漏，渗；泄漏出去；透露 n. 泄漏；漏洞，裂缝；泄漏出的液体（或气体）；（秘密信息的）透露；撒尿；漏电 n. （美、印尼、新等）利克（人名）
+  - generic: an accidental hole that allows something (fluid or light etc.) to enter or escape
+  - generic: 例句
+  - text: "1."
+  - generic: Water can leak from a broken pipe.
+  - generic: 水可以从破损的管道中泄漏。
+  - generic: internship
+  - generic: 错词
+  - generic: 英 /ˈɪntɜːnʃɪp/
+  - generic: 美 /ˈɪntɜːrnʃɪp/
+  - generic: n. 实习生；（美）实习期；实习医师职位
+  - generic: A period of work experience offered by an organization for a limited period of time, often to students or recent graduates, to gain practical skills and knowledge in a specific field.
+  - generic: 例句
+  - text: "1."
+  - generic: She got an internship at a local hospital.
+  - generic: 她在当地医院获得了一个实习机会。
+  - generic: narrow
+  - generic: 英 /ˈnærəʊ/
+  - generic: 美 /ˈnæroʊ/
+  - generic: adj. 狭窄的，有限的；勉强的；精密的；度量小的 n. 海峡；狭窄部分，隘路 vt. 使变狭窄 vi. 变窄
+  - generic: having a small width in relation to the length; limited in extent, amount, or scope; restricted.
+  - generic: 例句
+  - text: "1."
+  - generic: The street is too narrow for two cars to pass.
+  - generic: 这条街道太狭窄，无法让两辆车通过。
+  - generic: site
+  - generic: 错词
+  - generic: 英 /saɪt/
+  - generic: 美 /saɪt/
+  - generic: n. 地点；位置；场所 vt. 设置；为…选址
+  - generic: the piece of land on which something is located (or is to be located)
+  - generic: 例句
+  - text: "1."
+  - generic: The park is a great site for a picnic.
+  - generic: 这个公园是野餐的好地方。
+  - generic: diploma
+  - generic: 英 /dɪˈpləʊmə/
+  - generic: 美 /dɪˈploʊmə/
+  - generic: n. 毕业证书，学位证书；公文，文书；奖状 vt. 发给…毕业文凭
+  - generic: a document certifying the successful completion of a course of study
+  - generic: 例句
+  - text: "1."
+  - generic: She received her diploma after finishing high school.
+  - generic: 她在完成高中后获得了文凭。
+  - generic: workshop
+  - generic: 英 /ˈwɜːkʃɒp/
+  - generic: 美 /ˈwɜːrkʃɑːp/
+  - generic: n. 车间；研讨会；工场；讲习班
+  - generic: small workplace where handcrafts or manufacturing are done
+  - generic: 例句
+  - text: "1."
+  - generic: The students attended a painting workshop on Saturday.
+  - generic: 学生们在星期六参加了一个绘画工作坊。
+  - generic: treadmill
+  - generic: 错词
+  - generic: 英 /ˈtredmɪl/
+  - generic: 美 /ˈtredmɪl/
+  - generic: n. 踏车，跑步机；单调的工作
+  - generic: an exercise device consisting of an endless belt on which a person can walk or jog without changing place
+  - generic: 例句
+  - text: "1."
+  - generic: I like to exercise on the treadmill every morning.
+  - generic: 我喜欢每天早上在跑步机上锻炼。
+  - generic: dumbbell
+  - generic: 英 /ˈdʌmbel/
+  - generic: 美 [ˈdʌm.bel]
+  - generic: n. 哑铃；蠢人
+  - generic: an exercising weight; two spheres connected by a short bar that serves as a handle
+  - generic: 例句
+  - text: "1."
+  - generic: I lift a dumbbell to make my arms stronger.
+  - generic: 我举哑铃来增强我的手臂力量。
+  - generic: wrap up
+  - generic: 错词
+  - generic: 英 /ræp ʌp/
+  - generic: 美 [ræp ʌp]
+  - generic: 包裹；圆满完成；（使）穿得暖和（wrap somebody/yourself up）；注意力完全集中于……
+  - generic: arrange or fold as a cover or protection
+  - generic: 例句
+  - text: "1."
+  - generic: Let's wrap up the meeting before lunch.
+  - generic: 我们在午餐前结束会议吧。
+  - generic: symposium
+  - generic: 错词
+  - generic: 英 /sɪmˈpəʊziəm/
+  - generic: 美 /sɪmˈpoʊziəm/
+  - generic: n. 讨论会，座谈会；专题论文集；酒宴，宴会
+  - generic: a meeting or conference for the public discussion of some topic especially one in which the participants form an audience and make presentations
+  - generic: 例句
+  - text: "1."
+  - generic: The symposium on climate change was very informative.
+  - generic: 关于气候变化的研讨会非常有启发性。
+  - generic: format
+  - generic: 错词
+  - generic: 英 /ˈfɔːmæt/
+  - generic: 美 /ˈfɔːrmæt/
+  - generic: n. 格式；版式；开本 vt. 使格式化；规定…的格式 vi. 设计版式
+  - generic: the organization of information according to preset specifications (usually for computer processing)
+  - generic: 例句
+  - text: "1."
+  - generic: The format of the book is very interesting.
+  - generic: 这本书的格式非常有趣。
+  - generic: source
+  - generic: 错词
+  - generic: 英 /sɔːs/
+  - generic: 美 /sɔːrs/
+  - generic: n. 来源；水源；原始资料 n. 人名；(法)苏尔斯
+  - generic: the place where something begins, where it springs into being
+  - generic: 例句
+  - text: "1."
+  - generic: The river is the source of the water for the town.
+  - generic: 这条河是这个城镇的水源。
+  - generic: comply
+  - generic: 错词
+  - generic: 英 /kəmˈplaɪ/
+  - generic: 美 /kəmˈplaɪ/
+  - generic: vi. 遵守；顺从，遵从；答应
+  - generic: act in accordance with someone's rules, commands, or wishes
+  - generic: 例句
+  - text: "1."
+  - generic: Students must comply with the school rules.
+  - generic: 学生必须遵守学校规则。
+  - generic: effect immediately
+  - generic: 错词
+  - generic: 英 [ɪˈfekt]
+  - generic: 美 [ɪˈfekt]
+  - generic: 立即生效
+  - generic: To bring about or cause to happen, especially to make something operative or bring it into force.
+  - generic: 例句
+  - text: "1."
+  - generic: The company must effect immediately the new safety rules.
+  - generic: 公司必须立即实施新的安全规定。
+  - generic: commemorate
+  - generic: 错词
+  - generic: 英 /kəˈmeməreɪt/
+  - generic: 美 /kəˈmeməreɪt/
+  - generic: vt. 庆祝，纪念；成为…的纪念
+  - generic: mark by some ceremony or observation
+  - generic: 例句
+  - text: "1."
+  - generic: We gather every year to commemorate our friendship.
+  - generic: 我们每年聚在一起纪念我们的友谊。
+  - generic: skyscraper
+  - generic: 错词
+  - generic: 英 /ˈskaɪskreɪpə(r)/
+  - generic: 美 /ˈskaɪskreɪpər/
+  - generic: n. 摩天楼，超高层大楼；特别高的东西
+  - generic: a very tall building with many stories
+  - generic: 例句
+  - text: "1."
+  - generic: The skyscraper is the tallest building in the city.
+  - generic: 这座摩天大楼是城市中最高的建筑。
+  - generic: sustainability
+  - generic: 错词
+  - generic: 英 /səˌsteɪnəˈbɪləti/
+  - generic: 美 /səˌsteɪnəˈbɪləti/
+  - generic: n. 持续性；永续性；能维持性
+  - generic: the property of being sustainable
+  - generic: 例句
+  - text: "1."
+  - generic: Sustainability is important for our planet's future.
+  - generic: 可持续性对我们星球的未来很重要。
+  - generic: mural
+  - generic: 错词
+  - generic: 英 /ˈmjʊərəl/
+  - generic: 美 /ˈmjʊrəl/
+  - generic: n. 壁画 adj. （似）墙的，与墙有关的；（与）体腔壁有关的
+  - generic: a painting that is applied to a wall surface
+  - generic: 例句
+  - text: "1."
+  - generic: The mural on the school wall is very colorful.
+  - generic: 学校墙上的壁画非常多彩。
+  - generic: alternative
+  - generic: 错词
+  - generic: 英 /ɔːlˈtɜːnətɪv/
+  - generic: 美 /ɔːlˈtɜːrnətɪv/
+  - generic: adj. 供选择的；选择性的；交替的 n. 二中择一；供替代的选择
+  - generic: one of a number of things from which only one can be chosen
+  - generic: 例句
+  - text: "1."
+  - generic: We can choose an alternative route to avoid traffic.
+  - generic: 我们可以选择一条替代路线以避开交通。
+  - generic: faculty
+  - generic: 错词
+  - generic: 英 /ˈfæk(ə)lti/
+  - generic: 美 /ˈfæk(ə)lti/
+  - generic: n. 科，系；能力，官能；全体教员
+  - generic: one of the inherent cognitive or perceptual powers of the mind
+  - generic: 例句
+  - text: "1."
+  - generic: The faculty of science offers many interesting courses.
+  - generic: 科学学院提供许多有趣的课程。
+  - generic: parking ticket
+  - generic: 英 [ˈpɑːkɪŋ ˌtɪkɪt]
+  - generic: 美 [ˈpɑːrkɪŋ ˌtɪkɪt]
+  - generic: 停车罚款单
+  - generic: A notice you might find on your vehicle when it is parked in a prohibited area, indicating that you owe a fine.
+  - generic: 例句
+  - text: "1."
+  - generic: I received a parking ticket for parking in the wrong place.
+  - generic: 我因为停在错误的地方收到了停车罚单。
+  - generic: rumor
+  - generic: 英 /ˈruːmə(r)/
+  - generic: 美 /ˈruːmər/
+  - generic: n. 谣言；传闻 vt. 谣传；传说 n. 人名；(意、葡)鲁莫尔
+  - generic: gossip (usually a mixture of truth and untruth) passed around by word of mouth
+  - generic: 例句
+  - text: "1."
+  - generic: There is a rumor that a new school will open next year.
+  - generic: 有传言说明年会开一所新学校。
+  - generic: platform
+  - generic: 错词
+  - generic: 英 /ˈplætfɔːm/
+  - generic: 美 /ˈplætfɔːrm/
+  - generic: n. 平台；月台，站台；坛；讲台；厚底松糕鞋
+  - generic: a raised horizontal surface
+  - generic: 例句
+  - text: "1."
+  - generic: The train arrives at the platform.
+  - generic: 火车到达了站台。
+  - generic: make of
+  - generic: 英 [meɪk ʌv]
+  - generic: 美 [meɪk əv]
+  - generic: 理解；判断：对某事物或某人的看法、理解或判断。
+  - generic: To form an opinion or understanding about something, often based on personal judgment or interpretation.
+  - generic: 例句
+  - text: "1."
+  - generic: What do you make of this book?
+  - generic: 你对这本书有什么看法？
+  - generic: power go out
+  - generic: 错词
+  - generic: 英 [ˈpaʊə ɡəʊ aʊt]
+  - generic: 美 [ˈpaʊər ɡoʊ aʊt]
+  - generic: 停电
+  - generic: A nonstandard multiword form that is not a recognized dictionary lemma in this exact shape.
+  - generic: 例句
+  - text: "1."
+  - generic: In that scene, the power go out and the room turned silent.
+  - generic: 在那一幕里，停电了，房间变得安静下来。
+  - generic: fundraiser
+  - generic: 错词
+  - generic: 英 /ˈfʌndreɪzə(r)/
+  - generic: 美 /ˈfʌndreɪzər/
+  - generic: n. 资金筹集人；资金筹集活动
+  - generic: someone who solicits financial contributions
+  - generic: 例句
+  - text: "1."
+  - generic: The school organized a fundraiser to help local charities.
+  - generic: 学校组织了一场筹款活动来帮助当地慈善机构。

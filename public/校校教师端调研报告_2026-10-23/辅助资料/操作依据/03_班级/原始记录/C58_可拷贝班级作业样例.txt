@@ -1,0 +1,236 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 我的班级
+- button "科目 ":
+  - generic: 科目
+  - generic: 
+- textbox "请输入班级名称": 王小格-SAT
+- generic: 
+- button "班级类型 ":
+  - text: 班级类型
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- generic: AT
+- paragraph: 王小格-SAT
+- paragraph: SAT班
+- paragraph:
+  - generic: 王小格-SAT
+  - generic: 已开课
+  - text: (
+  - generic: 2026年09月23日
+  - text: )
+  - generic: "课程进度: 0/-"
+  - generic: 学生人数：1人
+- generic: 作业
+- generic: 课表
+- generic: 反馈
+- generic: 作业大纲
+- generic: 概览
+- text: 
+- generic: 2026年09月
+- button "本周":
+  - generic: 本周
+- button "":
+  - generic: 
+- button "":
+  - generic: 
+- textbox: 2026-09-21 - 2026-09-27
+- generic: 
+- generic: 课程
+- generic: 作业
+- generic: 模考
+- generic: 周一
+- generic: "21"
+- generic: 周二
+- generic: "22"
+- generic: 周三
+- generic: "23"
+- generic: 周四
+- generic: "24"
+- generic: 周五
+- generic: "25"
+- generic: 周六
+- generic: "26"
+- generic: 周日
+- generic: "27"
+- generic "sat全科测试":
+  - generic: sat全科测试
+- paragraph:
+  - generic: "完成情况:"
+  - text: 1/1
+  - generic: 
+- generic: 快捷功能
+- generic: 成员(1)
+- paragraph: 布置作业
+- paragraph: 模考作业
+- paragraph: 自定义作业
+- paragraph: 打卡作业
+- paragraph: 其他作业
+- paragraph: 常用作业
+- paragraph: 视频课件
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:      
+- dialog "常用作业":
+  - generic: 常用作业
+  - button "Close":
+    - generic: 
+  - tablist:
+    - tab "常用作业"
+    - tab "班级作业" [selected]
+  - tabpanel "班级作业":
+    - textbox "请选择班级" [active]: 王小格-SAT
+    - generic: 
+    - textbox "请输入作业名称"
+    - button "搜索":
+      - generic: 搜索
+    - paragraph: 已选作业：0
+    - table:
+      - rowgroup:
+        - row "作业名称 完成情况 平均分 发布时间 截止时间 操作":
+          - columnheader:
+            - checkbox
+          - columnheader "作业名称":
+            - generic: 作业名称
+          - columnheader "完成情况":
+            - generic: 完成情况
+          - columnheader "平均分":
+            - generic: 平均分
+          - columnheader "发布时间":
+            - generic: 发布时间
+          - columnheader "截止时间":
+            - generic: 截止时间
+          - columnheader "操作":
+            - generic: 操作
+    - table:
+      - rowgroup:
+        - row "订正练习/错词训练/2026-10-22 1 / 1 100分 2026-10-23   2026-10-24   预览":
+          - cell:
+            - checkbox
+          - cell "订正练习/错词训练/2026-10-22":
+            - textbox "请输入作业名称": 订正练习/错词训练/2026-10-22
+          - cell "1 / 1":
+            - generic: 1 / 1
+          - cell "100分":
+            - generic: 100分
+          - cell "2026-10-23  ":
+            - textbox: 2026-10-23
+            - generic: 
+            - textbox "时间"
+            - generic: 
+          - cell "2026-10-24  ":
+            - textbox: 2026-10-24
+            - generic: 
+            - textbox "时间"
+            - generic: 
+          - cell "预览":
+            - button "预览":
+              - generic: 预览
+        - row "字数测试 0 / 1 0分 2026-10-23  16:00  2026-10-24  23:30  预览":
+          - cell:
+            - checkbox
+          - cell "字数测试":
+            - textbox "请输入作业名称": 字数测试
+          - cell "0 / 1":
+            - generic: 0 / 1
+          - cell "0分":
+            - generic: 0分
+          - cell "2026-10-23  16:00 ":
+            - textbox: 2026-10-23
+            - generic: 
+            - textbox "时间": 16:00
+            - generic: 
+          - cell "2026-10-24  23:30 ":
+            - textbox: 2026-10-24
+            - generic: 
+            - textbox "时间": 23:30
+            - generic: 
+          - cell "预览":
+            - button "预览":
+              - generic: 预览
+        - row "sat全科测试 1 / 1 420分 2026-10-23  13:30  2026-10-24  23:30  预览":
+          - cell:
+            - checkbox
+          - cell "sat全科测试":
+            - textbox "请输入作业名称": sat全科测试
+          - cell "1 / 1":
+            - generic: 1 / 1
+          - cell "420分":
+            - generic: 420分
+          - cell "2026-10-23  13:30 ":
+            - textbox: 2026-10-23
+            - generic: 
+            - textbox "时间": 13:30
+            - generic: 
+          - cell "2026-10-24  23:30 ":
+            - textbox: 2026-10-24
+            - generic: 
+            - textbox "时间": 23:30
+            - generic: 
+          - cell "预览":
+            - button "预览":
+              - generic: 预览
+    - generic: 共 3 条
+    - textbox "请选择": 20条/页
+    - generic: 
+    - button "" [disabled]:
+      - generic: 
+    - list:
+      - listitem: "1"
+    - button "" [disabled]:
+      - generic: 
+    - text: 前往
+    - spinbutton: "1"
+    - text: 页
+  - button "取消":
+    - generic: 取消
+  - button "拷贝作业":
+    - generic: 拷贝作业
+- text:       
+- generic: 
+- text:                                                                                                                         

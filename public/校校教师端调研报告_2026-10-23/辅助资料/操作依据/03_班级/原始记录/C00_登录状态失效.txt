@@ -1,0 +1,76 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- alert:
+  - generic: 
+  - text: 还没有绑定公众号哦
+  - generic: 点击绑定
+  - text: "|"
+  - generic: 不再提醒
+  - generic: 
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 
+- generic: 学员
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: 
+- text: 
+- generic: 筛选
+- paragraph:
+  - generic: 暂无内容~~
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- dialog "dialog":
+  - text: 
+  - generic: 已了解
+  - generic: 不再弹出
+- dialog "提示":
+  - generic: 提示
+  - paragraph: 登录状态已失效，请重新登录
+  - button "确定" [active]:
+    - generic: 确定

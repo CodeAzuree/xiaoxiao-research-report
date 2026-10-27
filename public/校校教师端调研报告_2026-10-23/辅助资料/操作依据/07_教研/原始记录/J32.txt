@@ -1,0 +1,182 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "245"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业大纲
+- generic: 知识点
+- generic: 
+- generic: "?"
+- generic: 
+- button " 创建大纲":
+  - generic: 
+  - text: 创建大纲
+- tree:
+  - treeitem "其他 1 添加分类" [expanded]:
+    - text: 
+    - generic: 其他 
+    - generic: "1"
+    - generic: 添加分类
+    - treeitem " 无分类 1":
+      - text: 
+      - generic: 
+      - text: 无分类
+      - generic: "1"
+      - generic:  
+  - treeitem "托福 1 添加分类" [expanded]:
+    - text: 
+    - generic: 托福 
+    - generic: "1"
+    - generic: 添加分类
+    - treeitem " 无分类 1":
+      - text: 
+      - generic: 
+      - text: 无分类
+      - generic: "1"
+      - generic:  
+  - treeitem "雅思 4 添加分类" [expanded]:
+    - text: 
+    - generic: 雅思 
+    - generic: "4"
+    - generic: 添加分类
+    - treeitem " 无分类 3" [expanded]:
+      - text: 
+      - generic: 
+      - text: 无分类
+      - generic: "3"
+      - generic:  
+      - treeitem "技巧班":
+        - text: 
+        - generic: 技巧班
+        - generic:  
+      - treeitem "雅思听力（空窗期） TestTestTest":
+        - text: 
+        - generic: 雅思听力（空窗期） TestTestTest
+        - generic:  
+      - treeitem "词汇":
+        - text: 
+        - generic: 词汇
+        - generic:  
+    - treeitem " 口语班课作业 1":
+      - text: 
+      - generic: 
+      - text: 口语班课作业
+      - generic: "1"
+      - generic:   
+  - treeitem "A-Level 1 添加分类" [expanded]:
+    - text: 
+    - generic: A-Level 
+    - generic: "1"
+    - generic: 添加分类
+    - treeitem " 锦秋国际词汇任务 1":
+      - text: 
+      - generic: 
+      - text: 锦秋国际词汇任务
+      - generic: "1"
+      - generic:   
+- generic: 雅思 - 无分类 - 雅思听力（空窗期） TestTestTest
+- generic: "应用次数: 1"
+- generic: 
+- table:
+  - rowgroup:
+    - row "目录名称  点击任务名称可拖拽排序 上传人 操作":
+      - columnheader "目录名称  点击任务名称可拖拽排序":
+        - paragraph:
+          - generic: 目录名称
+          - generic: 
+        - paragraph: 点击任务名称可拖拽排序
+      - columnheader "上传人":
+        - generic: 上传人
+      - columnheader "操作":
+        - generic: 操作
+  - rowgroup:
+    - row " 第一周  叶成 叶成":
+      - cell " 第一周 ":
+        - checkbox
+        - generic: 
+        - generic: 第一周
+        - generic "添加任务": 
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell
+    - row "背诵《雅思听力机经场景词汇汇编》，记忆住宿及工作场景 叶成 叶成":
+      - cell "背诵《雅思听力机经场景词汇汇编》，记忆住宿及工作场景":
+        - generic "背诵《雅思听力机经场景词汇汇编》，记忆住宿及工作场景"
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell
+    - row "完成《剑12雅思精听手册》相关练习，选择5-6分档题目 叶成 叶成":
+      - cell "完成《剑12雅思精听手册》相关练习，选择5-6分档题目":
+        - generic "完成《剑12雅思精听手册》相关练习，选择5-6分档题目"
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell
+    - row "精听练习 叶成 叶成 预览":
+      - cell "精听练习":
+        - generic "精听练习"
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell "预览":
+        - button "预览"
+    - row " 第二周  叶成 叶成":
+      - cell " 第二周 ":
+        - checkbox
+        - generic: 
+        - generic: 第二周
+        - generic "添加任务": 
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell
+- table:
+  - rowgroup:
+    - row "作业":
+      - generic: 作业
+  - rowgroup:
+    - paragraph: 1. 附件一：雅思听力机经场景词汇汇编.pdf
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:   *  *               *   * * *                                                                                                                                                                                                                                                      

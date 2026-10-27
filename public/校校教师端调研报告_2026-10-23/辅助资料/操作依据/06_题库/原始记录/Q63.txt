@@ -1,0 +1,662 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- radiogroup:
+  - button "按试卷":
+    - generic: 按试卷
+  - button " 按篇章":
+    - generic: 
+    - generic: 按篇章
+  - separator
+  - button "我的试卷":
+    - generic: 我的试卷
+  - button "共享试卷":
+    - generic: 共享试卷
+- text:  
+- generic: 科目
+- generic "新托福2026"
+- generic "雅思"
+- generic "SAT机考"
+- generic "SAT"
+- generic "小托福"
+- generic "ACT"
+- generic "GRE"
+- generic "KET"
+- generic "PET"
+- generic "AP"
+- generic: 分项
+- generic "不限"
+- generic "听力"
+- generic "阅读"
+- generic "写作"
+- generic "口语"
+- text:      
+- generic: 来源
+- generic: 
+- button "名称 ( 不限 ) ":
+  - text: 名称
+  - text: (
+  - generic: 不限
+  - text: )
+  - generic: 
+- text:              
+- generic: 筛选
+- generic: 排序
+- button "重置"
+- textbox "请选择": 标题
+- generic: 
+- textbox "请输入你要搜索的题目"
+- button "":
+  - generic: 
+- radiogroup:
+  - button
+  - button
+- table:
+  - rowgroup:
+    - row "题目名称 分项 来源 话题 状态 新增练习数 更新时间":
+      - columnheader
+      - columnheader
+      - columnheader "题目名称":
+        - generic: 题目名称
+      - columnheader "分项":
+        - generic: 分项
+      - columnheader "来源":
+        - generic: 来源
+      - columnheader "话题":
+        - generic: 话题
+      - columnheader "状态":
+        - generic: 状态
+      - columnheader "新增练习数":
+        - generic: 新增练习数
+      - columnheader "更新时间":
+        - generic: 更新时间
+      - columnheader
+- table:
+  - rowgroup:
+    - row " 20260829 Writing Task 整套 / Writing Task 1 (The percentage of males and females with higher education qualifications) 写作 机经合集 柱状图 困难 - 2026/09/17 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "20260829 Writing Task 整套 / Writing Task 1 (The percentage of males and females with higher education qualifications)":
+        - generic: 20260829 Writing Task 整套 / Writing Task 1 (The percentage of males and females with higher education qualifications)
+      - cell "写作":
+        - generic: 写作
+      - cell "机经合集":
+        - generic: 机经合集
+      - cell "柱状图":
+        - generic: 柱状图
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/17":
+        - generic: 2026/09/17
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看" [active]
+    - row " 20260829 Writing Task 整套 / Writing Task 2 (To achieve balance between work and other activities of their lives) 写作 机经合集 社会生活类 困难 - 2026/09/17 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "20260829 Writing Task 整套 / Writing Task 2 (To achieve balance between work and other activities of their lives)":
+        - generic: 20260829 Writing Task 整套 / Writing Task 2 (To achieve balance between work and other activities of their lives)
+      - cell "写作":
+        - generic: 写作
+      - cell "机经合集":
+        - generic: 机经合集
+      - cell "社会生活类":
+        - generic: 社会生活类
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/17":
+        - generic: 2026/09/17
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 20260822 Writing Task 整套 / Writing Task 1 (The percentage of first-year university students rating five aspects of their courses as 'very good') 写作 机经合集 表格 困难 - 2026/09/17 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "20260822 Writing Task 整套 / Writing Task 1 (The percentage of first-year university students rating five aspects of their courses as 'very good')":
+        - generic: 20260822 Writing Task 整套 / Writing Task 1 (The percentage of first-year university students rating five aspects of their courses as 'very good')
+      - cell "写作":
+        - generic: 写作
+      - cell "机经合集":
+        - generic: 机经合集
+      - cell "表格":
+        - generic: 表格
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/17":
+        - generic: 2026/09/17
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/去过的靠近自然的地方 / Part 2 口语 口语题库 - - - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/去过的靠近自然的地方 / Part 2":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/去过的靠近自然的地方 / Part 2
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/去过的靠近自然的地方 / Part 3 (3个小问) 口语 口语题库 - 困难 - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/去过的靠近自然的地方 / Part 3 (3个小问)":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/去过的靠近自然的地方 / Part 3 (3个小问)
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/送朋友的礼物 / Part 2 口语 口语题库 - - - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/送朋友的礼物 / Part 2":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/送朋友的礼物 / Part 2
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/送朋友的礼物 / Part 3 (6个小问) 口语 口语题库 - 困难 - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/送朋友的礼物 / Part 3 (6个小问)":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/送朋友的礼物 / Part 3 (6个小问)
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/一见且想继续了解的人 / Part 2 口语 口语题库 - - - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/一见且想继续了解的人 / Part 2":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/一见且想继续了解的人 / Part 2
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/一见且想继续了解的人 / Part 3 (6个小问) 口语 口语题库 - 困难 - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/一见且想继续了解的人 / Part 3 (6个小问)":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/一见且想继续了解的人 / Part 3 (6个小问)
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/想再去一次的城市 / Part 2 口语 口语题库 - - - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/想再去一次的城市 / Part 2":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/想再去一次的城市 / Part 2
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/想再去一次的城市 / Part 3 (4个小问) 口语 口语题库 - 困难 - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/想再去一次的城市 / Part 3 (4个小问)":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/想再去一次的城市 / Part 3 (4个小问)
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/本地名人 / Part 2 口语 口语题库 - - - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/本地名人 / Part 2":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/本地名人 / Part 2
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/本地名人 / Part 3 (4个小问) 口语 口语题库 - 困难 - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/本地名人 / Part 3 (4个小问)":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/本地名人 / Part 3 (4个小问)
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/改变重要决定 / Part 2 口语 口语题库 - - - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/改变重要决定 / Part 2":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/改变重要决定 / Part 2
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/改变重要决定 / Part 3 (5个小问) 口语 口语题库 - 困难 - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/改变重要决定 / Part 3 (5个小问)":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/改变重要决定 / Part 3 (5个小问)
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/印象深刻的课程 / Part 2 口语 口语题库 - - - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/印象深刻的课程 / Part 2":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/印象深刻的课程 / Part 2
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题(非大陆)/印象深刻的课程 / Part 3 (6个小问) 口语 口语题库 - 困难 - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题(非大陆)/印象深刻的课程 / Part 3 (6个小问)":
+        - generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/印象深刻的课程 / Part 3 (6个小问)
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题/帮别人提升健康 / Part 2 口语 口语题库 - - - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题/帮别人提升健康 / Part 2":
+        - generic: 2026年9-12月口语题库Part2&3 新题/帮别人提升健康 / Part 2
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题/帮别人提升健康 / Part 3 (2个小问) 口语 口语题库 - 困难 - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题/帮别人提升健康 / Part 3 (2个小问)":
+        - generic: 2026年9-12月口语题库Part2&3 新题/帮别人提升健康 / Part 3 (2个小问)
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "困难":
+        - generic: 困难
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+    - row " 2026年9-12月口语题库Part2&3 新题/印象深刻的聚会 / Part 2 口语 口语题库 - - - 2026/09/08 预览 查看":
+      - cell
+      - cell "":
+        - generic: 
+      - cell "2026年9-12月口语题库Part2&3 新题/印象深刻的聚会 / Part 2":
+        - generic: 2026年9-12月口语题库Part2&3 新题/印象深刻的聚会 / Part 2
+      - cell "口语":
+        - generic: 口语
+      - cell "口语题库":
+        - generic: 口语题库
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "2026/09/08":
+        - generic: 2026/09/08
+      - cell "预览 查看":
+        - button "预览"
+        - button "查看"
+- generic: 共 5594 条
+- button "20 条/页 ":
+  - text: 20 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button "2"
+- button "3"
+- button "4"
+- button "5"
+- button "6"
+- button "•••":
+  - generic: •••
+- button "280"
+- button:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- generic: 
+- dialog "dialog":
+  - text: 
+  - text: 
+  - alert:
+    - generic: 
+    - text: 还没有绑定公众号哦
+    - generic: 点击绑定
+    - text: "|"
+    - generic: 不再提醒
+    - generic: 
+  - textbox "请输入关键词查找帮助中心内容"
+  - generic: 
+  - button "icon":
+    - img "icon"
+  - button "icon":
+    - img "icon"
+  - generic: 
+  - button "icon":
+    - img "icon"
+  - button "icon":
+    - img "icon"
+  - paragraph: "244"
+  - text: 
+  - button "icon":
+    - img "icon"
+  - text: 
+  - text: "500"
+  - text: 
+  - text:  
+  - generic: 思贤
+  - text:    
+  - navigation "Breadcrumb":
+    - list:
+      - generic: 系统题库
+      - generic: 
+      - generic: 详情
+  - paragraph:
+    - generic: 雅思
+  - generic: 20260829 Writing Task 整套 / Writing Task 1 (The percentage of males and females with higher education qualifications)
+  - generic: 写作
+  - generic: 困难
+  - generic: 参与数
+  - generic: "-"
+  - generic: 正确率
+  - generic: "-"
+  - generic: 题目数
+  - generic: "1"
+  - generic: 中位分
+  - generic: "36"
+  - generic: 方差
+  - generic: "10"
+  - generic: 中位用时
+  - generic: "-"
+  - generic: 区分度
+  - generic: "0.69"
+  - button "题目 (1)":
+    - generic: 题目 (1)
+  - generic: 显示答案
+  - switch:
+    - checkbox
+  - text:     
+  - generic: (1)
+  - generic: 正确率
+  - generic: "-"
+  - generic: 中位用时
+  - generic: "-"
+  - generic: 区分度
+  - generic: "0.69"
+  - generic: 争议率
+  - generic: "-"
+  - generic: 
+  - paragraph:
+    - text: WRITING TASK 1 You should spend about 20 minutes on this task.
+    - generic: The chart below shows the percentage of males and females aged 25-34 with higher education qualifications in five countries in 2001. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+    - text: Write at least 150 words.
+  - paragraph:
+    - button "":
+      - generic: 
+    - button "":
+      - generic: 
+    - button "":
+      - generic: 
+    - button "Copy URL":
+      - generic: Copy URL
+    - img "Image loading failed"
+  - generic: 知识点
+  - generic: 题目来源
+  - button "添加知识点"
+  - generic: 柱状图
+  - text: 
+  - radiogroup:
+    - button " 题目信息":
+      - generic: 
+      - generic: 题目信息
+    - button "名师讲解":
+      - generic: 名师讲解
+    - button "笔记列表":
+      - generic: 笔记列表
+  - paragraph: 答题解析
+  - paragraph:
+    - generic: 暂无解析
+  - generic: 
+  - img "AI"
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:                       

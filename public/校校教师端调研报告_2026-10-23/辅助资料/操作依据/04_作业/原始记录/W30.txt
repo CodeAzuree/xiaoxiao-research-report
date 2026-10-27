@@ -1,0 +1,20 @@
+- generic: 
+- generic: 
+- list:
+  - generic: 小格
+  - generic: 已批改
+  - generic: 王小格
+- generic: 测试自定义
+- generic: 
+- button "生成报告"
+- generic: 作业结果
+- generic: 答题解析
+- generic: 答题录屏
+- text:  
+- paragraph: 学生作答录屏
+- button "收起答题异常分析"
+- generic: 答题异常分析
+- paragraph:
+  - generic: 没有数据
+- generic: 
+- generic: 

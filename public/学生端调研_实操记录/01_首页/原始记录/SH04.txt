@@ -1,0 +1,14 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=2026112215".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~					117 text 周一 19
+~					119 text 周二 20
+~					121 text 周三 21
+~					123 text 周四 22
+~					125 text 周五 23
+~					127 text 周六 24
+~					129 text 周日 25
++				130 container
++					131 text 订正练习/错词训练/2026-10-22
++					132 text 错词训练/2026-10-22
++					133 text 【调研测试】视频课件-PDF详情_20261023
+The focused UI element is 80 tab (selected, settable, boolean) 本周任务 (3), Value: 1

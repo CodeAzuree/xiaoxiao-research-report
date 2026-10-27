@@ -1,0 +1,14 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=2026112215".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 62, 117
++						131 text 
++					132 text 
+~					124 checkbox (settable, integer) Description: TF2410LXC005, Value: 0
++					133 text TF2410LXC005
+~					126 checkbox (settable, integer) Description: 测试班001, Value: 0
++					134 text 测试班001
+~					128 checkbox (settable, integer) Description: 测试班002, Value: 0
++					135 text 测试班002
+~					130 checkbox (settable, integer) Description: 王小格-SAT, Value: 0
++					136 text 王小格-SAT
+The focused UI element is 60 container 班级 

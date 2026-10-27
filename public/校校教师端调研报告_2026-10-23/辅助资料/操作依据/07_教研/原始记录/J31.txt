@@ -1,0 +1,250 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "245"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业大纲
+- generic: 知识点
+- generic: 
+- generic: "?"
+- generic: 
+- button " 创建大纲":
+  - generic: 
+  - text: 创建大纲
+- tree:
+  - treeitem "其他 1 添加分类" [expanded]:
+    - text: 
+    - generic: 其他 
+    - generic: "1"
+    - generic: 添加分类
+    - treeitem " 无分类 1":
+      - text: 
+      - generic: 
+      - text: 无分类
+      - generic: "1"
+      - generic:  
+  - treeitem "托福 1 添加分类" [expanded]:
+    - text: 
+    - generic: 托福 
+    - generic: "1"
+    - generic: 添加分类
+    - treeitem " 无分类 1":
+      - text: 
+      - generic: 
+      - text: 无分类
+      - generic: "1"
+      - generic:  
+  - treeitem "雅思 4 添加分类" [expanded]:
+    - text: 
+    - generic: 雅思 
+    - generic: "4"
+    - generic: 添加分类
+    - treeitem " 无分类 3" [expanded]:
+      - text: 
+      - generic: 
+      - text: 无分类
+      - generic: "3"
+      - generic:  
+      - treeitem "技巧班":
+        - text: 
+        - generic: 技巧班
+        - generic:  
+      - treeitem "雅思听力（空窗期） TestTestTest":
+        - text: 
+        - generic: 雅思听力（空窗期） TestTestTest
+        - generic:  
+      - treeitem "词汇":
+        - text: 
+        - generic: 词汇
+        - generic:  
+    - treeitem " 口语班课作业 1":
+      - text: 
+      - generic: 
+      - text: 口语班课作业
+      - generic: "1"
+      - generic:   
+  - treeitem "A-Level 1 添加分类" [expanded]:
+    - text: 
+    - generic: A-Level 
+    - generic: "1"
+    - generic: 添加分类
+    - treeitem " 锦秋国际词汇任务 1":
+      - text: 
+      - generic: 
+      - text: 锦秋国际词汇任务
+      - generic: "1"
+      - generic:   
+- generic: 雅思 - 无分类 - 雅思听力（空窗期） TestTestTest
+- generic: "应用次数: 1"
+- generic: 
+- table:
+  - rowgroup:
+    - row "目录名称  点击任务名称可拖拽排序 上传人 操作":
+      - columnheader "目录名称  点击任务名称可拖拽排序":
+        - paragraph:
+          - generic: 目录名称
+          - generic: 
+        - paragraph: 点击任务名称可拖拽排序
+      - columnheader "上传人":
+        - generic: 上传人
+      - columnheader "操作":
+        - generic: 操作
+  - rowgroup:
+    - row " 第一周  叶成 叶成":
+      - cell " 第一周 ":
+        - checkbox
+        - generic: 
+        - generic: 第一周
+        - generic "添加任务": 
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell
+    - row "背诵《雅思听力机经场景词汇汇编》，记忆住宿及工作场景 叶成 叶成":
+      - cell "背诵《雅思听力机经场景词汇汇编》，记忆住宿及工作场景":
+        - generic "背诵《雅思听力机经场景词汇汇编》，记忆住宿及工作场景"
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell
+    - row "完成《剑12雅思精听手册》相关练习，选择5-6分档题目 叶成 叶成":
+      - cell "完成《剑12雅思精听手册》相关练习，选择5-6分档题目":
+        - generic "完成《剑12雅思精听手册》相关练习，选择5-6分档题目"
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell
+    - row "精听练习 叶成 叶成 预览":
+      - cell "精听练习":
+        - generic "精听练习"
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell "预览":
+        - button "预览"
+    - row " 第二周  叶成 叶成":
+      - cell " 第二周 ":
+        - checkbox
+        - generic: 
+        - generic: 第二周
+        - generic "添加任务": 
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:   *  *               * 
+- dialog "添加任务":
+  - generic: 添加任务
+  - button "Close":
+    - generic: 
+  - generic: "*任务名称"
+  - textbox "请输入任务名称"
+  - generic: 0/100
+  - generic: "*关联作业类型"
+  - radiogroup:
+    - radio "单词":
+      - radio
+      - generic: 单词
+    - radio "作业":
+      - radio
+      - generic: 作业
+    - radio "音视频":
+      - radio
+      - generic: 音视频
+    - radio "课件" [checked]:
+      - radio [checked]
+      - generic: 课件
+  - generic: "*关联"
+  - button " 关联":
+    - generic: 
+    - text: 关联
+  - button "确认":
+    - generic: 确认
+- text:                                                                                                                                                                                                                                                    
+- generic: 关联课件
+- generic: ×
+- generic: 我的云盘
+- generic: 共享云盘
+- button " 上传":
+  - generic: 
+  - text: 上传
+- paragraph: "提示: 最大支持500M的文件，为节省空间，建议在上传之前，将媒体文件进行压缩处理~"
+- generic: 全部文件
+- text: 已全部加载，共
+- generic: "6"
+- text: 个文件
+- generic: 文件名
+- generic: 大小
+- generic: 时间
+- generic "01 爱德思Alevel物理U1练习册.pdf"
+- generic: 31.74M
+- generic: 2024-11-13 17:59
+- generic "02 爱德思Alevel物理U2练习册.pdf"
+- generic: 27.37M
+- generic: 2024-11-13 17:59
+- generic "03 爱德思Alevel物理U3练习册.pdf"
+- generic: 13.71M
+- generic: 2024-11-13 17:59
+- generic "04爱德思Alevel物理U4练习册.pdf"
+- generic: 68.24M
+- generic: 2024-11-13 17:59
+- generic "05爱德思Alevel物理U5练习册.pdf"
+- generic: 43.60M
+- generic: 2024-11-13 17:59
+- generic "06 爱德思Alevel物理U6练习册.pdf"
+- generic: 12.62M
+- generic: 2024-11-13 17:59
+- list:
+  - listitem: 首页
+  - listitem: 上一页
+  - listitem: "1"
+  - listitem: 下一页
+  - listitem: 尾页
+- generic: 共 1 页
+- generic: 前往
+- spinbutton: "1"
+- generic: 页
+- paragraph:
+  - button "取消"
+  - button "确认"

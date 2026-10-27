@@ -1,0 +1,790 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- tablist:
+  - tab "练习统计":
+    - generic: 练习统计
+  - tab "错题分析" [selected]:
+    - generic: 错题分析
+  - tab "笔记":
+    - generic: 笔记
+- radiogroup:
+  - button " 学科":
+    - generic: 
+    - generic: 学科
+  - button "机构":
+    - generic: 机构
+  - button "能力":
+    - generic: 能力
+  - button "错词":
+    - generic: 错词
+- button "科目 ( 雅思 ) ":
+  - text: 科目
+  - text: (
+  - generic: 雅思
+  - text: )
+  - generic: 
+- button "分项 ( 不限 ) ":
+  - text: 分项
+  - text: (
+  - generic: 不限
+  - text: )
+  - generic: 
+- generic: 我的进步
+- generic: 本周修复错题
+- generic: "0"
+- generic: 总修复错题
+- generic: "1"
+- generic: 修复率
+- generic: 3.13%
+- generic: 我的错误归因
+- generic: 定位错误
+- generic: 35.29%
+- progressbar
+- generic: TFNG 边界混淆
+- generic: 29.41%
+- progressbar
+- generic: 证据覆盖不足
+- generic: 11.76%
+- progressbar
+- generic: 信息混淆
+- generic: 5.88%
+- progressbar
+- generic: 其它
+- generic: 17.66%
+- progressbar
+- generic: 知识点修复建议
+- generic: 判断对错
+- progressbar
+- generic: 34.38%
+- generic: 图表填空题
+- progressbar
+- generic: 28.13%
+- generic: 句子/段落填空题
+- progressbar
+- generic: 15.63%
+- generic: 匹配题
+- progressbar
+- generic: 9.38%
+- generic: 其它
+- progressbar
+- generic: 12.48%
+- generic: 知识点分类
+- generic: 
+- textbox "搜索知识点"
+- checkbox:
+  - checkbox
+- generic: 阅读
+- generic: "24"
+- checkbox:
+  - checkbox
+- generic: 判断对错
+- generic: "11"
+- checkbox:
+  - checkbox
+- generic: 图表填空题
+- generic: "9"
+- checkbox:
+  - checkbox
+- generic: 匹配题
+- generic: "3"
+- checkbox:
+  - checkbox
+- generic: 多选题
+- generic: "1"
+- checkbox:
+  - checkbox
+- generic: 听力
+- generic: "8"
+- checkbox:
+  - checkbox
+- generic: 句子/段落填空题
+- generic: "5"
+- checkbox:
+  - checkbox
+- generic: 三选一
+- generic: "1"
+- checkbox:
+  - checkbox
+- generic: 多选题
+- generic: "1"
+- checkbox:
+  - checkbox
+- generic: 图表填空题
+- generic: "1"
+- radiogroup:
+  - button " 待修复":
+    - generic: 
+    - generic: 待修复
+  - button "已修复":
+    - generic: 已修复
+- generic: 错误归因
+- generic: 
+- generic: 排序
+- checkbox "只看收藏":
+  - checkbox "只看收藏"
+  - generic: 只看收藏
+- button "重置"
+- generic: 
+- textbox "搜索"
+- table:
+  - rowgroup:
+    - row "内容 分项 知识点 错误次数 错误归因 最近答错日期 收藏":
+      - columnheader
+      - columnheader "内容":
+        - generic: 内容
+      - columnheader "分项":
+        - generic: 分项
+      - columnheader "知识点":
+        - generic: 知识点
+      - columnheader "错误次数":
+        - generic: 错误次数
+      - columnheader "错误归因":
+        - generic: 错误归因
+      - columnheader "最近答错日期":
+        - generic: 最近答错日期
+      - columnheader "收藏":
+        - generic: 收藏
+- table:
+  - rowgroup:
+    - row "1 听力 图表填空题 2 - 2026-05-26 ":
+      - cell
+      - cell "1":
+        - generic: "1"
+      - cell "听力":
+        - generic: 听力
+      - cell "图表填空题":
+        - generic: 图表填空题
+      - cell "2":
+        - generic: "2"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-05-26":
+        - generic: 2026-05-26
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "What TWO types of coursework are required each month on the part-time course? 听力 多选题 2 信息混淆 2026-05-25 ":
+      - cell
+      - cell "What TWO types of coursework are required each month on the part-time course?":
+        - generic: What TWO types of coursework are required each month on the part-time course?
+      - cell "听力":
+        - generic: 听力
+      - cell "多选题":
+        - generic: 多选题
+      - cell "2":
+        - generic: "2"
+      - cell "信息混淆":
+        - generic: 信息混淆
+      - cell "2026-05-25":
+        - generic: 2026-05-25
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "2. Fishermen took some water hyacinth plants to Lake Victoria. 阅读 判断对错 2 定位错误 2026-09-22 ":
+      - cell
+      - cell "2. Fishermen took some water hyacinth plants to Lake Victoria.":
+        - generic: 2. Fishermen took some water hyacinth plants to Lake Victoria.
+      - cell "阅读":
+        - generic: 阅读
+      - cell "判断对错":
+        - generic: 判断对错
+      - cell "2":
+        - generic: "2"
+      - cell "定位错误":
+        - generic: 定位错误
+      - cell "2026-09-22":
+        - generic: 2026-09-22
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "4. Chemicals produced by the water hyacinth plants are affecting the numbers of fish in Lake Victoria. 阅读 判断对错 2 TFNG 边界混淆 2026-09-22 ":
+      - cell
+      - cell "4. Chemicals produced by the water hyacinth plants are affecting the numbers of fish in Lake Victoria.":
+        - generic: 4. Chemicals produced by the water hyacinth plants are affecting the numbers of fish in Lake Victoria.
+      - cell "阅读":
+        - generic: 阅读
+      - cell "判断对错":
+        - generic: 判断对错
+      - cell "2":
+        - generic: "2"
+      - cell "TFNG 边界混淆":
+        - generic: TFNG 边界混淆
+      - cell "2026-09-22":
+        - generic: 2026-09-22
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "5. Cooking with charcoal has been proved to be even worse for people's health than cooking with wood. 阅读 判断对错 2 比较关系处理失败 2026-09-22 ":
+      - cell
+      - cell "5. Cooking with charcoal has been proved to be even worse for people's health than cooking with wood.":
+        - generic: 5. Cooking with charcoal has been proved to be even worse for people's health than cooking with wood.
+      - cell "阅读":
+        - generic: 阅读
+      - cell "判断对错":
+        - generic: 判断对错
+      - cell "2":
+        - generic: "2"
+      - cell "比较关系处理失败":
+        - generic: 比较关系处理失败
+      - cell "2026-09-22":
+        - generic: 2026-09-22
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "6. People found it impossible to remove much water hyacinth from Lake Victoria. 阅读 判断对错 2 证据覆盖不足 2026-09-22 ":
+      - cell
+      - cell "6. People found it impossible to remove much water hyacinth from Lake Victoria.":
+        - generic: 6. People found it impossible to remove much water hyacinth from Lake Victoria.
+      - cell "阅读":
+        - generic: 阅读
+      - cell "判断对错":
+        - generic: 判断对错
+      - cell "2":
+        - generic: "2"
+      - cell "证据覆盖不足":
+        - generic: 证据覆盖不足
+      - cell "2026-09-22":
+        - generic: 2026-09-22
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "8 阅读 图表填空题 2 - 2026-09-22 ":
+      - cell
+      - cell "8":
+        - generic: "8"
+      - cell "阅读":
+        - generic: 阅读
+      - cell "图表填空题":
+        - generic: 图表填空题
+      - cell "2":
+        - generic: "2"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-09-22":
+        - generic: 2026-09-22
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "9 阅读 图表填空题 2 - 2026-09-22 ":
+      - cell
+      - cell "9":
+        - generic: "9"
+      - cell "阅读":
+        - generic: 阅读
+      - cell "图表填空题":
+        - generic: 图表填空题
+      - cell "2":
+        - generic: "2"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-09-22":
+        - generic: 2026-09-22
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "10 阅读 图表填空题 2 - 2026-09-22 ":
+      - cell
+      - cell "10":
+        - generic: "10"
+      - cell "阅读":
+        - generic: 阅读
+      - cell "图表填空题":
+        - generic: 图表填空题
+      - cell "2":
+        - generic: "2"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-09-22":
+        - generic: 2026-09-22
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "11 阅读 图表填空题 2 - 2026-09-22 ":
+      - cell
+      - cell "11":
+        - generic: "11"
+      - cell "阅读":
+        - generic: 阅读
+      - cell "图表填空题":
+        - generic: 图表填空题
+      - cell "2":
+        - generic: "2"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-09-22":
+        - generic: 2026-09-22
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "12 阅读 图表填空题 2 - 2026-09-22 ":
+      - cell
+      - cell "12":
+        - generic: "12"
+      - cell "阅读":
+        - generic: 阅读
+      - cell "图表填空题":
+        - generic: 图表填空题
+      - cell "2":
+        - generic: "2"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-09-22":
+        - generic: 2026-09-22
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "13 阅读 图表填空题 2 - 2026-09-22 ":
+      - cell
+      - cell "13":
+        - generic: "13"
+      - cell "阅读":
+        - generic: 阅读
+      - cell "图表填空题":
+        - generic: 图表填空题
+      - cell "2":
+        - generic: "2"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-09-22":
+        - generic: 2026-09-22
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "8 Georgia O'Keeffe's style was greatly influenced by the changing fashions in art over the seven decades of her career. 阅读 判断对错 1 证据覆盖不足 2026-03-24 ":
+      - cell
+      - cell "8 Georgia O'Keeffe's style was greatly influenced by the changing fashions in art over the seven decades of her career.":
+        - generic: 8 Georgia O'Keeffe's style was greatly influenced by the changing fashions in art over the seven decades of her career.
+      - cell "阅读":
+        - generic: 阅读
+      - cell "判断对错":
+        - generic: 判断对错
+      - cell "1":
+        - generic: "1"
+      - cell "证据覆盖不足":
+        - generic: 证据覆盖不足
+      - cell "2026-03-24":
+        - generic: 2026-03-24
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "9 When O'Keeffe finished high school, she had already made her mind up about the career that she wanted. 阅读 判断对错 1 TFNG 边界混淆 2026-03-24 ":
+      - cell
+      - cell "9 When O'Keeffe finished high school, she had already made her mind up about the career that she wanted.":
+        - generic: 9 When O'Keeffe finished high school, she had already made her mind up about the career that she wanted.
+      - cell "阅读":
+        - generic: 阅读
+      - cell "判断对错":
+        - generic: 判断对错
+      - cell "1":
+        - generic: "1"
+      - cell "TFNG 边界混淆":
+        - generic: TFNG 边界混淆
+      - cell "2026-03-24":
+        - generic: 2026-03-24
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "10 Alfred Stieglitz first discovered O'Keeffe's work when she sent some abstract drawings to his gallery in New York City. 阅读 判断对错 1 TFNG 边界混淆 2026-03-24 ":
+      - cell
+      - cell "10 Alfred Stieglitz first discovered O'Keeffe's work when she sent some abstract drawings to his gallery in New York City.":
+        - generic: 10 Alfred Stieglitz first discovered O'Keeffe's work when she sent some abstract drawings to his gallery in New York City.
+      - cell "阅读":
+        - generic: 阅读
+      - cell "判断对错":
+        - generic: 判断对错
+      - cell "1":
+        - generic: "1"
+      - cell "TFNG 边界混淆":
+        - generic: TFNG 边界混淆
+      - cell "2026-03-24":
+        - generic: 2026-03-24
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "11 O'Keeffe was the subject of Stieglitz's photographic work for many years. 阅读 判断对错 1 定位错误 2026-03-24 ":
+      - cell
+      - cell "11 O'Keeffe was the subject of Stieglitz's photographic work for many years.":
+        - generic: 11 O'Keeffe was the subject of Stieglitz's photographic work for many years.
+      - cell "阅读":
+        - generic: 阅读
+      - cell "判断对错":
+        - generic: 判断对错
+      - cell "1":
+        - generic: "1"
+      - cell "定位错误":
+        - generic: 定位错误
+      - cell "2026-03-24":
+        - generic: 2026-03-24
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "13 O'Keeffe produced a greater quantity of work during the 1950s to 1970s than at any other time in her life. 阅读 判断对错 1 TFNG 边界混淆 2026-03-24 ":
+      - cell
+      - cell "13 O'Keeffe produced a greater quantity of work during the 1950s to 1970s than at any other time in her life.":
+        - generic: 13 O'Keeffe produced a greater quantity of work during the 1950s to 1970s than at any other time in her life.
+      - cell "阅读":
+        - generic: 阅读
+      - cell "判断对错":
+        - generic: 判断对错
+      - cell "1":
+        - generic: "1"
+      - cell "TFNG 边界混淆":
+        - generic: TFNG 边界混淆
+      - cell "2026-03-24":
+        - generic: 2026-03-24
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth. 听力 句子/段落填空题 1 - 2026-05-21 ":
+      - cell
+      - cell "Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.":
+        - generic: Modular Courses
+        - text: Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.
+      - cell "听力":
+        - generic: 听力
+      - cell "句子/段落填空题":
+        - generic: 句子/段落填空题
+      - cell "1":
+        - generic: "1"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-05-21":
+        - generic: 2026-05-21
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth. 听力 句子/段落填空题 1 - 2026-05-21 ":
+      - cell
+      - cell "Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.":
+        - generic: Modular Courses
+        - text: Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.
+      - cell "听力":
+        - generic: 听力
+      - cell "句子/段落填空题":
+        - generic: 句子/段落填空题
+      - cell "1":
+        - generic: "1"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-05-21":
+        - generic: 2026-05-21
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth. 听力 句子/段落填空题 1 - 2026-05-21 ":
+      - cell
+      - cell "Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.":
+        - generic: Modular Courses
+        - text: Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.
+      - cell "听力":
+        - generic: 听力
+      - cell "句子/段落填空题":
+        - generic: 句子/段落填空题
+      - cell "1":
+        - generic: "1"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-05-21":
+        - generic: 2026-05-21
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth. 听力 句子/段落填空题 1 - 2026-05-21 ":
+      - cell
+      - cell "Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.":
+        - generic: Modular Courses
+        - text: Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.
+      - cell "听力":
+        - generic: 听力
+      - cell "句子/段落填空题":
+        - generic: 句子/段落填空题
+      - cell "1":
+        - generic: "1"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-05-21":
+        - generic: 2026-05-21
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth. 听力 句子/段落填空题 1 - 2026-05-21 ":
+      - cell
+      - cell "Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.":
+        - generic: Modular Courses
+        - text: Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.
+      - cell "听力":
+        - generic: 听力
+      - cell "句子/段落填空题":
+        - generic: 句子/段落填空题
+      - cell "1":
+        - generic: "1"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-05-21":
+        - generic: 2026-05-21
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "29 There is a vocabulary of sounds which is common to all transient killer whales. 阅读 判断对错 1 定位错误 2026-05-23 ":
+      - cell
+      - cell "29 There is a vocabulary of sounds which is common to all transient killer whales.":
+        - generic: 29 There is a vocabulary of sounds which is common to all transient killer whales.
+      - cell "阅读":
+        - generic: 阅读
+      - cell "判断对错":
+        - generic: 判断对错
+      - cell "1":
+        - generic: "1"
+      - cell "定位错误":
+        - generic: 定位错误
+      - cell "2026-05-23":
+        - generic: 2026-05-23
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "31 The dialects of transient killer whales remain constant over time. 阅读 判断对错 1 TFNG 边界混淆 2026-05-23 ":
+      - cell
+      - cell "31 The dialects of transient killer whales remain constant over time.":
+        - generic: 31 The dialects of transient killer whales remain constant over time.
+      - cell "阅读":
+        - generic: 阅读
+      - cell "判断对错":
+        - generic: 判断对错
+      - cell "1":
+        - generic: "1"
+      - cell "TFNG 边界混淆":
+        - generic: TFNG 边界混淆
+      - cell "2026-05-23":
+        - generic: 2026-05-23
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "32 阅读 图表填空题 1 - 2026-05-23 ":
+      - cell
+      - cell "32":
+        - generic: "32"
+      - cell "阅读":
+        - generic: 阅读
+      - cell "图表填空题":
+        - generic: 图表填空题
+      - cell "1":
+        - generic: "1"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-05-23":
+        - generic: 2026-05-23
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "33 阅读 图表填空题 1 - 2026-05-23 ":
+      - cell
+      - cell "33":
+        - generic: "33"
+      - cell "阅读":
+        - generic: 阅读
+      - cell "图表填空题":
+        - generic: 图表填空题
+      - cell "1":
+        - generic: "1"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-05-23":
+        - generic: 2026-05-23
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "34 阅读 图表填空题 1 - 2026-05-23 ":
+      - cell
+      - cell "34":
+        - generic: "34"
+      - cell "阅读":
+        - generic: 阅读
+      - cell "图表填空题":
+        - generic: 图表填空题
+      - cell "1":
+        - generic: "1"
+      - cell "-":
+        - generic: "-"
+      - cell "2026-05-23":
+        - generic: 2026-05-23
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "Which THREE of the following features of whales are mentioned in the passage? 阅读 多选题 1 原词匹配倾向 2026-05-23 ":
+      - cell
+      - cell "Which THREE of the following features of whales are mentioned in the passage?":
+        - generic: Which THREE of the following features of whales are mentioned in the passage?
+      - cell "阅读":
+        - generic: 阅读
+      - cell "多选题":
+        - generic: 多选题
+      - cell "1":
+        - generic: "1"
+      - cell "原词匹配倾向":
+        - generic: 原词匹配倾向
+      - cell "2026-05-23":
+        - generic: 2026-05-23
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "38 an example of the kind of information passed by whales to each other 阅读 匹配题 1 定位错误 2026-05-23 ":
+      - cell
+      - cell "38 an example of the kind of information passed by whales to each other":
+        - generic: 38 an example of the kind of information passed by whales to each other
+      - cell "阅读":
+        - generic: 阅读
+      - cell "匹配题":
+        - generic: 匹配题
+      - cell "1":
+        - generic: "1"
+      - cell "定位错误":
+        - generic: 定位错误
+      - cell "2026-05-23":
+        - generic: 2026-05-23
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "39 a reference to variations in communication styles between different cultures within one species 阅读 匹配题 1 定位错误 2026-05-23 ":
+      - cell
+      - cell "39 a reference to variations in communication styles between different cultures within one species":
+        - generic: 39 a reference to variations in communication styles between different cultures within one species
+      - cell "阅读":
+        - generic: 阅读
+      - cell "匹配题":
+        - generic: 匹配题
+      - cell "1":
+        - generic: "1"
+      - cell "定位错误":
+        - generic: 定位错误
+      - cell "2026-05-23":
+        - generic: 2026-05-23
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+    - row "40 ways in which the skills of whales are favourable for the development of culture 阅读 匹配题 1 定位错误 2026-05-23 ":
+      - cell
+      - cell "40 ways in which the skills of whales are favourable for the development of culture":
+        - generic: 40 ways in which the skills of whales are favourable for the development of culture
+      - cell "阅读":
+        - generic: 阅读
+      - cell "匹配题":
+        - generic: 匹配题
+      - cell "1":
+        - generic: "1"
+      - cell "定位错误":
+        - generic: 定位错误
+      - cell "2026-05-23":
+        - generic: 2026-05-23
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+- generic: 共 31 条
+- button "50 条/页 ":
+  - text: 50 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button [disabled]:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:       
+- tooltip "全选":
+  - textbox "请输入关键字"
+  - checkbox "全选":
+    - checkbox "全选"
+    - generic: 全选
+  - checkbox "定位错误":
+    - checkbox "定位错误"
+    - generic: 定位错误
+  - checkbox "TFNG 边界混淆":
+    - checkbox "TFNG 边界混淆"
+    - generic: TFNG 边界混淆
+  - checkbox "证据覆盖不足":
+    - checkbox "证据覆盖不足"
+    - generic: 证据覆盖不足
+  - checkbox "信息混淆":
+    - checkbox "信息混淆"
+    - generic: 信息混淆
+  - checkbox "对比选择理解错误":
+    - checkbox "对比选择理解错误"
+    - generic: 对比选择理解错误
+  - checkbox "比较关系处理失败":
+    - checkbox "比较关系处理失败"
+    - generic: 比较关系处理失败
+  - checkbox "原词匹配倾向":
+    - checkbox "原词匹配倾向"
+    - generic: 原词匹配倾向

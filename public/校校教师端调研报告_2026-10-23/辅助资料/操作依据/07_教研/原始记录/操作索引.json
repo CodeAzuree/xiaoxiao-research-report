@@ -1,0 +1,224 @@
+[
+  {
+    "id": "J01",
+    "note": "教研入口：作业大纲与知识点，当前我的知识点卡片页",
+    "time": "2026-10-23T05:37:35.592Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J02",
+    "note": "知识点可切换卡片和列表",
+    "time": "2026-10-23T05:37:48.401Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J03",
+    "note": "列表字段：名称科目更新时间详情操作；排序按更新时间或A-Z",
+    "time": "2026-10-23T05:37:57.370Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J04",
+    "note": "知识点编辑：科目类型禁用、共享开关、名称100字详情1000字、多媒体和附件",
+    "time": "2026-10-23T05:38:11.179Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J05",
+    "note": "音频讲解播放器支持进度音量快退快进10秒和0.5至2倍速",
+    "time": "2026-10-23T05:38:22.469Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J06",
+    "note": "新增知识点空白表单：科目类型可选，默认不共享",
+    "time": "2026-10-23T05:38:38.442Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J07",
+    "note": "知识点类型下拉：阅读听力口语写作",
+    "time": "2026-10-23T05:38:48.840Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J08",
+    "note": "知识点富文本工具：加粗下划线斜体文字颜色背景色和插入公式入口",
+    "time": "2026-10-23T05:39:02.147Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J09",
+    "note": "共享知识点列表：当前A-Level/U1，五条知识点，均有编辑入口",
+    "time": "2026-10-23T05:39:14.509Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J10",
+    "note": "共享条目行虽标编辑，打开为查看知识点；字段和共享选项禁用，无保存按钮",
+    "time": "2026-10-23T05:39:19.167Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J11",
+    "note": "作业大纲：左侧科目/分类/数量，右侧大纲目录、上传人、操作、作业",
+    "time": "2026-10-23T05:39:37.371Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J12",
+    "note": "已有大纲内容：周目录/任务/上传人、应用次数、拖拽说明与预览",
+    "time": "2026-10-23T05:39:46.978Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J13",
+    "note": "大纲任务预览菜单：答题预览与结果页预览",
+    "time": "2026-10-23T05:39:58.525Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J14",
+    "note": "大纲答题预览：精听作业名称、题型、建议时长、题数与开始做题",
+    "time": "2026-10-23T05:40:11.576Z",
+    "url": "https://learninghub.xhd.cn/hwkx/org/publish.html?iviewtype=1&iviewid=44253&iviewday=&iviewtors=0"
+  },
+  {
+    "id": "J15",
+    "note": "大纲结果预览：结果/解析/录屏页签及分数正确率答题数框架",
+    "time": "2026-10-23T05:40:29.411Z",
+    "url": "https://learninghub.xhd.cn/hwkx/org/publish.html?iviewtype=1&iviewid=44253&iviewday=&iviewtors=1"
+  },
+  {
+    "id": "J16",
+    "note": "创建大纲：必选科目与名称，科目下拉包含语言考试与国际课程",
+    "time": "2026-10-23T05:40:39.189Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J17",
+    "note": "添加分类打开编辑分类，支持选择/输入与既有分类编辑删除图标",
+    "time": "2026-10-23T05:40:55.260Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J18",
+    "note": "添加目录：必填目录名称与确认",
+    "time": "2026-10-23T05:41:19.279Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J19",
+    "note": "添加任务：名称100字，关联单词/作业/音视频/课件四类",
+    "time": "2026-10-23T05:41:44.882Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J20",
+    "note": "单词关联选择器：来源/词库名称/听说读写多种作答方式、多选、学习模式、强监管与倒计时",
+    "time": "2026-10-23T05:41:50.441Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J21",
+    "note": "单词作答方式下半部：读写选择、填空、补全、同义词替换",
+    "time": "2026-10-23T05:41:56.811Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J22",
+    "note": "作业关联：基础练习/题型训练/模考测试/机构题库/自定义作业，基础词库可指定起始词数",
+    "time": "2026-10-23T05:42:15.826Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J23",
+    "note": "大纲自定义作业：标题详情倒计时附件、答题卡和历史存档",
+    "time": "2026-10-23T05:42:21.974Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J24",
+    "note": "自定义作业答题卡提供单选多选填空写作口语及Excel上传",
+    "time": "2026-10-23T05:42:26.844Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J25",
+    "note": "题型训练关联：分项筛选、题目与已选、关联音视频、倒计时、结果页隐藏答案与强监管",
+    "time": "2026-10-23T05:42:39.280Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J26",
+    "note": "模考关联：组卷/整套、分项、倒计时结束禁答与答案显示配置",
+    "time": "2026-10-23T05:43:00.427Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J27",
+    "note": "模考题目资源已加载：来源话题、排序搜索、全选已选与分页",
+    "time": "2026-10-23T05:43:14.474Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J28",
+    "note": "机构题库关联：组卷/整套分数换算，科目题型知识点交互难度筛选",
+    "time": "2026-10-23T05:43:23.814Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J29",
+    "note": "音视频关联：我的云盘/共享云盘、上传500M提示和分页",
+    "time": "2026-10-23T05:43:37.154Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J30",
+    "note": "共享音视频文件：名称大小时间与分页，可选已有MP3",
+    "time": "2026-10-23T05:43:48.114Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J31",
+    "note": "课件关联：我的/共享云盘，已有PDF名称大小时间、分页和上传入口",
+    "time": "2026-10-23T05:44:04.701Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J32",
+    "note": "可展开/收起右侧作业详情，当前课件任务显示PDF附件",
+    "time": "2026-10-23T05:44:22.897Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J33",
+    "note": "点击任务切换右侧关联作业摘要：精听题目名称",
+    "time": "2026-10-23T05:44:44.937Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J34",
+    "note": "大纲目录可勾选与展开收起；页面标注任务名称可拖拽排序",
+    "time": "2026-10-23T05:45:09.294Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J35",
+    "note": "知识点名称搜索：输入测试知识点并展示匹配结果",
+    "time": "2026-10-23T05:46:34.173Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J36",
+    "note": "词汇作答方式完整区域：听4种、说1种、读5种、写3种；可全选清除",
+    "time": "2026-10-23T05:47:30.386Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  },
+  {
+    "id": "J37",
+    "note": "题型训练已加载：分项/知识点、名称路径、正确率更新时间、搜索排序全选分页",
+    "time": "2026-10-23T05:47:48.772Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=h-k&stutab=0"
+  }
+]

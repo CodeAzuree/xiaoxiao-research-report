@@ -1,0 +1,174 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=2026112215".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=2026112215
+	1 container myweb
+		2 container root-menu
+			3 container
+				4 image
+				5 text 首页
+			6 container
+				7 image
+				8 text 作业
+			9 container
+				10 image
+				11 text 课表
+			12 container
+				13 image
+				14 text 题库
+			15 container
+				16 image
+				17 text 单词书
+			18 container
+				19 image
+				20 text 错题
+			21 container
+				22 image
+				23 text 自适应
+			24 container
+				25 image
+				26 text 反馈
+			27 container
+				28 image
+				29 text 笔记
+			30 container
+				31 image
+				32 text 学习报告
+		33 container root-mv-right
+			34 container root-mv-header
+				35 image
+				36 container
+					37 text field (settable)
+					847 text 
+				39 button icon
+					40 image icon
+				41 container
+					848 text 
+					43 button icon
+						44 image icon
+				45 container
+					46 button icon
+						47 image icon
+					48 text 5
+				49 button icon
+					50 image icon
+				51 container
+					52 image
+					53 text 10
+				54 text 小格
+			57 container
+				58 text 我的作业
+				59 content list
+					60 container
+						61 image
+						62 text 全部作业 (73)
+					63 container
+						64 image
+						65 text 待完成 (44)
+					66 container
+						67 image
+						68 text 已完成 (20)
+					69 container
+						70 image
+						71 text 进行中 (9)
+					72 container
+						73 image
+						74 text 已批改 (4)
+					75 container
+						76 image
+						77 text 收藏作业
+					78 container
+						79 image
+						80 text 有新评语 (1)
+					81 container
+						82 image
+						83 text 即将过期
+					84 container
+						85 image
+						86 text 已逾期 (53)
+				898 text 有新评语 班级：
+				899 container
+					900 text 全部 王小格-SAT 测试班001 TF2410LXC005 测试班002
+				901 text 类型：
+				902 container
+					903 text 全部 单词作业 作业模考 打卡作业 视频课件
+				904 text 时间：
+				905 container
+					906 text 全部 今天 未来三天 未来七天
+				907 container
+					908 text field (settable)
+					909 text 
+				910 button 搜索
+				911 container
+					912 image
+					913 image
+				914 text 2026-05-23
+				915 container
+					916 image
+					917 text 作业模考
+					918 image
+					919 image
+					920 text 有新评语 已批改 雅思 开始时间：2026-05-23 14:00 截止时间：2026-05-23 14:10 班级：测试班002 冰晖 李冰晖
+					921 text 
+					922 text 查看结果
+				923 text 共 1 天
+				924 container
+					925 text field 50天/页
+					926 text 
+				927 button (disabled) 
+					928 text 
+				929 content list
+					930 text 1
+				931 button (disabled) 
+					932 text 
+				933 container
+					934 text 前往
+					935 stepper (settable, integer) 1
+					936 text 页
+				800 container
+					896 text  返回作业管理
+				802 image
+				803 text 日期
+				804 text /
+				805 text 批改老师
+				806 text -
+				807 text 打卡频次 平均成绩 完成数 0 /- 批改数 0 /-
+				808 container
+					809 button AI作业分析
+						810 image
+						811 text AI作业分析
+					812 image
+				813 container
+					814 tab group
+						815 container
+							816 tab (selected, settable, boolean) 参与学生, Value: 1
+							817 tab (settable) 题目
+							818 tab (settable) 统计
+							819 tab (settable) 排行榜
+					820 text 当天打卡率 0% 0/0已打卡
+					821 image
+					822 text 暂无数据，还没有学生的打卡内容~
+				823 container
+					897 text  返回作业管理
+				825 image
+				826 text 日期
+				827 text /
+				828 text 题目数
+				829 text 批改老师
+				830 text -
+				831 text 平均成绩 完成数 0 /- 批改数 0 /-
+				832 container
+					833 button AI作业分析
+						834 image
+						835 text AI作业分析
+					836 image
+				837 button 再次布置
+				838 button 预览
+				839 tab group
+					840 container
+						841 tab (selected, settable, boolean) 参与学生, Value: 1
+						842 tab (settable) 统计
+						843 tab (settable) 排行榜
+				844 container
+					845 image
+					846 text 暂无数据~
+
+The focused UI element is 0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=2026112215

@@ -1,0 +1,225 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	1 container myweb
+		2 container root-menu
+			3 container
+				4 image
+				5 text 首页
+			6 container
+				7 image
+				8 text 作业
+			9 container
+				10 image
+				11 text 课表
+			12 container
+				13 image
+				14 text 题库
+			15 container
+				16 image
+				17 text 单词书
+			18 container
+				19 image
+				20 text 错题
+			21 container
+				22 image
+				23 text 自适应
+			24 container
+				25 image
+				26 text 反馈
+			27 container
+				28 image
+				29 text 笔记
+			30 container
+				31 image
+				32 text 学习报告
+		33 container root-mv-right
+			34 container root-mv-header
+				35 image
+				36 container
+					37 text field (settable)
+					714 text 
+				39 button icon
+					40 image icon
+				41 container
+					715 text 
+					43 button icon
+						44 image icon
+				45 container
+					46 button icon
+						47 image icon
+					48 text 5
+				49 button icon
+					50 image icon
+				51 container
+					52 image
+					53 text 10
+				54 text 小格
+			55 container root-container
+				58 tab group
+					59 container
+						60 tab (selected, settable, boolean) 学科, Value: 1
+						61 tab (settable) 机构
+						62 tab (settable) 能力
+						63 tab (settable) 错词
+				66 container
+					67 text 科目 雅思 SAT机考 分项
+					68 text 不限
+					69 text 听力
+					70 text 阅读 我的进步
+					71 image
+					72 text 本周修复错题
+					73 text 0
+					74 image
+					75 text 总修复错题
+					76 text 1
+					77 image
+					78 text 修复率
+					79 image
+					80 text 3.13%
+					81 text 我的错误归因
+					82 text 定位错误 35.29%
+					83 progress indicator 35.290000915527344
+					84 text TFNG 边界混淆 29.41%
+					85 progress indicator 29.40999984741211
+					86 text 证据覆盖不足 11.76%
+					87 progress indicator 11.760000228881836
+					88 text 信息混淆 5.88%
+					89 progress indicator 5.880000114440918
+					90 text 其它 17.66%
+					91 progress indicator 17.65999984741211
+					92 text 知识点修复建议
+					713 text T/F/NG判断题
+					94 progress indicator 28.1299991607666
+					95 text 28.13%
+					96 text Summary摘要填空
+					97 progress indicator 15.630000114440918
+					98 text 15.63%
+					99 text Table表格填空
+					100 progress indicator 9.380000114440918
+					101 text 9.38%
+					102 text Flow-chart流程图填空
+					103 progress indicator 9.380000114440918
+					104 text 9.38%
+					105 text 其它
+					106 progress indicator 37.47999954223633
+					107 text 37.48%
+					108 container
+						109 text 知识点分类
+						110 image
+						1253 text 
+						112 text field (settable)
+						113 container
+							114 checkbox 0
+								115 checkbox (settable, integer) 0
+							116 text 阅读
+							117 text 24
+							118 checkbox 0
+								119 checkbox (settable, integer) 0
+							120 text T/F/NG判断题
+							121 text 9
+							122 checkbox 0
+								123 checkbox (settable, integer) 0
+							124 text Table表格填空
+							125 text 3
+							126 checkbox 0
+								127 checkbox (settable, integer) 0
+							128 text Flow-chart流程图填空
+							129 text 3
+							130 checkbox 0
+								131 checkbox (settable, integer) 0
+							132 text Note笔记填空
+							133 text 3
+							134 checkbox 0
+								135 checkbox (settable, integer) 0
+							136 text Matching段落信息匹配
+							137 text 3
+							138 checkbox 0
+								139 checkbox (settable, integer) 0
+							140 text Y/N/NG判断题
+							141 text 2
+							142 checkbox 0
+								143 checkbox (settable, integer) 0
+							144 text Multiple Choice多选题
+							145 text 1
+						146 container
+							147 checkbox 0
+								148 checkbox (settable, integer) 0
+							149 text 听力
+							150 text 8
+							151 checkbox 0
+								152 checkbox (settable, integer) 0
+							153 text Summary摘要填空
+							154 text 5
+							155 checkbox 0
+								156 checkbox (settable, integer) 0
+							157 text Note笔记填空
+							158 text 1
+							159 checkbox 0
+								160 checkbox (settable, integer) 0
+							161 text Single Choice单选题
+							162 text 1
+							163 checkbox 0
+								164 checkbox (settable, integer) 0
+							165 text Multiple Choice多选题
+							166 text 1
+					167 container
+						168 button 待修复
+						171 button  已修复
+							1254 text 
+							1252 text 已修复
+						172 container
+							173 text 错误归因
+							1255 text 
+						175 container
+							176 text 排序
+							177 image
+						178 checkbox 只看收藏, Value: 0
+							179 checkbox (settable, integer) 只看收藏, Value: 0
+							180 text 只看收藏
+						181 button 重置
+						1256 text 
+						183 text field (settable)
+					721 container
+						722 table
+							723 row
+								724 cell
+									725 text 内容
+								726 cell
+									727 text 分项
+								728 cell
+									729 text 知识点
+								730 cell
+									731 text 错误次数
+								732 cell
+									733 text 错误归因
+								734 cell
+									735 text 最近答错日期
+								736 cell
+									737 text 收藏
+						738 table
+							1257 row
+								1258 cell
+									1259 text 22. During the course Andrew's employers will pay ______.
+								1260 cell
+									1261 text 听力
+								1262 cell
+									1263 text Single Choice单选题
+								1264 cell
+									1265 text 2
+								1266 cell
+									1267 text 对比选择理解错误
+								1268 cell
+									1269 text 2026-05-25
+								1270 cell
+									1271 button 
+										1272 text 
+						1242 text 共 1 条
+						1243 button 50 条/页 
+							1244 text 50 条/页
+							1273 text 
+						1246 button 1
+						1247 text 前往
+						1248 text field (settable)
+						1249 text 页
+
+The focused UI element is 171 button  已修复

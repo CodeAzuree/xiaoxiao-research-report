@@ -1,0 +1,147 @@
+Browser tab: 54, Title: "新托福2026", URL: "https://learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122".
+0 AXWebArea 新托福2026, URL: learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122
+	1 container myweb
+		2 container
+			3 image
+			4 text Jane Austen
+			5 button icon
+				6 image icon
+			7 button icon
+				8 image icon
+			9 button 
+				10 text 
+			11 text 重点词汇
+			12 text 翻译
+			13 text 答题解析
+			14 text 题目订正
+			15 container
+				16 text entry area (settable)
+				137 text 
+				18 text 思路讲解
+				19 button (disabled) icon
+					20 image icon
+				21 text 内容由 AI 生成
+		22 text 新托福口语模考
+		138 text 
+		24 text 2026.05.15 09:48 - 2026.05.15 09:56
+		25 container
+			26 container
+				27 text 作业结果 答题解析 巩固训练
+			139 container highlight-global-view
+				140 tab group
+					141 container
+						142 tab (selected, settable, boolean) 口语, Value: 1
+				143 tab group
+					144 button (expanded) 口语 430 S , Secondary Actions: Collapse
+						145 text 口语
+						146 text 430 S
+						147 text 
+					148 content list
+						149 container
+							150 text (1) 90 S
+							151 image
+							152 image
+						153 container
+							154 text (2) 340 S
+							155 image
+							156 image
+				157 container
+					158 text 题目
+					159 text 正确率
+					160 text -
+					161 text 中位用时
+					162 text 01:15
+					163 text 区分度
+					164 text 0.48
+					165 text 争议率
+					166 text -
+					167 image
+					168 text 00:00/00:16
+					169 slider Description: slider between 0 and 100, Value: 50
+					170 slider Description: slider between 0 and 100, Value: 50
+					171 image 后退10秒
+					172 image 前进10秒
+					173 image 播放速度
+					174 text You are working a part-time job at a home improvement store near campus. Your manager is training you to assist customers at the store. Listen to the manager and repeat what the manager says. Repeat only once.
+					175 image
+					176 button  问题一
+						177 text 
+						178 text 问题一
+					179 button 问题二
+					180 button 问题三
+					181 button 问题四
+					182 button 问题五
+					183 button 问题六
+					184 button 问题七
+					185 image
+					186 text 00:00/00:04
+					187 slider Description: slider between 0 and 100, Value: 50
+					188 slider Description: slider between 0 and 100, Value: 50
+					189 image 后退10秒
+					190 image 前进10秒
+					191 image 播放速度
+					192 text Trainer[Man]: Lighting is located near the entrance.
+					193 image
+					194 text 知识点
+					195 text 题目来源
+					196 text 跟读复述
+					197 button  题目解析, ID: xx-capsule-radio__item-0
+						198 text 
+						199 text 题目解析
+					200 button 名师讲解, ID: xx-capsule-radio__item-1
+					201 button 笔记列表, ID: xx-capsule-radio__item-2
+					202 text 对此题提出疑问？ 题目得分 得分 -- 分，总分5分
+					203 tab group
+						204 container
+							205 tab (selected, settable, boolean) 分项批改, Value: 1
+					206 text 分数评价
+					207 container
+						208 text Content Completeness 
+						209 text 
+						210 text Linguistic Accuracy 
+						211 text 
+						212 text Delivery 
+						213 text 
+					214 text Content Completeness -
+					215 text 内容完整性(CC)
+					216 text -- 分
+					217 text 
+					218 text 整体评价 Content Completeness Linguistic Accuracy Delivery 整体评价: 在本次口语跟读中，您的发音整体较为清晰，语调起伏自然，节奏也较为稳定。然而，存在明显的跟读不一致性，尤其是将"Lighting"错误读为"Blighting"，这导致了与原文的匹配度下降。此外，部分单词的发音准确度也有待提高，例如"near"和"entrance"的发音略显不够标准。建议您在跟读时多加注意单词的准确发音，并进行多次练习，以提高跟读的完整度和流畅度。通过反复练习，您将能够更好地掌握语音的准确性和自然度。
+					219 container
+						220 text 题目
+						221 content list
+							222 text 1
+							223 text 2
+							224 text 3
+							225 text 4
+							226 text 5
+							227 text 6
+							228 text 7
+						229 text 
+					230 text 学生答案
+					231 text 00:00/00:08
+					232 slider Description: slider between 0 and 100, Value: 50
+					233 container
+						234 slider Description: slider between 0 and 100, Value: 50
+						235 image
+					236 image 后退10秒
+					237 image 前进10秒
+					238 image 播放速度
+					239 image
+					240 text Blighting is located near the entrance.
+					241 text 批改详情
+					242 image
+					243 container
+						244 text Content Completeness 1
+					245 container
+						246 text Linguistic Accuracy 1
+					247 container
+						248 text Delivery 3
+					249 content list
+						250 container grammar0
+							251 text Blighting is located near the entrance.
+							252 text Content Completeness
+	135 container
+		136 text 已生成当前作业的订正练习，点击去练习巩固薄弱知识点 去练习 
+
+The focused UI element is 0 AXWebArea 新托福2026, URL: learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122

@@ -1,0 +1,295 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "245"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业大纲
+- generic: 知识点
+- generic: 
+- generic: "?"
+- generic: 
+- button " 创建大纲":
+  - generic: 
+  - text: 创建大纲
+- tree:
+  - treeitem "其他 1 添加分类" [expanded]:
+    - text: 
+    - generic: 其他 
+    - generic: "1"
+    - generic: 添加分类
+    - treeitem " 无分类 1":
+      - text: 
+      - generic: 
+      - text: 无分类
+      - generic: "1"
+      - generic:  
+  - treeitem "托福 1 添加分类" [expanded]:
+    - text: 
+    - generic: 托福 
+    - generic: "1"
+    - generic: 添加分类
+    - treeitem " 无分类 1":
+      - text: 
+      - generic: 
+      - text: 无分类
+      - generic: "1"
+      - generic:  
+  - treeitem "雅思 4 添加分类" [expanded]:
+    - text: 
+    - generic: 雅思 
+    - generic: "4"
+    - generic: 添加分类
+    - treeitem " 无分类 3" [expanded]:
+      - text: 
+      - generic: 
+      - text: 无分类
+      - generic: "3"
+      - generic:  
+      - treeitem "技巧班":
+        - text: 
+        - generic: 技巧班
+        - generic:  
+      - treeitem "雅思听力（空窗期） TestTestTest":
+        - text: 
+        - generic: 雅思听力（空窗期） TestTestTest
+        - generic:  
+      - treeitem "词汇":
+        - text: 
+        - generic: 词汇
+        - generic:  
+    - treeitem " 口语班课作业 1":
+      - text: 
+      - generic: 
+      - text: 口语班课作业
+      - generic: "1"
+      - generic:   
+  - treeitem "A-Level 1 添加分类" [expanded]:
+    - text: 
+    - generic: A-Level 
+    - generic: "1"
+    - generic: 添加分类
+    - treeitem " 锦秋国际词汇任务 1":
+      - text: 
+      - generic: 
+      - text: 锦秋国际词汇任务
+      - generic: "1"
+      - generic:   
+- generic: 雅思 - 无分类 - 雅思听力（空窗期） TestTestTest
+- generic: "应用次数: 1"
+- generic: 
+- table:
+  - rowgroup:
+    - row "目录名称  点击任务名称可拖拽排序 上传人 操作":
+      - columnheader "目录名称  点击任务名称可拖拽排序":
+        - paragraph:
+          - generic: 目录名称
+          - generic: 
+        - paragraph: 点击任务名称可拖拽排序
+      - columnheader "上传人":
+        - generic: 上传人
+      - columnheader "操作":
+        - generic: 操作
+  - rowgroup:
+    - row " 第一周  叶成 叶成":
+      - cell " 第一周 ":
+        - checkbox
+        - generic: 
+        - generic: 第一周
+        - generic "添加任务": 
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell
+    - row "背诵《雅思听力机经场景词汇汇编》，记忆住宿及工作场景 叶成 叶成":
+      - cell "背诵《雅思听力机经场景词汇汇编》，记忆住宿及工作场景":
+        - generic "背诵《雅思听力机经场景词汇汇编》，记忆住宿及工作场景"
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell
+    - row "完成《剑12雅思精听手册》相关练习，选择5-6分档题目 叶成 叶成":
+      - cell "完成《剑12雅思精听手册》相关练习，选择5-6分档题目":
+        - generic "完成《剑12雅思精听手册》相关练习，选择5-6分档题目"
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell
+    - row "精听练习 叶成 叶成 预览":
+      - cell "精听练习":
+        - generic "精听练习"
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell "预览":
+        - button "预览"
+    - row " 第二周  叶成 叶成":
+      - cell " 第二周 ":
+        - checkbox
+        - generic: 
+        - generic: 第二周
+        - generic "添加任务": 
+      - cell "叶成 叶成":
+        - generic: 叶成
+        - generic: 叶成
+      - cell
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:   *  *               * 
+- dialog "添加任务":
+  - generic: 添加任务
+  - button "Close":
+    - generic: 
+  - generic: "*任务名称"
+  - textbox "请输入任务名称"
+  - generic: 0/100
+  - generic: "*关联作业类型"
+  - radiogroup:
+    - radio "单词":
+      - radio
+      - generic: 单词
+    - radio "作业" [checked]:
+      - radio [checked]
+      - generic: 作业
+    - radio "音视频":
+      - radio
+      - generic: 音视频
+    - radio "课件":
+      - radio
+      - generic: 课件
+  - generic: "*关联"
+  - button " 关联":
+    - generic: 
+    - text: 关联
+  - button "确认":
+    - generic: 确认
+- dialog "dialog":
+  - text: 
+  - tablist:
+    - tab "基础练习":
+      - generic: 基础练习
+    - tab "题型训练":
+      - generic: 题型训练
+    - tab "模考测试":
+      - generic: 模考测试
+    - tab "机构题库":
+      - generic: 机构题库
+    - tab "自定义作业" [selected]:
+      - generic: 自定义作业
+  - button "确认关联"
+  - generic: 
+  - text:                  
+  - button "添加答题卡" [active]:
+    - generic: 添加答题卡
+  - button "历史存档":
+    - generic: 历史存档
+  - generic: 作业名称 *
+  - textbox "请输入作业标题"
+  - paragraph: 注：标题内容限制字数为100个字符~
+  - text:   
+  - generic: 答题时长
+  - switch "关闭倒计时":
+    - checkbox
+    - generic: 关闭倒计时
+    - generic: 开启倒计时
+  - generic: 作业详情 *
+  - button "正文":
+    - text: 正文
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button "默认字号":
+    - text: 默认字号
+  - button "默认字体":
+    - text: 默认字体
+  - button "默认行高":
+    - text: 默认行高
+  - button:
+  - button:
+  - button:
+  - paragraph
+  - generic: 请输入材料内容...
+  - generic: 附件
+  - generic: 注意：单个附件不超过50M，视频不超过300M，最多可添加9个
+  - generic: 本地上传
+  - generic: 云盘
+  - text: 
+  - generic: 
+  - generic: 
+  - generic: 
+  - generic: 
+  - generic: 
+  - generic: 
+  - generic: 
+  - text:                                
+  - generic: 
+  - text: 
+- dialog "添加答题卡":
+  - generic: 添加答题卡
+  - button "Close":
+    - generic: 
+  - button "单选题":
+    - generic: 单选题
+  - button "多选题":
+    - generic: 多选题
+  - button "填空题":
+    - generic: 填空题
+  - button "写作题":
+    - generic: 写作题
+  - button "口语题":
+    - generic: 口语题
+  - button "Excel上传":
+    - generic: Excel上传
+  - paragraph:
+    - generic: 暂无答题卡数据，请先添加题目类据~
+  - button "取消":
+    - generic: 取消
+  - button "确认":
+    - generic: 确认

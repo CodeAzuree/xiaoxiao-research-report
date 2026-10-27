@@ -1,0 +1,55 @@
+Browser tab: 57, Title: "新托福2026", URL: "https://learninghub.xhd.cn/org/tpo/tpo.html?id=11688950&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122&clientmode=full".
+0 AXWebArea 新托福2026, URL: learninghub.xhd.cn/org/tpo/tpo.html?id=11688950&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122&clientmode=full
+	1 container app
+		2 container
+			3 text 正在生成答题报告，请耐心等待......
+			4 text AI智能批改中，预计需要2-5分钟
+			5 image
+			6 text 写作
+			7 image
+			15 button  Return
+				32 text 
+				33 text Return
+			8 button Go To Question
+			11 text Writing | Question 1 of 10 00:06:27
+			17 image
+			18 text Hide Time
+			34 container
+				35 text Review The following is a list of questions in this part of the test. When you enter Review, the questlon you were on is selected and highlighted. The Status column shows if a question has been Answered, Partially Answered, Not Answered, or Not Encountered. To review a specific question from the list, select the question to highlight it, then select  Go to question . To sort the list by number or status, select the column heading. When there are more questions than will fit on screen, you can use the scroll bar to access the others. To leave Review and return to where you were in the test, select  Return . Number Status
+				36 text 1
+				37 text Not Answered
+				38 text 2
+				39 text Not Encountered
+				40 text 3
+				41 text Not Encountered
+				42 text 4
+				43 text Not Encountered
+				44 text 5
+				45 text Not Encountered
+				46 text 6
+				47 text Not Encountered
+				48 text 7
+				49 text Not Encountered
+				50 text 8
+				51 text Not Encountered
+				52 text 9
+				53 text Not Encountered
+				54 text 10
+				55 text Not Encountered
+			19 heading Make an appropriate sentence., Value: 2
+				20 text Make an appropriate sentence.
+			21 image female
+			22 text  Why was the guest lecturer series postponed?
+			23 image male
+			24 text  wanted to 
+			25 text .
+			26 text the organizer
+			27 text new equipment
+			28 text know
+			29 text if the
+			30 text would arrive
+			31 text on time
+		13 container
+			14 button Continue
+
+The focused UI element is 0 AXWebArea 新托福2026, URL: learninghub.xhd.cn/org/tpo/tpo.html?id=11688950&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122&clientmode=full

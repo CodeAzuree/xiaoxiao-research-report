@@ -1,0 +1,435 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- radiogroup:
+  - button " 按试卷" [active]:
+    - generic: 
+    - generic: 按试卷
+  - button "按篇章":
+    - generic: 按篇章
+  - separator
+  - button "我的试卷":
+    - generic: 我的试卷
+  - button "共享试卷":
+    - generic: 共享试卷
+- generic: 科目
+- generic "新托福2026"
+- generic "雅思"
+- generic "SAT机考"
+- generic "SAT"
+- generic "小托福"
+- generic "ACT"
+- generic "GRE"
+- generic "KET"
+- generic "PET"
+- generic "AP"
+- generic: 分项
+- generic "不限"
+- generic "听力"
+- generic "阅读"
+- generic "写作"
+- generic "口语"
+- text: 
+- generic: 来源
+- button "开放题库" [disabled]
+- checkbox [checked]:
+  - checkbox [checked]
+- generic: 不限
+- checkbox:
+  - checkbox
+- generic: CIT
+- checkbox:
+  - checkbox
+- generic: 机经合集
+- checkbox:
+  - checkbox
+- generic: OG
+- checkbox:
+  - checkbox
+- generic: 海外版考题
+- checkbox:
+  - checkbox
+- generic: 口语题库
+- checkbox:
+  - checkbox
+- generic: G类
+- button "知识点 ":
+  - text: 知识点
+  - generic: 
+- button "级别 ":
+  - text: 级别
+  - generic: 
+- text:        
+- generic: 筛选
+- generic: 排序
+- button "重置"
+- generic: 
+- textbox "搜索试卷"
+- button "查看已选"
+- generic: 
+- generic: 
+- generic: 20260829 Writing Task 整套
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "35"
+- generic: 方差
+- generic: "10"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.69"
+- button "预览"
+- button "查看"
+- generic: 20260822 Writing Task 整套
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "1"
+- generic: 中位分
+- generic: "21"
+- generic: 方差
+- generic: "9"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.58"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/去过的靠近自然的地方
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "34"
+- generic: 方差
+- generic: "5"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.32"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/送朋友的礼物
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "38"
+- generic: 方差
+- generic: "4.5"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.24"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/一见且想继续了解的人
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "39"
+- generic: 方差
+- generic: "5"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.25"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/想再去一次的城市
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "34"
+- generic: 方差
+- generic: "5"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.23"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/本地名人
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "32"
+- generic: 方差
+- generic: "4.5"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.2"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/改变重要决定
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "38"
+- generic: 方差
+- generic: "5"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.14"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题(非大陆)/印象深刻的课程
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "37"
+- generic: 方差
+- generic: "5"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.2"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题/帮别人提升健康
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "39"
+- generic: 方差
+- generic: "5"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.29"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题/印象深刻的聚会
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "55"
+- generic: 方差
+- generic: "4.5"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.32"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题/喜欢的建筑
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "61"
+- generic: 方差
+- generic: "3.5"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.28"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题/钦佩的运动员
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "47"
+- generic: 方差
+- generic: "4.5"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.28"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题/受欢迎的人
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "55"
+- generic: 方差
+- generic: "3"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.23"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题/不喜欢的短途旅行
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "52"
+- generic: 方差
+- generic: "4.5"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.28"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题/最不喜欢的电影
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "55"
+- generic: 方差
+- generic: "4.5"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.28"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题/教你新技能的人
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "51"
+- generic: 方差
+- generic: "4"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.24"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题/学习并喜欢历史的人
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "56"
+- generic: 方差
+- generic: "3"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.17"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题/拥挤地方
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "51"
+- generic: 方差
+- generic: "4"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.21"
+- button "预览"
+- button "查看"
+- generic: 2026年9-12月口语题库Part2&3 新题/浪费时间的活动
+- generic: 困难
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "2"
+- generic: 中位分
+- generic: "56"
+- generic: 方差
+- generic: "3"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.16"
+- button "预览"
+- button "查看"
+- text:              
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text: 

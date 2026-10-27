@@ -1,0 +1,174 @@
+Browser tab: 67, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	1 container
+		2 container myweb
+			3 container root-menu
+				4 container
+					5 image
+					6 text 首页
+				7 container
+					8 image
+					9 text 作业
+				10 container
+					11 image
+					12 text 课表
+				13 container
+					14 image
+					15 text 题库
+				16 container
+					17 image
+					18 text 单词书
+				19 container
+					20 image
+					21 text 错题
+				22 container
+					23 image
+					24 text 自适应
+				25 container
+					26 image
+					27 text 反馈
+				28 container
+					29 image
+					30 text 笔记
+				31 container
+					32 image
+					33 text 学习报告
+			34 container root-mv-right
+				35 container root-mv-header
+					36 image
+					37 container
+						38 text field (settable)
+						39 text 
+					40 button icon
+						41 image icon
+					42 container
+						43 text 
+						44 button icon
+							45 image icon
+					46 container
+						47 button icon
+							48 image icon
+						49 text 5
+					50 button icon
+						51 image icon
+					52 container
+						53 image
+						54 text 10
+					55 text 小格
+				56 container
+					57 container
+						58 text 科目
+						59 image
+					60 text 报告时间
+					61 image
+					62 container
+						63 text 
+					64 text field (settable)
+					65 text -
+					66 text field (settable)
+					67 container
+						68 text 生成人
+						69 image
+					70 image
+					71 text 报告时间 2026.09.01-2026.10.22
+					72 container
+						73 text 思贤
+						74 text 王思贤等 1位老师评语
+						75 text 新航道武汉学校
+						76 text Study Report
+						77 text 2026.09.01-2026.10.22
+						78 text 小格
+						79 text 王小格
+					80 container
+						81 text SAT 王思贤 生成于 2026.10.22
+						82 button 预览
+						83 button 分享
+					84 text 报告时间 2026.09.01-2026.10.22
+					85 container
+						86 text 新航道武汉学校 Study Report 2026.09.01-2026.10.22 小格 王小格
+					87 container
+						88 text SAT 王思贤 生成于 2026.10.22
+						89 button 预览
+						90 button 分享
+					91 text 报告时间 2026.02.20-2026.05.21
+					92 container
+						93 text 新航道武汉学校 Study Report 2026.02.20-2026.05.21 小格 王小格
+					94 container
+						95 text 雅思 李冰晖 生成于 2026.05.23
+						96 button 预览
+						97 button 分享
+		98 container dialog
+			99 container
+				103 text 
+				101 text 王小格 的学习报告
+				102 button 分享
+			104 container
+				105 text 新航道武汉学校
+				106 text Study Report
+				107 text 2026.09.01 - 2026.10.22
+				108 text 小格
+				109 text 王小格
+				110 text 科目：SAT
+				111 container
+					112 text 班级：  王小格-SAT
+				113 container
+					114 text 老师：  王思贤
+				115 text 小格
+				116 text 王小格 已上课时 
+				117 text 0
+				118 text  / 总课时 
+				119 text 0
+				120 text 科目：SAT 报告时间：2026/09/01-2026/10/22 作业完成率
+				121 progress indicator 67
+				122 text 成绩
+				123 content list
+					124 container
+						125 text 科目 预测分 / 总分
+					126 container
+						127 text 读写(机考) 200 / 800
+					128 container
+						129 text 数学(机考) 220 / 800
+				130 text 知识点
+				131 image
+				132 text 暂无数据~
+				133 text 评语 思贤 王思贤 王小格-SAT  | 2026-10-22 同学你好，根据你的SAT学习报告数据，我为你进行详细分析并给出建议。 一、总体表现概述 你的作业完成率为67%，说明你只完成了约三分之二的作业任务，存在一定的拖延或遗漏。作业平均分为420.0分（总分1600分），整体得分率约为26.3%，处于基础薄弱阶段，需要系统性地加强各科训练。 二、作业完成率与平均分分析 完成率67%偏低，建议你制定固定的学习计划，确保每次作业按时提交，避免因缺交导致知识点遗漏。平均分420分距离目标分数有较大差距，建议从基础词汇和核心题型入手，逐步提升正确率。 三、各作业得分数据分析 你目前仅完成了一次作业：sat全科测试，得分为420.0分，答题时间为2026-10-15 15:10。由于只有一次记录，无法横向比较优劣，但该次测试得分偏低，说明全科综合能力有待提升。建议后续增加全科模拟测试频率，并记录每次答题时间，以便分析时间分配是否合理。 四、各分项平均分分析 读写（机考）平均分200.0分，数学（机考）平均分220.0分。数学略高于读写，但两者均处于较低水平。假设班级平均完成率与正确率参考整体数据，你的分项正确率约为读写12.5%、数学13.75%（按满分800分估算），说明基础知识和解题技巧均需强化。建议：读写方面每天精读一篇SAT文章并积累高频词汇；数学方面梳理代数、几何、数据分析等核心考点，每周完成两套专项练习。 五、单词书训练数据分析 当前学习报告中未提供单词书的训练数据（如背诵量、正确率、复习次数等），无法评估词汇掌握情况。建议你开启单词书训练功能，每天坚持背诵30-50个SAT核心词汇，并定期复习，因为词汇是读写和数学应用题的基础。 六、综合建议 1. 将作业完成率提升至90%以上，制定周计划并设置提醒； 2. 针对读写和数学分别建立错题本，每周复盘； 3. 增加全科模考次数，每次限时完成并记录答题时间； 4. 补充单词书训练数据，坚持每日词汇打卡； 5. 建议与老师沟通，获取分项薄弱点的专项练习材料。 希望以上分析对你有所帮助，坚持执行计划，你的成绩会有明显提升。加油！
+				134 tab group
+					135 tab (settable) 成绩, ID: tab-grade
+					136 tab (selected, settable, boolean) 课程, Value: 1, ID: tab-course
+					137 tab (settable) 作业, ID: tab-homework
+					138 tab (settable) 知识点, ID: tab-knowledge
+				139 container Description: 课程, ID: pane-course
+				140 text 班级课程数据
+				141 table
+					142 row
+						143 cell
+							144 text 已上 / 总课时
+				145 table
+					146 row
+						147 cell
+							148 text 0/0
+				149 container
+					150 table
+						151 row
+							152 cell
+								153 text 班级
+					154 table
+						155 row
+							156 cell
+								157 text 王小格-SAT
+				158 container
+					159 table
+						160 row
+							161 cell
+								162 text 分项数据
+					163 table
+						164 row
+							165 cell
+								166 text SAT 0/0
+								167 text 托福 0/0
+								168 text AP 0/0
+				169 text 课堂表现评分建议
+				170 image
+				171 text 暂无课堂表现评分建议
+
+The focused UI element is 136 tab (selected, settable, boolean) 课程, Value: 1, ID: tab-course

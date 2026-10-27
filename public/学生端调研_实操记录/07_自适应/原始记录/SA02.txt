@@ -1,0 +1,108 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	1 container
+		2 container myweb
+			3 container root-menu
+				4 container
+					5 image
+					6 text 首页
+				7 container
+					8 image
+					9 text 作业
+				10 container
+					11 image
+					12 text 课表
+				13 container
+					14 image
+					15 text 题库
+				16 container
+					17 image
+					18 text 单词书
+				19 container
+					20 image
+					21 text 错题
+				22 container
+					23 image
+					24 text 自适应
+				25 container
+					26 image
+					27 text 反馈
+				28 container
+					29 image
+					30 text 笔记
+				31 container
+					32 image
+					33 text 学习报告
+			34 container root-mv-right
+				35 container root-mv-header
+					36 image
+					37 container
+						38 text field (settable)
+						39 text 
+					40 button icon
+						41 image icon
+					42 container
+						43 text 
+						44 button icon
+							45 image icon
+					46 container
+						47 button icon
+							48 image icon
+						49 text 5
+					50 button icon
+						51 image icon
+					52 container
+						53 image
+						54 text 10
+					55 text 小格
+				56 container root-container
+					57 text 目标考试：
+					58 container
+						59 text field 托福
+						60 text 
+					61 container
+						62 text 我们将根据你的考试目标和能力测试结果，定制针对性的个性学习化路径， 精准到天，定位短板集中训练，有效的提高你的成绩
+						63 image
+						64 text 设定考试目标
+						65 image
+						66 image
+						67 text 首次测试
+						68 image
+						69 image
+						70 text 自适应学习计划
+						71 image
+						72 image
+						73 text 阶段测试
+						74 image
+						75 image
+						76 text 达成目标
+						77 button 设置目标分数
+			78 container 设置目标分数
+				79 container
+					80 text 设置目标分数
+					81 button Close
+						94 text 
+				83 text 选择目标考试
+				84 container
+					85 text field 雅思
+					95 text 
+				87 text 设置目标分数
+				88 container
+					89 text field
+					108 text 
+				91 container
+					92 button 取消
+					93 button 开始模考
+		97 container
+			98 content list
+				99 text 5
+				100 text 5.5
+				101 text 6
+				102 text 6.5
+				103 text 7
+				104 text 7.5
+				105 text 8
+				106 text 8.5
+				107 text 9
+
+The focused UI element is 89 text field

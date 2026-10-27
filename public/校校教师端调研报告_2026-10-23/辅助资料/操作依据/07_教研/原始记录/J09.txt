@@ -1,0 +1,132 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "245"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业大纲
+- generic: 知识点
+- generic: 我的知识点
+- generic: 共享知识点
+- generic: 科目
+- generic "A-Level"
+- generic: 知识点类型
+- generic "全部"
+- generic "U1"
+- button "列表 ":
+  - generic: 列表
+  - generic: 
+- 'button "排序 : 更新时间"':
+  - generic: 排序
+  - generic: ":"
+  - generic: 更新时间
+- textbox "请输入知识点名称"
+- generic: 
+- button "添加知识点":
+  - generic: 添加知识点
+- table:
+  - rowgroup:
+    - row "知识点名称 科目 更新时间 知识点详情 操作":
+      - columnheader "知识点名称":
+        - generic: 知识点名称
+      - columnheader "科目":
+        - generic: 科目
+      - columnheader "更新时间":
+        - generic: 更新时间
+      - columnheader "知识点详情":
+        - generic: 知识点详情
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup:
+    - row "kinematics A-Level 2025-04-26 - 编辑":
+      - cell "kinematics":
+        - generic: kinematics
+      - cell "A-Level":
+        - generic: A-Level
+      - cell "2025-04-26":
+        - generic: 2025-04-26
+      - cell "-":
+        - generic: "-"
+      - cell "编辑":
+        - generic: 编辑
+    - row "dynamics A-Level 2025-06-12 - 编辑":
+      - cell "dynamics":
+        - generic: dynamics
+      - cell "A-Level":
+        - generic: A-Level
+      - cell "2025-06-12":
+        - generic: 2025-06-12
+      - cell "-":
+        - generic: "-"
+      - cell "编辑":
+        - generic: 编辑
+    - row "fluid A-Level 2025-06-12 - 编辑":
+      - cell "fluid":
+        - generic: fluid
+      - cell "A-Level":
+        - generic: A-Level
+      - cell "2025-06-12":
+        - generic: 2025-06-12
+      - cell "-":
+        - generic: "-"
+      - cell "编辑":
+        - generic: 编辑
+    - row "solid A-Level 2025-06-12 - 编辑":
+      - cell "solid":
+        - generic: solid
+      - cell "A-Level":
+        - generic: A-Level
+      - cell "2025-06-12":
+        - generic: 2025-06-12
+      - cell "-":
+        - generic: "-"
+      - cell "编辑":
+        - generic: 编辑
+    - row "fundamentals A-Level 2025-06-14 - 编辑":
+      - cell "fundamentals":
+        - generic: fundamentals
+      - cell "A-Level":
+        - generic: A-Level
+      - cell "2025-06-14":
+        - generic: 2025-06-14
+      - cell "-":
+        - generic: "-"
+      - cell "编辑":
+        - generic: 编辑
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:            

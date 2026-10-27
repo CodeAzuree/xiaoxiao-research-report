@@ -1,0 +1,3 @@
+Browser tab: 45, Title: "老师管理后台", URL: "https://learninghub.xhd.cn/org/teacher.html?xiaov=20261122&flagl=c12&stutab=6".
+There has been no change in the accessibility tree.
+The focused UI element is 569 button 查看详情

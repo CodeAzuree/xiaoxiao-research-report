@@ -1,0 +1,86 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "245"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业大纲
+- generic: 知识点
+- generic: 我的知识点
+- generic: 共享知识点
+- generic: 科目
+- generic "托福"
+- generic "雅思"
+- generic "SAT"
+- generic "小托福"
+- generic "ACT"
+- generic "PTE"
+- generic "GRE"
+- generic "SAT机考"
+- generic "KET"
+- generic "PET"
+- generic "FCE"
+- generic "A-Level"
+- generic "AP"
+- generic "新托福2026"
+- generic: 知识点类型
+- generic "全部"
+- generic "阅读"
+- generic "听力"
+- generic "口语"
+- generic "写作"
+- button "卡片 " [active]:
+  - generic: 卡片
+  - generic: 
+- button "排序 ":
+  - generic: 排序
+  - generic: 
+- text:    
+- textbox "请输入知识点名称"
+- generic: 
+- button "添加知识点":
+  - generic: 添加知识点
+- heading "知识点测试" [level=2]
+- generic: 2026-10-10
+- generic: 托福
+- paragraph: 这是一条测试知识点
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text: 
+- list:
+  - generic: 卡片
+  - generic: 列表

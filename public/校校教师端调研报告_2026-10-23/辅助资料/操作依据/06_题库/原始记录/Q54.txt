@@ -1,0 +1,325 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- generic: "?"
+- generic: 
+- generic: 科目
+- generic: 
+- generic: 老师
+- generic: 
+- button "上传时间排序 ( 全部 ) ":
+  - text: 上传时间排序
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "单元数排序 ( 全部 ) ":
+  - text: 单元数排序
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "单词数排序 ( 全部 ) ":
+  - text: 单词数排序
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "使用次数排序 ( 全部 ) ":
+  - text: 使用次数排序
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "正确率排序 ( 全部 ) ":
+  - text: 正确率排序
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- textbox "全部词库"
+- generic: 
+- button "新增词表":
+  - generic: 新增词表
+- generic: 能力英语
+- paragraph: 1 单元
+- paragraph: 36 词
+- paragraph: 徐乐生词本
+- paragraph:
+  - text: 杨馨怡 ｜ 2026-10-17 ｜ 1 个单元
+  - generic: 36 个单词
+- generic: 收起列表
+- generic: 0 使用次数
+- generic: 正确率
+- generic: 0%
+- button "抽查" [disabled]
+- button "布置"
+- button "详情"
+- button "删除" [disabled]
+- generic: Unit1
+- generic: 单词数 36
+- generic: 正确率 0%
+- checkbox
+- generic: 多邻国
+- paragraph: 5 单元
+- paragraph: 1048 词
+- paragraph: 多邻国单词汇总（田腾飞）
+- paragraph:
+  - text: 田腾飞 ｜ 2026-10-08 ｜ 5 个单元
+  - generic: 1048 个单词
+- generic: 展开列表
+- generic: 0 使用次数
+- generic: 正确率
+- generic: 0%
+- button "抽查" [disabled]
+- button "布置"
+- button "详情"
+- button "删除" [disabled]
+- generic: 能力英语
+- paragraph: 8 单元
+- paragraph: 432 词
+- paragraph: 潘薪博单词本
+- paragraph:
+  - text: 杨馨怡 ｜ 2026-09-26 ｜ 8 个单元
+  - generic: 432 个单词
+- generic: 展开列表
+- generic: 0 使用次数
+- generic: 正确率
+- generic: 0%
+- button "抽查" [disabled]
+- button "布置"
+- button "详情"
+- button "删除" [disabled]
+- paragraph: 1 单元
+- paragraph: 182 词
+- paragraph: SAT数学词汇
+- paragraph:
+  - text: 胡怡慧 ｜ 2026-09-14 ｜ 1 个单元
+  - generic: 182 个单词
+- generic: 展开列表
+- generic: 1 使用次数
+- generic: 正确率
+- generic: 0%
+- button "抽查" [disabled]
+- button "布置"
+- button "详情"
+- button "删除" [disabled]
+- paragraph: 2 单元
+- paragraph: 86 词
+- paragraph: 杨宜霖 SAT词汇
+- paragraph:
+  - text: 崔国花 ｜ 2026-09-03 ｜ 2 个单元
+  - generic: 86 个单词
+- generic: 展开列表
+- generic: 1 使用次数
+- generic: 正确率
+- generic: 0%
+- button "抽查" [disabled]
+- button "布置"
+- button "详情"
+- button "删除" [disabled]
+- paragraph: 1 单元
+- paragraph: 233 词
+- paragraph: SAT词汇zxy_4
+- paragraph:
+  - text: 周芳 ｜ 2026-08-16 ｜ 1 个单元
+  - generic: 233 个单词
+- generic: 展开列表
+- generic: 0 使用次数
+- generic: 正确率
+- generic: 0%
+- button "抽查" [disabled]
+- button "布置"
+- button "详情"
+- button "删除" [disabled]
+- paragraph: 1 单元
+- paragraph: 294 词
+- paragraph: SAT词汇zxy_3
+- paragraph:
+  - text: 周芳 ｜ 2026-08-16 ｜ 1 个单元
+  - generic: 294 个单词
+- generic: 展开列表
+- generic: 1 使用次数
+- generic: 正确率
+- generic: 0%
+- button "抽查" [disabled]
+- button "布置"
+- button "详情"
+- button "删除" [disabled]
+- paragraph: 5 单元
+- paragraph: 132 词
+- paragraph: 周诣越生词书
+- paragraph:
+  - text: 杨馨怡 ｜ 2026-08-08 ｜ 5 个单元
+  - generic: 132 个单词
+- generic: 展开列表
+- generic: 0 使用次数
+- generic: 正确率
+- generic: 0%
+- button "抽查" [disabled]
+- button "布置"
+- button "详情"
+- button "删除" [disabled]
+- paragraph: 2 单元
+- paragraph: 67 词
+- paragraph: 付梓峻SA单词
+- paragraph:
+  - text: 崔国花 ｜ 2026-08-06 ｜ 2 个单元
+  - generic: 67 个单词
+- generic: 展开列表
+- generic: 0 使用次数
+- generic: 正确率
+- generic: 0%
+- button "抽查" [disabled]
+- button "布置"
+- button "详情"
+- button "删除" [disabled]
+- paragraph: 4 单元
+- paragraph: 67 词
+- paragraph: 徐佳睿生词本
+- paragraph:
+  - text: 杨馨怡 ｜ 2026-08-01 ｜ 4 个单元
+  - generic: 67 个单词
+- generic: 展开列表
+- generic: 0 使用次数
+- generic: 正确率
+- generic: 0%
+- button "抽查" [disabled]
+- button "布置"
+- button "详情"
+- button "删除" [disabled]
+- generic: 共 474 条
+- textbox "请选择": 10条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+  - listitem: "2"
+  - listitem: "3"
+  - listitem: "4"
+  - listitem: "5"
+  - listitem: "6"
+  - listitem: 
+  - listitem: "48"
+- button "":
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- generic: 
+- generic: 
+- text:         
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:                        
+- dialog "布置词表":
+  - generic: 布置词表
+  - button "Close":
+    - generic: 
+  - paragraph:
+    - generic: "*"
+    - text: 单词书
+  - textbox "更多设置": 徐乐生词本
+  - paragraph:
+    - generic: "*"
+    - text: 开始学习日期
+  - textbox "请选择日期": 2026-10-23 13:00
+  - generic: 
+  - paragraph:
+    - generic: "*"
+    - text: 布置班级
+  - textbox
+  - textbox "请选择班级（可多选）"
+  - generic: 
+  - paragraph: 布置学生
+  - textbox
+  - textbox "请选择学生（默认全部，多选）"
+  - generic: 
+  - paragraph: 测试形式
+  - textbox [active]
+  - textbox "请选择测试形式"
+  - generic: 
+  - paragraph: 测试数量 (%)
+  - spinbutton: "100"
+  - paragraph: 更多设置
+  - paragraph: 限时设置
+  - textbox "请选择限时方式": 不限时
+  - generic: 
+  - paragraph: 限时时间
+  - textbox "请输入限时时间" [disabled]
+  - paragraph: 设置过关形式
+  - textbox "请选择过关形式": 无
+  - generic: 
+  - paragraph: 设置正确率 (%)
+  - spinbutton [disabled]
+  - button "取消":
+    - generic: 取消
+  - button "确认":
+    - generic: 确认
+- list:
+  - list:
+    - listitem: 听
+    - list:
+      - generic: 音译中(选择)
+      - generic: 音译中(填空)
+      - generic: 音译英中
+      - generic: 音译英
+  - list:
+    - listitem: 说
+    - list:
+      - generic: 中译音
+  - list:
+    - listitem: 读
+    - list:
+      - generic: 英译中(选择)
+      - generic: 英译中(填空)
+      - generic: 英译英(选择)
+      - generic: 英译英(填空)
+      - generic: 补全单词
+  - list:
+    - listitem: 写
+    - list:
+      - generic: 中译英
+      - generic: 选词填空
+      - generic: 同义词替换(选择)

@@ -1,0 +1,11 @@
+Browser tab: 70, Title: "实时作业", URL: "https://learninghub.xhd.cn/org/realtimehmk/realtimehmk.html?hwkid=14753411".
+0 AXWebArea 实时作业, URL: learninghub.xhd.cn/org/realtimehmk/realtimehmk.html?hwkid=14753411
+	1 container realtimehmk
+		2 text 思贤
+		3 text 距离答题开始还有
+		4 text 00:00:56
+		5 text 开始
+		6 text 参与学员
+		7 text 0
+
+The focused UI element is 0 AXWebArea 实时作业, URL: learninghub.xhd.cn/org/realtimehmk/realtimehmk.html?hwkid=14753411

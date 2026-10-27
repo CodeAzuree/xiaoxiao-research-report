@@ -1,0 +1,1739 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业管理
+- generic: 
+- text: 布置作业
+- list:
+  - generic: 全部作业
+  - generic: (17757)
+  - generic: 单词作业
+  - generic: (1995)
+  - generic: 打卡作业
+  - generic: (15)
+  - generic: 作业模考
+  - generic: (15747)
+  - generic: 视频课件
+  - generic: 实时作业
+  - generic: 未下发作业
+  - generic: 我的批改
+  - generic: (519)
+  - generic: 我布置的
+  - generic: (517)
+  - generic: 收藏作业
+- generic: 全部作业
+- generic: 科目：
+- generic: 全部
+- generic: 雅思
+- generic: 托福
+- generic: AP
+- generic: SAT
+- generic: 状态：
+- generic: 全部
+- generic: 未开始
+- generic: 进行中
+- generic: 已完成
+- generic: 已逾期
+- generic: 未批改
+- generic: 部分批改
+- generic: 已批改
+- generic: 未查阅
+- generic: 部分查阅
+- generic: 已查阅
+- button "班级： ( 全部 ) ":
+  - text: 班级：
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- text: 时间
+- generic: 
+- generic: 
+- textbox "开始日期"
+- generic: "-"
+- textbox "结束日期"
+- generic: 筛选
+- generic: 排序
+- button "重置"
+- generic: 
+- textbox "请输入作业名称"
+- radiogroup:
+  - button
+  - button
+- table:
+  - rowgroup:
+    - row "作业名称 状态 收藏 班级 截止时间 题目数 布置老师 批改老师 平均成绩 完成数 批改数 学生数":
+      - columnheader "作业名称":
+        - generic: 作业名称
+      - columnheader "状态":
+        - generic: 状态
+      - columnheader "收藏":
+        - generic: 收藏
+      - columnheader "班级":
+        - generic: 班级
+      - columnheader "截止时间":
+        - generic: 截止时间
+      - columnheader "题目数":
+        - generic: 题目数
+      - columnheader "布置老师":
+        - generic: 布置老师
+      - columnheader "批改老师":
+        - generic: 批改老师
+      - columnheader "平均成绩":
+        - generic: 平均成绩
+      - columnheader "完成数":
+        - generic: 完成数
+      - columnheader "批改数":
+        - generic: 批改数
+      - columnheader "学生数":
+        - generic: 学生数
+      - columnheader
+- table:
+  - rowgroup:
+    - row "篇章跟读-Cambridge IELTS 12 Test8 Section4 未开始  YS2501ZND007 2025-05-28 17:30 至 2028-05-21 22:00 39 高源 高源 - 0 0 8 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 12 Test8 Section4":
+        - generic: 篇章跟读-Cambridge IELTS 12 Test8 Section4
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "YS2501ZND007":
+        - generic: YS2501ZND007
+      - cell "2025-05-28 17:30 至 2028-05-21 22:00":
+        - generic: 2025-05-28 17:30 至 2028-05-21 22:00
+      - cell "39":
+        - generic: "39"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "8":
+        - generic: "8"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "" [active]:
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 12 Test8 Section4 未开始  YS2503ZND009 2025-05-28 17:30 至 2028-05-21 22:00 39 高源 高源 - 0 0 6 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 12 Test8 Section4":
+        - generic: 篇章跟读-Cambridge IELTS 12 Test8 Section4
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND009":
+        - generic: YS2503ZND009
+      - cell "2025-05-28 17:30 至 2028-05-21 22:00":
+        - generic: 2025-05-28 17:30 至 2028-05-21 22:00
+      - cell "39":
+        - generic: "39"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "6":
+        - generic: "6"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 12 Test8 Section4 未开始  YS2503ZND002 2025-05-28 17:30 至 2028-05-21 22:00 39 高源 高源 - 0 0 12 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 12 Test8 Section4":
+        - generic: 篇章跟读-Cambridge IELTS 12 Test8 Section4
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND002":
+        - generic: YS2503ZND002
+      - cell "2025-05-28 17:30 至 2028-05-21 22:00":
+        - generic: 2025-05-28 17:30 至 2028-05-21 22:00
+      - cell "39":
+        - generic: "39"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "12":
+        - generic: "12"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 12 Test8 Section4 未开始  邵旻思 2025-05-28 17:30 至 2028-05-21 22:00 39 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 12 Test8 Section4":
+        - generic: 篇章跟读-Cambridge IELTS 12 Test8 Section4
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2025-05-28 17:30 至 2028-05-21 22:00":
+        - generic: 2025-05-28 17:30 至 2028-05-21 22:00
+      - cell "39":
+        - generic: "39"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-新概念2 Lesson91 Three Men in a Basket 未开始  锦秋武昌-陈梓豪雅思 2025-06-26 22:00 至 2027-06-20 23:30 11 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "篇章跟读-新概念2 Lesson91 Three Men in a Basket":
+        - generic: 篇章跟读-新概念2 Lesson91 Three Men in a Basket
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "11":
+        - generic: "11"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-新概念2 Lesson91 Three Men in a Basket 部分查阅  YS2503ZND002 2025-06-26 22:00 至 2027-06-20 23:30 11 高源 高源 91 1 0 12 查看详情 预览 ":
+      - cell "篇章跟读-新概念2 Lesson91 Three Men in a Basket":
+        - generic: 篇章跟读-新概念2 Lesson91 Three Men in a Basket
+      - cell "部分查阅":
+        - generic: 部分查阅
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND002":
+        - generic: YS2503ZND002
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "11":
+        - generic: "11"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "91":
+        - generic: "91"
+      - cell "1":
+        - generic: "1"
+      - cell "0":
+        - generic: "0"
+      - cell "12":
+        - generic: "12"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-新概念2 Lesson88 Trapped in a Mine 未开始  锦秋武昌-陈梓豪雅思 2025-06-26 22:00 至 2027-06-20 23:30 13 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "篇章跟读-新概念2 Lesson88 Trapped in a Mine":
+        - generic: 篇章跟读-新概念2 Lesson88 Trapped in a Mine
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "13":
+        - generic: "13"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-新概念2 Lesson88 Trapped in a Mine 进行中  YS2503ZND002 2025-06-26 22:00 至 2027-06-20 23:30 13 高源 高源 87 1 0 12 查看详情 预览 ":
+      - cell "篇章跟读-新概念2 Lesson88 Trapped in a Mine":
+        - generic: 篇章跟读-新概念2 Lesson88 Trapped in a Mine
+      - cell "进行中":
+        - generic: 进行中
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND002":
+        - generic: YS2503ZND002
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "13":
+        - generic: "13"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "87":
+        - generic: "87"
+      - cell "1":
+        - generic: "1"
+      - cell "0":
+        - generic: "0"
+      - cell "12":
+        - generic: "12"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-新概念2 Lesson89 A Slip of the Tongue 未开始  锦秋武昌-陈梓豪雅思 2025-06-26 22:00 至 2027-06-20 23:30 10 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "篇章跟读-新概念2 Lesson89 A Slip of the Tongue":
+        - generic: 篇章跟读-新概念2 Lesson89 A Slip of the Tongue
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "10":
+        - generic: "10"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-新概念2 Lesson89 A Slip of the Tongue 部分查阅  YS2503ZND002 2025-06-26 22:00 至 2027-06-20 23:30 10 高源 高源 93 1 0 12 查看详情 预览 ":
+      - cell "篇章跟读-新概念2 Lesson89 A Slip of the Tongue":
+        - generic: 篇章跟读-新概念2 Lesson89 A Slip of the Tongue
+      - cell "部分查阅":
+        - generic: 部分查阅
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND002":
+        - generic: YS2503ZND002
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "10":
+        - generic: "10"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "93":
+        - generic: "93"
+      - cell "1":
+        - generic: "1"
+      - cell "0":
+        - generic: "0"
+      - cell "12":
+        - generic: "12"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-新概念2 Lesson90 What's for Supper? 未开始  锦秋武昌-陈梓豪雅思 2025-06-26 22:00 至 2027-06-20 23:30 10 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "篇章跟读-新概念2 Lesson90 What's for Supper?":
+        - generic: 篇章跟读-新概念2 Lesson90 What's for Supper?
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "10":
+        - generic: "10"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-新概念2 Lesson90 What's for Supper? 部分查阅  YS2503ZND002 2025-06-26 22:00 至 2027-06-20 23:30 10 高源 高源 91 1 0 12 查看详情 预览 ":
+      - cell "篇章跟读-新概念2 Lesson90 What's for Supper?":
+        - generic: 篇章跟读-新概念2 Lesson90 What's for Supper?
+      - cell "部分查阅":
+        - generic: 部分查阅
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND002":
+        - generic: YS2503ZND002
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "10":
+        - generic: "10"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "91":
+        - generic: "91"
+      - cell "1":
+        - generic: "1"
+      - cell "0":
+        - generic: "0"
+      - cell "12":
+        - generic: "12"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-新概念2 Lesson81 Escape 未开始  锦秋武昌-陈梓豪雅思 2025-06-26 22:00 至 2027-06-20 23:30 14 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "篇章跟读-新概念2 Lesson81 Escape":
+        - generic: 篇章跟读-新概念2 Lesson81 Escape
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "14":
+        - generic: "14"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-新概念2 Lesson81 Escape 部分查阅  YS2503ZND002 2025-06-26 22:00 至 2027-06-20 23:30 14 高源 高源 94 1 0 12 查看详情 预览 ":
+      - cell "篇章跟读-新概念2 Lesson81 Escape":
+        - generic: 篇章跟读-新概念2 Lesson81 Escape
+      - cell "部分查阅":
+        - generic: 部分查阅
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND002":
+        - generic: YS2503ZND002
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "14":
+        - generic: "14"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "94":
+        - generic: "94"
+      - cell "1":
+        - generic: "1"
+      - cell "0":
+        - generic: "0"
+      - cell "12":
+        - generic: "12"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 15 Test4 Section4 未开始  锦秋武昌-陈梓豪雅思 2025-06-26 22:00 至 2027-06-20 23:30 32 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 15 Test4 Section4":
+        - generic: 篇章跟读-Cambridge IELTS 15 Test4 Section4
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "32":
+        - generic: "32"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 15 Test4 Section4 部分查阅  YS2503ZND002 2025-06-26 22:00 至 2027-06-20 23:30 32 高源 高源 90 1 0 12 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 15 Test4 Section4":
+        - generic: 篇章跟读-Cambridge IELTS 15 Test4 Section4
+      - cell "部分查阅":
+        - generic: 部分查阅
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND002":
+        - generic: YS2503ZND002
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "32":
+        - generic: "32"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "90":
+        - generic: "90"
+      - cell "1":
+        - generic: "1"
+      - cell "0":
+        - generic: "0"
+      - cell "12":
+        - generic: "12"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 16 Test1 Section1 未开始  锦秋武昌-陈梓豪雅思 2025-06-26 22:00 至 2027-06-20 23:30 60 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 16 Test1 Section1":
+        - generic: 篇章跟读-Cambridge IELTS 16 Test1 Section1
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "60":
+        - generic: "60"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 16 Test1 Section1 未开始  YS2503ZND002 2025-06-26 22:00 至 2027-06-20 23:30 60 高源 高源 - 0 0 12 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 16 Test1 Section1":
+        - generic: 篇章跟读-Cambridge IELTS 16 Test1 Section1
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND002":
+        - generic: YS2503ZND002
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "60":
+        - generic: "60"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "12":
+        - generic: "12"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 15 Test2 Section3 未开始  锦秋武昌-陈梓豪雅思 2025-06-26 22:00 至 2027-06-20 23:30 75 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 15 Test2 Section3":
+        - generic: 篇章跟读-Cambridge IELTS 15 Test2 Section3
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "75":
+        - generic: "75"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 15 Test2 Section3 未开始  YS2503ZND002 2025-06-26 22:00 至 2027-06-20 23:30 75 高源 高源 - 0 0 12 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 15 Test2 Section3":
+        - generic: 篇章跟读-Cambridge IELTS 15 Test2 Section3
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND002":
+        - generic: YS2503ZND002
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "75":
+        - generic: "75"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "12":
+        - generic: "12"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 16 Test1 Section2 未开始  锦秋武昌-陈梓豪雅思 2025-06-26 22:00 至 2027-06-20 23:30 36 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 16 Test1 Section2":
+        - generic: 篇章跟读-Cambridge IELTS 16 Test1 Section2
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "36":
+        - generic: "36"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 16 Test1 Section2 未开始  YS2503ZND002 2025-06-26 22:00 至 2027-06-20 23:30 36 高源 高源 - 0 0 12 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 16 Test1 Section2":
+        - generic: 篇章跟读-Cambridge IELTS 16 Test1 Section2
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND002":
+        - generic: YS2503ZND002
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "36":
+        - generic: "36"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "12":
+        - generic: "12"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 16 Test1 Section3 未开始  锦秋武昌-陈梓豪雅思 2025-06-26 22:00 至 2027-06-20 23:30 73 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 16 Test1 Section3":
+        - generic: 篇章跟读-Cambridge IELTS 16 Test1 Section3
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "73":
+        - generic: "73"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 16 Test1 Section3 未开始  YS2503ZND002 2025-06-26 22:00 至 2027-06-20 23:30 73 高源 高源 - 0 0 12 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 16 Test1 Section3":
+        - generic: 篇章跟读-Cambridge IELTS 16 Test1 Section3
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND002":
+        - generic: YS2503ZND002
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "73":
+        - generic: "73"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "12":
+        - generic: "12"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 16 Test1 Section4 未开始  锦秋武昌-陈梓豪雅思 2025-06-26 22:00 至 2027-06-20 23:30 32 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 16 Test1 Section4":
+        - generic: 篇章跟读-Cambridge IELTS 16 Test1 Section4
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "32":
+        - generic: "32"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 16 Test1 Section4 未开始  YS2503ZND002 2025-06-26 22:00 至 2027-06-20 23:30 32 高源 高源 - 0 0 12 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 16 Test1 Section4":
+        - generic: 篇章跟读-Cambridge IELTS 16 Test1 Section4
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND002":
+        - generic: YS2503ZND002
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "32":
+        - generic: "32"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "12":
+        - generic: "12"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 15 Test3 Section3 未开始  锦秋武昌-陈梓豪雅思 2025-06-26 22:00 至 2027-06-20 23:30 52 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 15 Test3 Section3":
+        - generic: 篇章跟读-Cambridge IELTS 15 Test3 Section3
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "52":
+        - generic: "52"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "篇章跟读-Cambridge IELTS 15 Test3 Section3 未开始  YS2503ZND002 2025-06-26 22:00 至 2027-06-20 23:30 52 高源 高源 - 0 0 12 查看详情 预览 ":
+      - cell "篇章跟读-Cambridge IELTS 15 Test3 Section3":
+        - generic: 篇章跟读-Cambridge IELTS 15 Test3 Section3
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "YS2503ZND002":
+        - generic: YS2503ZND002
+      - cell "2025-06-26 22:00 至 2027-06-20 23:30":
+        - generic: 2025-06-26 22:00 至 2027-06-20 23:30
+      - cell "52":
+        - generic: "52"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "12":
+        - generic: "12"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "weather词汇 未开始  锦秋武昌-陈梓豪雅思 2025-06-24 21:30 至 2027-06-20 23:30 2 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "weather词汇":
+        - generic: weather词汇
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "2":
+        - generic: "2"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "weather词汇 未开始  邵旻思 2025-06-24 21:30 至 2027-06-20 23:30 3 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "weather词汇":
+        - generic: weather词汇
+      - cell "未开始":
+        - generic: 未开始
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "3":
+        - generic: "3"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "口语 未开始 +1  锦秋武昌-陈梓豪雅思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "口语":
+        - generic: 口语
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "口语 未开始 +1  邵旻思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "口语":
+        - generic: 口语
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "口语 未开始 +1  锦秋武昌-陈梓豪雅思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "口语":
+        - generic: 口语
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "口语 未开始 +1  邵旻思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "口语":
+        - generic: 口语
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "口语 未开始 +1  锦秋武昌-陈梓豪雅思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "口语":
+        - generic: 口语
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "口语 未开始 +1  邵旻思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "口语":
+        - generic: 口语
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "口语 未开始 +1  锦秋武昌-陈梓豪雅思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "口语":
+        - generic: 口语
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "口语 未开始 +1  邵旻思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "口语":
+        - generic: 口语
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "2025年5-8月口语题库Part 2 未开始 +1  锦秋武昌-陈梓豪雅思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "2025年5-8月口语题库Part 2":
+        - generic: 2025年5-8月口语题库Part 2
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "2025年5-8月口语题库Part 2 未开始 +1  邵旻思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "2025年5-8月口语题库Part 2":
+        - generic: 2025年5-8月口语题库Part 2
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "2025年5-8月口语题库Part 2 未开始 +1  锦秋武昌-陈梓豪雅思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "2025年5-8月口语题库Part 2":
+        - generic: 2025年5-8月口语题库Part 2
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "2025年5-8月口语题库Part 2 未开始 +1  邵旻思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "2025年5-8月口语题库Part 2":
+        - generic: 2025年5-8月口语题库Part 2
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "2025年5-8月口语题库Part 2&3 老题/环保人士/口语/Part 3 未开始 +1  锦秋武昌-陈梓豪雅思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "2025年5-8月口语题库Part 2&3 老题/环保人士/口语/Part 3":
+        - generic: 2025年5-8月口语题库Part 2&3 老题/环保人士/口语/Part 3
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "2025年5-8月口语题库Part 2&3 老题/环保人士/口语/Part 3 未开始 +1  邵旻思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "2025年5-8月口语题库Part 2&3 老题/环保人士/口语/Part 3":
+        - generic: 2025年5-8月口语题库Part 2&3 老题/环保人士/口语/Part 3
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "2025年5-8月口语题库Part 2&3 老题/想去的外国/口语/Part 3 未开始 +1  锦秋武昌-陈梓豪雅思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "2025年5-8月口语题库Part 2&3 老题/想去的外国/口语/Part 3":
+        - generic: 2025年5-8月口语题库Part 2&3 老题/想去的外国/口语/Part 3
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "2025年5-8月口语题库Part 2&3 老题/想去的外国/口语/Part 3 未开始 +1  邵旻思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "2025年5-8月口语题库Part 2&3 老题/想去的外国/口语/Part 3":
+        - generic: 2025年5-8月口语题库Part 2&3 老题/想去的外国/口语/Part 3
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "2025年5-8月口语题库Part 2 未开始 +1  锦秋武昌-陈梓豪雅思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "2025年5-8月口语题库Part 2":
+        - generic: 2025年5-8月口语题库Part 2
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "2025年5-8月口语题库Part 2 未开始 +1  邵旻思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "2025年5-8月口语题库Part 2":
+        - generic: 2025年5-8月口语题库Part 2
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "2025年5-8月口语题库Part 2&3 老题/诗句或歌词/口语/Part 3 未开始 +1  锦秋武昌-陈梓豪雅思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "2025年5-8月口语题库Part 2&3 老题/诗句或歌词/口语/Part 3":
+        - generic: 2025年5-8月口语题库Part 2&3 老题/诗句或歌词/口语/Part 3
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+    - row "2025年5-8月口语题库Part 2&3 老题/诗句或歌词/口语/Part 3 未开始 +1  邵旻思 2025-06-24 21:30 至 2027-06-20 23:30 1 高源 高源 - 0 0 1 查看详情 预览 ":
+      - cell "2025年5-8月口语题库Part 2&3 老题/诗句或歌词/口语/Part 3":
+        - generic: 2025年5-8月口语题库Part 2&3 老题/诗句或歌词/口语/Part 3
+      - cell "未开始 +1":
+        - generic: 未开始
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2025-06-24 21:30 至 2027-06-20 23:30":
+        - generic: 2025-06-24 21:30 至 2027-06-20 23:30
+      - cell "1":
+        - generic: "1"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+- generic: 共 17757 条
+- button "50 条/页 ":
+  - text: 50 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button "2"
+- button "3"
+- button "4"
+- button "5"
+- button "6"
+- button "•••":
+  - generic: •••
+- button "356"
+- button:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 返回作业管理
+- generic: 日期
+- generic: /
+- generic: 批改老师
+- generic: "-"
+- generic: 打卡频次
+- generic: 平均成绩
+- generic: 完成数
+- text: "0"
+- generic: /-
+- generic: 批改数
+- text: "0"
+- generic: /-
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- tablist:
+  - tab "参与学生" [selected]:
+    - generic: 参与学生
+  - tab "题目":
+    - generic: 题目
+  - tab "统计":
+    - generic: 统计
+  - tab "排行榜":
+    - generic: 排行榜
+- generic: 当天打卡率 0%
+- generic: 0/0已打卡
+- paragraph:
+  - generic: 暂无数据，还没有学生的打卡内容~
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 返回作业管理
+- generic: 日期
+- generic: /
+- generic: 题目数
+- generic: 批改老师
+- generic: "-"
+- generic: 平均成绩
+- generic: 完成数
+- text: "0"
+- generic: /-
+- generic: 批改数
+- text: "0"
+- generic: /-
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "再次布置"
+- button "预览"
+- tablist:
+  - tab "参与学生" [selected]:
+    - generic: 参与学生
+  - tab "统计":
+    - generic: 统计
+  - tab "排行榜":
+    - generic: 排行榜
+- paragraph:
+  - generic: 暂无数据~
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:                              
+- generic: 
+- text:                                                                                                                      
+- list:
+  - listitem: 再次布置

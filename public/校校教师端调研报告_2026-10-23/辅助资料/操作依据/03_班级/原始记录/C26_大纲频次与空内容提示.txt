@@ -1,0 +1,163 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 我的班级
+- button "科目 ":
+  - generic: 科目
+  - generic: 
+- textbox "请输入班级名称": 测试班
+- generic: 
+- button "班级类型 ":
+  - text: 班级类型
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- generic: "02"
+- paragraph: 测试班002
+- paragraph: AP
+- paragraph:
+  - generic: 测试班002
+  - generic: 已开课
+  - text: (
+  - generic: 2025年06月18日
+  - text: )
+  - generic: "课程进度: 32/-"
+  - generic: 学生人数：1人
+- generic: 作业
+- generic: 课表
+- generic: 反馈
+- generic: 作业大纲
+- generic: 概览
+- generic: "?"
+- generic: 
+- button "作业大纲 ":
+  - text: 作业大纲
+  - generic: 
+- button "关联":
+  - generic: 关联
+- paragraph:
+  - generic: 暂无作业大纲，快去关联吧～
+- generic: 
+- generic: 
+- generic: 
+- generic: 返回
+- generic: 日期
+- generic: /
+- generic: 题目数
+- generic: 批改老师
+- generic: "-"
+- generic: 平均成绩
+- generic: 完成数
+- text: "0"
+- generic: /-
+- generic: 批改数
+- text: "0"
+- generic: /-
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "再次布置"
+- button "预览"
+- tablist:
+  - tab "参与学生" [selected]:
+    - generic: 参与学生
+  - tab "统计":
+    - generic: 统计
+  - tab "排行榜":
+    - generic: 排行榜
+- paragraph:
+  - generic: 暂无数据~
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text: 
+- dialog "关联大纲":
+  - generic: 关联大纲
+  - button "Close":
+    - generic: 
+  - generic: "*大纲科目"
+  - textbox "请选择大纲科目": 其他
+  - generic: 
+  - generic: "*大纲名称"
+  - textbox "请选择": 无分类 / 思培听力教学大纲
+  - generic: 
+  - generic: "*下发日期"
+  - textbox "请选择下发日期"
+  - generic: 
+  - generic: "*下发时间"
+  - textbox "请选择下发时间": 6:00
+  - generic: 
+  - generic: 目录下发频次
+  - textbox "请选择下发频次" [active]
+  - generic: 
+  - generic: "*下发形式"
+  - radiogroup:
+    - radio "按时间下发" [checked]:
+      - radio [checked]
+      - generic: 按时间下发
+    - radio "全部下发":
+      - radio
+      - generic: 全部下发
+  - paragraph:
+    - generic: 当前大纲没有内容，先去教研大纲中关联题目吧~
+  - button "取消":
+    - generic: 取消
+  - button "确认" [disabled]:
+    - generic: 确认
+- text:  
+- list:
+  - generic: 周一
+  - generic: 周二
+  - generic: 周三
+  - generic: 周四
+  - generic: 周五
+  - generic: 周六
+  - generic: 周日

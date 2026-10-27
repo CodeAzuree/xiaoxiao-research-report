@@ -1,0 +1,50 @@
+[
+  {
+    "id": "K01",
+    "note": "确认登录有效后进入课表：首页为2026年10月月历、本月与前后月份、今天标记和课时详情",
+    "time": "2026-10-23T04:37:24.473Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=a&stutab=0"
+  },
+  {
+    "id": "K02",
+    "note": "课时详情弹窗：日期范围、搜索、总上课时长和七列表头，当前暂无记录",
+    "time": "2026-10-23T04:37:37.162Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=a&stutab=0"
+  },
+  {
+    "id": "K03",
+    "note": "课时详情日期选择器为双月日历，提供月份和年份前后切换",
+    "time": "2026-10-23T04:37:53.817Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=a&stutab=0"
+  },
+  {
+    "id": "K04",
+    "note": "课时查询使用2024-01-01至2026-10-23，当前账号仍显示总上课时长00:00和空列表",
+    "time": "2026-10-23T04:38:32.103Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=a&stutab=0"
+  },
+  {
+    "id": "K05",
+    "note": "切到2026年09月：月历随月份重排日期，周一至周日七列",
+    "time": "2026-10-23T04:38:49.240Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=a&stutab=0"
+  },
+  {
+    "id": "K06",
+    "note": "点击本月返回2026年10月，恢复今天标记",
+    "time": "2026-10-23T04:38:59.442Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=a&stutab=0"
+  },
+  {
+    "id": "K07",
+    "note": "向后切换到2026年11月，月历支持前后月份浏览",
+    "time": "2026-10-23T04:39:05.297Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=a&stutab=0"
+  },
+  {
+    "id": "K08",
+    "note": "补查班级课表与快捷区：当前可见月历、课时详情和作业快捷入口，未见新增课程按钮",
+    "time": "2026-10-23T04:41:16.513Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c&stutab=0"
+  }
+]

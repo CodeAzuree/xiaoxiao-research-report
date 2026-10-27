@@ -1,0 +1,43 @@
+- generic: 基础练习
+- generic: 题型训练
+- generic: 模考测试
+- generic: 机构题库
+- generic: 自定义作业
+- textbox
+- textbox "开始日期"
+- textbox "00:00"
+- generic: ~
+- textbox "截止日期："
+- textbox "22:00"
+- generic: 布置给所有学生
+- generic: 关联音视频(未关联)
+- generic: 倒计时(未开启)
+- generic: 科目(未设置)
+- generic: AI智能批改
+- generic: 开启实时作业
+- generic: 如何提高学生完成作业的积极性？老师可以试试开启实时作业！
+- generic: 点击查看操作详情
+- generic: 作业设置
+- generic: 收起详情
+- iframe:
+  - code:
+    - generic: 精听（逐句听写）-Cambridge IELTS 12 Test8 Section2
+    - generic: 作业结果
+    - generic: 答题解析
+    - generic: 答题录屏
+    - progressbar:
+    - paragraph: "-分"
+    - paragraph: 满分:100分
+    - generic: 正确率：-%
+    - generic: 上一次正确率：-%
+    - paragraph: 作业情况统计
+    - paragraph: 题目总数
+    - paragraph: "0"
+    - paragraph: 答对
+    - paragraph: "0"
+    - paragraph: 答错
+    - paragraph
+    - paragraph: 未答
+    - paragraph: "0"
+    - text: 
+  - text:   

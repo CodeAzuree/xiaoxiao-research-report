@@ -1,0 +1,466 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业管理
+- generic: 
+- text: 布置作业
+- list:
+  - generic: 全部作业
+  - generic: (1)
+  - generic: 单词作业
+  - generic: 打卡作业
+  - generic: 作业模考
+  - generic: (1)
+  - generic: 视频课件
+  - generic: 实时作业
+  - generic: 未下发作业
+  - generic: 我的批改
+  - generic: (1)
+  - generic: 我布置的
+  - generic: (1)
+  - generic: 收藏作业
+- generic: 我布置的
+- generic: 科目：
+- generic: 全部
+- generic: 雅思
+- generic: 托福
+- generic: AP
+- generic: SAT
+- generic: 状态：
+- generic: 全部
+- generic: 未开始
+- generic: 进行中
+- generic: 已完成
+- generic: 已逾期
+- generic: 未批改
+- generic: 部分批改
+- generic: 已批改
+- generic: 未查阅
+- generic: 部分查阅
+- generic: 已查阅
+- button "班级： ( 全部 ) ":
+  - text: 班级：
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- text: 时间
+- generic: 
+- generic: 
+- textbox "开始日期"
+- generic: "-"
+- textbox "结束日期"
+- generic: 筛选
+- generic: 排序
+- button "重置"
+- generic: 
+- textbox "请输入作业名称": sat全科测试
+- generic: 
+- radiogroup:
+  - button
+  - button
+- table:
+  - rowgroup:
+    - row "作业名称 状态 收藏 班级 截止时间 题目数 布置老师 批改老师 平均成绩 完成数 批改数 学生数":
+      - columnheader "作业名称":
+        - generic: 作业名称
+      - columnheader "状态":
+        - generic: 状态
+      - columnheader "收藏":
+        - generic: 收藏
+      - columnheader "班级":
+        - generic: 班级
+      - columnheader "截止时间":
+        - generic: 截止时间
+      - columnheader "题目数":
+        - generic: 题目数
+      - columnheader "布置老师":
+        - generic: 布置老师
+      - columnheader "批改老师":
+        - generic: 批改老师
+      - columnheader "平均成绩":
+        - generic: 平均成绩
+      - columnheader "完成数":
+        - generic: 完成数
+      - columnheader "批改数":
+        - generic: 批改数
+      - columnheader "学生数":
+        - generic: 学生数
+      - columnheader
+- table:
+  - rowgroup:
+    - row "sat全科测试 已查阅  王小格-SAT 2026-09-23 13:30 至 2026-09-24 23:30 147 王思贤 王思贤 420 1 0 1 查看详情 预览 ":
+      - cell "sat全科测试":
+        - generic: sat全科测试
+      - cell "已查阅":
+        - generic: 已查阅
+      - cell "":
+        - generic: 
+      - cell "王小格-SAT":
+        - generic: 王小格-SAT
+      - cell "2026-09-23 13:30 至 2026-09-24 23:30":
+        - generic: 2026-09-23 13:30 至 2026-09-24 23:30
+      - cell "147":
+        - generic: "147"
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "420":
+        - generic: "420"
+      - cell "1":
+        - generic: "1"
+      - cell "0":
+        - generic: "0"
+      - cell "1":
+        - generic: "1"
+      - cell "查看详情 预览 ":
+        - button "查看详情"
+        - button "预览"
+        - button "":
+          - generic: 
+- generic: 共 1 条
+- button "50 条/页 ":
+  - text: 50 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button [disabled]:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 返回作业管理
+- generic: 打卡作业
+- generic: 已逾期
+- generic: 进行中
+- generic: 口译录音
+- generic: YS2409ZND013
+- generic: 日期
+- generic: 2024-10-02/2024-10-03 22:00
+- generic: 布置老师
+- generic: 高源
+- generic: 批改老师
+- generic: 高源
+- generic: 打卡频次
+- generic: 周一
+- generic: 周二
+- generic: 周三
+- generic: 周四
+- generic: 周五
+- generic: 周六
+- generic: 周日
+- generic: 打卡率
+- generic: 11%
+- generic: 完成数
+- text: "2"
+- generic: /9
+- generic: 批改数
+- generic: "-"
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- tablist:
+  - tab "参与学生" [selected]:
+    - generic: 参与学生
+  - tab "题目":
+    - generic: 题目
+  - tab "统计":
+    - generic: 统计
+  - tab "排行榜":
+    - generic: 排行榜
+- paragraph: "02"
+- paragraph: 十月
+- paragraph: "03"
+- paragraph: 十月
+- generic: 当天打卡率 11%
+- generic: 提醒打卡
+- generic: 1/9已打卡
+- generic: 浩翔
+- paragraph: 张浩翔
+- paragraph: 发布于 2024-10-03
+- generic: 暂未评分
+- generic: 00:00/01:39
+- slider "slider between 0 and 100"
+- img "后退10秒"
+- img "前进10秒"
+- img "播放速度"
+- text: 批改评分
+- text: A
+- superscript: +
+- generic: A
+- generic: B
+- generic: C
+- generic: D
+- paragraph: 暂无数据，还没有老师点评~
+- textbox "写下你的点评"
+- generic: 图片
+- button "发布" [disabled]:
+  - generic: 发布
+- text: 
+- generic: 
+- text: 
+- generic: 共 1 条
+- textbox "请选择": 5条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+- button "" [disabled]:
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 返回作业管理
+- generic: 作业模考
+- generic: 已批改
+- generic: 测试自定义
+- generic: 测试班002
+- generic: 日期
+- generic: 2026-04-08 09:30/2026-04-09 23:30
+- generic: 布置老师
+- generic: 王思贤
+- generic: 题目数
+- generic: "1"
+- generic: 批改老师
+- generic: 王思贤
+- generic: 平均成绩
+- generic: "0"
+- generic: 完成数
+- text: "1"
+- generic: /1
+- generic: 批改数
+- text: "1"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "再次布置"
+- button "预览"
+- tablist:
+  - tab "参与学生":
+    - generic: 参与学生
+  - tab "统计" [selected]:
+    - generic: 统计
+  - tab "排行榜":
+    - generic: 排行榜
+- text: 
+- paragraph: 富文本内容
+- paragraph
+- paragraph: 新建 DOCX 文档.docx
+- paragraph
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:                              
+- generic: 
+- text:               
+- dialog "dialog":
+  - text: 
+  - tablist:
+    - tab "基础练习" [selected]:
+      - generic: 基础练习
+    - tab "题型训练":
+      - generic: 题型训练
+    - tab "模考测试":
+      - generic: 模考测试
+    - tab "机构题库":
+      - generic: 机构题库
+    - tab "自定义作业":
+      - generic: 自定义作业
+    - tab "打卡作业":
+      - generic: 打卡作业
+    - tab "视频课件作业":
+      - generic: 视频课件作业
+  - button "新窗口打开"
+  - button "添加至常用作业"
+  - button "预览"
+  - button "布置"
+  - generic: 
+  - textbox "请输入作业名称"
+  - generic: 0/100
+  - text: 选择班级
+  - generic: (1)
+  - generic: 
+  - text: 
+  - generic: 选择学生
+  - generic: 
+  - text: 批改老师
+  - generic: (1)
+  - generic: 
+  - generic: 测试班002
+  - generic: 
+  - textbox "请选择开始时间": 2026-10-23 11:00
+  - text: 
+  - generic: ~
+  - textbox "请选择结束时间": 2026-10-24 23:30
+  - text: 
+  - paragraph:
+    - text: 关联音视频
+    - generic: ( 未关联 )
+  - checkbox "开启实时作业":
+    - checkbox "开启实时作业"
+    - generic: 开启实时作业
+  - checkbox "强监管模式":
+    - checkbox "强监管模式"
+    - generic: 强监管模式
+  - heading "题型筛选" [level=2]
+  - text: 
+  - generic: 题型
+  - generic: 单词
+  - generic: 读
+  - generic [active]: 听
+  - generic: 写
+  - generic: 说
+  - generic: 分项
+  - generic: 精听
+  - generic: 逐句精听
+  - generic: 单词词组听写
+  - generic: 句子听力练习
+  - generic: 句子听写
+  - text:    
+  - heading "题目" [level=2]
+  - generic: 排序
+  - button "重置"
+  - generic: 
+  - textbox "请输入搜索内容"
+  - button " 添加全部":
+    - generic: 
+    - text: 添加全部
+  - button "查看已选"
+  - generic: "Q: CUSTOMER: Hello. Um my family and I are staying here in Trebirch for a week or two and [1]we wanted to know about the train service. We’re hoping to do a few local trips. RAILPERSON: OK. Well, I can give you lots of details about all the trains going from Trebirch in the South West. [2]This leaflet will be very helpful but I can tell you some of the main things. We’ve got two main train stations in the town. [3]King Street is for local commuter lines and regional services. CUSTOMER: What about trains to London? I’ll need to go there on business for one day. RAILPERSON: [4]Then you need to go to Central Station – that’s for all the national services. There are regular trains to London. [5]They leave Trebirch every half hour on weekdays and every hour at weekends. It takes [6]about two hours, a bit longer on Sundays. You’ve got a choice [7]of first and second class and there’s a buffer car-[8]though refreshments are included in the cost of a first class ticket. CUSTOMERE: Ah right. Um, and have you got any information on different ticket types? RAILPERSON: Yes. There’s a range of ticket prices depending on [9]when you travel and when you buy your ticket. [10]There’s a standard open ticket which doesn’t have any restriction. This can be bought in advance or on the day. [11]You can also get various discounted tickets. A popular one is called the Supersave and, er, this is OK for travel after 8.45. [12]Then there is the Special ticket, which is valid for travel after 10.15. The Special tickets are also valid for [13]travel at weekends. The cheapest tickets [14]are called Advance and you have to buy them at least six days ahead. Only a certain number are available and [15]you have to make seat reservations for these. CUSTOMER: Thanks. And are there lots of places to go to around there? RAILPERSON: Oh yes. You can enjoy many days out. Um there’s the Merthyr Mining Museum, which is [16]only half an hour from Trebirch by train. Your children will find it just as fascinating as [17]any theme park and they can ride [18]in the original miners’ lifts and [19]on the coal trains. There are special excursion tickets [20]which include entrance fees. Mainline trains also offer direct services to Bristol, [21]where you can visit the docks or spend a great day out with the children in the zoo, which is set in the parkland [22]that used to surround the old castle. Er, special family awayday fares are available [23]for this service now during the school holidays. Er, alternatively, [24]you can be in Birmingham in only an hour and a half, where there’s lots to see and do [25]including the new and internationally-acclaimed climbing wall built on the site of the old aquarium. We will also be running a special service to New port [26]when the new science museum opens next year, as [27]we anticipate a lot of visitors in the opening weeks. I’d advise you [28]to call early to book your tickets. Is that OK? CUSTOMER: Yes, thanks."
+  - generic: 已布置 1 次
+  - generic: 
+  - text: 
+  - generic: "Q: MAN: And here on Radio Rivenden we have Lynne Rawley, the Public Relations Officer of our own Rivenden City Theatre. Hello, Lynne. LYNNE: Hello. MAN: Now, [1] the theatre is reopening soon after its three-year redevelopment program, isn’t it? LYNNE: That's right, and [2]there are a lot of improvements. The first thing people will see when they go in is [3]that the foyer has been repainted in the original green and gold. Then [4] the box office has been reoriented with its own access from the side of the building instead of through the foyer, which means it can be open longer hours, and has more space, too. [5] The shop that used to be in the foyer, which sold books and CDs, is the one part of the redevelopment which isn’t yet complete. The plan is to find new premises for it near the theatre, and we've had difficulty finding somewhere suitable. [6] We hope to reopen the shop in the next few months. MAN: Will audiences find any difference in the auditorium? LYNNE: Yes, [7] we've increased the leg-room between the rows. This means that [8] there are now fewer seats but we're sure audiences will be much happier. And we've [9] installed air conditioning, so it won't [10] get so hot and stuffy. We already had a few seats which were suitable for wheelchair users, and [11] now there are twice as many, which we hope will meet demand. Something else [12] that will benefit audiences is the new lifts. The two we used to have were small and slow. They've now gone, and [13] we've got much more efficient ones. MAN: Anything for the performers? LYNNE: Yes, [14] we've made a number of improvements backstage. The small dark dressing rooms we used to have have been [15] converted into two large airy rooms, so they're much more comfortable now. And [16]the state-of-the-art electronic sound and lighting systems have been installed. MAN: OK, so what's the first play that audiences can see when the theatre reopens? LYNNE: We've got a very exciting production of Peter Shaffer's Royal Hunt of the Sun, which is currently touring the country. [17] That starts on October the 13th and runs till the 19th. We're experimenting bit with the time the curtain goes up. [18] We used to start all our performances at 7.30, but that made it difficult for people [19] to go home by public transport, so instead [20] we're beginning at 7. [21] Because at 9.45, when it finished, there are still buses running. Tickets are already selling fast. [22] The Friday and Saturday performances sold out almost immediately and, now there are only tickets [23] for Monday and Thursday. MAN: How much are they? LYNNE: We've introduced [24] a simpler price structure. Ticket prices [25] used to range from £6 to £30 but now [26] they're all £18. They're available [27] from the box office, in person, by phone, fax or post, or online. MAN: OK, Lynne, now if you’d like to give the contact details for the theatre..."
+  - generic: 
+  - text: 
+  - generic: "Q: WOMAN: Good morning, oh sorry, it's gone 12, I'll start again. Good afternoon, Kingswell Sports Club, how can I help you? MAN: Oh, good afternoon. I was wondering if you could give me [1] some information about membership and facilities. WOMAN: Of course. What would you like to know? MAN: [2] Do you have tennis courts, for example? WOMAN: No, I'm afraid we don't. [3] We're primarily a golf club. MAN: What about football? [4] I heard you had a team. WOMAN: No, I'm sorry. Perhaps you're thinking about Fresham Sports Centre. MAN: Oh, right. I know it. [5] I've played badminton there. WOMAN: Have you? [6] They've got a lot of facilities we don't have and vice versa. We do have [7] a keep-fit studio, which is very popular with members, and then as well as that [8] there's swimming, of course. MAN: That's good. I like to swim every day. WOMAN: We have a range of classes too. MAN: [9] Do you have judo classes? [10] I'm keen to learn. WOMAN: Well, at the moment [11] we offer kick-boxing. We're planing to [12] add judo and stretch classes soon. We're currently running [13] a range of yoga classes, too. MAN: What about relaxing after exercise? [14] I assume you have a restaurant or something. WOMAN: At the moment, we've got [15] a salad bar which is very popular. We'll also have [16] a fully-licensed restaurant by the end of the year. MAN: Sounds good! WOMAN: What kind of membership are you interested in? MAN: Um I'm not really sure. What are the options? WOMAN: Well, there are three different membership schemes. MAN: I see, what's the difference? WOMAN: Well, [17] the first one's called Gold, and you can use all the facilities at any time of the day or week. You can also [18] join in as many classes as you like for free. MAN: That sounds good. Is it very expensive? WOMAN: Well, [19] you pay a 250 pounds joining fee and then it's 450 pounds -oh no, I'm sorry, it's just gone up by 50 pounds, sorry about that -[20] it's now 500 pounds for the annual subscription fee. MAN: Right, got that. And what’s the next type? WOMAN: Well, [21] that’s Silver—it’s the same as Gold [22] except you have to pay a small fee of £1,00 per lesson for any you do and you can only use the centre at certain times. MAN: I see. So when exactly? WOMAN: [23] You can only use the facilities between 10 am and 4:30 pm. MAN: [24] So I couldn’t use the pool at 8 in the morning or evening, then? WOMAN: That’s right. MAN: OK. And the price for that? Is the joining fee the same as for Gold? WOMAN: Actually, it’s slightly less than the £250—[25] it’s £225, but the annual fee is [26] only £300. Does that sound more like what you want? MAN: Well, it’s still rather more expensive than I thought. [27] I’m a student here in England and I’m only here for six months. WOMAN: Ah, then the Bronze scheme would probably suit you best. MAN: How is that different? WOMAN: Well, [28] some of the facilities have restricted use. MAN: And do I have to pay for classes? WOMAN: [29] Yes, it’s £3 for each class you join. MAN: I see. And what are the hours then? WOMAN: [30] Between 10.30 and 3.30 weekdays only and you pay a £50 joining fee. The annual fee is £180—it works out at £15 a month, so that would be quite a lot cheaper. MAN: Oh, that should be all right. I could come in my free periods. What do I have to do if I want to join? WOMAN: Well, [31] we book you in for an assessment with an instructor, who will show you how to use all the equipment. If you want to organize a trial session and look around the centre, [32] you’ll need to speak to David Kynchley. MAN: Hmm. Could you spell that please? WOMAN: Yes, [33] David K-Y-N-C-H-L-E-Y. I’ll give you his direct line number. [34] It’s 045895311. MAN: Thanks. WOMAN: Thank you for calling Kingswell Sports Club."
+  - generic: 
+  - text: 
+  - generic: "Q: Today I would like to talk to you about [1]The Royal Society for the Prevention of Accidents. Firstly, I'll tell you a little about [2]the history of the society and the work it does. Then I will give you [3]some interesting figures to show how important the work of the society is. After that, I will show you [4]a video made by the society that will give you more details of the work they do. And finally, I'll finish [5]by giving you the chance to ask me questions. So first, a little about the history of the RSPoA.This is [6]a British charity that was established over 80 years ago. It provides [7]information and training on safety in all areas of life-at work, in the home, on the roads, [8]at leisure time, in schools, and [9]on or near water. It also provides information [10]on dangerous or badly designed products that may cause accidents. Accidents in the UK, although often not serious, [11]are still very common and cost the country huge amounts in lost time and money. Last year, for example, there were nearly [12]29 million working days lost due to [13]accidents and ill health, and more seriously, about [14]350 deaths because of accidents at work. In addition, because of accidents in the home, [15]over 4,000 people died and nearly three million had to go to A&E departments in hospitals. So as you can see, the problem of safety is quite a big one. Now we will see a video showing..."
+  - generic: 正确率 2%
+  - generic: 
+  - text: 
+  - generic: "Q: And our final local story tonight, an angry NatWest cashier scares off two bank robbers. Joan White, a 24-year-old cashier at the Bond Street branch of NatWest Bank stopped a bank robbery [1]after she got angry with one of the robbers. Ms White [2]started shouting at the robber after she lost her temper with him. When the man asked her for the cash from her till, [3]she threw it on the floor, shouting at him, [4]“if you want the money, you pick it up.” When he came behind the counter to pick up the money, [5]she then hit the robber with a stapler as he tried to get away. Instead of taking the £2,500 that was in the till, [6]he only got away with £25. The second robber who was waiting by the front door also ran away. Ms White, from Thfnell Park,North London, says she was angry [7]because the robber shouted at her and used rude words. Both robbers were [8]white and had strong Welsh accents. The robber who was hit by Ms White is said to be about 5'10, of [9]medium build, and [10]with a tattoo of a bird on his left hand. He was wearing [11]blue cotton trousers, a white short-sleeve shirt and black shoes. The other robber was [12]taller and heavier, and was wearing [13]black jeans, a blue T-shirt and white training shoes. He also had very [14]short hair and was suntanned. If anyone has seen anyone that fits these descriptions or has any other information, please call [15]0800-822-3600."
+  - generic: 
+  - text: 
+  - generic: "Q: Speaker 1: If I won the lottery, I think I'd buy [1]a small island and a sailing boat. And I'd have my house [2]on the beach with palm trees everywhere. Of course, I'd also need a big satellite dish, [3]a tennis court and [4]a swimming pool. Speaker 2: I'd buy Manchester United football team. Speaker 3: I'd save half the money [5]so I would never have to worry about money in my life again. With the other money I would buy myself a lot of clothes and [6]furniture for my house. But [7]I'd try not to change my life as much as possible. Speaker 4: I'd buy a new snowboard, a new windsurfer... Oh and a van to carry them in, [8]because mine's broken down. Then, if I had any money left, I'd buy some new snowboarding trousers and a jacket. [9]The ones I've got now are really old, and I always end up getting wet and cold. Speaker 5: I would [10]give up my part-time job as a waiter and would [11]go on a boat trip with my girlfriend around the world. We'd go to Hawaii, Australia, [12]Europe and many other counties we have always wanted to go to. Then we would live in [13]a really big flat in the middle of London with a beautiful view of the park. Speaker 6: We'd take the kids to see their grandparents [14]who moved to Australia two years ago. Speaker 7: I'd [15]buy some lands with lots of trees and next to a lake. Then I'd build a house made of wood, you know, like the log cabins you see in Canada. Outside the front floor [16]there'd be a big wooden veranda going about right onto the lake. Speaker 8: [17]I would give up my job and move with my family to somewhere warm."
+  - generic: 正确率 4%
+  - generic: 
+  - text: 
+  - generic: "Q: A: Good afternoon. Can I help you? B: Yes, could you tell me what time the club is open? A: [1]From 7:00 am to 11:30 pm, but [2]on Tuesdays, the club is always closed. B: OK. I'm interested in [3]joining the club and wondered if I could have a look around. A: Certainly. I'll just get someone to help you. Judy! Judy: Hello. I'm Judy. So [4]I'll show you all the facilities we've got and of course [5]answer any questions you may have. B: Thank you. Judy: So, here are [6]the changing rooms. And [7]the showers and toilets are over there. We've also got the the daily newspapers here, and over there is a sauna. B: Good. Is there a weight training room? Judy: Yes, [8]just down here on the left. B: Looks very nice. Judy: Before you can use it though, [9]you must take a short course on how to use all the equipment. You must also [10]wear training shoes at all times. It's open [11]from 7:00 in the morning to 11:30 at night. B: Are there any squash courts? Judy: There were. [12]But where they were, there is now the swimming pool. B: Well, that's OK. I enjoy swimming. Judy: Good. [13]It can be used from 7 to 11 at night. From 5 to 7 it's used for special classes. B: And what's here? Judy: This is the aerobics and dance room. [14]Classes are held from 7 in the morning to 9 in the evening. On Sundays though, it's used for karate classes, usually form 10 in the morning to midday, [15]but the times often change. The schedule is [16] always available at the reception desk."
+  - generic: 正确率 1%
+  - generic: 
+  - text: 
+  - generic: "Q: Bank Clerk: Good morning, may I help you? Customer: Yes, I'd like to [1]open a new bank account if possible? BC: Certainly. Are you already a customer at NatWest Bank? C: Urm. [2]No, this will be my first account here. BC: OK. So first, please fill in this [3]application form. Name, [4]address, telephone number, and other banks you are using, and what you do. C: I'm a university student. Is that OK? BC: Sure. Anyone [5]over the age of 18 can open a current account alone but people under 18 need to [6]have their parents' approval. C: That's OK then. I'm 24 years old. BC: OK. And then you will need to [7]give us some identification. For example [8]your driving licence, student ID with a photo, birth certificate... C: I've got my driving licence. BC: OK. And finally we need something to show you address. [9]How long have you been living at your current address? C: About two months. Before that, I was living in [10]the halls of residence at my university. BC: OK. But now you're paying rent for a house or flat? C: Yes. [11]I'm sharing a house with two other students and we share the rent. BC: OK. Can you fill out this form to show where you live? Then you will need to bring [12]a copy of your last two months' rent payments, and [13]an electricity bill or [14]gas bill, which shows your address.[15] The bill must be for this month. C: That sounds OK. Is there anything else I need? BC: No, that's it. I'll just give you this pamphlet and until next time, if you've got any questions, call this free phone number at [16]0800-754-3324 or visit our website. The address is in the pamphlet. C: Thank you."
+  - generic: 正确率 1%
+  - generic: 
+  - text: 
+  - generic: "Q: S: Brighton Estate Agent, how can I help you? C: Well, I'm looking for [1]a furnished flat close to the University of Sussex. S: Right, urm, do you have [2]any particular area in mind? C: No, actually, I'm quite new to Brighton. What I'm looking for is [3]a furnished flat within walking distance of the university or I don't mind [4]commuting by train if it's within a half hour or so. S: What type of [5]accommodation are you looking for? An entire flat just for you or... C: [6]I'm looking for a room to rent. S: All right, so you don't mind [7]sharing the bathroom and kitchen with others. C: No. Not at all. [8]And about the rent, say 100 inclusive per week is the max. Mod cons such as [9]a washing machine and microwave are a must. S: OK, is there anything else you need? C: Oh, yes, [10]I'm allergic to cats but dogs are OK. S: OK, we've got some flats [11]which may suits you. When would you like a viewing? C: How about tomorrow? Say tenish? S: No problem. Now, may I have your name, please? C: [12]Marisa Evans. M-A-R-I-S-A and E for Edward, V for volleyball, A for apple, N for navy and S for Steve. S: Ok, Marisa, then [13]see you tomorrow around 10 in the morning. Thank you for calling. Bye. C: Bye."
+  - generic: 正确率 5%
+  - generic: 
+  - text: 
+  - generic: "Q: Station Employee: Next, please! Passenger: Hello, I'd like to [1]get a return ticket to Cambridge. What kind of tickets are available? SE: Saver Return, [2]Standard Open Return and First Open Return. P: What's [3]the cheapest one? SE: That's Saver Return. [4]£ 27.20. P: All right, the Saver Return, please. [5]Do you accept this credit card? SE: Sure. Please sign here....Thank you. Here's your [6]copy and receipt. P: Urn, what time is the next train? SE: [7]11:52. P: And [8]what time will it arrive in Cambridge? SE: Urn, arriving in Cambridge at 13:01. P: [9]Do I need to change trains? SE:Yes, change at King's Cross. P: Right, so [10]leaving at 11:52 and change at King's Cross and arriving in Cambridge at 13:01? SE:Yes. P: Thank you. Urm, [11]which platform should I go to at King's Cross? SE: Platform 11. P: OK. Thank you. Bye."
+  - generic: 
+  - text: 
+  - generic: "Q: Narrator: Listen to part of a lecture in a Psychology Class. Professor: OK. [1] If I ask about the earliest thing you can remember, I will bet for most of you, [2] your earliest memory would be from about age 3, right? Well, [3] that’s true for most adults. We can’t remember anything that happened before the age of 3. And [4] this phenomenon is so widespread and well-documented. It has a name. [5] It’s called childhood amnesia and was first documented in 1893. As I said, [6] this phenomenon refers to adults not being able to remember childhood incidents. It’s not [7] children trying to remember events from last month or last year. Of course [8] it follows that if you can’t remember an incident as a child, you probably won’t remember [9] it as an adult. OK. So … why is this? [10] What are the reasons for childhood amnesia? Well, [11] once a popular explanation was that childhood memories are repressed... uh, the memories are disturbing [12] so that as adults we keep them buried. And so [13] we can’t recall them and this is based on…well it’s not based on, on, on… [14] the kind of solid research and lab testing I want to talk about today. So [15] let’s put that explanation aside and concentrate on just two. OK? It could be that [16] as children we do form memories of things prior to age of 3, but forget them as we grow older. [17] That’s one explanation. Another possibility is that children younger than 3 lack some cognitive capacity for memory. And that idea, [18] that children are unable to form memories, [19] that’s been the dominant belief in psychology for the past 100 years. And [20] this idea is very much tied two things, the theories of Jean Piaget and also to language development in children. So Piaget’s theory of cognitive development – Piaget suggested that [21] because they don’t have language, children younger than 18-24 months [22] leave in the here and now. That is, [23] they lack the means to symbolically represent objects, and events [24] that are not physically present. Everybody get that? Piaget proposed that [25] young children don’t have a way to represent things that aren’t right in front of them. That’s what language does, right? [26] Words represent things, ideas. Once language starts to develop from about age 2, [27] they do have a system for symbolic representation and can talk about things which are not in their immediate environment including the past. Of course [28] he didn’t claim that infants don’t have any sort of memory, it is acknowledged that [29] they can recognize some stimuli, like faces. And for many years [30] this model was very much in favor in psychology, even though [31] memory tests were never performed on young children. Well, finally in the 1980s, [32] a study was done. And this study showed that [33] very young children under the age of 2 do have the capacity for recall. Now [34] if the children can’t talk, how was recall tested? Well, that is a good question, [35] since the capacity for recall has always been linked with the ability to talk. So [36] the researcher set up an experiment using imitation-based tasks. Adults used props, uh, toys or other objects [37] to demonstrate an action that had 2 steps. The children [38] were asked to imitate the steps immediately and then again [39] after delays of one or more months, and even after a delay, the children could…could [40] recall or replicate the action, [41] the objects used, [42] the steps involved and the order of the steps, even children as young as 9 months! Now, tests showed that [43] there was a faster rate of forgetting among the youngest children, but most importantly, it showed that [44] the development of recall did not depend on language development. And [45] that was an importance finding. I guess [46] I should add that the findings: Don’t say that [47] there was no connection between the development of language and memory. There are some evidence [48] that being able to talk about an event does lead to having a stronger memory of that event. But that does not seem the real issue here. So, [49] back to our question about the cause of childhood amnesia. Well, [50] there is something called the rate of forgetting. And [51] childhood amnesia may reflect a high rate of forgetting; in other words, [52] children under the age of 3 do form memories and do so without language. But [53] they forget the memories at a fast rate, probably [54] faster than adults do. [55] Researchers have set a standard….sort of an expected rate of forgetting, but [56] that expected rate was set based on tests done on the adults. So [57] what is the rate of forgetting for children under the age of 3? We expect it to be high, but [58] the tests to prove this really haven’t been done yet."
+  - generic: 
+  - text: 
+  - generic: "Q: Narrator: Listen to part of a lecture in an Ecology Class. Professor: So we’ve been talking about nutrients, [1] the elements in the environment that are essential for living organisms to develop, [2] live a healthy life and reproduce. Some nutrients are quite scarce; [3] there just isn’t much of them in the environment. But fortunately [4] they get recycled. When [5] nutrients are used over and over in the environment, we call that a nutrient cycle. [6] Because of the importance of nutrients and their scarcity, nutrient recycling [7] is one of the most significant eco-system processes that we’ll cover in this course. The three most important nutrient cycles are the nitrogen cycle, the carbon cycle and the one we are going to talk about today, the Phosphorus cycle. So the Phosphorus cycle [8] has been studied a lot by ecologists because like I said, Phosphorus is [9] an important nutrient and it’s not so abundant. [10] The largest quantities are found in rocks and at the bottom of the ocean. How does Phosphorus get there? Well, let’s start with the Phosphorus in rocks. [11] The rocks get broken down into smaller and smaller particles as they are weathered. They are weathered slowly [12] by rain and wind over long periods of time. Phosphorus is slowly released [13] as the rocks are broken down and [14] it gets spread around into the soil. Once it’s in the soil, [15] plants absorb it through their roots. Student: So [16] that’s the reason people mine rocks that contain a lot of Phosphorus to help with agriculture? Professor: Uh-huh, [17] they mine the rock, artificially [18] break it down and put the Phosphorus into agricultural fertilizers. So [19] humans can play a role in the first part of the Phosphorus cycle – [20] the breaking down of rocks and the spreading of Phosphorus into the soil by speeding up the rate at which [21] this natural process occurs. You see. Now after the Phosphorus is in the soil, plants grow. They use Phosphorus from the soil to grow. And when they die, [22] they decompose. And the Phosphorus [23] is recycled back into the soil; same thing with [24] the animals that eat those plants, or [25] eat other animals that have eaten those plants. We call all of this – [26] the land phase of the Phosphorus cycle. But [27] a lot of the Phosphorus in soil gets washed away into rivers by rain and melting snow. And so [28] begins another phase of the cycle. Can anyone guess what it is called? Nancy? Nancy: Well, [29] if the one is called the land phase, then [30] this has to be called the water phase, right? Professor: Yes, [31] that’s such a difficult point, isn’t it? In a normal water phase, [32] rivers eventually empty into oceans, and once in the oceans, [33] the Phosphorus gets absorbed by water plants like algae. Then [34] fish eats the algae or eat other fish that have eaten those plants. But [35] the water phase is sometimes affected by excessive fertilizers. If not all of Phosphorus [36] gets used by the crops and large amounts of Phosphorus gets into the rivers, this could [37] cause rapid growth of water plants in the river, which can [38] lead to the water ways getting clogged with organisms, which can [39] change the flow of the water. [40] Several current studies are looking at these effects and I really do hope [41] we can find a way to deal with this issue before these ecosystems are adversely affected. Ok? Of course, [42] another way that humans can interrupt the normal process is fishing. The fishing industry [43] helps bring Phosphorus back to land. In the normal water phase [44] the remaining Phosphorus makes its way, [45] settles to the bottom of the ocean and gets mixed into ocean sediments. But remember, this is a cycle. [46] The Phosphorus at the bottom of the ocean has to somehow make its way back to the surface, to complete the cycle, to begin the cycle all over again. After millions of years, [47] powerful geological forces, like underwater volcanoes, [48] lift up the ocean sediments to form new land. When [49] an underwater volcano pushes submerged rock to the surface, a new island is created. Then over many more years [50] the Phosphorus-rich rocks of the new land begin to erode and the cycle continues. Guy: What about, well, you said that [51] the nitrogen cycle is also an important nutrient cycle. And [52] there is a lot of nitrogen in the atmosphere, so I was wondering, [53] is there a lot of Phosphorus in the atmosphere, too? Professor: Good question, George. You’re right to guess that [54] Phosphorus can end up in Earth’s atmosphere. It can [55] move from the land or from the oceans to the atmosphere, and vice versa. However, [56] there’s just not a substantial amount of it there, like there is with nitrogen. [57] It’s a very minimal quantity."
+  - generic: 
+  - text: 
+  - generic: "Q: Narrator: Listen to part of a lecture in a European History Class. Professor: So [1] would it surprise you to learn that many of the foods [2] that we today consider traditional European dishes that their key ingredients were not even known in Europe until quite recently, until [3] the European started trading with the native peoples of North and South America? I mean, you are probably aware that [4] the Americas provide Europe and Asia with foods like squash, beans, turkey, peanuts. But what about all those Italian tomato sauces, Hungarian goulash or my favorite, French fries? [5] Those yummy fried potatoes? Student: Wait. [6] I mean I knew potatoes were from where, South America? Professor: South America. Right, the Andes Mountains. Student: But you are saying tomatoes, too? [7] I just assume since they’re used in so many Italian dishes. Professor: No, like potatoes, Tomatoes grew wild in the Andes, although unlike potatoes, [8] they weren’t originally cultivated there. That seems to have occurred first in Central America. And even then, [9] the tomato doesn’t appear to have been very important as a food plant until [10] the Europeans came on the scene. They took it back to Europe with them around 1550. And [11] Italy was indeed the first place where [12] it was widely grown as a food crop. So in a sense, [13] it really is more Italian than American. And another thing and [14] this is true of both potato and tomato. [15] Both of these plants are members of the Nightshade family. The Nightshade family is a category of plants [16] which also includes many that you wouldn’t want to eat, like mandrake, belladonna, and even tobacco. So [17] it’s no wonder that people once considered potatoes and tomatoes to be inedible too, even poisonous. And in fact, [18] the leaves of the potato plant are quite toxic. So [19] it took both plants quite a while to catch on in Europe. And even longer [20] before they made the return trip to North America and [21] became popular food items here. Student: Yeah, you know, I remember, I remember [22] my grandmother telling me that when her mother was a little girl, a lot of people still [23] thought that tomatoes were poisonous. Professor: Oh, sure. [24] People didn’t really start eating them here until the mid-eighteen hundreds. Student: But seems like I heard... [25] didn’t Thomas Jefferson grow them or something? Professor: Well, that’s true. But then [26] Jefferson is known not only as the third president of the United States, but also [27] as a scholar who was way ahead of his time in many ways. He [28] didn’t let the conventional thinking of his day restrain his ideas. Now, potatoes went through a similar sort of ...uh... of a rejection process, especially [29] when they were first introduced in Europe. You know [30] how potatoes can turn green if they are left in the light too long? And that [31] greenish skin can make the potatoes tastes bitter; even [32] make you ill. So [33] that was enough to put people off for over 200 years. Yes, Bill? Student: I’m sorry, professor Jones. But I mean yeah ok. [34] American crops have probably contributed a lot to European cooking over the years. But… Professor: But [35] have they really played any kind of important role in European history? Well, as a matter of fact, yes. [36] I was just coming to that. Let’s start with North American corn or maize, as it’s often called. Now [37] before the Europeans made contact with the Americas, they [38] subsisted mainly on grains, grains that [39] often suffered from crop failures. And it’s largely for this reason that [40] political power in Europe was centered for centuries in the South, around the Mediterranean Sea, [41] which was where they could grow these grains with more reliability. But [42] when corn came to Europe from Mexico, well, now [43] they had a much hardier crop that could be grown easily in more northerly climates and the centers of power began to shift accordingly. And then, well, as I said [44] potatoes weren’t really popular at first. But [45] when they finally did catch on which they did first in Ireland around 1780. Well, why do you suppose it happened? [46] Because potatoes have the ability to provide an abundant and extremely nutritious food crop, no other crop grown in North Europe at the time had anything [47] like the number of vitamins contained in potatoes. Plus, [48] potatoes grown on the single acre of land could feed many more people than say, wheat grown on the same land. [49] Potatoes soon spread to France and other Northern European countries. And as a result, [50] the nutrition of the general population improved tremendously and population soared in the early 1800s and so [51] the shift of power from southern to northern Europe continued."
+  - generic: 
+  - text: 
+  - generic: "Q: Narrator: Listen to part of a lecture in a Marine Biology Class. Professor: We know whales are mammals and that [1] they evolved from land creatures. So the mystery is [2] figuring out how they became ocean dwellers. Because until recently [3] there was no fossil record of what we call “the missing link” – that is evidence of species that show [4] the transition between land-dwelling mammals and today’s whales. Fortunately, [5] some recent fossil discoveries have made the picture a little bit clearer. For example, a few years back in Pakistan, [6] they found the skull of a wolf-like creature. It was about 50 million years old. [7] Scientists had seen this wolf-like creature before, but this skull was different. [8] The ear area of the skull had characteristics seen only in aquatic mammals, specifically whales. Uh, well, then also in Pakistan, [9] they found a fossil of another creature, which we call Ambulocetus Natans. [10] That’s a mouthful, eh? The name Ambulocetus natans comes from Latin of course, and means “walking whale that swims”. It clearly [11] had four limbs that could have been used for walking. It also had a long thin tail, typical of mammals, [12] something we don’t see in today’s whales. But, [13] it also had a long skeletal structure. And [14] that long skeletal structure suggests that it was aquatic. And very recently in Egypt, they found a skeleton of Basilosaurus. Basilosaurus was a creature that [15] we had already known about for over a hundred years. And it has been linked to modern whales [16] because of its long whale-like body. But [17] this new fossil find showed a full set of leg bones, something we didn’t have before. [18] The legs were too small to be useful. They weren’t even [19] connected to its pelvis and couldn’t have supported its weight. But it clearly shows Basilosaurus’s evolution from land creatures. So [20] that’s a giant step in the right direction. Even better, it establishes Ambulocetus [21] as a clear link between the wolf-like creature and Basilosaurus. Now [22] a these discoveries don’t completely solve the mystery. I mean, Ambulocetus is a mammal [23] a that shows a sort of bridge between walking on land and swimming. But [24] a it also is very different from the whales who know today. So really [25] a we are working with just a few pieces of a big puzzle. Um…[26] a related debate involved some recent DNA studies. Remember, [27] a DNA is the genetic code for any organism. And [28] a when the DNA from two different species is similar, it suggests that [29] a those two species are related. And [30] when we compared some whale DNA with DNA from some other species, we got quite a surprise. The DNA suggests that [31] whales are descendants of the hippopotamus. Yes, the hippopotamus! Well, [32] it came as a bit of a shock. I mean, [33] that a four-legged land and river dweller could be the evolutionary source of a completely aquatic creature up to 25 times its size? Unfortunately, [34] this revelation about the hippopotamus apparently contradicts the fossil record, which suggests that [35] the hippopotamus is only a very distant relative of the whale, not an ancestor. And of course as I mentioned, [36] that whales are descended not from hippos but from that distant wolf-like creature. So [37] we have contradictory evidence. And [38] more research might just raise more questions and create more controversies. At any rate, we have a choice. [39] We can believe the molecular data, the DNA, or [40] we can believe the skeleton trail, but unfortunately, probably not both. Um… and [41] there have been some other interesting findings from DNA research. For a long time, we assumed that [42] all whales that had teeth including sperm whales and killer whales were closely related to one another. And the same for the toothless whales, like the blue whale and other baleen whales, [43] we assumed that they be closely related. But recent DNA studies suggest that [44] that’s not the case at all. The sperm whale [45] is actually closely related to the baleen whale, and it’s only distantly related to the toothed-whales. So [46] that was a real surprise to all of us."
+  - generic: 
+  - text: 
+  - generic: "Q: Narrator: Listen to part of a lecture in a linguistics class. The professor has been discussing animal communication systems. Lecturer: So last time, we covered the dances honey bees do to indicate [1] where food can be found and the calls and songs of different types of birds. Today, [2] I'd like to look at some communication systems found in mammals, particularly in primates, such as orangutans, chimpanzees, gorillas... Yes, Thomas? Student: Excuse me, Professor. But [3] when you talk about gorilla language, do you mean like, [4] those experiments where humans taught them sign language or a language like... Lecturer: OK, wait just a minute. Now, [5] who in this class heard me use the word \"language\"? No one I hope. [6] What we're talking about here are systems of communication, all right? Student: Oh, sorry, communication, right. But could you maybe, like, [7] clarify what the difference is? Lecturer: Of course, [8] that's a fair question. OK, well, to start with, [9] let's make it clear that language is a type of communication, not the other way around. OK, [10] so all communication systems, language included, have certain features in common. For example, [11] the signals used to communicate from the bee's dance movements, to [12] the word and sentences found in human languages. All these signals convey meaning. And all communication systems serve a purpose, [13] a pragmatic function of some sort–warning of danger perhaps or offering other needed information. But [14] there're several features peculiar to human language that have, for the most part, [15] never been found in the communication system of any other species. For one thing, learn ability. [16] Animals have instinctive communication systems. When a dog, [17] a puppy gets to certain age, it's able to bark. [18] It barks without having to learn how from other dogs, it just barks. But [19] much of human language has to be learned from other humans. [20] What else makes human language unique? [21] What makes it different from animal communication? Deborah? D: How about grammar? Like having verbs, nouns, adjectives? L: OK, [22] that's another feature. And it's a good example... D: I mean [23] I mention this cause like in my biology class last year, I kind of remember [24] talking about a study on prairie dogs, where, I think the researchers claimed that [25] the warning cries of prairie dogs constitute language, because [26] they have these different parts of speech. You know, like nouns, [27] to name the type of predator they spotted, [28] adjectives to describe its size and shape, verbs..., but now it seems like... L: All right, hold on a moment. [29] I'm familiar with the study you're talking about. And for those of you who don't know, [30] prairie dogs are not actually dogs. [31] They're a type of rodent who, [32] who burrow in the ground, in the grasslands of the western United States and Mexico. In this study, [33] the researchers looked at the high-pitched barks a prairie dog makes when [34] it spots predator. And from this they made some pretty.., well, [35] they made some claims about these calls qualifying as an actual language, with [36] its own primitive grammar. But actually, [37] these warning calls are no different from those found among certain types of monkeys. And, well, let's not even get into the question of [38] whether concepts like noun and verb can be meaningfully applied to animal communication. Another thing [39] that distinguishes a real language is a property we call \"discreteness\". In other words, [40] messages are built up out of smaller parts, sentences out of words, words out of individual sounds, etc. Now [41] maybe you could say that the prairie dog's message is built from smaller parts. Like say for example, [42] our prairie dog spots a predator, a big coyote approaching rapidly. So [43] the prairie dog makes a call that means \"coyote\", then one that means \"large\", and then [44] another one to indicate its speed. But [45] do you really suppose it makes any difference what order these calls come in? No. But [46] the discrete units that make up language can be put together in different ways. Those smaller parts [47] can be used to form an infinite number of messages, including messages [48] that are completely novel, that [49] have never been expressed before. For example, we can differentiate between: \"A large coyote moves fast.\" and say \"Move the large coyote fast \"or \"Move fast, large coyote.\", and I truly doubt [50] whether anyone has ever uttered either of these sentences before. Human language is productive, [51] an open-ended communication system, whereas [52] no other communication system has this property. And [53] another feature of language that's not displayed by any form of animal communication is what we call \"displacement\". That is, [54] language is abstract enough that [55] we can talk about things that aren't present here and now. Things like \"My friend Joe is not in the room.\" or \"It will probably rain next Thursday.\" [56] Prairie dogs may be able to tell you about a hawk that’s circling overhead right now, but [57] they never show any inclination to describe the one they saw last week."
+  - generic: 
+  - text: 
+  - generic: "Q: Narrator: Listen to part of a lecture in a Geology class. Lecturer: So, [1] continuing our discussion of desert lakes, now I want to focus on what's known as the \"Empty Quarter\". The \"Empty Quarter\" is a huge area of sand [2] that covers about a quarter of the Arabian Peninsula. Today [3] it's pretty desolate, barren and extremely hot. But there've been times in the past [4] when monsoon rains soaked the Empty Quarter and turned it from a desert into grassland [5] that was dotted with lakes and home to various animals. [6] There were actually two periods of rain and lake formation: the first one began about 37,000 years ago; and the second one dates from about 10,000 years ago. Female Stu: Excuse me, Professor. But I'm confused. [7] Why would lakes form in the desert? It's just sand, after all. Lecturer: Good question! [8] We know from modern day desert lakes, like Lake Eyre in South Australia, [9] that under the right conditions, lakes do form in the desert. [10] But the Empty Quarter lakes disappeared thousands of years ago. They left behind their beds or basins [11] as limestone formations that we can still see today. They look like low-lying, [12] white or grey buttes, long, narrow hills with flat tops, [13] barely a meter high. [14] A recent study of some of the formations presents some new theories about the area's past. Keep in mind though [15] that this study only looked at 19 formations. And [16] about a thousand have been documented. So [17] there's a lot more work to be done. According to the study, [18] two factors were important for lake formation in the Empty Quarter: first, [19] the rains that fell there were torrential. So [20] it would've been impossible for all the water to soak into the ground. Second, as you know, [21] sand dunes contain other types of particles, besides sand, including clay and silt. Now, when the rain fell, [22] water ran down the sides of the dunes, [23] carrying clay and silt particles with it. And [24] wherever these particles settled, they formed a pan, [25] a layer that water couldn't penetrate. Once this pan formed, [26] further run-off collected, and formed a lake. Now, the older lakes, [27] about half the formations, the ones that started forming 37, 000 years ago, [28] the limestone formations we see, they're up to a kilometer long, but only a few meters wide, and [29] they're scattered along the desert floor, in valleys between the dunes. So, the theory is, [30] the lakes formed there on the desert floor, in these long narrow valleys. And we know, [31] because of what we know about similar ancient desert lakes, we know that [32] the lakes didn't last very long, from [33] a few months to a few years on average. As for the more recent lakes, the ones from 10,000 years ago, well, [34] they seemed to have been smaller, and so [35] may have dried up more quickly. Another difference, [36] very important today for distinguishing between older lake beds and newer ones, is [37] the location of the limestone formations. [38] The more recent beds are high up in the dunes. Why these differences? Well, [39] there are some ideas about that, and [40] they have to do with the shapes of the sand dunes, when the lakes were formed. 37, 000 years ago, [41] the dunes were probably nicely rounded at the top, so [42] the water just ran right down their sides to the desert floor. But [43] there were thousands of years of wind between the two rainy periods, reshaping the dunes. So, during the second rainy period, [44] the dunes were kind of chopped up at the top, full of hollows and ridges, and [45] these hollows would've captured the rain right there on the top. Now, in a grassland of Lake Ecosystem, [46] we'd expect to find fossils from a variety of animals, and [47] numerous fossils have been found at least at these particular sites. But, [48] where did these animals come from? Well, the theory that has been suggested is that [49] they migrated in from nearby habitats where they were already living. Then as the lakes dried up, they died out. [50] The study makes a couple of interesting points about the fossils, which [51] I hope will be looked at in future studies. At older lake sites, [52] there’s fossil remains from hippopotamuses, water buffalo, animals [53] that spend much of their lives standing in water, and also, fossils of cattle. However, [54] at the sites of the more recent lakes, there’s only cattle fossils, additional evidence for geologists that [55] these lakes were probably smaller, shallower, because [56] cattle only use water for drinking. So [57] they survive on much less. Interestingly, [58] there are clams and snail shells; but, no fossils of fish. We're not sure why. [59] Maybe there was a problem with the water. Maybe it was too salty. [60] That's certainly true of other desert lakes."
+  - generic: 
+  - text: 
+  - generic: "Q: Narrator: Listen to part of a lecture in an environmental science class. Lecturer: So [1] since we're on the topic of global climate change and its effects, in Alaska, in the northern Arctic part of Alaska, over the last ... oh... thirty years or so, [2] temperatures have increased about half a degree Celsius per decade, and scientists have noticed that [3] there’s been a change in surface vegetation during this time. Shrubs are increasing in the \"tundra\". Tundra [4] is flat land with very little vegetation. [5] Just a few species of plants grow there because the temperature is very cold, and there's not much precipitation. And because of the cold temperatures, the tundra has two layers: top layer, which is called the active layer, [6] is frozen in the winter and spring, but thaws in the summer. [7] Beneath this active layer is a second layer called \"permafrost\", which is frozen all year around, [8] and is impermeable to water. Female Stu: So because of the permafrost, [9] none of the plants that grow there can have deep roots, can they? Lecturer: No, and [10] that's one of the reasons that shrubs survive in the Arctic. Shrubs are little bushes. [11] They're not tall and being low to the ground protects them from the cold and wind. And [12] their roots don't grow very deep, so [13] the permafrost doesn't interfere with their growth. OK? Now [14] since the temperatures have been increasing in Arctic Alaska, [15] the growth of shrubs has increased. And this has presented climate scientists with a puzzle... Male Stu: I'm sorry, [16] when you say the growth of shrubs has increased, do you mean that the shrubs are bigger, or [17] that there are more shrubs? Lecturer: Good question! And the answer is both. [18] The size of the shrubs has increased and shrub cover has spread to what was previously shrub-free tundra. Ok, so what's the puzzle? [19] Warmer temperatures should lead to increased vegetation growth, right? Well, [20] the connection is not so simple. The temperature increase [21] has occurred during the winter and spring, not during the summer. But [22] the increase in shrubs has occurred in the summer. So [23] how can increase temperatures in the winter and spring result in increased shrub growth in the summer? Well, [24] it may be biological processes that occur in the soil in the winter, that cause [25] increased shrub growth in the summer, and here's how: there are \"microbes\", [26] microscopic organisms that live in the soil. These microbes [27] enable the soil to have more nitrogen, which plants [28] need to live and they remain quite active during the winter. There're two reasons for this: first, [29] they live in the active layer, which, remember, [30] contains water that doesn't penetrate the permafrost. Second, [31] most of the precipitation in the Arctic is in the form of snow. And the snow, [32] which blankets the ground in the winter, actually [33] has an insulating effect on the soil beneath it. And [34] it allows the temperature of the soil to remain warm enough for microbes to remain active. So [35] there's been increased nutrient production in the winter. And that's [36] what's responsible for the growth of shrubs in the summer and their spread to new areas of the tundra. Areas with more new nutrients [37] are the areas with the largest increase in shrubs. Female Stu: But, [38] what about run-off in the spring, when the snow finally melts? [39] Won't the nutrients get washed away? [40] Spring thaw always washes away soil, doesn't it? Lecturer: Well, [41] much of the soil is usually still frozen during peak run-off. And [42] the nutrients are deep down in the active layer anyway, not high up near the surface, [43] which is the part of the active layer most affected by run-off. But as I was about to say, [44] there's more to the story. The tundra is windy, and [45] the snow is blown across the tundra, it's caught by shrubs. And [46] deep snow drifts often form around shrubs. And [47] we've already mentioned the insulating effect of snow. So that extra warmth means [48] even more microbial activity, which means [49] even more food for the shrubs, which means [50] even more shrubs and more snow around etc. It's a circle, a loop. And because of this loop, [51] which is promoted by warmer temperatures in winter and spring, well, [52] it looks like the tundra may be turning into shrub land. Female Stu: But will it be long-term? I mean [53] maybe the shrubs will be abundant for a few years, and then [54] it'll change back to tundra. Lecturer: Well, [55] shrub expansion has occurred in other environments, like semiarid grassland, and tall grass prairies. And [56] shrub expansion in these environments does seem to persist, almost [57] to the point of causing a shift. Once is established, shrub land thrives, particularly in the Arctic, [58] because Arctic shrubs are good at taking advantage of increased nutrients in the soil, better than other Arctic plants."
+  - generic: 正确率 1%
+  - generic: 
+  - text: 
+  - generic: "Q: Narrator: Listen to part of a lecture in a theater class. Pro: As we have seen, the second half of the 18th century was an exciting time in Europe: [1] it was not only an age of great invention, but [2] social changes also led to a rise in all sorts of entertainment, from reading to museums, to travel. And [3] finding himself in the middle of this excitement was an accomplished French painter named Philippe Jacques de Loutherbourg. Loutherbourg arrived in England in 1771, and immediately [4] went to work as a set designer at the famous Drury Lane Theater in London. From his first shows, Loutherbourg showed [5] a knack for imagination and stage design, all in the interest of creating illusions that [6] allowed the audience to suspend disbelief completely. He accomplished this [7] by giving the stage a greater feeling of depth, which he did [8] by cutting up some of the rigid background scenery, and [9] placing it at various angles and distances from the audience. Another realistic touch [10] was using three-dimensional objects on the set, like rocks and bushes [11] as opposed to two-dimensional painted scenery. He also [12] paid much more attention to lighting and sound than had been done before. Now, these sets were so elaborate that [13] many people attended the theater more for them than for the actors or the story. At the time, [14] people were wild for travel and for experiencing new places; but [15] not everyone could afford it. Loutherbourg outdid himself, however, [16] with a show that he set up in his own home. He called it the \"Eidophusikon\". \"Eidophusikon\" means [17] something like representation of nature, and that's exactly [18] what he intended to do: create realistic moving scenes [19] that change before the audiences' eyes. In this, [20] he synthesized all his tricks from Drury Lane: mechanical motions, sound, light, other special effects to create, if you will, an early multimedia production. The \"Eidophusikon\" was Loutherbourg's [21] attempt to release painting from the constraints of the picture frame. After all, [22] even the most action-filled exciting painting can represent only one moment in time; and [23] any illusion of movement is gone after the first glance. But Loutherbourg, like other contemporary painters, [24] wanted to add the dimension of time to his paintings. You know, the popular thinking is that Loutherbourg [25] was influenced by landscape painting. But why can't we say that the \"Eidophusikon\" actually influenced the painters? [26] At the very least we have to consider that it was more of a mutual thing. We know, for example, [27] that the important English landscape painter, Thomas Gainsborough, [28] attended almost all of the early performances, and his later paintings [29] are notable for their increased color and dynamic use of light. Loutherbourg's influence on the theater though, [30] he was incredibly influential. The way [31] he brought together design and lighting and sound as a unified feature of the stage can easily be seen [32] in English theater's subsequent emphasis on lighting and motion. Now, the \"Eidophusikon\" stage was actually a box: a few meters wide, [33] a couple meters tall and a couple meters deep. That is, [34] the action took place within this box. This was [35] much smaller of course than the usual stage. But, it also allowed Loutherbourg [36] to concentrate the lighting to better effect. Also, [37] the audience was in the dark, which [38] wouldn't be a common feature of the theater until a hundred years later. The show [39] consisted of a series of scenes. For example, [40] a view of London from sunrise that changes as the day moves on; mechanical figures, such as cattle, moved across the scene, and [41] ships sailed along the river. But [42] what really got people was the attention to detail, much like his work at Drury Lane. So, for example, [43] he painted very realistic ships, and [44] varied their size depending on their distance from the audience. Small boats moved more quickly across the foreground [45] than larger ones did that were closer to the horizon. Other effects, like waves, [46] were also very convincing. They reflected [47] sunlight or moonlight depending on the time of day or night. Even [48] the colors changed as they would in nature. Sound and light [49] were important in making his productions realistic. He used a great number of lamps, and [50] he was able to change colors of light by using variously colored pieces of glass, to create effects [51] like passing clouds that suddenly change in color. Furthermore, [52] he used effects to make patterns of shadow and light, rather than [53] using the uniform lighting that was common at the time. And [54] many of the sound effects he pioneered are still in use today, like creating thunder [55] by pulling on one of the corners of a thin copper sheet. One of his most popular scenes was of a storm. And [56] there is a story that on one occasion, an actual storm [57] passed over head during the show. And some people went outside, and they claimed Loutherbourg's thunder [58] was actually better than the real thunder."
+  - generic: 正确率 1%
+  - generic: 
+  - text: 
+  - generic: "Q: Narrator: Listen to part of a lecture in a Chemistry class. The professor has been discussing the periodical table of elements. Pro: So, are there any questions? Stu: Yes, um, Professor Harrison, [1] you were saying that the periodic table is predictive. What exactly does that mean? I mean [2] I understand how it organizes the elements, but [3] where’s the prediction? Pro: Ok, [4] let’s look at our periodic table again. Ok, [5] it groups elements into categories that share certain properties, right? Stu: Uh-huh. Pro: And [6] it is arranged according to increasing atomic number, which is… Stu: [7] The number of protons in each atom of an element. Pro: Right. Well, [8] early versions of the periodic table had gaps, missing elements. [9] Every time you had one more proton, you had another element. And then, oops, [10] there’d be an atomic number, for which [11] there was no known element. And the prediction was that [12] an element with that atomic number existed somewhere, but it just [13] hadn’t been found yet. And [14] its location in the table would tell you what properties it should have. It was really pretty [15] exciting for scientists at that time to find these missing elements and confirm their predictive properties. Um, actually, that reminds me of a ... of a very good example of all these, element 43. See on the table, [16] the symbols for elements 42 and 44. Well, in early versions of the table, [17] there was no symbol for an element 43 protons because [18] no element with 43 protons had been discovered yet. So [19] the periodic table had a gap between elements 42 and 44. And then in 1925, [20] a team of chemists led by a scientist named Ida Tacke claimed that they had found element 43. They had been using a relatively new technology called X-ray spectroscopy, and [21] they were using this to examine an ore sample. And they claimed that [22] they’d found an element with 43 protons. And they named it Masurium. Stu: Um, Professor Harrison, then, [23] how come in my periodic table here, element 43 is Tc? That’s Technetium, right? Pro: Ok, let me add that. Actually, um, [24] that’s the point I’m coming to. Hardly anyone believed that Tacke’d [25] discovered a new element. X-ray spectroscopy was a new method at that time. And they were never able to isolate enough Masurium [26] to have a weighable sample to convince everyone of the discovery. So they were discredited. But then, 12 years later in 1937, [27] a different team became the first to synthesize an element using a cyclotron. And that element had… Stu: 43 protons? Pro: That’s right, but they named it Technetium to emphasize that [28] it was artificially created with technology. And people thought that [29] synthesizing this element, [30] making it artificially was the only way to get it. We still [31] hadn’t found it occurring in nature. Now element 43, whether you call it Masurium or Technetium, is radioactive. Why does that matter? [32] What is true of a radioactive element? Stu: It decays, [33] it turns into other elements. Oh, so [34] does that explain why it was missing in the periodic table? Pro: Exactly, [35] because of its radioactive decay, element 43 doesn’t last very long. And therefore, [36] if that ever had been present on Earth, it would have decayed ages ago. So the Masurium people were obviously wrong, and the Technetium people were right. Right? Well, that was then. Now [37] we know that element 43 does occur naturally. It can be naturally [38] generated from Uranium atoms that have spontaneously split. And guess what, the ore sample the Masurium group [39] was working with had plenty of Uranium in it, enough to split into measurable amounts of Masurium. So Tacke’s team [40] might very well have found small amounts of Masurium in the ore samples. It’s just that [41] once was generated from split Uranium, it decayed very quickly. And [42] you know here’s an incredible irony. Ida Tacke, the chemist led the Masurium team, well, [43] she was the first to suggest that Uranium could break up into smaller pieces, but she didn’t know that [44] that was the defense of her own discovery of element 43. Stu: So [45] is my version of the periodic table wrong? Should element 43 really be called Masurium? Pro: Maybe, but you know [46] it’s hard to tell for sure after all this time, if Ida Tacke’s group did discover element 43. They didn’t, um, [47] publish enough detail on their methods or instruments for us to know for sure. But [48] I’d like to think element 43 was discovered twice. As Masurium, [49] it was the first element discovered that occurs in nature only from spontaneous fission, and as Technetium, [50] it was the first element discovered in a laboratory. And of course, [51] it was an element the periodic table let us to expect existed before anyone had found it or made it."
+  - generic: 
+  - text: 
+  - generic: "Q: Narrator: Listen to part of a lecture in a History class. Pro: So, [1] we’ve been talking about the printing press, how it changed people’s lives, [2] making books more accessible to everyone. More books meant more reading, right? But, as you know, [3] not everyone has perfect vision. This increase in literacy, um, in reading, [4] led to an increase in demand for eyeglasses. And here’s something [5] you probably haven’t thought of. This increased demand [6] impacted societal attitudes towards eyeglasses. But, first let me back up a bit and [7] talk about vision correction before the printing press. And, um, [8] what did people with poor vision do, I mean, [9] especially those few people who were actually literate? [10] What did they do before glasses were invented? Well, [11] they had different ways of dealing with not seeing well. If you think about it, [12] poor vision wasn’t their only problem. I mean, um, [13] think about the conditions they lived in: houses were dark; sometimes [14] there weren’t any windows; [15] candles were the only source of light. So, in some places, um, like ancient Greece, for example, [16] the wealthiest people with poor vision could have someone else read to them – easy solution [17] if you could afford it. Another solution was something called a “reading stone”. Around 1000 C.E., [18] European monks would take a piece of clear rock, often quartz, and [19] place it on top of the reading material. The clear rock [20] magnified the letters, [21] making them appear larger. Um, well, it’s like [22] what happens when a drop of water falls on something. [23] Whatever’s below the drop of water appears larger, right? Well, [24] the “reading stone” works in a similar way. But rocks like quartz, well, [25] quartz of optical quality weren’t cheap. Late in the 13th century, [26] glass makers in Italy came up with a less expensive alternative. They made reading stones out of clear glass. And [27] these clear glass reading stones evolved into the eyeglasses we know today. So we’re pretty sure that [28] glasses were invented about the late 1200’s, well, [29] over a hundred years before the printing press. But it’s not clear [30] who exactly invented them first or exactly what year. But record showed that [31] they were invented in both Europe and China at about the same time. By the way, we call this “independent discovery”. Independent discovery means [32] when something is invented in different parts of the world at the same time and [33] it’s not as unusual as it sounds. You can [34] look at the timeline charts in the back of your textbook to see [35] when things were invented in different cultures at about the same time to see [36] what I’m talking about. So now [37] let’s tie this to what I’ve said before about societal attitudes towards glasses. Initially, in parts of Europe and in China, [38] glasses were a symbol of wisdom and intelligence. [39] This is evident in the artwork from the period. European paintings often [40] portrayed doctors or judges wearing glasses. In China, [41] glasses were very expensive. So in addition to intelligence, [42] they also symbolize affluence, um, wealth. In 14th-century Chinese portraits, [43] the bigger the glasses, the smarter and wealthier the subject was. So [44] glasses were a status symbol in some parts of the world. Now [45] let’s get back to the invention of the painting press in 1440. What happened? Suddenly, [46] books became readily available and more people wanted to read. So the need, oh well, actually [47] not only the need but the demand for more affordable glasses rose drastically. Eventually, [48] inexpensive glasses were produced, and then [49] glasses were available to everyone. People could [50] purchase them easily from a traveling peddler."
+  - generic: 正确率 1%
+  - generic: 
+  - text: 
+  - generic: 共 110 条
+  - button "20 条/页 ":
+    - text: 20 条/页
+    - generic: 
+  - button [disabled]:
+  - button "1"
+  - button "2"
+  - button "3"
+  - button "4"
+  - button "5"
+  - button "6"
+  - button:
+  - generic: 前往
+  - textbox
+  - generic: 页
+  - text:                                 
+  - heading "已选择题目" [level=2]
+  - paragraph:
+    - generic: 你还没选择题目哦~
+  - text:                                                      
+  - generic: 
+  - text: 

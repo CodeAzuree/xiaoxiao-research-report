@@ -1,0 +1,306 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 我的班级
+- button "科目 ":
+  - generic: 科目
+  - generic: 
+- textbox "请输入班级名称": 王小格-SAT
+- generic: 
+- button "班级类型 ":
+  - text: 班级类型
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- generic: AT
+- paragraph: 王小格-SAT
+- paragraph: SAT班
+- paragraph:
+  - generic: 王小格-SAT
+  - generic: 已开课
+  - text: (
+  - generic: 2026年09月23日
+  - text: )
+  - generic: "课程进度: 0/-"
+  - generic: 学生人数：1人
+- generic: 作业
+- generic: 课表
+- generic: 反馈
+- generic: 作业大纲
+- generic: 概览
+- text: 
+- generic: 2026年09月
+- button "本周":
+  - generic: 本周
+- button "":
+  - generic: 
+- button "":
+  - generic: 
+- textbox: 2026-09-21 - 2026-09-27
+- generic: 
+- generic: 课程
+- generic: 作业
+- generic: 模考
+- generic: 周一
+- generic: "21"
+- generic: 周二
+- generic: "22"
+- generic: 周三
+- generic: "23"
+- generic: 周四
+- generic: "24"
+- generic: 周五
+- generic: "25"
+- generic: 周六
+- generic: "26"
+- generic: 周日
+- generic: "27"
+- generic "sat全科测试":
+  - generic: sat全科测试
+- paragraph:
+  - generic: "完成情况:"
+  - text: 1/1
+  - generic: 
+- generic: 快捷功能
+- generic: 成员(1)
+- paragraph: 布置作业
+- paragraph: 模考作业
+- paragraph: 自定义作业
+- paragraph: 打卡作业
+- paragraph: 其他作业
+- paragraph: 常用作业
+- paragraph: 视频课件
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:            
+- dialog "dialog":
+  - text: 
+  - tablist:
+    - tab "基础练习":
+      - generic: 基础练习
+    - tab "题型训练":
+      - generic: 题型训练
+    - tab "模考测试" [selected]:
+      - generic: 模考测试
+    - tab "机构题库":
+      - generic: 机构题库
+    - tab "自定义作业":
+      - generic: 自定义作业
+    - tab "打卡作业":
+      - generic: 打卡作业
+    - tab "视频课件作业":
+      - generic: 视频课件作业
+  - button "新窗口打开"
+  - button "添加至常用作业"
+  - button "预览"
+  - button "布置"
+  - generic: 
+  - textbox "请输入作业名称"
+  - generic: 0/100
+  - text: 选择班级
+  - generic: (1)
+  - generic: 
+  - text: 
+  - generic: 选择学生
+  - generic: 
+  - text: 批改老师
+  - generic: (1)
+  - generic: 
+  - generic: 王小格-SAT
+  - generic: 
+  - textbox "请选择开始时间": 2026-10-23 10:00
+  - text: 
+  - generic: ~
+  - textbox "请选择结束时间": 2026-10-24 23:30
+  - text: 
+  - paragraph:
+    - text: 关联音视频
+    - generic: ( 未关联 )
+  - checkbox "开启实时作业":
+    - checkbox "开启实时作业"
+    - generic: 开启实时作业
+  - checkbox "倒计时结束禁止答题" [checked]:
+    - checkbox "倒计时结束禁止答题" [checked]
+    - generic: 倒计时结束禁止答题
+  - checkbox "结果页不显示答案":
+    - checkbox "结果页不显示答案"
+    - generic: 结果页不显示答案
+  - checkbox "强监管模式":
+    - checkbox "强监管模式"
+    - generic: 强监管模式
+  - text: 
+  - heading "题型筛选" [level=2]
+  - generic: 组成
+  - generic: 机考
+  - generic: 笔试
+  - generic: 布置方式
+  - generic: 组卷
+  - generic: 整套
+  - generic: 分项
+  - generic: 全部
+  - generic: 读写
+  - generic: 数学
+  - generic: 写作
+  - generic: 来源
+  - generic: 全部
+  - generic: 机经合集
+  - generic: PSAT
+  - generic: SAT Essay
+  - generic: Digital SAT Prep Test
+  - generic: 高阶模拟题库 A
+  - generic: 高阶模拟题库 B
+  - generic: KH Practice Test
+  - text:    
+  - heading "题目" [level=2]
+  - generic: 排序
+  - button "重置"
+  - generic: 
+  - textbox "请输入搜索内容"
+  - button " 全选":
+    - generic: 
+    - text: 全选
+  - button "查看已选"
+  - generic: SAT CMP 2024-J10-NA-03(非整套)/读写M2大部分重复NA-01/02 M2/读写/Module 1 (Routing)
+  - generic: 正确率 87%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-J10-NA-03(非整套)/读写M2大部分重复NA-01/02 M2/读写/Module 2
+  - generic: 正确率 77%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-J10-NA-03(非整套)/读写M2大部分重复NA-01/02 M2/数学/Module 1 (Routing)
+  - generic: 正确率 93%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-J10-NA-03(非整套)/读写M2大部分重复NA-01/02 M2/数学/Module 2
+  - generic: 正确率 86%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-H8-NA-01(数学与NA-02重复)/读写/Module 1 (Routing)
+  - generic: 正确率 90%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-H8-NA-01(数学与NA-02重复)/读写/Module 2
+  - generic: 正确率 76%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-H8-NA-01(数学与NA-02重复)/数学/Module 1 (Routing)
+  - generic: 正确率 95%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-H8-NA-01(数学与NA-02重复)/数学/Module 2
+  - generic: 正确率 83%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-K11-INT-04(数学M1与INT-01 M1重复)/读写/Module 1 (Routing)
+  - generic: 正确率 91%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-K11-INT-04(数学M1与INT-01 M1重复)/读写/Module 2
+  - generic: 正确率 84%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-K11-INT-04(数学M1与INT-01 M1重复)/数学/Module 1 (Routing)
+  - generic: 正确率 95%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-K11-INT-04(数学M1与INT-01 M1重复)/数学/Module 2
+  - generic: 正确率 85%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-H8-NA-02(数学与NA-01重复)/读写/Module 1 (Routing)
+  - generic: 正确率 89%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-H8-NA-02(数学与NA-01重复)/读写/Module 2
+  - generic: 正确率 80%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: SAT CMP 2024-H8-NA-02(数学与NA-01重复)/数学/Module 1 (Routing)
+  - generic: 正确率 93%
+  - generic: 更新于 2026-02-01
+  - generic: 
+  - text: 
+  - generic: 共 477 条
+  - button "15 条/页 ":
+    - text: 15 条/页
+    - generic: 
+  - button [disabled]:
+  - button "1"
+  - button "2"
+  - button "3"
+  - button "4"
+  - button "5"
+  - button "6"
+  - button "•••":
+    - generic: •••
+  - button "32"
+  - button:
+  - generic: 前往
+  - textbox
+  - generic: 页
+  - heading "已选择题目" [level=2]
+  - paragraph:
+    - generic: 你还没选择题目哦~
+  - text:                                                 
+  - generic: 
+  - text: 

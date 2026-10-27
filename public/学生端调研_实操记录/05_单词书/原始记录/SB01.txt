@@ -1,0 +1,103 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	1 container myweb
+		2 container root-menu
+			3 container
+				4 image
+				5 text 首页
+			6 container
+				7 image
+				8 text 作业
+			9 container
+				10 image
+				11 text 课表
+			12 container
+				13 image
+				14 text 题库
+			15 container
+				16 image
+				17 text 单词书
+			18 container
+				19 image
+				20 text 错题
+			21 container
+				22 image
+				23 text 自适应
+			24 container
+				25 image
+				26 text 反馈
+			27 container
+				28 image
+				29 text 笔记
+			30 container
+				31 image
+				32 text 学习报告
+		33 container root-mv-right
+			34 container root-mv-header
+				35 image
+				36 container
+					37 text field (settable)
+					56 text 
+				39 button icon
+					40 image icon
+				41 container
+					57 text 
+					43 button icon
+						44 image icon
+				45 container
+					46 button icon
+						47 image icon
+					48 text 5
+				49 button icon
+					50 image icon
+				51 container
+					52 image
+					53 text 10
+				54 text 小格
+			55 container root-container
+				58 container
+					59 text 单词书 错词本
+				60 container
+					61 text 单词本学习 
+					62 button 进入小程序学习
+					63 image
+					64 text 56
+					65 text 累计已学单词
+					66 image
+					67 text 0
+					68 text 今天已学单词
+					69 image
+					70 text 19
+					71 text 待复习错词数
+					72 image
+				73 text 单词书
+				74 button 完成状态 ( 全部 ) 
+					75 text 完成状态
+					76 text (
+					77 text 全部
+					78 text )
+					79 text 
+				80 container
+					81 text 正确率
+					82 image
+				83 container
+					84 container
+						85 image
+						86 container
+							87 text 4 单元 222 词
+						88 text 陈梦昕生词本 李宝燕 ｜ 2026-03-24 ｜ 4 个单元 222 个单词 查看详情 展开列表
+						89 image
+						90 text 正确率 0%
+						91 image
+						92 text 完成度 0/4 梦昕 小格 姚姚 3 人已学习
+					93 container
+						94 image
+						95 container
+							96 text 4 单元 222 词
+						97 text 陈梦昕生词本 李宝燕 ｜ 2026-03-24 ｜ 4 个单元 222 个单词 查看详情 展开列表
+						98 image
+						99 text 正确率 34%
+						100 image
+						101 text 完成度 1/4 梦昕 小格 姚姚 3 人已学习
+
+The focused UI element is 0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122

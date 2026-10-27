@@ -1,0 +1,7 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 83, 87, 91
++						95 text 
++					96 text 
++					97 text 
+The focused UI element is 78 button 设置目标分数

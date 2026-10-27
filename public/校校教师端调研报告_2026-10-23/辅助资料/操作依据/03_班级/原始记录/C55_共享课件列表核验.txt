@@ -1,0 +1,244 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 我的班级
+- button "科目 ":
+  - generic: 科目
+  - generic: 
+- textbox "请输入班级名称": 王小格-SAT
+- generic: 
+- button "班级类型 ":
+  - text: 班级类型
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- generic: AT
+- paragraph: 王小格-SAT
+- paragraph: SAT班
+- paragraph:
+  - generic: 王小格-SAT
+  - generic: 已开课
+  - text: (
+  - generic: 2026年09月23日
+  - text: )
+  - generic: "课程进度: 0/-"
+  - generic: 学生人数：1人
+- generic: 作业
+- generic: 课表
+- generic: 反馈
+- generic: 作业大纲
+- generic: 概览
+- text: 
+- generic: 2026年09月
+- button "本周":
+  - generic: 本周
+- button "":
+  - generic: 
+- button "":
+  - generic: 
+- textbox: 2026-09-21 - 2026-09-27
+- generic: 
+- generic: 课程
+- generic: 作业
+- generic: 模考
+- generic: 周一
+- generic: "21"
+- generic: 周二
+- generic: "22"
+- generic: 周三
+- generic: "23"
+- generic: 周四
+- generic: "24"
+- generic: 周五
+- generic: "25"
+- generic: 周六
+- generic: "26"
+- generic: 周日
+- generic: "27"
+- generic "sat全科测试":
+  - generic: sat全科测试
+- paragraph:
+  - generic: "完成情况:"
+  - text: 1/1
+  - generic: 
+- generic: 快捷功能
+- generic: 成员(1)
+- paragraph: 布置作业
+- paragraph: 模考作业
+- paragraph: 自定义作业
+- paragraph: 打卡作业
+- paragraph: 其他作业
+- paragraph: 常用作业
+- paragraph: 视频课件
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:            
+- dialog "dialog":
+  - text: 
+  - tablist:
+    - tab "基础练习":
+      - generic: 基础练习
+    - tab "题型训练":
+      - generic: 题型训练
+    - tab "模考测试":
+      - generic: 模考测试
+    - tab "机构题库":
+      - generic: 机构题库
+    - tab "自定义作业":
+      - generic: 自定义作业
+    - tab "打卡作业":
+      - generic: 打卡作业
+    - tab "视频课件作业" [selected]:
+      - generic: 视频课件作业
+  - button "新窗口打开"
+  - button "布置"
+  - generic: 
+  - text:                                                                                           
+  - textbox "请输入学习名称"
+  - generic: 0/100
+  - text: 布置班级
+  - generic: (1)
+  - generic: 
+  - generic: 选择学生
+  - generic: 
+  - generic: 王小格-SAT
+  - generic: 
+  - textbox: 2026-10-23 10:00
+  - text: 
+  - generic: ~
+  - textbox: 2026-10-24 23:30
+  - text: 
+  - paragraph:
+    - text: 关联课件
+  - paragraph: 没有数据，你还没有选择关联文件~
+  - tablist:
+    - tab "音视频":
+      - generic: 音视频
+    - tab "课件" [selected]:
+      - generic: 课件
+  - radiogroup:
+    - button "我的云盘":
+      - generic: 我的云盘
+    - button " 共享云盘" [active]:
+      - generic: 
+      - generic: 共享云盘
+  - button "上传"
+  - generic: 
+  - table:
+    - rowgroup:
+      - row "文件名 大小 时间":
+        - columnheader
+        - columnheader "文件名":
+          - generic: 文件名
+        - columnheader "大小":
+          - generic: 大小
+        - columnheader "时间":
+          - generic: 时间
+  - table:
+    - rowgroup:
+      - row "01 爱德思Alevel物理U1练习册.pdf 31.74M 2024-11-13 17:59":
+        - cell
+        - cell "01 爱德思Alevel物理U1练习册.pdf":
+          - generic: 01 爱德思Alevel物理U1练习册.pdf
+        - cell "31.74M":
+          - generic: 31.74M
+        - cell "2024-11-13 17:59":
+          - generic: 2024-11-13 17:59
+      - row "02 爱德思Alevel物理U2练习册.pdf 27.37M 2024-11-13 17:59":
+        - cell
+        - cell "02 爱德思Alevel物理U2练习册.pdf":
+          - generic: 02 爱德思Alevel物理U2练习册.pdf
+        - cell "27.37M":
+          - generic: 27.37M
+        - cell "2024-11-13 17:59":
+          - generic: 2024-11-13 17:59
+      - row "03 爱德思Alevel物理U3练习册.pdf 13.71M 2024-11-13 17:59":
+        - cell
+        - cell "03 爱德思Alevel物理U3练习册.pdf":
+          - generic: 03 爱德思Alevel物理U3练习册.pdf
+        - cell "13.71M":
+          - generic: 13.71M
+        - cell "2024-11-13 17:59":
+          - generic: 2024-11-13 17:59
+      - row "04爱德思Alevel物理U4练习册.pdf 68.24M 2024-11-13 17:59":
+        - cell
+        - cell "04爱德思Alevel物理U4练习册.pdf":
+          - generic: 04爱德思Alevel物理U4练习册.pdf
+        - cell "68.24M":
+          - generic: 68.24M
+        - cell "2024-11-13 17:59":
+          - generic: 2024-11-13 17:59
+      - row "05爱德思Alevel物理U5练习册.pdf 43.60M 2024-11-13 17:59":
+        - cell
+        - cell "05爱德思Alevel物理U5练习册.pdf":
+          - generic: 05爱德思Alevel物理U5练习册.pdf
+        - cell "43.60M":
+          - generic: 43.60M
+        - cell "2024-11-13 17:59":
+          - generic: 2024-11-13 17:59
+      - row "06 爱德思Alevel物理U6练习册.pdf 12.62M 2024-11-13 17:59":
+        - cell
+        - cell "06 爱德思Alevel物理U6练习册.pdf":
+          - generic: 06 爱德思Alevel物理U6练习册.pdf
+        - cell "12.62M":
+          - generic: 12.62M
+        - cell "2024-11-13 17:59":
+          - generic: 2024-11-13 17:59
+  - generic: 共 6 条
+  - button "20 条/页 ":
+    - text: 20 条/页
+    - generic: 
+  - button [disabled]:
+  - button "1"
+  - button [disabled]:
+  - generic: 前往
+  - textbox
+  - generic: 页
+  - generic: 
+  - text: 
+- text:      

@@ -1,0 +1,317 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- tablist:
+  - tab "练习统计":
+    - generic: 练习统计
+  - tab "错题分析" [selected]:
+    - generic: 错题分析
+  - tab "笔记":
+    - generic: 笔记
+- radiogroup:
+  - button "学科":
+    - generic: 学科
+  - button "机构":
+    - generic: 机构
+  - button "能力":
+    - generic: 能力
+  - button " 错词":
+    - generic: 
+    - generic: 错词
+- paragraph: 错词
+- paragraph: "29"
+- button "布置"
+- radiogroup:
+  - button " 待修复":
+    - generic: 
+    - generic: 待修复
+  - button "已修复":
+    - generic: 已修复
+- generic: 排序
+- checkbox "只看收藏":
+  - checkbox "只看收藏"
+  - generic: 只看收藏
+- button "重置"
+- generic: 
+- textbox "搜索"
+- button "导出"
+- generic: faculty
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /ˈfæk(ə)lti/
+- generic: 美 /ˈfæk(ə)lti/
+- generic: n. 科，系；能力，官能；全体教员
+- generic: The faculty of science offers many interesting courses.
+- generic: 科学学院提供许多有趣的课程。
+- text: 2026-10-22
+- generic: treadmill
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /ˈtredmɪl/
+- generic: 美 /ˈtredmɪl/
+- generic: n. 踏车，跑步机；单调的工作
+- generic: I like to exercise on the treadmill every morning.
+- generic: 我喜欢每天早上在跑步机上锻炼。
+- text: 2026-10-22
+- generic: hesitate
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /ˈhezɪteɪt/
+- generic: 美 /ˈhezɪteɪt/
+- generic: vi. 踌躇，犹豫；不愿 vt. 踌躇，犹豫；有疑虑，不愿意
+- generic: I hesitate to ask for help.
+- generic: 我犹豫是否请求帮助。
+- text: 2026-10-22
+- generic: installation
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /ˌɪnstəˈleɪʃ(ə)n/
+- generic: 美 /ˌɪnstəˈleɪʃ(ə)n/
+- generic: n. 安装，装置；就职
+- generic: The installation of the new computer took only an hour.
+- generic: 新电脑的安装只花了一个小时。
+- text: 2026-10-22
+- generic: supervisor
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /ˈsuːpəvaɪzə(r)/
+- generic: 美 /ˈsuːpəvaɪzə(r)/
+- generic: 监督人，指导者；[管理] 管理人；检查员
+- generic: My supervisor helps me with my work.
+- generic: 我的监督者帮助我完成工作。
+- text: 2026-10-22
+- generic: conducted
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /ˈkɒndʌktid/
+- generic: 美 /ˈkɒndʌktid/
+- generic: v. 管理（conduct的过去分词）；引导；指挥
+- generic: The teacher conducted a fun science experiment.
+- generic: 老师进行了一个有趣的科学实验。
+- text: 2026-10-22
+- generic: features
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /ˈfiːtʃəz/
+- generic: 美 /ˈfiːtʃəz/
+- generic: n. 产品特点，特征；容貌；嘴脸（feature的复数） v. 是…的特色，使突出（feature的第三人称单数）
+- generic: The new phone has many exciting features.
+- generic: 这款新手机有许多令人兴奋的特点。
+- text: 2026-10-22
+- generic: sustainability
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /səˌsteɪnəˈbɪləti/
+- generic: 美 /səˌsteɪnəˈbɪləti/
+- generic: n. 持续性；永续性；能维持性
+- generic: Sustainability is important for our planet's future.
+- generic: 可持续性对我们星球的未来很重要。
+- text: 2026-10-22
+- generic: stairwells
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 [ˈsteəˌwelz]
+- generic: 美 [ˈsteəˌwelz]
+- generic: n. 楼梯井；楼梯间
+- generic: The stairwells in the building are very wide.
+- generic: 这栋楼的楼梯间非常宽敞。
+- text: 2026-10-22
+- generic: effect immediately
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 [ɪˈfekt]
+- generic: 美 [ɪˈfekt]
+- generic: 立即生效
+- generic: The company must effect immediately the new safety rules.
+- generic: 公司必须立即实施新的安全规定。
+- text: 2026-10-22
+- generic: commemorate
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /kəˈmeməreɪt/
+- generic: 美 /kəˈmeməreɪt/
+- generic: vt. 庆祝，纪念；成为…的纪念
+- generic: We gather every year to commemorate our friendship.
+- generic: 我们每年聚在一起纪念我们的友谊。
+- text: 2026-10-22
+- generic: platform
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /ˈplætfɔːm/
+- generic: 美 /ˈplætfɔːm/
+- generic: n. 平台；月台，站台；坛；讲台；厚底松糕鞋
+- generic: The train arrives at the platform.
+- generic: 火车到达了站台。
+- text: 2026-10-22
+- generic: forthcoming
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /ˌfɔːθˈkʌmɪŋ/
+- generic: 美 /ˌfɔːθˈkʌmɪŋ/
+- generic: adj. 即将来临的 n. 来临
+- generic: The forthcoming event will be very exciting.
+- generic: 即将到来的活动将会非常令人兴奋。
+- text: 2026-10-22
+- generic: site
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /saɪt/
+- generic: 美 /saɪt/
+- generic: n. 地点；位置；场所 vt. 设置；为…选址
+- generic: The park is a great site for a picnic.
+- generic: 这个公园是野餐的好地方。
+- text: 2026-10-22
+- generic: internship
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /ˈɪntɜːnʃɪp/
+- generic: 美 /ˈɪntɜːnʃɪp/
+- generic: n. 实习生；（美）实习期；实习医师职位
+- generic: She got an internship at a local hospital.
+- generic: 她在当地医院获得了一个实习机会。
+- text: 2026-10-22
+- generic: comply
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /kəmˈplaɪ/
+- generic: 美 /kəmˈplaɪ/
+- generic: vi. 遵守；顺从，遵从；答应
+- generic: Students must comply with the school rules.
+- generic: 学生必须遵守学校规则。
+- text: 2026-10-22
+- generic: source
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /sɔːs/
+- generic: 美 /sɔːs/
+- generic: n. 来源；水源；原始资料 n. 人名；(法)苏尔斯
+- generic: The river is the source of the water for the town.
+- generic: 这条河是这个城镇的水源。
+- text: 2026-10-22
+- generic: wrap up
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /ræp ʌp/
+- generic: 美 /ræp ʌp/
+- generic: 包裹；圆满完成；（使）穿得暖和（wrap somebody/yourself up）；注意力完全集中于……
+- generic: Let's wrap up the meeting before lunch.
+- generic: 我们在午餐前结束会议吧。
+- text: 2026-10-22
+- generic: mural
+- button "" [disabled]:
+  - generic: 
+- generic: "错词数: 1"
+- generic: 英 /ˈmjʊərəl/
+- generic: 美 /ˈmjʊərəl/
+- generic: n. 壁画 adj. （似）墙的，与墙有关的；（与）体腔壁有关的
+- generic: The mural on the school wall is very colorful.
+- generic: 学校墙上的壁画非常多彩。
+- text: 2026-10-22
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:       
+- list:
+  - generic: 按错误次数
+  - generic: 随机
+- tooltip "开始练习 练习单词数量设置 10 个  布置单词范围  请选择班级  确定":
+  - generic: 开始练习
+  - generic: 练习单词数量设置
+  - textbox: 10 个
+  - text: 
+  - generic: 
+  - generic: 布置单词范围
+  - textbox [active]
+  - text: 
+  - generic: 
+  - generic: 请选择班级
+  - textbox
+  - text: 
+  - generic: 
+  - button "确定"

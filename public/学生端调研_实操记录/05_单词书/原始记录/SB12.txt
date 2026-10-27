@@ -1,0 +1,28 @@
+Browser tab: 68, Title: "基础练习", URL: "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=14752680&stuid=243365&teacherid=&linkid=114645&libid=225395&wrcd=1&xiaov=20261122&clientmode=full".
+0 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14752680&stuid=243365&teacherid=&linkid=114645&libid=225395&wrcd=1&xiaov=20261122&clientmode=full
+	1 container
+		2 container
+			3 heading 单词书自测/陈梦昕生词本-7.01, Value: 1
+				12 text 单词书自测/陈梦昕生词本-7.01
+			13 text 1/31
+			14 progress indicator 3
+			4 container
+				5 button
+					6 container
+						7 button 
+							15 text 
+						8 heading symphonies, Value: 2
+							16 text symphonies
+						17 text UK /ˈsɪmfəniz/ US /ˈsɪmfəniz/
+						18 text 尝试翻转卡片，发现让记忆深刻的秘密
+				9 button  认识
+					19 text 
+					20 text 认识
+				10 button  模糊
+					21 text 
+					22 text 模糊
+				11 button  生疏
+					23 text 
+					24 text 生疏
+
+The focused UI element is 0 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14752680&stuid=243365&teacherid=&linkid=114645&libid=225395&wrcd=1&xiaov=20261122&clientmode=full

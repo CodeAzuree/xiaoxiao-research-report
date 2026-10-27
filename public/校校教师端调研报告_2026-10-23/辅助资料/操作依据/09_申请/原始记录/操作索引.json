@@ -1,0 +1,44 @@
+[
+  {
+    "id": "A01",
+    "note": "申请列表：校区班级、申请人/时间/备注、状态、已排/总课时、处理人、驳回原因、取消申请",
+    "time": "2026-10-23T06:22:30.048Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=11&stutab=0"
+  },
+  {
+    "id": "A02",
+    "note": "状态筛选包含全部状态、待处理、已处理、已驳回",
+    "time": "2026-10-23T06:22:45.191Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=11&stutab=0"
+  },
+  {
+    "id": "A03",
+    "note": "班级筛选：关键字搜索和全选复选，当前列表未显示具体班级候选",
+    "time": "2026-10-23T06:23:04.258Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=11&stutab=0"
+  },
+  {
+    "id": "A04",
+    "note": "申请排课表单：班级、备注300字、确定与取消",
+    "time": "2026-10-23T06:23:16.188Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=11&stutab=0"
+  },
+  {
+    "id": "A05",
+    "note": "排课申请班级下拉：王小格-SAT、测试班002等可选班级",
+    "time": "2026-10-23T06:23:45.500Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=11&stutab=0"
+  },
+  {
+    "id": "A06",
+    "note": "申请列表分页：10/15/20/50条、上一下页、跳页",
+    "time": "2026-10-23T06:24:04.545Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=11&stutab=0"
+  },
+  {
+    "id": "A07",
+    "note": "班级筛选加载完成：关键字搜索、全选和王小格-SAT复选项",
+    "time": "2026-10-23T06:24:20.411Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=11&stutab=0"
+  }
+]

@@ -1,0 +1,90 @@
+- generic: 基础练习
+- generic: 题型训练
+- generic: 模考测试
+- generic: 机构题库
+- generic: 自定义作业
+- textbox
+- textbox "开始日期"
+- textbox "00:00"
+- generic: ~
+- textbox "截止日期："
+- textbox "22:00"
+- generic: 布置给所有学生
+- generic: 关联音视频(未关联)
+- generic: 倒计时(未开启)
+- generic: 科目(未设置)
+- generic: AI智能批改
+- generic: 开启实时作业
+- generic: 如何提高学生完成作业的积极性？老师可以试试开启实时作业！
+- generic: 点击查看操作详情
+- generic: 作业设置
+- generic: 收起详情
+- button "关闭白板"
+- iframe:
+  - banner:
+    - heading "Excalidraw" [level=1]
+  - region "形状":
+    - heading "形状" [level=2]
+    - generic "绘制后保持所选的工具栏状态 — Q":
+      - checkbox "绘制后保持所选的工具栏状态"
+    - generic "抓手（平移工具） — H":
+      - radio "抓手（平移工具） — H"
+    - radio "选择" [checked]
+    - generic: 选择
+    - radio "矩形"
+    - generic: 矩形
+    - radio "箭头"
+    - generic: 箭头
+    - radio "画笔"
+    - generic: 画笔
+    - radio "文字"
+    - generic: 文字
+    - radio "颜色"
+    - generic: 颜色
+    - radio "橡皮"
+    - generic: 橡皮
+    - radio "激光笔"
+    - generic: 激光笔
+    - radio "清空"
+    - generic: 清空
+    - radio "撤销"
+    - generic: 撤销
+    - radio "重做"
+    - generic: 重做
+  - generic: 绘制 Canvas
+- iframe [active]:
+  - paragraph: 正在生成答题报告，请耐心等待......
+  - paragraph: AI智能批改中，预计需要2-5分钟
+  - button "Review":
+    - generic: Review
+  - button "Next " [active]:
+    - generic: Next
+    - generic: 
+  - generic: Reading | Question 1 of 1
+  - heading "Read in Daily Life(2题版) 37 Read in Daily Life" [level=2]
+  - paragraph:
+    - strong: Read a notice.
+  - table:
+    - rowgroup:
+      - row "Do you have sewing or clothing design skills? The Dance Department is seeking student volunteers to help make costumes for our annual production of The Nutcracker. Work will begin October 3rd and costumes must be ready for dress rehearsals starting in mid-November. Volunteers will receive free tickets to performances in December.":
+        - cell "Do you have sewing or clothing design skills? The Dance Department is seeking student volunteers to help make costumes for our annual production of The Nutcracker. Work will begin October 3rd and costumes must be ready for dress rehearsals starting in mid-November. Volunteers will receive free tickets to performances in December.":
+          - paragraph:
+            - strong: Do you have sewing or clothing design skills?
+          - paragraph
+          - paragraph:
+            - text: The Dance Department is seeking student volunteers to help make costumes for our annual production of
+            - emphasis: The Nutcracker
+            - text: .
+          - paragraph
+          - paragraph: Work will begin October 3rd and costumes must be ready for dress rehearsals starting in mid-November.
+          - paragraph
+          - paragraph:
+            - emphasis: Volunteers will receive free tickets to performances in December.
+  - paragraph
+  - paragraph: Which of the following can be inferred about the Dance Department?
+  - generic: It relies primarily on costumes donated by professional theaters.
+  - generic: It reuses costumes from previous productions of The Nutcracker.
+  - generic: It casts only student dancers in its productions.
+  - generic: It charges students for tickets to The Nutcracker.
+  - button "Continue":
+    - generic: Continue

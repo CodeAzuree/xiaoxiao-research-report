@@ -1,0 +1,33 @@
+Browser tab: 57, Title: "新托福2026", URL: "https://learninghub.xhd.cn/org/tpo/tpo.html?id=11688950&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122&clientmode=full".
+0 AXWebArea 新托福2026, URL: learninghub.xhd.cn/org/tpo/tpo.html?id=11688950&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122&clientmode=full
+	1 container app
+		2 container
+			3 text 正在生成答题报告，请耐心等待......
+			4 text AI智能批改中，预计需要2-5分钟
+			5 image
+			6 text 写作
+			7 image
+			15 button Review
+			8 button Next 
+				9 text Next
+				16 text 
+			11 text Writing | Question 1 of 10 00:06:35
+			17 image
+			18 text Hide Time
+			19 heading Make an appropriate sentence., Value: 2
+				20 text Make an appropriate sentence.
+			21 image female
+			22 text  Why was the guest lecturer series postponed?
+			23 image male
+			24 text  wanted to 
+			25 text .
+			26 text the organizer
+			27 text new equipment
+			28 text know
+			29 text if the
+			30 text would arrive
+			31 text on time
+		13 container
+			14 button Continue
+
+The focused UI element is 8 button Next 

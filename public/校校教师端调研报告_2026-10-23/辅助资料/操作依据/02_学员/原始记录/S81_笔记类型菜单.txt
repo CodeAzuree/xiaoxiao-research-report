@@ -1,0 +1,131 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- tablist:
+  - tab "练习统计":
+    - generic: 练习统计
+  - tab "错题分析":
+    - generic: 错题分析
+  - tab "笔记" [selected]:
+    - generic: 笔记
+- generic: 
+- textbox "请输入笔记内容"
+- button "笔记类型 (文字笔记) " [active]:
+  - text: 笔记类型
+  - generic: (文字笔记)
+  - generic: 
+- button "状态 (全部) ":
+  - text: 状态
+  - generic: (全部)
+  - generic: 
+- generic: 
+- textbox "开始日期"
+- generic: "-"
+- textbox "结束日期"
+- generic: 重置
+- table:
+  - rowgroup:
+    - row "笔记内容 重点笔记 来源名称 作业名称 笔记类型 添加时间 批量操作":
+      - columnheader "笔记内容":
+        - generic: 笔记内容
+      - columnheader "重点笔记":
+        - generic: 重点笔记
+      - columnheader "来源名称":
+        - generic: 来源名称
+      - columnheader "作业名称":
+        - generic: 作业名称
+      - columnheader "笔记类型":
+        - generic: 笔记类型
+      - columnheader "添加时间":
+        - generic: 添加时间
+      - columnheader "批量操作":
+        - generic: 批量操作
+- table:
+  - rowgroup
+- paragraph: 暂无作业数据
+- generic: 共 0 条
+- textbox "请选择": 20条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+- button "" [disabled]:
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:              
+- list:
+  - listitem: 文字笔记
+  - listitem: 材料笔记

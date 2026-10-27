@@ -1,0 +1,18 @@
+Browser tab: 57, Title: "新托福2026", URL: "https://learninghub.xhd.cn/org/tpo/tpo.html?id=11688950&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122&clientmode=full".
+0 AXWebArea 新托福2026, URL: learninghub.xhd.cn/org/tpo/tpo.html?id=11688950&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122&clientmode=full
+	1 container app
+		2 container
+			3 text 正在生成答题报告，请耐心等待......
+			4 text AI智能批改中，预计需要2-5分钟
+			5 image
+			6 text 写作
+			7 image
+			8 button Continue 
+				9 text Continue
+				10 text 
+			11 text Writing Writing Section In the writing section, you will answer some questions to demonstrate how well you can write in English. There are three types of tasks.
+			12 image
+		13 container
+			14 button Continue
+
+The focused UI element is 0 AXWebArea 新托福2026, URL: learninghub.xhd.cn/org/tpo/tpo.html?id=11688950&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122&clientmode=full

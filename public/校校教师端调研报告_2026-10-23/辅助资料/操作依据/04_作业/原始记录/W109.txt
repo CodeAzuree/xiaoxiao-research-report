@@ -1,0 +1,138 @@
+- code:
+  - generic: 评语
+  - generic: 
+  - text: 
+  - generic: 
+  - list:
+    - generic: 昶君
+    - generic: 已批改
+    - generic: 柳昶君
+  - generic: 3.18 阅读写作一套
+  - generic: 
+  - generic: 2026.03.18 15:25 - 2026.03.18 17:35
+  - text:    
+  - button "导出PDF"
+  - button "发布成绩"
+  - text: 
+  - button "生成报告"
+  - text: 
+  - generic: 作业结果
+  - generic: 答题解析
+  - generic: 答题录屏
+  - generic: 巩固训练
+  - text:       
+  - tablist:
+    - tab "阅读":
+      - generic: 阅读
+    - tab "写作" [selected]:
+      - generic: 写作
+  - generic: 显示答案
+  - switch [checked]:
+    - checkbox [checked]
+  - tablist:
+    - button "Writing Task 1 1860 S " [expanded]:
+      - generic: Writing Task 1
+      - paragraph: 1860 S
+      - generic: 
+    - region:
+      - paragraph
+      - list:
+        - paragraph: (01)
+        - paragraph
+        - paragraph: "-"
+    - button "Writing Task 2 0 S ":
+      - generic: Writing Task 2
+      - paragraph: 0 S
+      - generic: 
+    - region:
+      - paragraph
+      - list:
+        - paragraph: (02)
+        - paragraph
+        - paragraph: "-"
+  - paragraph:
+    - generic: 题目
+  - generic: 正确率
+  - generic: "-"
+  - generic: 中位用时
+  - generic: "-"
+  - generic: 区分度
+  - generic: "0.67"
+  - generic: 争议率
+  - generic: "-"
+  - generic: 
+  - generic: 写作材料
+  - generic: "1"
+  - text: .
+  - generic: WRITING TASK 1 You should spend about 20 minutes on this task. The first table below shows changes in the total population of New York City from 1800 to 2000. The second and third tables show changes in the population of the five districts of the city (Manhattan, Brooklyn, Bronx, Queens, Staten Island) over the same period. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.
+  - button "":
+    - generic: 
+  - button "":
+    - generic: 
+  - button "":
+    - generic: 
+  - button "Copy URL":
+    - generic: Copy URL
+  - img "Image loading failed"
+  - generic: 知识点
+  - generic: 题目来源
+  - button "添加知识点"
+  - generic: 表格
+  - text: 
+  - radiogroup:
+    - button " 题目解析":
+      - generic: 
+      - generic: 题目解析
+    - button "名师讲解":
+      - generic: 名师讲解
+    - button "笔记列表":
+      - generic: 笔记列表
+  - generic: AI未批改
+  - paragraph: 开启AI智能批改 · 查看官方写作标准评分建议、逐句批改、润色文章
+  - generic: AI智能批改
+  - generic: 题目得分
+  - generic: 对此题提出疑问？
+  - text: 
+  - generic: 得分
+  - button "-"
+  - generic: 分，总分9分
+  - generic: （未进行AI智能批改，分数可能不准确，请点击AI智能批改）
+  - tablist:
+    - tab "分项批改":
+      - generic: 分项批改
+    - tab "逐句批改" [active] [selected]:
+      - generic: 逐句批改
+    - tab "润色文章":
+      - generic: 润色文章
+  - generic: 字数统计 112
+  - generic: 句子数量 5
+  - generic: 每句平均单词 22
+  - text:        
+  - paragraph: 原文
+  - paragraph: 批改内容
+  - paragraph: 修改建议
+  - generic: 
+  - paragraph: 第1段
+  - table:
+    - row "As a condition of his employment with an investment bank, Abasi Hasina, CFA, was required to sign an employment contract, including a non-compete clause restricting him from working for a competitor for three years after leaving the employer Organization：句子较长，建议分为两个句子以提高可读性。 Grammatical Range and Accuracy：使用了较为复杂的结构，建议简化部分表达以增强清晰度。 After one year, Hasina quits his job for a comparable position with an investment bank in a country where non-compete clauses are illegal.":
+      - cell "As a condition of his employment with an investment bank, Abasi Hasina, CFA, was required to sign an employment contract, including a non-compete clause restricting him from working for a competitor for three years after leaving the employer"
+      - cell "Organization：句子较长，建议分为两个句子以提高可读性。 Grammatical Range and Accuracy：使用了较为复杂的结构，建议简化部分表达以增强清晰度。":
+        - paragraph: Organization：句子较长，建议分为两个句子以提高可读性。
+        - paragraph: Grammatical Range and Accuracy：使用了较为复杂的结构，建议简化部分表达以增强清晰度。
+      - cell "After one year, Hasina quits his job for a comparable position with an investment bank in a country where non-compete clauses are illegal.":
+        - paragraph: After one year, Hasina quits his job for a comparable position with an investment bank in a country where non-compete clauses are illegal.
+        - paragraph:
+  - generic: 
+  - paragraph: 第2段
+  - table:
+    - row "As a condition of his employment with an investment bank, Abasi Hasina, CFA, was required to sign an employment contract, including a non-compete clause restricting him from working for a competitor for three years after leaving the employer Organization：句子较长，建议分为两个句子以提高可读性。 Grammatical Range and Accuracy：使用了较为复杂的结构，建议简化部分表达以增强清晰度。 After one year, Hasina quits his job for a comparable position with an investment bank in a country where non-compete clauses are illegal.":
+      - cell "As a condition of his employment with an investment bank, Abasi Hasina, CFA, was required to sign an employment contract, including a non-compete clause restricting him from working for a competitor for three years after leaving the employer"
+      - cell "Organization：句子较长，建议分为两个句子以提高可读性。 Grammatical Range and Accuracy：使用了较为复杂的结构，建议简化部分表达以增强清晰度。":
+        - paragraph: Organization：句子较长，建议分为两个句子以提高可读性。
+        - paragraph: Grammatical Range and Accuracy：使用了较为复杂的结构，建议简化部分表达以增强清晰度。
+      - cell "After one year, Hasina quits his job for a comparable position with an investment bank in a country where non-compete clauses are illegal.":
+        - paragraph: After one year, Hasina quits his job for a comparable position with an investment bank in a country where non-compete clauses are illegal.
+        - paragraph:
+  - paragraph: AI逐句批改
+  - paragraph: 开启AI智能批改，逐句分析并给出修改建议
+  - generic: AI智能批改

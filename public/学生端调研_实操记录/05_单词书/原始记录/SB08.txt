@@ -1,0 +1,13 @@
+Browser tab: 62, Title: "基础练习", URL: "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=14752680&stuid=243365&teacherid=&linkid=114645&libid=225395&wrcd=1&xiaov=20261122&clientmode=full".
+0 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14752680&stuid=243365&teacherid=&linkid=114645&libid=225395&wrcd=1&xiaov=20261122&clientmode=full
+	1 container
+		2 container
+			3 heading 单词书自测/陈梦昕生词本-7.01, Value: 1
+				4 text 单词书自测/陈梦昕生词本-7.01
+			5 text 1/31
+			6 progress indicator 3
+			7 button
+				8 button 
+					9 text 
+
+The focused UI element is 7 button

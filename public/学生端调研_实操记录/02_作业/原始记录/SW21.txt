@@ -1,0 +1,140 @@
+Browser tab: 54, Title: "新托福2026", URL: "https://learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122".
+0 AXWebArea 新托福2026, URL: learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122
+	1 container myweb
+		2 container
+			3 image
+			4 text Jane Austen
+			5 button icon
+				6 image icon
+			7 button icon
+				8 image icon
+			9 button 
+				10 text 
+			11 text 重点词汇
+			12 text 翻译
+			13 text 答题解析
+			14 text 题目订正
+			15 container
+				16 text entry area (settable)
+				17 text 
+				18 text 思路讲解
+				19 button (disabled) icon
+					20 image icon
+				21 text 内容由 AI 生成
+		22 text 新托福口语模考
+		23 text 
+		24 text 2026.05.15 09:48 - 2026.05.15 09:56
+		25 container
+			26 container
+				27 text 作业结果 答题解析 巩固训练
+			28 text CEFR
+			29 text - of 6 NS
+			30 container
+				31 text - / 30
+			32 text A1 A2 B1 B2 C1 C2
+			33 image
+			34 text 57%
+			35 text 
+			36 text -%
+			37 container
+				38 image
+				39 text 口语 NS of 6
+			40 button  能力诊断, ID: xx-capsule-radio__item-0
+				41 text 
+				42 text 能力诊断
+			43 button 评语, ID: xx-capsule-radio__item-1
+			44 container
+				45 text 1 分项评价
+			46 image
+			47 text 口语
+			48 text high-intermediate
+			49 container
+				50 text 2 题型分析
+			51 container
+				52 table
+					53 row
+						54 cell
+							55 text 分项
+						56 cell
+							57 text 名称
+						58 cell
+							59 text 正确率/得分率
+						60 cell
+							61 text 答对题数
+						62 cell
+							63 text 答错题数
+						64 cell
+							65 text 未答题数
+				66 table
+					67 row
+						68 cell
+							69 container
+								70 text 口语
+						71 cell
+							72 text Listen and Repeat
+						73 cell
+							74 text 80%
+						75 cell
+							76 text 0
+						77 cell
+							78 text 0
+						79 cell
+							80 text 0
+					81 row
+						82 cell
+							83 container
+								84 text 口语
+						85 cell
+							86 text Take an Interview
+						87 cell
+							88 text 60%
+						89 cell
+							90 text 0
+						91 cell
+							92 text 0
+						93 cell
+							94 text 0
+			95 container
+				96 text 3 知识点分析
+			97 container
+				98 table
+					99 row
+						100 cell
+							101 text 分项
+						102 cell
+							103 text 知识点
+						104 cell
+							105 text 稳定程度
+						106 cell
+							107 text 正确数
+						108 cell
+							109 text 正确率/得分率
+				110 table
+					111 row
+						112 cell
+							113 container
+								114 text 口语
+						115 cell
+							116 text 模拟面试
+						117 cell
+							118 text 易混淆
+						119 cell
+							120 text -/-
+						121 cell
+							122 text - %
+					123 row
+						124 cell
+							125 container
+								126 text 口语
+						127 cell
+							128 text 跟读复述
+						129 cell
+							130 text 易混淆
+						131 cell
+							132 text -/-
+						133 cell
+							134 text - %
+	135 container
+		136 text 已生成当前作业的订正练习，点击去练习巩固薄弱知识点 去练习 
+
+The focused UI element is 0 AXWebArea 新托福2026, URL: learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122

@@ -1,0 +1,132 @@
+Browser tab: 52, Title: "测试结果", URL: "https://learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122".
+0 AXWebArea 测试结果, URL: learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122
+	1 container
+		2 container result-app
+			3 text 雅思
+			4 text 
+			5 text 2026.05.23 13:59 - 2026.05.23 13:59
+			6 container
+				7 container
+					8 text 作业结果 答题解析 巩固训练
+				9 text 总成绩
+				10 text 
+				11 container
+					12 text 3.5 / 9
+				13 image
+				14 text 25%
+				15 text 
+				16 text 3%
+				17 image
+				18 text 阅读
+				19 container
+					20 text 3.5 / 9
+				21 image
+				22 text 3
+				23 image
+				24 text 11
+				25 button  能力诊断, ID: xx-capsule-radio__item-0
+					26 text 
+					27 text 能力诊断
+				28 button 分析&建议, ID: xx-capsule-radio__item-1
+				29 button 评语, ID: xx-capsule-radio__item-2
+				30 container
+					31 text 1 分项评价
+				32 image
+				33 text 阅读
+				34 text basic
+				35 container
+					36 text 2 知识点分析
+				37 container
+					38 table
+						39 row
+							40 cell
+								41 text 分项
+							42 cell
+								43 text 知识点
+							44 cell
+								45 text 稳定程度
+							46 cell
+								47 text 正确数
+							48 cell
+								49 text 正确率/得分率
+					50 table
+						51 row
+							52 cell
+								53 container
+									54 text 阅读
+							55 cell
+								56 text Multiple Choice多选题
+							57 cell
+								58 text 易混淆
+							59 cell
+								60 text -/-
+							61 cell
+								62 text - %
+						63 row
+							64 cell
+								65 container
+									66 text 阅读
+							67 cell
+								68 text Y/N/NG判断题
+							69 cell
+								70 text 易混淆
+							71 cell
+								72 text -/-
+							73 cell
+								74 text - %
+						75 row
+							76 cell
+								77 container
+									78 text 阅读
+							79 cell
+								80 text Matching段落信息匹配
+							81 cell
+								82 text 易混淆
+							83 cell
+								84 text -/-
+							85 cell
+								86 text - %
+						87 row
+							88 cell
+								89 container
+									90 text 阅读
+							91 cell
+								92 text Table表格填空
+							93 cell
+								94 text 易混淆
+							95 cell
+								96 text -/-
+							97 cell
+								98 text - %
+				99 container
+					100 text 3 Top高错点
+				101 container
+					102 text 定位错误 4 只根据关键词定位到相似句，但该句并非真正支持选项。 阅读 阅读
+				103 container
+					104 text TFNG 边界混淆 1 True/False/Not Given判断标准混乱。 阅读 阅读
+				105 container
+					106 text 原词匹配倾向 1 看到题干中的原词就直接选择。 阅读 阅读
+			107 container
+				108 image
+				109 text Jane Austen
+				110 button icon
+					111 image icon
+				112 button icon
+					113 image icon
+				114 button 
+					115 text 
+				116 text 重点词汇
+				117 text 翻译
+				118 text 答题解析
+				119 text 题目订正
+				120 container
+					121 text entry area (settable)
+					122 text 
+					123 text 思路讲解
+					124 button (disabled) icon
+						125 image icon
+					126 text 内容由 AI 生成
+		127 container
+			128 text 已生成当前作业的订正练习，点击去练习巩固薄弱知识点 去练习 
+
+The focused UI element is 0 AXWebArea 测试结果, URL: learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122

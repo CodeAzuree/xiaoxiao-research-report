@@ -1,0 +1,326 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 2026年10月
+- generic: 
+- generic: 本月
+- generic: 
+- button "课时详情"
+- generic: 星期一
+- generic: 星期二
+- generic: 星期三
+- generic: 星期四
+- generic: 星期五
+- generic: 星期六
+- generic: 星期天
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: "6"
+- generic: "7"
+- generic: "8"
+- generic: "9"
+- generic: "10"
+- generic: "11"
+- generic: "12"
+- generic: "13"
+- generic: "14"
+- generic: "15"
+- generic: "16"
+- generic: "17"
+- generic: "18"
+- generic: "19"
+- generic: "20"
+- generic: "21"
+- generic: "22"
+- generic: 今天
+- generic: "24"
+- generic: "25"
+- generic: "26"
+- generic: "27"
+- generic: "28"
+- generic: "29"
+- generic: "30"
+- generic: "31"
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:           
+- dialog "课时详情":
+  - generic: 课时详情
+  - button "Close":
+    - generic: 
+  - generic: 
+  - textbox "开始日期" [active]
+  - generic: "-"
+  - textbox "结束日期"
+  - button "搜索":
+    - generic: 搜索
+  - button "总上课时长:00:00":
+    - generic: 总上课时长:00:00
+  - table:
+    - rowgroup:
+      - row "课程名称 班级名称 上课内容 上课方式 上课时间 上课时长 课程类型":
+        - columnheader "课程名称":
+          - generic: 课程名称
+        - columnheader "班级名称":
+          - generic: 班级名称
+        - columnheader "上课内容":
+          - generic: 上课内容
+        - columnheader "上课方式":
+          - generic: 上课方式
+        - columnheader "上课时间":
+          - generic: 上课时间
+        - columnheader "上课时长":
+          - generic: 上课时长
+        - columnheader "课程类型":
+          - generic: 课程类型
+  - table:
+    - rowgroup
+  - paragraph: 暂无课时详情
+- text: 
+- generic: 
+- text: 
+- button ""
+- button ""
+- generic: 2026 年 10 月
+- table:
+  - rowgroup:
+    - row "一 二 三 四 五 六 日":
+      - columnheader "一"
+      - columnheader "二"
+      - columnheader "三"
+      - columnheader "四"
+      - columnheader "五"
+      - columnheader "六"
+      - columnheader "日"
+    - row "28 29 30 1 2 3 4":
+      - cell "28":
+        - generic: "28"
+      - cell "29":
+        - generic: "29"
+      - cell "30":
+        - generic: "30"
+      - cell "1":
+        - generic: "1"
+      - cell "2":
+        - generic: "2"
+      - cell "3":
+        - generic: "3"
+      - cell "4":
+        - generic: "4"
+    - row "5 6 7 8 9 10 11":
+      - cell "5":
+        - generic: "5"
+      - cell "6":
+        - generic: "6"
+      - cell "7":
+        - generic: "7"
+      - cell "8":
+        - generic: "8"
+      - cell "9":
+        - generic: "9"
+      - cell "10":
+        - generic: "10"
+      - cell "11":
+        - generic: "11"
+    - row "12 13 14 15 16 17 18":
+      - cell "12":
+        - generic: "12"
+      - cell "13":
+        - generic: "13"
+      - cell "14":
+        - generic: "14"
+      - cell "15":
+        - generic: "15"
+      - cell "16":
+        - generic: "16"
+      - cell "17":
+        - generic: "17"
+      - cell "18":
+        - generic: "18"
+    - row "19 20 21 22 23 24 25":
+      - cell "19":
+        - generic: "19"
+      - cell "20":
+        - generic: "20"
+      - cell "21":
+        - generic: "21"
+      - cell "22":
+        - generic: "22"
+      - cell "23":
+        - generic: "23"
+      - cell "24":
+        - generic: "24"
+      - cell "25":
+        - generic: "25"
+    - row "26 27 28 29 30 31 1":
+      - cell "26":
+        - generic: "26"
+      - cell "27":
+        - generic: "27"
+      - cell "28":
+        - generic: "28"
+      - cell "29":
+        - generic: "29"
+      - cell "30":
+        - generic: "30"
+      - cell "31":
+        - generic: "31"
+      - cell "1":
+        - generic: "1"
+    - row "2 3 4 5 6 7 8":
+      - cell "2":
+        - generic: "2"
+      - cell "3":
+        - generic: "3"
+      - cell "4":
+        - generic: "4"
+      - cell "5":
+        - generic: "5"
+      - cell "6":
+        - generic: "6"
+      - cell "7":
+        - generic: "7"
+      - cell "8":
+        - generic: "8"
+- button ""
+- button ""
+- generic: 2026 年 11 月
+- table:
+  - rowgroup:
+    - row "一 二 三 四 五 六 日":
+      - columnheader "一"
+      - columnheader "二"
+      - columnheader "三"
+      - columnheader "四"
+      - columnheader "五"
+      - columnheader "六"
+      - columnheader "日"
+    - row "26 27 28 29 30 31 1":
+      - cell "26":
+        - generic: "26"
+      - cell "27":
+        - generic: "27"
+      - cell "28":
+        - generic: "28"
+      - cell "29":
+        - generic: "29"
+      - cell "30":
+        - generic: "30"
+      - cell "31":
+        - generic: "31"
+      - cell "1":
+        - generic: "1"
+    - row "2 3 4 5 6 7 8":
+      - cell "2":
+        - generic: "2"
+      - cell "3":
+        - generic: "3"
+      - cell "4":
+        - generic: "4"
+      - cell "5":
+        - generic: "5"
+      - cell "6":
+        - generic: "6"
+      - cell "7":
+        - generic: "7"
+      - cell "8":
+        - generic: "8"
+    - row "9 10 11 12 13 14 15":
+      - cell "9":
+        - generic: "9"
+      - cell "10":
+        - generic: "10"
+      - cell "11":
+        - generic: "11"
+      - cell "12":
+        - generic: "12"
+      - cell "13":
+        - generic: "13"
+      - cell "14":
+        - generic: "14"
+      - cell "15":
+        - generic: "15"
+    - row "16 17 18 19 20 21 22":
+      - cell "16":
+        - generic: "16"
+      - cell "17":
+        - generic: "17"
+      - cell "18":
+        - generic: "18"
+      - cell "19":
+        - generic: "19"
+      - cell "20":
+        - generic: "20"
+      - cell "21":
+        - generic: "21"
+      - cell "22":
+        - generic: "22"
+    - row "23 24 25 26 27 28 29":
+      - cell "23":
+        - generic: "23"
+      - cell "24":
+        - generic: "24"
+      - cell "25":
+        - generic: "25"
+      - cell "26":
+        - generic: "26"
+      - cell "27":
+        - generic: "27"
+      - cell "28":
+        - generic: "28"
+      - cell "29":
+        - generic: "29"
+    - row "30 1 2 3 4 5 6":
+      - cell "30":
+        - generic: "30"
+      - cell "1":
+        - generic: "1"
+      - cell "2":
+        - generic: "2"
+      - cell "3":
+        - generic: "3"
+      - cell "4":
+        - generic: "4"
+      - cell "5":
+        - generic: "5"
+      - cell "6":
+        - generic: "6"

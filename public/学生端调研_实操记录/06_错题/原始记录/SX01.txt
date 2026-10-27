@@ -1,0 +1,712 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	1 container myweb
+		2 container root-menu
+			3 container
+				4 image
+				5 text 首页
+			6 container
+				7 image
+				8 text 作业
+			9 container
+				10 image
+				11 text 课表
+			12 container
+				13 image
+				14 text 题库
+			15 container
+				16 image
+				17 text 单词书
+			18 container
+				19 image
+				20 text 错题
+			21 container
+				22 image
+				23 text 自适应
+			24 container
+				25 image
+				26 text 反馈
+			27 container
+				28 image
+				29 text 笔记
+			30 container
+				31 image
+				32 text 学习报告
+		33 container root-mv-right
+			34 container root-mv-header
+				35 image
+				36 container
+					37 text field (settable)
+					64 text 
+				39 button icon
+					40 image icon
+				41 container
+					65 text 
+					43 button icon
+						44 image icon
+				45 container
+					46 button icon
+						47 image icon
+					48 text 5
+				49 button icon
+					50 image icon
+				51 container
+					52 image
+					53 text 10
+				54 text 小格
+			55 container root-container
+				58 tab group
+					59 container
+						60 tab (selected, settable, boolean) 学科, Value: 1
+						61 tab (settable) 机构
+						62 tab (settable) 能力
+						63 tab (settable) 错词
+				66 container
+					67 text 科目 雅思 SAT机考 分项
+					68 text 不限
+					69 text 听力
+					70 text 阅读 我的进步
+					71 image
+					72 text 本周修复错题
+					73 text 0
+					74 image
+					75 text 总修复错题
+					76 text 1
+					77 image
+					78 text 修复率
+					79 image
+					80 text 3.13%
+					81 text 我的错误归因
+					82 text 定位错误 35.29%
+					83 progress indicator 35.290000915527344
+					84 text TFNG 边界混淆 29.41%
+					85 progress indicator 29.40999984741211
+					86 text 证据覆盖不足 11.76%
+					87 progress indicator 11.760000228881836
+					88 text 信息混淆 5.88%
+					89 progress indicator 5.880000114440918
+					90 text 其它 17.66%
+					91 progress indicator 17.65999984741211
+					92 text 知识点修复建议
+					93 text T/F/NG判断题
+					94 progress indicator 28.1299991607666
+					95 text 28.13%
+					96 text Summary摘要填空
+					97 progress indicator 15.630000114440918
+					98 text 15.63%
+					99 text Table表格填空
+					100 progress indicator 9.380000114440918
+					101 text 9.38%
+					102 text Flow-chart流程图填空
+					103 progress indicator 9.380000114440918
+					104 text 9.38%
+					105 text 其它
+					106 progress indicator 37.47999954223633
+					107 text 37.48%
+					108 container
+						109 text 知识点分类
+						110 image
+						111 text 
+						112 text field (settable)
+						113 container
+							114 checkbox 0
+								115 checkbox (settable, integer) 0
+							116 text 阅读
+							117 text 24
+							118 checkbox 0
+								119 checkbox (settable, integer) 0
+							120 text T/F/NG判断题
+							121 text 9
+							122 checkbox 0
+								123 checkbox (settable, integer) 0
+							124 text Table表格填空
+							125 text 3
+							126 checkbox 0
+								127 checkbox (settable, integer) 0
+							128 text Flow-chart流程图填空
+							129 text 3
+							130 checkbox 0
+								131 checkbox (settable, integer) 0
+							132 text Note笔记填空
+							133 text 3
+							134 checkbox 0
+								135 checkbox (settable, integer) 0
+							136 text Matching段落信息匹配
+							137 text 3
+							138 checkbox 0
+								139 checkbox (settable, integer) 0
+							140 text Y/N/NG判断题
+							141 text 2
+							142 checkbox 0
+								143 checkbox (settable, integer) 0
+							144 text Multiple Choice多选题
+							145 text 1
+						146 container
+							147 checkbox 0
+								148 checkbox (settable, integer) 0
+							149 text 听力
+							150 text 8
+							151 checkbox 0
+								152 checkbox (settable, integer) 0
+							153 text Summary摘要填空
+							154 text 5
+							155 checkbox 0
+								156 checkbox (settable, integer) 0
+							157 text Note笔记填空
+							158 text 1
+							159 checkbox 0
+								160 checkbox (settable, integer) 0
+							161 text Single Choice单选题
+							162 text 1
+							163 checkbox 0
+								164 checkbox (settable, integer) 0
+							165 text Multiple Choice多选题
+							166 text 1
+					167 container
+						168 button  待修复
+							169 text 
+							170 text 待修复
+						171 button 已修复
+						172 container
+							173 text 错误归因
+							174 text 
+						175 container
+							176 text 排序
+							177 image
+						178 checkbox 只看收藏, Value: 0
+							179 checkbox (settable, integer) 只看收藏, Value: 0
+							180 text 只看收藏
+						181 button 重置
+						182 text 
+						183 text field (settable)
+					184 container
+						185 table
+							186 row
+								187 cell
+									188 text 内容
+								189 cell
+									190 text 分项
+								191 cell
+									192 text 知识点
+								193 cell
+									194 text 错误次数
+								195 cell
+									196 text 错误归因
+								197 cell
+									198 text 最近答错日期
+								199 cell
+									200 text 收藏
+						201 table
+							202 row
+								203 cell
+									204 text 1
+								205 cell
+									206 text 听力
+								207 cell
+									208 text Note笔记填空
+								209 cell
+									210 text 2
+								211 cell
+									212 text -
+								213 cell
+									214 text 2026-05-26
+								215 cell
+									216 button 
+										217 text 
+							218 row
+								219 cell
+									220 container
+										221 text What  TWO  types of coursework are required  each month  on the part-time course?
+								222 cell
+									223 text 听力
+								224 cell
+									225 text Multiple Choice多选题
+								226 cell
+									227 text 2
+								228 cell
+									229 text 信息混淆
+								230 cell
+									231 text 2026-05-25
+								232 cell
+									233 button 
+										234 text 
+							235 row
+								236 cell
+									237 text 2. Fishermen took some water hyacinth plants to Lake Victoria.
+								238 cell
+									239 text 阅读
+								240 cell
+									241 text T/F/NG判断题
+								242 cell
+									243 text 2
+								244 cell
+									245 text 定位错误
+								246 cell
+									247 text 2026-09-22
+								248 cell
+									249 button 
+										250 text 
+							251 row
+								252 cell
+									253 text 4. Chemicals produced by the water hyacinth plants are affecting the numbers of fish in Lake Victoria.
+								254 cell
+									255 text 阅读
+								256 cell
+									257 text T/F/NG判断题
+								258 cell
+									259 text 2
+								260 cell
+									261 text TFNG 边界混淆
+								262 cell
+									263 text 2026-09-22
+								264 cell
+									265 button 
+										266 text 
+							267 row
+								268 cell
+									269 text 5. Cooking with charcoal has been proved to be even worse for people's health than cooking with wood.
+								270 cell
+									271 text 阅读
+								272 cell
+									273 text T/F/NG判断题
+								274 cell
+									275 text 2
+								276 cell
+									277 text 比较关系处理失败
+								278 cell
+									279 text 2026-09-22
+								280 cell
+									281 button 
+										282 text 
+							283 row
+								284 cell
+									285 text 6. People found it impossible to remove much water hyacinth from Lake Victoria.
+								286 cell
+									287 text 阅读
+								288 cell
+									289 text T/F/NG判断题
+								290 cell
+									291 text 2
+								292 cell
+									293 text 证据覆盖不足
+								294 cell
+									295 text 2026-09-22
+								296 cell
+									297 button 
+										298 text 
+							299 row
+								300 cell
+									301 text 8
+								302 cell
+									303 text 阅读
+								304 cell
+									305 text Flow-chart流程图填空
+								306 cell
+									307 text 2
+								308 cell
+									309 text -
+								310 cell
+									311 text 2026-09-22
+								312 cell
+									313 button 
+										314 text 
+							315 row
+								316 cell
+									317 text 9
+								318 cell
+									319 text 阅读
+								320 cell
+									321 text Flow-chart流程图填空
+								322 cell
+									323 text 2
+								324 cell
+									325 text -
+								326 cell
+									327 text 2026-09-22
+								328 cell
+									329 button 
+										330 text 
+							331 row
+								332 cell
+									333 text 10
+								334 cell
+									335 text 阅读
+								336 cell
+									337 text Flow-chart流程图填空
+								338 cell
+									339 text 2
+								340 cell
+									341 text -
+								342 cell
+									343 text 2026-09-22
+								344 cell
+									345 button 
+										346 text 
+							347 row
+								348 cell
+									349 text 11
+								350 cell
+									351 text 阅读
+								352 cell
+									353 text Note笔记填空
+								354 cell
+									355 text 2
+								356 cell
+									357 text -
+								358 cell
+									359 text 2026-09-22
+								360 cell
+									361 button 
+										362 text 
+							363 row
+								364 cell
+									365 text 12
+								366 cell
+									367 text 阅读
+								368 cell
+									369 text Note笔记填空
+								370 cell
+									371 text 2
+								372 cell
+									373 text -
+								374 cell
+									375 text 2026-09-22
+								376 cell
+									377 button 
+										378 text 
+							379 row
+								380 cell
+									381 text 13
+								382 cell
+									383 text 阅读
+								384 cell
+									385 text Note笔记填空
+								386 cell
+									387 text 2
+								388 cell
+									389 text -
+								390 cell
+									391 text 2026-09-22
+								392 cell
+									393 button 
+										394 text 
+							395 row
+								396 cell
+									397 text 8 Georgia O'Keeffe's style was greatly influenced by the changing fashions in art over the seven decades of her career.
+								398 cell
+									399 text 阅读
+								400 cell
+									401 text T/F/NG判断题
+								402 cell
+									403 text 1
+								404 cell
+									405 text 证据覆盖不足
+								406 cell
+									407 text 2026-03-24
+								408 cell
+									409 button 
+										410 text 
+							411 row
+								412 cell
+									413 text 9 When O'Keeffe finished high school, she had already made her mind up about the career that she wanted.
+								414 cell
+									415 text 阅读
+								416 cell
+									417 text T/F/NG判断题
+								418 cell
+									419 text 1
+								420 cell
+									421 text TFNG 边界混淆
+								422 cell
+									423 text 2026-03-24
+								424 cell
+									425 button 
+										426 text 
+							427 row
+								428 cell
+									429 text 10 Alfred Stieglitz first discovered O'Keeffe's work when she sent some abstract drawings to his gallery in New York City.
+								430 cell
+									431 text 阅读
+								432 cell
+									433 text T/F/NG判断题
+								434 cell
+									435 text 1
+								436 cell
+									437 text TFNG 边界混淆
+								438 cell
+									439 text 2026-03-24
+								440 cell
+									441 button 
+										442 text 
+							443 row
+								444 cell
+									445 text 11 O'Keeffe was the subject of Stieglitz's photographic work for many years.
+								446 cell
+									447 text 阅读
+								448 cell
+									449 text T/F/NG判断题
+								450 cell
+									451 text 1
+								452 cell
+									453 text 定位错误
+								454 cell
+									455 text 2026-03-24
+								456 cell
+									457 button 
+										458 text 
+							459 row
+								460 cell
+									461 text 13 O'Keeffe produced a greater quantity of work during the 1950s to 1970s than at any other time in her life.
+								462 cell
+									463 text 阅读
+								464 cell
+									465 text T/F/NG判断题
+								466 cell
+									467 text 1
+								468 cell
+									469 text TFNG 边界混淆
+								470 cell
+									471 text 2026-03-24
+								472 cell
+									473 button 
+										474 text 
+							475 row
+								476 cell
+									477 container
+										478 text Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.
+								479 cell
+									480 text 听力
+								481 cell
+									482 text Summary摘要填空
+								483 cell
+									484 text 1
+								485 cell
+									486 text -
+								487 cell
+									488 text 2026-05-21
+								489 cell
+									490 button 
+										491 text 
+							492 row
+								493 cell
+									494 container
+										495 text Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.
+								496 cell
+									497 text 听力
+								498 cell
+									499 text Summary摘要填空
+								500 cell
+									501 text 1
+								502 cell
+									503 text -
+								504 cell
+									505 text 2026-05-21
+								506 cell
+									507 button 
+										508 text 
+							509 row
+								510 cell
+									511 container
+										512 text Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.
+								513 cell
+									514 text 听力
+								515 cell
+									516 text Summary摘要填空
+								517 cell
+									518 text 1
+								519 cell
+									520 text -
+								521 cell
+									522 text 2026-05-21
+								523 cell
+									524 button 
+										525 text 
+							526 row
+								527 cell
+									528 container
+										529 text Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.
+								530 cell
+									531 text 听力
+								532 cell
+									533 text Summary摘要填空
+								534 cell
+									535 text 1
+								536 cell
+									537 text -
+								538 cell
+									539 text 2026-05-21
+								540 cell
+									541 button 
+										542 text 
+							543 row
+								544 cell
+									545 container
+										546 text Modular Courses Students study 26.______ during each module. A module takes 27.______ and the work is very 28.______. To get a Diploma each student has to study 29.______ and then work on 30.______ in depth.
+								547 cell
+									548 text 听力
+								549 cell
+									550 text Summary摘要填空
+								551 cell
+									552 text 1
+								553 cell
+									554 text -
+								555 cell
+									556 text 2026-05-21
+								557 cell
+									558 button 
+										559 text 
+							560 row
+								561 cell
+									562 text 29 There is a vocabulary of sounds which is common to all transient killer whales.
+								563 cell
+									564 text 阅读
+								565 cell
+									566 text Y/N/NG判断题
+								567 cell
+									568 text 1
+								569 cell
+									570 text 定位错误
+								571 cell
+									572 text 2026-05-23
+								573 cell
+									574 button 
+										575 text 
+							576 row
+								577 cell
+									578 text 31 The dialects of transient killer whales remain constant over time.
+								579 cell
+									580 text 阅读
+								581 cell
+									582 text Y/N/NG判断题
+								583 cell
+									584 text 1
+								585 cell
+									586 text TFNG 边界混淆
+								587 cell
+									588 text 2026-05-23
+								589 cell
+									590 button 
+										591 text 
+							592 row
+								593 cell
+									594 text 32
+								595 cell
+									596 text 阅读
+								597 cell
+									598 text Table表格填空
+								599 cell
+									600 text 1
+								601 cell
+									602 text -
+								603 cell
+									604 text 2026-05-23
+								605 cell
+									606 button 
+										607 text 
+							608 row
+								609 cell
+									610 text 33
+								611 cell
+									612 text 阅读
+								613 cell
+									614 text Table表格填空
+								615 cell
+									616 text 1
+								617 cell
+									618 text -
+								619 cell
+									620 text 2026-05-23
+								621 cell
+									622 button 
+										623 text 
+							624 row
+								625 cell
+									626 text 34
+								627 cell
+									628 text 阅读
+								629 cell
+									630 text Table表格填空
+								631 cell
+									632 text 1
+								633 cell
+									634 text -
+								635 cell
+									636 text 2026-05-23
+								637 cell
+									638 button 
+										639 text 
+							640 row
+								641 cell
+									642 container
+										643 text Which  THREE  of the following features of whales are mentioned in the passage?
+								644 cell
+									645 text 阅读
+								646 cell
+									647 text Multiple Choice多选题
+								648 cell
+									649 text 1
+								650 cell
+									651 text 原词匹配倾向
+								652 cell
+									653 text 2026-05-23
+								654 cell
+									655 button 
+										656 text 
+							657 row
+								658 cell
+									659 text 38 an example of the kind of information passed by whales to each other
+								660 cell
+									661 text 阅读
+								662 cell
+									663 text Matching段落信息匹配
+								664 cell
+									665 text 1
+								666 cell
+									667 text 定位错误
+								668 cell
+									669 text 2026-05-23
+								670 cell
+									671 button 
+										672 text 
+							673 row
+								674 cell
+									675 text 39 a reference to variations in communication styles between different cultures within one species
+								676 cell
+									677 text 阅读
+								678 cell
+									679 text Matching段落信息匹配
+								680 cell
+									681 text 1
+								682 cell
+									683 text 定位错误
+								684 cell
+									685 text 2026-05-23
+								686 cell
+									687 button 
+										688 text 
+							689 row
+								690 cell
+									691 text 40 ways in which the skills of whales are favourable for the development of culture
+								692 cell
+									693 text 阅读
+								694 cell
+									695 text Matching段落信息匹配
+								696 cell
+									697 text 1
+								698 cell
+									699 text 定位错误
+								700 cell
+									701 text 2026-05-23
+								702 cell
+									703 button 
+										704 text 
+						705 text 共 31 条
+						706 button 50 条/页 
+							707 text 50 条/页
+							708 text 
+						709 button 1
+						710 text 前往
+						711 text field (settable)
+						712 text 页
+
+The focused UI element is 0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122

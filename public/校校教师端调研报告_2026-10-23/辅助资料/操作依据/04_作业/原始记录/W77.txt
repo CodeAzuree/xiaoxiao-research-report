@@ -1,0 +1,447 @@
+- generic: 评语
+- generic: 
+- text: 
+- generic: 
+- generic: 
+- list:
+  - generic: 小格
+  - generic: 已查阅
+  - generic: 王小格
+- generic: sat全科测试
+- generic: 
+- generic: 2026.10.15 15:10 - 2026.10.15 15:11
+- button "生成结果报告"
+- button "生成报告"
+- text: 
+- generic: 作业结果
+- generic: 答题解析
+- generic: 答题录屏
+- generic: 巩固训练
+- text:       
+- tablist:
+  - tab "读写":
+    - generic: 读写
+  - tab "数学":
+    - generic: 数学
+- generic: 显示答案
+- switch [checked]:
+  - checkbox [checked]
+- tablist:
+  - button "Module 1 (Routing) 0 S " [expanded]:
+    - generic: Module 1 (Routing)
+    - paragraph: 0 S
+    - generic: 
+  - region:
+    - paragraph
+    - list:
+      - paragraph: (01)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (02)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (03)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (04)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (05)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (06)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (07)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (08)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (09)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (10)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (11)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (12)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (13)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (14)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (15)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (16)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (17)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (18)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (19)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (20)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (21)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (22)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (23)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (24)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (25)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (26)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (27)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+  - button "Module 2 (Easier) 0 S ":
+    - generic: Module 2 (Easier)
+    - paragraph: 0 S
+    - generic: 
+  - region:
+    - paragraph
+    - list:
+      - paragraph: (01)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (02)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (03)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (04)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (05)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (06)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (07)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (08)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (09)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (10)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (11)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (12)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (13)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (14)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (15)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (16)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (17)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (18)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (19)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (20)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (21)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (22)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (23)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (24)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (25)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (26)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (27)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+  - button "Module 3 (Harder) 6005 S ":
+    - generic: Module 3 (Harder)
+    - paragraph: 6005 S
+    - generic: 
+  - region:
+    - paragraph
+    - list:
+      - paragraph: (01)
+      - paragraph: 6005 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (02)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (03)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (04)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (05)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (06)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (07)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (08)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (09)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (10)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (11)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (12)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (13)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (14)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (15)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (16)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (17)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (18)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (19)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (20)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (21)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (22)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (23)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (24)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (25)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (26)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+      - paragraph: (27)
+      - paragraph: 0 S
+      - paragraph
+      - paragraph: "-"
+- generic: 阅读材料
+- generic: "In 1919, Rafael Palma delivered an address advocating for women’s suffrage, or right to vote, to the Philippine Senate. Because the debate in the nation around this issue was similar to past debates about women’s education, Palma reminded his audience that any concerns were _____: only positive results had arisen from women’s education, and the same results would come from women’s suffrage."
+- paragraph:
+  - generic: 题目
+- generic: 91%
+- generic: "-"
+- generic: "0.43"
+- generic: 0.05%
+- generic: 
+- paragraph: Question 1-27 are based on the following passage
+- paragraph: Question 1
+- paragraph: Which choice completes the text with the most logical and precise word or phrase?
+- list:
+  - generic: A
+  - generic: required
+  - generic: 5% 选择
+  - text: 
+  - generic: B
+  - generic: ancient
+  - generic: 2% 选择
+  - text: 
+  - generic: C
+  - generic: unnecessary
+  - generic: 正确选项
+  - generic: 91% 选择
+  - generic: D
+  - generic: curious
+  - generic: 2% 选择
+  - text: 
+- generic: 知识点
+- generic: 题目来源
+- button "添加知识点"
+- generic: Words in Context-Precise Word Meanings
+- text: 
+- radiogroup:
+  - button " 题目解析":
+    - generic: 
+    - generic: 题目解析
+  - button "名师讲解":
+    - generic: 名师讲解
+  - button "笔记列表":
+    - generic: 笔记列表
+- generic: 学生答案
+- generic: 对此题提出疑问？
+- text: 
+- paragraph
+- generic: 学生答案
+- generic: "--"
+- paragraph
+- generic: 正确答案
+- generic: C
+- generic: 
+- paragraph:
+  - generic: 答题解析
+- paragraph:
+  - paragraph:
+    - text: This is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes the
+    - emphasis: concerns
+    - text: of the audience, so look for and highlight clues in the text about a possible concern. The text mentions that
+    - emphasis: only positive results had arisen from women’s education
+    - text: ", so a good word for the blank to enter into the annotation box would be “needless” or “uncalled for."
+  - list:
+    - text: (A) is wrong because
+    - emphasis: required
+    - text: is the Opposite of “needless.”
+    - text: (B) and (D) are wrong because
+    - emphasis: ancient
+    - text: and
+    - emphasis: curious
+    - text: don’t match “needless.”
+    - text: (C) is correct because
+    - emphasis: unnecessary
+    - text: matches “needless.”

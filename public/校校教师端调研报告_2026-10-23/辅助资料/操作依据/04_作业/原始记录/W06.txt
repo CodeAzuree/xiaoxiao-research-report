@@ -1,0 +1,1755 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业管理
+- generic: 
+- text: 布置作业
+- list:
+  - generic: 全部作业
+  - generic: (17757)
+  - generic: 单词作业
+  - generic: (1995)
+  - generic: 打卡作业
+  - generic: (15)
+  - generic: 作业模考
+  - generic: (15747)
+  - generic: 视频课件
+  - generic: 实时作业
+  - generic: 未下发作业
+  - generic: 我的批改
+  - generic: (519)
+  - generic: 我布置的
+  - generic: (517)
+  - generic: 收藏作业
+- generic: 全部作业
+- generic: 科目：
+- generic: 全部
+- generic: 雅思
+- generic: 托福
+- generic: AP
+- generic: SAT
+- generic: 状态：
+- generic: 全部
+- generic: 未开始
+- generic: 进行中
+- generic: 已完成
+- generic: 已逾期
+- generic: 未批改
+- generic: 部分批改
+- generic: 已批改
+- generic: 未查阅
+- generic: 部分查阅
+- generic: 已查阅
+- button "班级： ( 全部 ) ":
+  - text: 班级：
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- text: 时间
+- generic: 
+- generic: 
+- textbox "开始日期"
+- generic: "-"
+- textbox "结束日期"
+- generic: 筛选
+- generic: 排序
+- button "重置"
+- generic: 
+- textbox "请输入作业名称"
+- radiogroup:
+  - button
+  - button
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 12 Test8 Section4
+- generic: 2025-05-28 17:30/2028-05-21 22:00
+- text:  
+- generic: 刘
+- generic: 李
+- generic: 荆
+- list:
+  - generic: 班级
+  - generic: YS2501ZND007
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "39"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /8
+- generic: 批改数
+- text: "0"
+- generic: /8
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 12 Test8 Section4
+- generic: 2025-05-28 17:30/2028-05-21 22:00
+- text:  
+- generic: 邵
+- list:
+  - generic: 班级
+  - generic: 邵旻思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "39"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-新概念2 Lesson88 Trapped in a Mine
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 陈
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "13"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 部分查阅
+- generic: 篇章跟读-新概念2 Lesson89 A Slip of the Tongue
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 邓
+- generic: 唐
+- generic: 谭
+- list:
+  - generic: 班级
+  - generic: YS2503ZND002
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "10"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "93"
+- generic: 完成数
+- text: "1"
+- generic: /12
+- generic: 批改数
+- text: "0"
+- generic: /12
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-新概念2 Lesson81 Escape
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 陈
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "14"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 部分查阅
+- generic: 篇章跟读-Cambridge IELTS 15 Test4 Section4
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 邓
+- generic: 唐
+- generic: 谭
+- list:
+  - generic: 班级
+  - generic: YS2503ZND002
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "32"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "90"
+- generic: 完成数
+- text: "1"
+- generic: /12
+- generic: 批改数
+- text: "0"
+- generic: /12
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 15 Test2 Section3
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 陈
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "75"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 16 Test1 Section2
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 邓
+- generic: 唐
+- generic: 谭
+- list:
+  - generic: 班级
+  - generic: YS2503ZND002
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "36"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /12
+- generic: 批改数
+- text: "0"
+- generic: /12
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 16 Test1 Section4
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 陈
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "32"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 15 Test3 Section3
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 邓
+- generic: 唐
+- generic: 谭
+- list:
+  - generic: 班级
+  - generic: YS2503ZND002
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "52"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /12
+- generic: 批改数
+- text: "0"
+- generic: /12
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 口语
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 陈
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 口语
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 邵
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 邵旻思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 口语
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 陈
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 2025年5-8月口语题库Part 2
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 邵
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 邵旻思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 2025年5-8月口语题库Part 2&3 老题/环保人士/口语/Part 3
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 陈
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 2025年5-8月口语题库Part 2&3 老题/想去的外国/口语/Part 3
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 邵
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 邵旻思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 2025年5-8月口语题库Part 2&3 老题/诗句或歌词/口语/Part 3
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 陈
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 12 Test8 Section4
+- generic: 2025-05-28 17:30/2028-05-21 22:00
+- text:  
+- generic: 张
+- generic: 杨
+- generic: 王
+- list:
+  - generic: 班级
+  - generic: YS2503ZND009
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "39"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /6
+- generic: 批改数
+- text: "0"
+- generic: /6
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-新概念2 Lesson91 Three Men in a Basket
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 陈
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "11"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 进行中
+- generic: 篇章跟读-新概念2 Lesson88 Trapped in a Mine
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 邓
+- generic: 唐
+- generic: 谭
+- list:
+  - generic: 班级
+  - generic: YS2503ZND002
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "13"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "87"
+- generic: 完成数
+- text: "1"
+- generic: /12
+- generic: 批改数
+- text: "0"
+- generic: /12
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-新概念2 Lesson90 What's for Supper?
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 陈
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "10"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 部分查阅
+- generic: 篇章跟读-新概念2 Lesson81 Escape
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 邓
+- generic: 唐
+- generic: 谭
+- list:
+  - generic: 班级
+  - generic: YS2503ZND002
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "14"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "94"
+- generic: 完成数
+- text: "1"
+- generic: /12
+- generic: 批改数
+- text: "0"
+- generic: /12
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 16 Test1 Section1
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 陈
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "60"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 15 Test2 Section3
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 邓
+- generic: 唐
+- generic: 谭
+- list:
+  - generic: 班级
+  - generic: YS2503ZND002
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "75"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /12
+- generic: 批改数
+- text: "0"
+- generic: /12
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 16 Test1 Section3
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 陈
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "73"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 16 Test1 Section4
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 邓
+- generic: 唐
+- generic: 谭
+- list:
+  - generic: 班级
+  - generic: YS2503ZND002
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "32"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /12
+- generic: 批改数
+- text: "0"
+- generic: /12
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 单词作业
+- generic: 
+- generic: 未开始
+- generic: weather词汇
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 陈
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "2"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 口语
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 邵
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 邵旻思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 口语
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 陈
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 口语
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 邵
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 邵旻思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 2025年5-8月口语题库Part 2
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 陈
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 2025年5-8月口语题库Part 2&3 老题/环保人士/口语/Part 3
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 邵
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 邵旻思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 2025年5-8月口语题库Part 2
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 陈
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 2025年5-8月口语题库Part 2&3 老题/诗句或歌词/口语/Part 3
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 邵
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 邵旻思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 12 Test8 Section4
+- generic: 2025-05-28 17:30/2028-05-21 22:00
+- text:  
+- generic: 邓
+- generic: 唐
+- generic: 谭
+- list:
+  - generic: 班级
+  - generic: YS2503ZND002
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "39"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /12
+- generic: 批改数
+- text: "0"
+- generic: /12
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 部分查阅
+- generic: 篇章跟读-新概念2 Lesson91 Three Men in a Basket
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 邓
+- generic: 唐
+- generic: 谭
+- list:
+  - generic: 班级
+  - generic: YS2503ZND002
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "11"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "91"
+- generic: 完成数
+- text: "1"
+- generic: /12
+- generic: 批改数
+- text: "0"
+- generic: /12
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-新概念2 Lesson89 A Slip of the Tongue
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 陈
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "10"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 部分查阅
+- generic: 篇章跟读-新概念2 Lesson90 What's for Supper?
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 邓
+- generic: 唐
+- generic: 谭
+- list:
+  - generic: 班级
+  - generic: YS2503ZND002
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "10"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "91"
+- generic: 完成数
+- text: "1"
+- generic: /12
+- generic: 批改数
+- text: "0"
+- generic: /12
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 15 Test4 Section4
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 陈
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "32"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 16 Test1 Section1
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 邓
+- generic: 唐
+- generic: 谭
+- list:
+  - generic: 班级
+  - generic: YS2503ZND002
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "60"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /12
+- generic: 批改数
+- text: "0"
+- generic: /12
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 16 Test1 Section2
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 陈
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "36"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 16 Test1 Section3
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 邓
+- generic: 唐
+- generic: 谭
+- list:
+  - generic: 班级
+  - generic: YS2503ZND002
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "73"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /12
+- generic: 批改数
+- text: "0"
+- generic: /12
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 篇章跟读-Cambridge IELTS 15 Test3 Section3
+- generic: 2025-06-26 22:00/2027-06-20 23:30
+- text:  
+- generic: 陈
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "52"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 单词作业
+- generic: 
+- generic: 未开始
+- generic: weather词汇
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 邵
+- list:
+  - generic: 班级
+  - generic: 邵旻思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "3"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 口语
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 陈
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 口语
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 邵
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 邵旻思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 2025年5-8月口语题库Part 2
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 陈
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 2025年5-8月口语题库Part 2
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 邵
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 邵旻思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 2025年5-8月口语题库Part 2&3 老题/想去的外国/口语/Part 3
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 陈
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 锦秋武昌-陈梓豪雅思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- generic: 作业模考
+- generic: 
+- generic: 未开始
+- generic: 2025年5-8月口语题库Part 2
+- generic: 2025-06-24 21:30/2027-06-20 23:30
+- text:  
+- generic: 邵
+- text: AI智能批改
+- list:
+  - generic: 班级
+  - generic: 邵旻思
+  - generic: 布置老师
+  - generic: 高源
+  - generic: 题目数
+  - generic: "1"
+  - generic: 批改老师
+  - generic: 高源
+- generic: 平均成绩
+- generic: "-"
+- generic: 完成数
+- text: "0"
+- generic: /1
+- generic: 批改数
+- text: "0"
+- generic: /1
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "查看"
+- button "":
+  - generic: 
+- button "50 条/页 ":
+  - text: 50 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button "2"
+- button "3"
+- button "4"
+- button "5"
+- button "6"
+- button "•••":
+  - generic: •••
+- button "356"
+- button:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 返回作业管理
+- generic: 日期
+- generic: /
+- generic: 批改老师
+- generic: "-"
+- generic: 打卡频次
+- generic: 平均成绩
+- generic: 完成数
+- text: "0"
+- generic: /-
+- generic: 批改数
+- text: "0"
+- generic: /-
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- tablist:
+  - tab "参与学生" [selected]:
+    - generic: 参与学生
+  - tab "题目":
+    - generic: 题目
+  - tab "统计":
+    - generic: 统计
+  - tab "排行榜":
+    - generic: 排行榜
+- generic: 当天打卡率 0%
+- generic: 0/0已打卡
+- paragraph:
+  - generic: 暂无数据，还没有学生的打卡内容~
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 返回作业管理
+- generic: 日期
+- generic: /
+- generic: 题目数
+- generic: 批改老师
+- generic: "-"
+- generic: 平均成绩
+- generic: 完成数
+- text: "0"
+- generic: /-
+- generic: 批改数
+- text: "0"
+- generic: /-
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "再次布置"
+- button "预览"
+- tablist:
+  - tab "参与学生" [selected]:
+    - generic: 参与学生
+  - tab "统计":
+    - generic: 统计
+  - tab "排行榜":
+    - generic: 排行榜
+- paragraph:
+  - generic: 暂无数据~
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:                              
+- generic: 
+- text:                                                                                                            
+- list:
+  - generic: 不限
+  - generic: 显示
+  - generic: 不显示
+- text:    
+- tooltip "结果页显示答案  布置老师  批改老师  重置":
+  - generic: 结果页显示答案
+  - textbox "请选择" [active]
+  - text: 
+  - generic: 
+  - generic: 布置老师
+  - textbox
+  - text: 
+  - generic: 
+  - generic: 批改老师
+  - textbox
+  - text: 
+  - generic: 
+  - button "重置"

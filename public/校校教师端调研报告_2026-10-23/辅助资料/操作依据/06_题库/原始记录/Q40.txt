@@ -1,0 +1,139 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- generic: 
+- generic: 
+- radiogroup:
+  - button " 我的试卷":
+    - generic: 
+    - generic: 我的试卷
+  - button "共享试卷":
+    - generic: 共享试卷
+- button "新建试卷"
+- button "科目 ( 全部 ) ":
+  - text: 科目
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "所属类别 ( 全部 ) ":
+  - text: 所属类别
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "重置"
+- generic: 
+- textbox "请输入试卷名称"
+- radiogroup:
+  - button
+  - button
+- paragraph:
+  - generic: 老师您还没有创建试卷，快试试Ai创建试卷吧
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text: 
+- dialog "dialog":
+  - text: 
+  - generic: 试卷题目
+  - text: 
+  - button "导出试卷":
+    - generic: 导出试卷
+  - button "保存试卷":
+    - generic: 保存试卷
+  - paragraph: "点击可上传或修改封面（尺寸: 208*110）"
+  - generic: "* 试卷名称"
+  - textbox "请输入试卷名称"
+  - generic: 0/100
+  - generic: "* 所属科目"
+  - textbox "请选择所属科目"
+  - generic: 
+  - generic: "* 所属类别"
+  - combobox:
+    - textbox "请输入所属类别"
+  - generic: "* 是否共享"
+  - radiogroup:
+    - radio "是":
+      - radio
+      - generic: 是
+    - radio "否" [checked]:
+      - radio [checked]
+      - generic: 否
+  - generic: 成绩说明
+  - textbox "请输入成绩说明"
+  - generic: 0/100
+  - button "添加题目 " [active]:
+    - text: 添加题目
+    - generic: 
+  - button "文档录入":
+    - generic: 文档录入
+  - button "AI出题":
+    - text: AI出题
+  - heading "题目列表" [level=2]
+  - paragraph: 注：鼠标拖拽题号可排序哦~
+  - generic: 
+  - generic: 新增分类
+  - generic: 分类时长
+  - generic: 
+  - generic: 
+  - generic: 无分类
+  - generic:   
+  - generic: 
+  - generic: 
+  - text:            
+  - paragraph:
+    - generic: 还没有题目数据，请先录入题目哦~
+  - generic: 
+  - generic: 
+- list:
+  - listitem: 单道题
+  - listitem: 题目组

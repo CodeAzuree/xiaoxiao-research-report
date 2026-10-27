@@ -1,0 +1,9 @@
+
+.evidence-panel{background:#fff;border:1px solid #dde4ed;border-radius:12px;padding:26px;margin:28px 0}
+.evidence-panel>h2{margin:0 0 12px}.evidence-panel>details{background:#fff;border:1px solid #dce4ee;border-radius:10px;padding:18px;margin:20px 0}
+.evidence-panel summary{font-weight:650;line-height:1.8;white-space:normal}.evidence-panel h3{font-size:18px;line-height:1.65}
+.evidence-panel .operation-records{display:block;margin:14px 0;padding-left:28px;list-style:decimal}
+.evidence-panel .operation-records>li{position:static;display:list-item;height:auto;padding:16px 0;border-bottom:1px solid #e1e7ef;line-height:1.85;overflow-wrap:anywhere}
+.evidence-panel .operation-records p{font-size:15px;margin:9px 0}.evidence-panel .source{font-size:13px!important}
+.evidence-panel .source a{display:inline-block;margin:2px 0}.evidence-alias,.evidence-image-anchor{display:block;scroll-margin-top:26px}
+@media(max-width:760px){.evidence-panel{padding:18px}.evidence-panel>details{padding:14px}.evidence-alias,.evidence-image-anchor{scroll-margin-top:85px}}

@@ -1,0 +1,297 @@
+Browser tab: 62, Title: "基础练习", URL: "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=14752680&stuid=243365&teacherid=&linkid=114645&libid=225395&wrcd=1&xiaov=20261122&clientmode=full".
+0 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14752680&stuid=243365&teacherid=&linkid=114645&libid=225395&wrcd=1&xiaov=20261122&clientmode=full
+	1 container
+		2 container
+			3 heading 单词书自测/陈梦昕生词本-7.01, Value: 1
+				4 text 单词书自测/陈梦昕生词本-7.01
+			5 button , ID: xx-capsule-radio__item-0
+				6 text 
+			7 button , ID: xx-capsule-radio__item-1
+				8 text 
+			9 container
+				10 text 释义遮挡
+				11 switch 0
+					12 checkbox (settable, integer) 0
+			13 heading photosynthesis, Value: 2
+				14 text photosynthesis
+			15 button 
+				16 text 
+			17 text UK /ˌfəʊtəʊˈsɪnθəsɪs/
+			18 text US /ˌfoʊtoʊˈsɪnθəsɪs/
+			19 text n.光合作用；绿色植物、藻类和某些细菌利用光能把二氧化碳和水合成有机物并释放氧气的过程
+			20 text The process by which green plants and some other organisms use light energy to convert carbon dioxide and water into sugars, releasing oxygen.
+			21 text And without water, the chemical process of photosynthesis, which converts sunlight into chemical energy, is impossible.
+			22 heading theoretically, Value: 2
+				23 text theoretically
+			24 button 
+				25 text 
+			26 text UK /ˌθɪəˈretɪkli/
+			27 text US /ˌθiːəˈretɪkli/
+			28 text adv.理论上；按理论来说；从理论角度看
+			29 text In a way that relates to theory rather than practice; in principle.
+			30 text Theoretically, knowing the longitude position was quite simple, even for the people in the middle of the sea with no land in sight.
+			31 heading hazard, Value: 2
+				32 text hazard
+			33 button 
+				34 text 
+			35 text UK /ˈhæzəd/
+			36 text US /ˈhæzərd/
+			37 text n.危险；危害；隐患 v.冒险提出；冒险猜测；使冒险
+			38 text A danger or risk that may cause harm, injury, or damage.
+			39 text High concentrations of fecal coliforms in the water of a lake are a hazard to humans swimming in the lake.
+			40 heading contribution, Value: 2
+				41 text contribution
+			42 button 
+				43 text 
+			44 text UK /ˌkɒntrɪˈbjuːʃn/
+			45 text US /ˌkɑːntrɪˈbjuːʃn/
+			46 text n.贡献；捐献；对某事物做出的有价值的部分或投入
+			47 text Something that is given, done, or added to help achieve or provide something; a helpful part or input.
+			48 text He made an enormous contribution to science by showing that the meaning of a scientific term lies in the operations, the things done, that establish its validity, rather than in verbal definitions.
+			49 heading symphonies, Value: 2
+				50 text symphonies
+			51 button 
+				52 text 
+			53 text UK /ˈsɪmfəniz/
+			54 text US /ˈsɪmfəniz/
+			55 text n.交响曲；交响乐作品（symphony 的复数形式）
+			56 text Plural of symphony: large-scale musical works typically written for orchestra.
+			57 text Kaplan calls overtures and symphonies and concertos "songs" sometimes.
+			58 heading sensors, Value: 2
+				59 text sensors
+			60 button 
+				61 text 
+			62 text UK /ˈsensəz/
+			63 text US /ˈsensərz/
+			64 text n.传感器；感应器；探测器
+			65 text Devices that detect and respond to physical conditions or changes in an environment.
+			66 text Miller then attached sensors to the patients' heads to pick up the electric patterns of the brain.
+			67 heading chorus, Value: 2
+				68 text chorus
+			69 button 
+				70 text 
+			71 text UK /ˈkɔːrəs/
+			72 text US /ˈkɔːrəs/
+			73 text n.合唱；副歌；齐声说唱的部分；也指许多人共同表达的意见或声音 v.齐声说；齐声唱；反复跟着唱；像副歌一样重复
+			74 text A group of singers, the repeated part of a song, or a body of people saying or expressing the same opinion.
+			75 text A heavyweight has now joined this gloomy chorus.
+			76 heading institution, Value: 2
+				77 text institution
+			78 button 
+				79 text 
+			80 text UK /ˌɪnstɪˈtjuːʃən/
+			81 text US /ˌɪnstɪˈtuːʃən/
+			82 text n.机构；团体；制度；（教育、科研等）机构
+			83 text An organization, establishment, or system created for a particular purpose, especially a public, educational, or social one.
+			84 text In this way, school turns into an institution dedicated to shaping the minds, behaviour and morals of the young.
+			85 heading revolutionary, Value: 2
+				86 text revolutionary
+			87 button 
+				88 text 
+			89 text UK /ˌrevəˈluːʃənəri/
+			90 text US /ˌrevəˈluːʃəneri/
+			91 text adj.革命的；与革命有关的；革命性的；引起重大变革的 n.革命者；革命活动者；推动政治或社会革命的人
+			92 text relating to a revolution, or involving a sudden and major change; radically new or innovative.
+			93 text This is an innovative and revolutionary painting.
+			94 heading hygiene, Value: 2
+				95 text hygiene
+			96 button 
+				97 text 
+			98 text UK /ˈhaɪdʒiːn/
+			99 text US /ˈhaɪdʒiːn/
+			100 text n.卫生；卫生状况；为保持健康而采取的清洁与保健措施
+			101 text Conditions and practices that help keep people, food, or places clean and healthy.
+			102 text In most societies today, oral hygiene practices are part of our daily routine, meaning that dental plaque is regularly removed and doesn't have a chance to build up on our teeth.
+			103 heading redistribute, Value: 2
+				104 text redistribute
+			105 button 
+				106 text 
+			107 text UK /ˌriːdɪˈstrɪbjuːt/
+			108 text US /ˌriːdɪˈstrɪbjuːt/
+			109 text v.重新分配；重新调配；再分发
+			110 text To distribute again or in a different way; to allocate resources, demand, time, or energy differently.
+			111 text He uses these to pay his retainers and may also redistribute them to his subjects as rewards.
+			112 heading substances, Value: 2
+				113 text substances
+			114 button 
+				115 text 
+			116 text UK /ˈsʌbstənsɪz/
+			117 text US /ˈsʌbstənsɪz/
+			118 text n.物质；物品；具体存在的实体，尤其指化学物或组成材料
+			119 text Matter or material of a particular kind; a physical substance.
+			120 text Three experiments were conducted by scientists to study the expansion of different substances.
+			121 heading pattern, Value: 2
+				122 text pattern
+			123 button 
+				124 text 
+			125 text UK /ˈpætən/
+			126 text US /ˈpætərn/
+			127 text n.模式；图案；样式；规律 v.使形成图案；使按某种样式排列；使呈现规律性 adj.有图案的；有规律的；按固定样式呈现的
+			128 text A repeated or regular arrangement, design, or way in which something happens or is made.
+			129 text Her footwork creates a complex pattern.
+			130 heading specifically, Value: 2
+				131 text specifically
+			132 button 
+				133 text 
+			134 text UK /spəˈsɪfɪkli/
+			135 text US /spəˈsɪfɪkli/
+			136 text adv.尤其；明确地；具体地 adj.专门的；特定的；明确针对某一对象的
+			137 text Used to single out one particular thing, detail, or purpose; in a precise and exact way.
+			138 text Specifically, Iceland is one of the earth’s most volcanically active areas.
+			139 heading flourished, Value: 2
+				140 text flourished
+			141 button 
+				142 text 
+			143 text UK /ˈflʌrɪʃt/
+			144 text US /ˈflʌrɪʃt/
+			145 text v.蓬勃发展；繁荣昌盛；茁壮成长
+			146 text became successful, grew strongly, or developed in a healthy and vigorous way.
+			147 text For tens of millions of years, those great creatures flourished.
+			148 heading compound, Value: 2
+				149 text compound
+			150 button 
+				151 text 
+			152 text UK /ˈkɒmpaʊnd/
+			153 text US /ˈkɑːmpaʊnd/
+			154 text n.化合物；复合物；由两种或多种成分结合而成的物质 v.使累积；使加剧；使恶化 adj.复合的；由两种或多种成分、部分或词素组成的
+			155 text A substance made from two or more different elements or ingredients chemically combined; also a thing made of several parts or an enclosed group of buildings or rooms.
+			156 text Rubber is a polymer — a compound containing large molecules that are formed by the bonding of many smaller, simpler units, repeated over and over again.
+			157 heading reality, Value: 2
+				158 text reality
+			159 button 
+				160 text 
+			161 text UK /riˈæləti/
+			162 text US /riˈæləti/
+			163 text n.现实；实际情况；真实存在的事物
+			164 text The state of things as they actually exist, rather than as imagined or supposed.
+			165 text In reality, the only research that has precisely revealed it to have an effect was carried out on animals.
+			166 heading feature, Value: 2
+				167 text feature
+			168 button 
+				169 text 
+			170 text UK /ˈfiːtʃə/
+			171 text US /ˈfiːtʃɚ/
+			172 text n.特征；特点；功能；特色 v.包含；以……为特点；使成为显著部分
+			173 text A distinctive or important characteristic, quality, or function of something.
+			174 text Grandpa's favorite feature on the remote is the sleep function.
+			175 heading existence, Value: 2
+				176 text existence
+			177 button 
+				178 text 
+			179 text UK /ɪɡˈzɪstəns/
+			180 text US /ɪɡˈzɪstəns/
+			181 text n.存在；生存；存在状态
+			182 text The state or fact of existing; being real or present.
+			183 text What are your thoughts on the existence of free will?
+			184 heading composers, Value: 2
+				185 text composers
+			186 button 
+				187 text 
+			188 text UK /kəmˈpəʊzəz/
+			189 text US /kəmˈpoʊzərz/
+			190 text n.作曲家；创作者；撰写者
+			191 text People who compose music or other works; creators or writers of compositions.
+			192 text Tin Pan Alley is a district famous for its composers and publishers of popular music.
+			193 heading philosophers, Value: 2
+				194 text philosophers
+			195 button 
+				196 text 
+			197 text UK /ˈfɪləsəfəz/
+			198 text US /ˈfɪləsəfərz/
+			199 text n.哲学家；哲学研究者
+			200 text Plural of philosopher: people who study or are expert in philosophy, or who think deeply about fundamental questions.
+			201 text Lately, experts on the human mind—philosophers and psychologists—have been weighing in alongside the scientists.
+			202 heading awareness, Value: 2
+				203 text awareness
+			204 button 
+				205 text 
+			206 text UK /əˈweənəs/
+			207 text US /əˈwɛrnəs/
+			208 text n.意识；认识；觉察；了解
+			209 text knowledge or perception of a situation or fact; the state of being aware.
+			210 text Based on these realizations, Suzuki developed an awareness of how children learn language.
+			211 heading sanitation, Value: 2
+				212 text sanitation
+			213 button 
+				214 text 
+			215 text UK /ˌsænɪˈteɪʃən/
+			216 text US /ˌsænɪˈteɪʃən/
+			217 text n.卫生；公共卫生；环境卫生；卫生设施与服务
+			218 text The systems, facilities, and conditions that keep people and places clean and help prevent disease, especially through waste disposal, safe water, and hygiene services.
+			219 text This rapid urbanisation brought significant challenges, as overcrowded cities suffered from pollution and inadequate sanitation.
+			220 heading artificial, Value: 2
+				221 text artificial
+			222 button 
+				223 text 
+			224 text UK /ˌɑːtɪˈfɪʃəl/
+			225 text US /ˌɑːrtɪˈfɪʃəl/
+			226 text adj.人造的；非天然的；人为的；不自然的
+			227 text Made by humans rather than by nature; not natural or genuine.
+			228 text Her words became formal, carefully chosen and somewhat artificial.
+			229 heading sewage, Value: 2
+				230 text sewage
+			231 button 
+				232 text 
+			233 text UK /ˈsjuːɪdʒ/
+			234 text US /ˈsuːɪdʒ/
+			235 text n.污水；下水道中的废水和排泄物
+			236 text Waste water and excrement carried away through sewers and drains.
+			237 text By the middle of the 20th century, Providence's rivers had become so fouled by sewage and industrial waste that the city decked them over with highways and parking lots.
+			238 heading ethic, Value: 2
+				239 text ethic
+			240 button 
+				241 text 
+			242 text UK /ˈeθɪk/
+			243 text US /ˈeθɪk/
+			244 text n.伦理观；道德准则；行为规范
+			245 text A system of moral principles or a code of conduct, especially one governing a person or group.
+			246 text Our work ethic has been so twisted and mutated that even language reflects that our dearest wish for ourselves is to grow, to be productive, and to consume.
+			247 heading regulating, Value: 2
+				248 text regulating
+			249 button 
+				250 text 
+			251 text UK /ˈreɡjʊleɪtɪŋ/
+			252 text US /ˈreɡjəleɪtɪŋ/
+			253 text v.调节；控制；使处于有序状态
+			254 text Present participle of regulate: controlling, adjusting, or keeping something in proper order or within limits.
+			255 text Given that it is a private commercial ecotourist enterprise, regulating the number of visitors to the resort to minimise damage done to the natural environment on South Stradbroke Island is not a binding constraint.
+			256 heading integral, Value: 2
+				257 text integral
+			258 button 
+				259 text 
+			260 text UK /ˈɪntɪɡrəl/
+			261 text US /ˈɪntɪɡrəl/
+			262 text adj.必需的；不可缺少的；构成整体的重要部分的
+			263 text Necessary as part of a whole; essential and inseparable from the complete thing.
+			264 text To Torres, each brushstroke or "thread" in the work is an integral part of the whole, final creation—a reflection of his overarching philosophy that everything (and everyone) is interconnected.
+			265 heading explore, Value: 2
+				266 text explore
+			267 button 
+				268 text 
+			269 text UK /ɪkˈsplɔː/
+			270 text US /ɪkˈsplɔːr/
+			271 text v.探索；考察；游历；探究
+			272 text To travel through or around a place, or to examine, search, or consider something in order to learn about it or discover what it contains or means.
+			273 text If you'd like to explore local attractions or partake in outdoor adventures, our staff can make arrangements to suit your interests.
+			274 heading diversifying, Value: 2
+				275 text diversifying
+			276 button 
+				277 text 
+			278 text UK /daɪˈvɜːsɪfaɪɪŋ/
+			279 text US /daɪˈvɝːsɪfaɪɪŋ/
+			280 text v.使多样化；使趋于多元；分散以降低单一性
+			281 text Making something more diverse or varied, especially by spreading risk or expanding into different areas.
+			282 text However, by the Early Jurassic (about 30 million years later), after many other Triassic vertebrates had gone extinct, dinosaurs were diversifying rapidly.
+			283 heading underneath, Value: 2
+				284 text underneath
+			285 button 
+				286 text 
+			287 text UK /ˌʌndəˈniːθ/
+			288 text US /ˌʌndərˈniːθ/
+			289 text adv.在下面；在底下；在表面之下或更深一层，也可引申为本质上、在表面之下 prep.在……下面；在……底下；也可表示在……表面之下，或在……影响、控制之下
+			290 text In a lower position beneath something, at the bottom of something, or hidden below the surface; also used figuratively for what is underneath appearances.
+			291 text It blooms like a white cloud, with the garden dimly visible underneath.
+			292 button 开始学习
+			293 button 开始测试
+
+The focused UI element is 0 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14752680&stuid=243365&teacherid=&linkid=114645&libid=225395&wrcd=1&xiaov=20261122&clientmode=full

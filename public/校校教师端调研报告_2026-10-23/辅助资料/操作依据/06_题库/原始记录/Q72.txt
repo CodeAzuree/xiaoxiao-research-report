@@ -1,0 +1,741 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- generic: 
+- generic: 
+- radiogroup:
+  - button "我的试卷":
+    - generic: 我的试卷
+  - button " 共享试卷":
+    - generic: 
+    - generic: 共享试卷
+- button "新建试卷"
+- button "科目 ( 全部 ) ":
+  - text: 科目
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "所属类别 ( 全部 ) ":
+  - text: 所属类别
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- text: 
+- generic: 共享老师
+- generic: 
+- button "重置"
+- generic: 
+- textbox "请输入试卷名称"
+- radiogroup:
+  - button
+  - button
+- text:                                        
+- table:
+  - rowgroup:
+    - row "试卷名称 状态 科目 所属类别 总分 题目数量 时长（分钟） 创建人 更新时间":
+      - columnheader "试卷名称":
+        - generic: 试卷名称
+      - columnheader "状态":
+        - generic: 状态
+      - columnheader "科目":
+        - generic: 科目
+      - columnheader "所属类别":
+        - generic: 所属类别
+      - columnheader "总分":
+        - generic: 总分
+      - columnheader "题目数量":
+        - generic: 题目数量
+      - columnheader "时长（分钟）":
+        - generic: 时长（分钟）
+      - columnheader "创建人":
+        - generic: 创建人
+      - columnheader "更新时间":
+        - generic: 更新时间
+      - columnheader
+- table:
+  - rowgroup:
+    - row "留学预备入学测试卷01-内部测试 已共享 其他 入学测试 63 33 - 潘梦馨 2025-11-18 18:00 查看 布置 ":
+      - cell "留学预备入学测试卷01-内部测试":
+        - generic: 留学预备入学测试卷01-内部测试
+      - cell "已共享":
+        - generic: 已共享
+      - cell "其他":
+        - generic: 其他
+      - cell "入学测试":
+        - generic: 入学测试
+      - cell "63":
+        - generic: "63"
+      - cell "33":
+        - generic: "33"
+      - cell "-":
+        - generic: "-"
+      - cell "潘梦馨":
+        - generic: 潘梦馨
+      - cell "2025-11-18 18:00":
+        - generic: 2025-11-18 18:00
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - button "":
+          - generic: 
+    - row "AP Calculus BC Unit 2 Progress Check MCQ Part A 已共享 AP AP Classroom Progress Check 15 15 - 程建洲 2025-09-17 03:47 查看 布置 ":
+      - cell "AP Calculus BC Unit 2 Progress Check MCQ Part A":
+        - generic: AP Calculus BC Unit 2 Progress Check MCQ Part A
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "AP Classroom Progress Check":
+        - generic: AP Classroom Progress Check
+      - cell "15":
+        - generic: "15"
+      - cell "15":
+        - generic: "15"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-09-17 03:47":
+        - generic: 2025-09-17 03:47
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP statistics Unit 1 Progress Check 已共享 AP AP Classroom Progress Check 18 18 - 程建洲 2025-09-25 10:28 查看 布置 ":
+      - cell "AP statistics Unit 1 Progress Check":
+        - generic: AP statistics Unit 1 Progress Check
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "AP Classroom Progress Check":
+        - generic: AP Classroom Progress Check
+      - cell "18":
+        - generic: "18"
+      - cell "18":
+        - generic: "18"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-09-25 10:28":
+        - generic: 2025-09-25 10:28
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP calculus BC Unit 1 Progress Check 已共享 AP AP Classroom Progress Check 18 18 - 程建洲 2025-08-24 20:03 查看 布置 ":
+      - cell "AP calculus BC Unit 1 Progress Check":
+        - generic: AP calculus BC Unit 1 Progress Check
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "AP Classroom Progress Check":
+        - generic: AP Classroom Progress Check
+      - cell "18":
+        - generic: "18"
+      - cell "18":
+        - generic: "18"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-24 20:03":
+        - generic: 2025-08-24 20:03
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP statistics Unit 1 Practice 已共享 AP 单元测试 12 6 - 程建洲 2025-08-22 12:42 查看 布置 ":
+      - cell "AP statistics Unit 1 Practice":
+        - generic: AP statistics Unit 1 Practice
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "单元测试":
+        - generic: 单元测试
+      - cell "12":
+        - generic: "12"
+      - cell "6":
+        - generic: "6"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-22 12:42":
+        - generic: 2025-08-22 12:42
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP calculus BC practice 5.1 已共享 AP 复习 40 40 - 程建洲 2025-08-13 17:58 查看 布置 ":
+      - cell "AP calculus BC practice 5.1":
+        - generic: AP calculus BC practice 5.1
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "复习":
+        - generic: 复习
+      - cell "40":
+        - generic: "40"
+      - cell "40":
+        - generic: "40"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-13 17:58":
+        - generic: 2025-08-13 17:58
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP calculus AB practice 2.2 已共享 AP 复习 16 16 - 程建洲 2025-08-18 11:03 查看 布置 ":
+      - cell "AP calculus AB practice 2.2":
+        - generic: AP calculus AB practice 2.2
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "复习":
+        - generic: 复习
+      - cell "16":
+        - generic: "16"
+      - cell "16":
+        - generic: "16"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-18 11:03":
+        - generic: 2025-08-18 11:03
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP Statistics practice 1.1 已共享 AP 复习 19 14 - 程建洲 2025-08-06 13:05 查看 布置 ":
+      - cell "AP Statistics practice 1.1":
+        - generic: AP Statistics practice 1.1
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "复习":
+        - generic: 复习
+      - cell "19":
+        - generic: "19"
+      - cell "14":
+        - generic: "14"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-06 13:05":
+        - generic: 2025-08-06 13:05
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP Statistics practice test 1 已共享 AP 单元测试 2 2 - 程建洲 2025-08-06 10:46 查看 布置 ":
+      - cell "AP Statistics practice test 1":
+        - generic: AP Statistics practice test 1
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "单元测试":
+        - generic: 单元测试
+      - cell "2":
+        - generic: "2"
+      - cell "2":
+        - generic: "2"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-06 10:46":
+        - generic: 2025-08-06 10:46
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP calculus practice 2.1 已共享 AP 复习 20 20 - 程建洲 2025-09-06 22:21 查看 布置 ":
+      - cell "AP calculus practice 2.1":
+        - generic: AP calculus practice 2.1
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "复习":
+        - generic: 复习
+      - cell "20":
+        - generic: "20"
+      - cell "20":
+        - generic: "20"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-09-06 22:21":
+        - generic: 2025-09-06 22:21
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP Statistics practice 1.0 已共享 AP 复习 25 6 - 程建洲 2025-08-03 18:40 查看 布置 ":
+      - cell "AP Statistics practice 1.0":
+        - generic: AP Statistics practice 1.0
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "复习":
+        - generic: 复习
+      - cell "25":
+        - generic: "25"
+      - cell "6":
+        - generic: "6"
+      - cell "-":
+        - generic: "-"
+      - cell "程建洲":
+        - generic: 程建洲
+      - cell "2025-08-03 18:40":
+        - generic: 2025-08-03 18:40
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "AP物理C 力学 Unit1 已共享 AP 单元测试 - 0 - 杨婷 2025-07-28 10:53 查看 布置 ":
+      - cell "AP物理C 力学 Unit1":
+        - generic: AP物理C 力学 Unit1
+      - cell "已共享":
+        - generic: 已共享
+      - cell "AP":
+        - generic: AP
+      - cell "单元测试":
+        - generic: 单元测试
+      - cell "-":
+        - generic: "-"
+      - cell "0":
+        - generic: "0"
+      - cell "-":
+        - generic: "-"
+      - cell "杨婷":
+        - generic: 杨婷
+      - cell "2025-07-28 10:53":
+        - generic: 2025-07-28 10:53
+      - cell "查看 布置 ":
+        - button "查看" [disabled]
+        - button "布置" [disabled]
+        - text: 
+        - button "":
+          - generic: 
+    - row "C9 已共享 雅思 写作 18 2 60 卢思云 2025-12-08 20:38 查看 布置 ":
+      - cell "C9":
+        - generic: C9
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "18":
+        - generic: "18"
+      - cell "2":
+        - generic: "2"
+      - cell "60":
+        - generic: "60"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:38":
+        - generic: 2025-12-08 20:38
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C8 已共享 雅思 写作 36 4 - 卢思云 2025-12-08 20:41 查看 布置 ":
+      - cell "C8":
+        - generic: C8
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "36":
+        - generic: "36"
+      - cell "4":
+        - generic: "4"
+      - cell "-":
+        - generic: "-"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:41":
+        - generic: 2025-12-08 20:41
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C7 已共享 雅思 写作 27 3 80 卢思云 2025-12-08 20:41 查看 布置 ":
+      - cell "C7":
+        - generic: C7
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "27":
+        - generic: "27"
+      - cell "3":
+        - generic: "3"
+      - cell "80":
+        - generic: "80"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:41":
+        - generic: 2025-12-08 20:41
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C6 已共享 雅思 写作 9 1 40 卢思云 2025-12-08 20:41 查看 布置 ":
+      - cell "C6":
+        - generic: C6
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "9":
+        - generic: "9"
+      - cell "1":
+        - generic: "1"
+      - cell "40":
+        - generic: "40"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:41":
+        - generic: 2025-12-08 20:41
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C5 已共享 雅思 写作 27 3 80 卢思云 2025-12-08 20:42 查看 布置 ":
+      - cell "C5":
+        - generic: C5
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "27":
+        - generic: "27"
+      - cell "3":
+        - generic: "3"
+      - cell "80":
+        - generic: "80"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:42":
+        - generic: 2025-12-08 20:42
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C4 已共享 雅思 写作 9 1 80 卢思云 2025-12-08 20:42 查看 布置 ":
+      - cell "C4":
+        - generic: C4
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "9":
+        - generic: "9"
+      - cell "1":
+        - generic: "1"
+      - cell "80":
+        - generic: "80"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:42":
+        - generic: 2025-12-08 20:42
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C3 已共享 雅思 写作 9 1 - 卢思云 2025-12-08 20:42 查看 布置 ":
+      - cell "C3":
+        - generic: C3
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "9":
+        - generic: "9"
+      - cell "1":
+        - generic: "1"
+      - cell "-":
+        - generic: "-"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:42":
+        - generic: 2025-12-08 20:42
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+    - row "C2 已共享 雅思 写作 9 1 20 卢思云 2025-12-08 20:42 查看 布置 ":
+      - cell "C2":
+        - generic: C2
+      - cell "已共享":
+        - generic: 已共享
+      - cell "雅思":
+        - generic: 雅思
+      - cell "写作":
+        - generic: 写作
+      - cell "9":
+        - generic: "9"
+      - cell "1":
+        - generic: "1"
+      - cell "20":
+        - generic: "20"
+      - cell "卢思云":
+        - generic: 卢思云
+      - cell "2025-12-08 20:42":
+        - generic: 2025-12-08 20:42
+      - cell "查看 布置 ":
+        - button "查看"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+- generic: 共 136 条
+- button "20 条/页 ":
+  - text: 20 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button "2"
+- button "3"
+- button "4"
+- button "5"
+- button "6"
+- button "7"
+- button:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:        
+- dialog "dialog":
+  - text: 
+  - generic: 试卷题目
+  - button "分数换算 ":
+    - text: 分数换算
+    - generic: 
+  - button "导出试卷":
+    - generic: 导出试卷
+  - button "保存试卷":
+    - generic: 保存试卷
+  - paragraph: "点击可上传或修改封面（尺寸: 208*110）"
+  - generic: "* 试卷名称"
+  - textbox "请输入试卷名称": 【调研测试】机构题库功能记录
+  - generic: 14/100
+  - text: 
+  - generic: "* 所属科目"
+  - textbox "请选择所属科目" [disabled]: 雅思
+  - generic: 
+  - text: 
+  - generic: "* 所属类别"
+  - combobox:
+    - textbox "请输入所属类别": 调研测试
+  - generic: "* 是否共享"
+  - radiogroup:
+    - radio "是":
+      - radio
+      - generic: 是
+    - radio "否" [checked]:
+      - radio [checked]
+      - generic: 否
+  - generic: 成绩说明
+  - textbox "请输入成绩说明": 仅用于功能调研，不共享、不布置。
+  - generic: 16/100
+  - button "添加题目 ":
+    - text: 添加题目
+    - generic: 
+  - button "文档录入":
+    - generic: 文档录入
+  - button "AI出题":
+    - text: AI出题
+  - heading "题目列表" [level=2]
+  - paragraph: 注：鼠标拖拽题号可排序哦~
+  - generic: 
+  - generic: 新增分类
+  - generic: 分类时长
+  - generic: 
+  - generic: 
+  - generic: 无分类
+  - generic: "1"
+  - generic:  
+  - generic: (1) 单选题
+  - generic: "*"
+  - text: 
+  - generic: 
+  - generic: 
+  - generic: 
+  - generic: 退出&保存
+  - textbox "请选择": 单选题
+  - generic: 
+  - text: 
+  - textbox "知识点"
+  - generic: 
+  - textbox "请选择": 简单
+  - generic: 
+  - button "2分 ":
+    - textbox "请输入": 2分
+    - generic: 
+  - generic: 材料
+  - generic: 
+  - heading "选择题目录入" [level=2]
+  - generic: 请从选项中选出正确的答案
+  - generic: 
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - paragraph
+  - generic: 请输入题干内容...
+  - radiogroup:
+    - radio "A.":
+      - radio
+      - generic: A.
+    - generic: 点击编辑内容...
+    - text: 
+    - text: 
+    - generic: 
+    - radio "B.":
+      - radio
+      - generic: B.
+    - generic: 点击编辑内容...
+    - text: 
+    - text: 
+    - generic: 
+    - radio "C.":
+      - radio
+      - generic: C.
+    - generic: 点击编辑内容...
+    - text: 
+    - text: 
+    - generic: 
+    - radio "D.":
+      - radio
+      - generic: D.
+    - generic: 点击编辑内容...
+    - text: 
+    - text: 
+    - generic: 
+  - generic: 
+  - text: 添加选项
+  - generic: 答题解析
+  - generic: 
+  - generic: 
+  - generic: 
+  - text:    
+  - generic: 
+  - generic: 
+- list:
+  - listitem [active]: 单道题
+  - listitem: 题目组

@@ -1,0 +1,39 @@
+- generic: 基础练习
+- generic: 题型训练
+- generic: 模考测试
+- generic: 机构题库
+- generic: 自定义作业
+- textbox
+- textbox "开始日期"
+- textbox "00:00"
+- generic: ~
+- textbox "截止日期："
+- textbox "22:00"
+- generic: 布置给所有学生
+- generic: 关联音视频(未关联)
+- generic: 倒计时(未开启)
+- generic: 科目(未设置)
+- generic: AI智能批改
+- generic: 开启实时作业
+- generic: 如何提高学生完成作业的积极性？老师可以试试开启实时作业！
+- generic: 点击查看操作详情
+- generic: 作业设置
+- generic: 收起详情
+- iframe:
+  - code:
+    - paragraph: 精听（逐句听写）-Cambridge IELTS 12 Test8 Section2
+    - paragraph: 作业详情
+    - paragraph: 题型
+    - paragraph: 建议时长
+    - paragraph: 题目数量
+    - paragraph: 听
+    - paragraph: "-分钟"
+    - paragraph: "1"
+    - paragraph: 逐句精听
+    - paragraph: "-分钟"
+    - paragraph: "1"
+    - paragraph:
+      - button "开始做题":
+        - generic: 开始做题
+    - text: 
+  - text:   

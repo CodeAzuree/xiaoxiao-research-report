@@ -1,0 +1,228 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 我的班级
+- button "科目 ":
+  - generic: 科目
+  - generic: 
+- textbox "请输入班级名称": 王小格-SAT
+- generic: 
+- button "班级类型 ":
+  - text: 班级类型
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- generic: AT
+- paragraph: 王小格-SAT
+- paragraph: SAT班
+- paragraph:
+  - generic: 王小格-SAT
+  - generic: 已开课
+  - text: (
+  - generic: 2026年09月23日
+  - text: )
+  - generic: "课程进度: 0/-"
+  - generic: 学生人数：1人
+- generic: 作业
+- generic: 课表
+- generic: 反馈
+- generic: 作业大纲
+- generic: 概览
+- text: 
+- generic: 2026年09月
+- button "本周":
+  - generic: 本周
+- button "":
+  - generic: 
+- button "":
+  - generic: 
+- textbox: 2026-09-21 - 2026-09-27
+- generic: 
+- generic: 课程
+- generic: 作业
+- generic: 模考
+- generic: 周一
+- generic: "21"
+- generic: 周二
+- generic: "22"
+- generic: 周三
+- generic: "23"
+- generic: 周四
+- generic: "24"
+- generic: 周五
+- generic: "25"
+- generic: 周六
+- generic: "26"
+- generic: 周日
+- generic: "27"
+- generic "sat全科测试":
+  - generic: sat全科测试
+- paragraph:
+  - generic: "完成情况:"
+  - text: 1/1
+  - generic: 
+- generic: 快捷功能
+- generic: 成员(1)
+- paragraph: 布置作业
+- paragraph: 模考作业
+- paragraph: 自定义作业
+- paragraph: 打卡作业
+- paragraph: 其他作业
+- paragraph: 常用作业
+- paragraph: 视频课件
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:            
+- dialog "dialog":
+  - text: 
+  - tablist:
+    - tab "基础练习":
+      - generic: 基础练习
+    - tab "题型训练":
+      - generic: 题型训练
+    - tab "模考测试":
+      - generic: 模考测试
+    - tab "机构题库":
+      - generic: 机构题库
+    - tab "自定义作业" [active] [selected]:
+      - generic: 自定义作业
+    - tab "打卡作业":
+      - generic: 打卡作业
+    - tab "视频课件作业":
+      - generic: 视频课件作业
+  - button "新窗口打开"
+  - button "预览"
+  - button "保存"
+  - button "布置"
+  - generic: 
+  - text:                                             
+  - button "添加答题卡":
+    - generic: 添加答题卡
+  - button "历史存档":
+    - generic: 历史存档
+  - generic: 开启实时作业
+  - switch:
+    - checkbox
+  - generic: 作业名称 *
+  - textbox "请输入作业标题"
+  - paragraph: 注：标题内容限制字数为100个字符~
+  - generic: 布置时间 *
+  - textbox "开始时间": 2026-10-23 10:00
+  - generic: 
+  - generic: 至
+  - textbox "截止时间": 2026-10-24 23:30
+  - generic: 
+  - generic: 布置班级 *
+  - generic: 王小格-SAT
+  - generic: 
+  - textbox
+  - textbox
+  - generic: 
+  - text: 
+  - generic: 布置学生
+  - text: 
+  - textbox
+  - textbox "全部（布置给所有学生）"
+  - generic: 
+  - generic: 批改老师 *
+  - generic: 王思贤
+  - generic: 
+  - textbox
+  - textbox
+  - generic: 
+  - text: 
+  - generic: 科目
+  - textbox "请选择科目"
+  - generic: 
+  - generic: 答题时长
+  - switch "关闭倒计时":
+    - checkbox
+    - generic: 关闭倒计时
+    - generic: 开启倒计时
+  - generic: 作业详情 *
+  - button "正文":
+    - text: 正文
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button:
+  - button "默认字号":
+    - text: 默认字号
+  - button "默认字体":
+    - text: 默认字体
+  - button "默认行高":
+    - text: 默认行高
+  - button:
+  - button:
+  - button:
+  - paragraph
+  - generic: 请输入材料内容...
+  - generic: 附件
+  - generic: 注意：单个附件不超过50M，视频不超过300M，最多可添加9个
+  - generic: 本地上传
+  - generic: 云盘
+  - text: 
+  - generic: 
+  - generic: 
+  - generic: 
+  - generic: 
+  - generic: 
+  - generic: 
+  - generic: 
+  - generic: 
+  - text:                                 
+  - generic: 
+  - text: 

@@ -1,0 +1,1074 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 我的班级
+- button "科目 ":
+  - generic: 科目
+  - generic: 
+- textbox "请输入班级名称": 王小格-SAT
+- generic: 
+- button "班级类型 ":
+  - text: 班级类型
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- generic: AT
+- paragraph: 王小格-SAT
+- paragraph: SAT班
+- paragraph:
+  - generic: 王小格-SAT
+  - generic: 已开课
+  - text: (
+  - generic: 2026年09月23日
+  - text: )
+  - generic: "课程进度: 0/-"
+  - generic: 学生人数：1人
+- generic: 作业
+- generic: 课表
+- generic: 反馈
+- generic: 作业大纲
+- generic: 概览
+- text: 
+- generic: 2026年09月
+- button "本周":
+  - generic: 本周
+- button "":
+  - generic: 
+- button "":
+  - generic: 
+- textbox: 2026-09-21 - 2026-09-27
+- generic: 
+- generic: 课程
+- generic: 作业
+- generic: 模考
+- generic: 周一
+- generic: "21"
+- generic: 周二
+- generic: "22"
+- generic: 周三
+- generic: "23"
+- generic: 周四
+- generic: "24"
+- generic: 周五
+- generic: "25"
+- generic: 周六
+- generic: "26"
+- generic: 周日
+- generic: "27"
+- generic "sat全科测试":
+  - generic: sat全科测试
+- paragraph:
+  - generic: "完成情况:"
+  - text: 1/1
+  - generic: 
+- generic: 快捷功能
+- generic: 成员(1)
+- paragraph: 布置作业
+- paragraph: 模考作业
+- paragraph: 自定义作业
+- paragraph: 打卡作业
+- paragraph: 其他作业
+- paragraph: 常用作业
+- paragraph: 视频课件
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:     
+- dialog "dialog":
+  - text: 
+  - generic: 
+  - generic: 查看详情
+  - text: 
+  - generic: 作业模考
+  - generic: 已查阅
+  - generic: sat全科测试
+  - generic: 王小格-SAT
+  - generic: 日期
+  - generic: /2026-09-24 23:30
+  - generic: 题目数
+  - generic: "147"
+  - generic: 批改老师
+  - generic: 王思贤
+  - generic: 平均成绩
+  - generic: "420"
+  - generic: 完成数
+  - text: "1"
+  - generic: /1
+  - generic: 批改数
+  - text: "0"
+  - generic: /1
+  - text: 
+  - button "AI作业分析":
+    - generic: AI作业分析
+  - button "再次布置"
+  - button "预览"
+  - tablist:
+    - tab "参与学生" [selected]:
+      - generic: 参与学生
+    - tab "统计":
+      - generic: 统计
+    - tab "排行榜":
+      - generic: 排行榜
+  - table:
+    - rowgroup:
+      - row:
+        - columnheader "学生姓名":
+          - generic: 学生姓名
+        - columnheader "状态 ":
+          - text: 状态
+          - generic: 
+        - columnheader "订正笔记":
+          - generic: 订正笔记
+        - columnheader "订正练习":
+          - generic: 订正练习
+        - columnheader "分数":
+          - generic: 分数
+        - columnheader "提交时间":
+          - generic: 提交时间
+        - columnheader "Q1 0%":
+          - paragraph: Q1
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q2 0%":
+          - paragraph: Q2
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q3 0%":
+          - paragraph: Q3
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q4 0%":
+          - paragraph: Q4
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q5 0%":
+          - paragraph: Q5
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q6 0%":
+          - paragraph: Q6
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q7 0%":
+          - paragraph: Q7
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q8 0%":
+          - paragraph: Q8
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q9 0%":
+          - paragraph: Q9
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q10 0%":
+          - paragraph: Q10
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q11 0%":
+          - paragraph: Q11
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q12 0%":
+          - paragraph: Q12
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q13 0%":
+          - paragraph: Q13
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q14 0%":
+          - paragraph: Q14
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q15 0%":
+          - paragraph: Q15
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q16 0%":
+          - paragraph: Q16
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q17 0%":
+          - paragraph: Q17
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q18 0%":
+          - paragraph: Q18
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q19 0%":
+          - paragraph: Q19
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q20 0%":
+          - paragraph: Q20
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q21 0%":
+          - paragraph: Q21
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q22 0%":
+          - paragraph: Q22
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q23 0%":
+          - paragraph: Q23
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q24 0%":
+          - paragraph: Q24
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q25 0%":
+          - paragraph: Q25
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q26 0%":
+          - paragraph: Q26
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q27 0%":
+          - paragraph: Q27
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q28 0%":
+          - paragraph: Q28
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q29 0%":
+          - paragraph: Q29
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q30 0%":
+          - paragraph: Q30
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q31 0%":
+          - paragraph: Q31
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q32 0%":
+          - paragraph: Q32
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q33 0%":
+          - paragraph: Q33
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q34 0%":
+          - paragraph: Q34
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q35 0%":
+          - paragraph: Q35
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q36 0%":
+          - paragraph: Q36
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q37 0%":
+          - paragraph: Q37
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q38 0%":
+          - paragraph: Q38
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q39 0%":
+          - paragraph: Q39
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q40 0%":
+          - paragraph: Q40
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q41 0%":
+          - paragraph: Q41
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q42 0%":
+          - paragraph: Q42
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q43 0%":
+          - paragraph: Q43
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q44 0%":
+          - paragraph: Q44
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q45 0%":
+          - paragraph: Q45
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q46 0%":
+          - paragraph: Q46
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q47 0%":
+          - paragraph: Q47
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q48 0%":
+          - paragraph: Q48
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q49 0%":
+          - paragraph: Q49
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q50 0%":
+          - paragraph: Q50
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q51 0%":
+          - paragraph: Q51
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q52 0%":
+          - paragraph: Q52
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q53 0%":
+          - paragraph: Q53
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q54 0%":
+          - paragraph: Q54
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q55 0%":
+          - paragraph: Q55
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q56 0%":
+          - paragraph: Q56
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q57 0%":
+          - paragraph: Q57
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q58 0%":
+          - paragraph: Q58
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q59 0%":
+          - paragraph: Q59
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q60 0%":
+          - paragraph: Q60
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q61 0%":
+          - paragraph: Q61
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q62 0%":
+          - paragraph: Q62
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q63 0%":
+          - paragraph: Q63
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q64 0%":
+          - paragraph: Q64
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q65 0%":
+          - paragraph: Q65
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q66 0%":
+          - paragraph: Q66
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q67 0%":
+          - paragraph: Q67
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q68 0%":
+          - paragraph: Q68
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q69 0%":
+          - paragraph: Q69
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q70 0%":
+          - paragraph: Q70
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q71 0%":
+          - paragraph: Q71
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q72 0%":
+          - paragraph: Q72
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q73 0%":
+          - paragraph: Q73
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q74 0%":
+          - paragraph: Q74
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q75 0%":
+          - paragraph: Q75
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q76 0%":
+          - paragraph: Q76
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q77 0%":
+          - paragraph: Q77
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q78 0%":
+          - paragraph: Q78
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q79 0%":
+          - paragraph: Q79
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q80 0%":
+          - paragraph: Q80
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q81 0%":
+          - paragraph: Q81
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q82 100%":
+          - paragraph: Q82
+          - paragraph:
+            - generic: 100%
+        - columnheader "Q83 0%":
+          - paragraph: Q83
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q84 0%":
+          - paragraph: Q84
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q85 0%":
+          - paragraph: Q85
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q86 0%":
+          - paragraph: Q86
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q87 0%":
+          - paragraph: Q87
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q88 0%":
+          - paragraph: Q88
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q89 0%":
+          - paragraph: Q89
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q90 0%":
+          - paragraph: Q90
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q91 0%":
+          - paragraph: Q91
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q92 0%":
+          - paragraph: Q92
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q93 0%":
+          - paragraph: Q93
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q94 0%":
+          - paragraph: Q94
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q95 0%":
+          - paragraph: Q95
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q96 0%":
+          - paragraph: Q96
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q97 0%":
+          - paragraph: Q97
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q98 0%":
+          - paragraph: Q98
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q99 0%":
+          - paragraph: Q99
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q100 0%":
+          - paragraph: Q100
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q101 0%":
+          - paragraph: Q101
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q102 0%":
+          - paragraph: Q102
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q103 0%":
+          - paragraph: Q103
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q104 0%":
+          - paragraph: Q104
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q105 0%":
+          - paragraph: Q105
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q106 0%":
+          - paragraph: Q106
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q107 0%":
+          - paragraph: Q107
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q108 0%":
+          - paragraph: Q108
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q109 0%":
+          - paragraph: Q109
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q110 0%":
+          - paragraph: Q110
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q111 0%":
+          - paragraph: Q111
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q112 0%":
+          - paragraph: Q112
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q113 0%":
+          - paragraph: Q113
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q114 0%":
+          - paragraph: Q114
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q115 0%":
+          - paragraph: Q115
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q116 0%":
+          - paragraph: Q116
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q117 0%":
+          - paragraph: Q117
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q118 0%":
+          - paragraph: Q118
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q119 0%":
+          - paragraph: Q119
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q120 0%":
+          - paragraph: Q120
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q121 0%":
+          - paragraph: Q121
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q122 0%":
+          - paragraph: Q122
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q123 0%":
+          - paragraph: Q123
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q124 0%":
+          - paragraph: Q124
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q125 0%":
+          - paragraph: Q125
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q126 100%":
+          - paragraph: Q126
+          - paragraph:
+            - generic: 100%
+        - columnheader "Q127 0%":
+          - paragraph: Q127
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q128 0%":
+          - paragraph: Q128
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q129 0%":
+          - paragraph: Q129
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q130 0%":
+          - paragraph: Q130
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q131 0%":
+          - paragraph: Q131
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q132 0%":
+          - paragraph: Q132
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q133 0%":
+          - paragraph: Q133
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q134 0%":
+          - paragraph: Q134
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q135 0%":
+          - paragraph: Q135
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q136 0%":
+          - paragraph: Q136
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q137 0%":
+          - paragraph: Q137
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q138 0%":
+          - paragraph: Q138
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q139 0%":
+          - paragraph: Q139
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q140 0%":
+          - paragraph: Q140
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q141 0%":
+          - paragraph: Q141
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q142 0%":
+          - paragraph: Q142
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q143 0%":
+          - paragraph: Q143
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q144 0%":
+          - paragraph: Q144
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q145 0%":
+          - paragraph: Q145
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q146 0%":
+          - paragraph: Q146
+          - paragraph:
+            - generic: 0%
+        - columnheader "Q147 0%":
+          - paragraph: Q147
+          - paragraph:
+            - generic: 0%
+        - columnheader "操作":
+          - generic: 操作
+  - table:
+    - rowgroup:
+      - row "王小格 已查阅 未开始 未开始 420 2026-10-15 15:11 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- B -- D B  -- D B -- -- -- -- -- -- -- -- -- -- -- -- -- D B D -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- D C -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 查看详情":
+        - cell "王小格":
+          - generic: 王小格
+        - cell "已查阅":
+          - generic: 已查阅
+        - cell "未开始":
+          - generic: 未开始
+        - cell "未开始":
+          - generic: 未开始
+        - cell "420":
+          - generic: "420"
+        - cell "2026-10-15 15:11":
+          - generic: 2026-10-15 15:11
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "B":
+          - generic: B
+        - cell "--":
+          - generic: "--"
+        - cell "D":
+          - generic: D
+        - cell "B":
+          - generic: B
+        - cell "":
+          - generic: 
+        - cell "--":
+          - generic: "--"
+        - cell "D":
+          - generic: D
+        - cell "B":
+          - generic: B
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "D":
+          - generic: D
+        - cell "B":
+          - generic: B
+        - cell "D":
+          - generic: D
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "D":
+          - generic: D
+        - cell "C":
+          - generic: C
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "--":
+          - generic: "--"
+        - cell "查看详情":
+          - button "查看详情"
+  - generic: 

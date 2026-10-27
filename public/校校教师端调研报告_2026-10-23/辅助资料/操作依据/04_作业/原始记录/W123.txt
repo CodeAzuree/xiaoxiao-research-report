@@ -1,0 +1,33 @@
+- generic: 
+- generic: 
+- generic: 作业评语
+- generic: 
+- text: 
+- list:
+  - generic: 小格
+  - generic: 已批改
+  - generic: 王小格
+- generic: 测试自定义
+- generic: 
+- button "生成报告"
+- generic: 作业结果
+- generic: 答题解析
+- generic: 答题录屏
+- text:  
+- generic: 题目
+- paragraph:
+  - paragraph: 富文本内容
+  - paragraph
+- paragraph: 新建 DOCX 文档.docx
+- paragraph
+- generic: 学生答案
+- text: 得分
+- spinbutton: "0.222222"
+- generic: 00:00/03:50
+- slider "slider between 0 and 100"
+- img "后退10秒"
+- img "前进10秒"
+- img "播放速度"
+- paragraph: fdgdgggdfg
+- generic: 
+- text: 

@@ -1,0 +1,3 @@
+Browser tab: 46, Title: "自定义作业", URL: "https://learninghub.xhd.cn/org/customHwk/index.html?stuid=243365&teacherid=&id=14548430&xiaov=20261122&clientmode=full".
+There has been no change in the accessibility tree.
+The focused UI element is 0 AXWebArea 自定义作业, URL: learninghub.xhd.cn/org/customHwk/index.html?stuid=243365&teacherid=&id=14548430&xiaov=20261122&clientmode=full

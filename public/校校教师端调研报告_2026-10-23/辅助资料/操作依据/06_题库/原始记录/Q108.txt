@@ -1,0 +1,286 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- generic: 
+- generic: 
+- radiogroup:
+  - button " 我的试卷":
+    - generic: 
+    - generic: 我的试卷
+  - button "共享试卷":
+    - generic: 共享试卷
+- button "新建试卷"
+- button "科目 ( 全部 ) ":
+  - text: 科目
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "所属类别 ( 全部 ) ":
+  - text: 所属类别
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "重置"
+- generic: 
+- textbox "请输入试卷名称"
+- radiogroup:
+  - button
+  - button
+- text:  
+- table:
+  - rowgroup:
+    - row "试卷名称 状态 科目 所属类别 总分 题目数量 时长（分钟） 创建人 更新时间":
+      - columnheader
+      - columnheader "试卷名称":
+        - generic: 试卷名称
+      - columnheader "状态":
+        - generic: 状态
+      - columnheader "科目":
+        - generic: 科目
+      - columnheader "所属类别":
+        - generic: 所属类别
+      - columnheader "总分":
+        - generic: 总分
+      - columnheader "题目数量":
+        - generic: 题目数量
+      - columnheader "时长（分钟）":
+        - generic: 时长（分钟）
+      - columnheader "创建人":
+        - generic: 创建人
+      - columnheader "更新时间":
+        - generic: 更新时间
+      - columnheader
+- table:
+  - rowgroup:
+    - row "【调研测试】机构题库功能记录 - 雅思 调研测试 6 3 - 王思贤 2026-10-23 13:25 录入 布置 ":
+      - cell
+      - cell "【调研测试】机构题库功能记录":
+        - generic: 【调研测试】机构题库功能记录
+      - cell "-":
+        - generic: "-"
+      - cell "雅思":
+        - generic: 雅思
+      - cell "调研测试":
+        - generic: 调研测试
+      - cell "6":
+        - generic: "6"
+      - cell "3":
+        - generic: "3"
+      - cell "-":
+        - generic: "-"
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "2026-10-23 13:25":
+        - generic: 2026-10-23 13:25
+      - cell "录入 布置 ":
+        - button "录入" [active]
+        - button "布置"
+        - button "":
+          - generic: 
+- generic: 共 1 条
+- button "20 条/页 ":
+  - text: 20 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button [disabled]:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:                                                            
+- dialog "dialog":
+  - text: 
+  - generic: 试卷题目
+  - button "分数换算 ":
+    - text: 分数换算
+    - generic: 
+  - button "导出试卷":
+    - generic: 导出试卷
+  - button "保存试卷":
+    - generic: 保存试卷
+  - generic: "* 试卷名称"
+  - textbox "请输入试卷名称": 【调研测试】机构题库功能记录
+  - generic: 14/100
+  - generic: "* 所属科目"
+  - textbox "请选择所属科目" [disabled]: 雅思
+  - generic: 
+  - generic: "* 所属类别"
+  - combobox:
+    - textbox "请输入所属类别": 调研测试
+  - generic: "* 是否共享"
+  - radiogroup:
+    - radio "是":
+      - radio
+      - generic: 是
+    - radio "否" [checked]:
+      - radio [checked]
+      - generic: 否
+  - generic: 成绩说明
+  - textbox "请输入成绩说明": 仅用于功能调研，不共享、不布置。
+  - generic: 16/100
+  - button "添加题目 ":
+    - text: 添加题目
+    - generic: 
+  - button "文档录入":
+    - generic: 文档录入
+  - button "AI出题":
+    - text: AI出题
+  - heading "题目列表" [level=2]
+  - paragraph: 注：鼠标拖拽题号可排序哦~
+  - generic: 
+  - generic: 新增分类
+  - generic: 分类时长
+  - generic: 
+  - generic: 
+  - generic: 无分类
+  - generic: "3"
+  - generic:  
+  - generic: (1) 简答题
+  - generic: 
+  - generic: (2) 简答题
+  - generic: 
+  - generic: (3) 单选题
+  - generic: 
+  - text:                
+  - generic: 共3道题 （6分）
+  - heading "材料" [level=2]:
+    - generic: 材料
+  - paragraph: 【调研测试材料】This is a test question for product research.
+  - generic: 1. 简答题
+  - generic: 简单
+  - button "2分 ":
+    - textbox "请输入": 2分
+    - generic: 
+  - generic: 
+  - text: 编辑
+  - generic: 
+  - text: 删除
+  - paragraph: 请在下方输入框内作答
+  - paragraph:
+    - paragraph: 【调研测试】请写出 hello 的中文含义。
+  - paragraph: 答案
+  - generic: 你好。
+  - paragraph: 批改规则
+  - button "添加题目  单道题 题目组":
+    - text: 添加题目
+    - generic: 
+    - list:
+      - listitem: 单道题
+      - listitem: 题目组
+  - button "文档录入":
+    - generic: 文档录入
+  - button "AI出题":
+    - text: AI出题
+  - heading "材料" [level=2]:
+    - generic: 材料
+  - paragraph: "【调研测试】Read the text: Hello means 你好."
+  - generic: 2. 简答题
+  - generic: 简单
+  - button "2分 ":
+    - textbox "请输入": 2分
+    - generic: 
+  - text:  
+  - paragraph: 请在下方输入框内作答
+  - paragraph:
+    - paragraph: 【调研测试子题】根据材料，hello 是什么意思？
+  - paragraph: 答案
+  - generic: 你好。
+  - paragraph: 批改规则
+  - button "添加题目  单道题 题目组":
+    - text: 添加题目
+    - generic: 
+    - list:
+      - listitem: 单道题
+      - listitem: 题目组
+  - button "文档录入":
+    - generic: 文档录入
+  - button "AI出题":
+    - text: AI出题
+  - generic: 3. 单选题
+  - generic: 简单
+  - button "2分 ":
+    - textbox "请输入": 2分
+    - generic: 
+  - text:  
+  - paragraph: 从四个选项中选择与题干中划线单词意义最接近的中文释义。
+  - paragraph:
+    - paragraph: The word 'hello' is a common _ used to greet someone.
+  - radiogroup:
+    - radio "A. 名词":
+      - radio
+      - generic: A.
+      - generic: 名词
+    - radio "B. 动词":
+      - radio
+      - generic: B.
+      - generic: 动词
+    - radio "C. 形容词":
+      - radio
+      - generic: C.
+      - generic: 形容词
+    - radio "D. 感叹词" [checked]:
+      - radio [checked]
+      - generic: D.
+      - generic: 感叹词
+  - generic: "解析:"
+  - paragraph: ‘hello’在英语中主要用作感叹词（interjection），表示打招呼、引起注意或接听电话等，属于独立使用的语气词，不充当句子成分；虽在极少数语境中可作名词（如：Say hello to her. 中的 hello 是名词性宾语），但其最基础、最核心的词性是感叹词。本题考查的是‘hello’在基础词汇层面的典型词性及中文对应概念，四个选项均为中文词类名称，D项‘感叹词’为标准、权威词典（如Oxford Learner's Dictionary, Cambridge Dictionary）所列首要词性，符合LEVEL-3（基础词汇辨析）考查要求。
+  - button "添加题目  单道题 题目组":
+    - text: 添加题目
+    - generic: 
+    - list:
+      - listitem: 单道题
+      - listitem: 题目组
+  - button "文档录入":
+    - generic: 文档录入
+  - button "AI出题":
+    - text: AI出题

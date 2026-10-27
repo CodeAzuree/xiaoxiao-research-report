@@ -1,0 +1,131 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- text:                     
+- generic: 单词书
+- generic: 
+- generic: 查看词表
+- generic: 能力英语
+- paragraph: 1 单元
+- paragraph: 36 词
+- generic: 徐乐生词本
+- paragraph:
+  - text: 杨馨怡 ｜ 2026-10-17 ｜ 1 个单元
+  - generic: 36 个单词
+- generic: 学习人数
+- generic: 0 人
+- generic: 测试正确率
+- generic: 0%
+- generic: 完成率
+- generic: 0%
+- tablist:
+  - tab "参与学生" [selected]
+  - tab "单词详情"
+- tabpanel "参与学生"
+- table:
+  - rowgroup:
+    - row "班级  测试形式 测试数量 限时设置 过关形式 开始时间 ( 全部 )  最近作答时间 完成度 ( 全部 )  正确率 ( 全部 )  操作":
+      - columnheader
+      - columnheader "班级 ":
+        - generic: 班级
+        - generic: 
+      - columnheader "测试形式":
+        - generic: 测试形式
+      - columnheader "测试数量":
+        - generic: 测试数量
+      - columnheader "限时设置":
+        - generic: 限时设置
+      - columnheader "过关形式":
+        - generic: 过关形式
+      - columnheader "开始时间 ( 全部 ) ":
+        - button "开始时间 ( 全部 ) ":
+          - text: 开始时间
+          - text: (
+          - generic: 全部
+          - text: )
+          - generic: 
+      - columnheader "最近作答时间":
+        - text: 最近作答时间
+      - columnheader "完成度 ( 全部 ) ":
+        - button "完成度 ( 全部 ) ":
+          - text: 完成度
+          - text: (
+          - generic: 全部
+          - text: )
+          - generic: 
+      - columnheader "正确率 ( 全部 ) ":
+        - button "正确率 ( 全部 ) ":
+          - text: 正确率
+          - text: (
+          - generic: 全部
+          - text: )
+          - generic: 
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup
+- paragraph:
+  - generic: 暂无数据
+- table:
+  - rowgroup:
+    - row "学生姓名":
+      - columnheader "学生姓名":
+        - generic: 学生姓名
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+- table:
+  - rowgroup
+- generic: 
+- generic: 
+- text: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:                       

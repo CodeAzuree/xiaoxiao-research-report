@@ -1,0 +1,23 @@
+Browser tab: 71, Title: "实时作业", URL: "https://learninghub.xhd.cn/org/realtimehmk/realtimehmk.html?xiaov=20261122&hwkid=14753411".
+0 AXWebArea 实时作业, URL: learninghub.xhd.cn/org/realtimehmk/realtimehmk.html?xiaov=20261122&hwkid=14753411
+	1 container
+		2 container realtimehmk
+			3 text 小格
+			4 text 请耐心等待老师开启作答😎～
+			5 text 00
+			6 text :
+			7 text 00
+			8 text :
+			9 text 01
+			10 text 参与学员
+			11 text 1
+			12 text 王小格
+			13 text 小格
+			14 container 提示
+				15 text 提示
+				16 button Close
+					20 text 
+				18 text 听到提示音表示将前往答题
+				19 button 确定
+
+The focused UI element is 19 button 确定

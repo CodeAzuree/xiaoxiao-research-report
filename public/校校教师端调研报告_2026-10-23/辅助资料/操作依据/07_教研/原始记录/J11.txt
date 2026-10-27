@@ -1,0 +1,130 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "245"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业大纲
+- generic: 知识点
+- generic: 
+- generic: "?"
+- generic: 
+- button " 创建大纲":
+  - generic: 
+  - text: 创建大纲
+- tree:
+  - treeitem "其他 1 添加分类" [expanded]:
+    - text: 
+    - generic: 其他 
+    - generic: "1"
+    - generic: 添加分类
+    - treeitem " 无分类 1":
+      - text: 
+      - generic: 
+      - text: 无分类
+      - generic: "1"
+      - generic:  
+  - treeitem "托福 1 添加分类" [expanded]:
+    - text: 
+    - generic: 托福 
+    - generic: "1"
+    - generic: 添加分类
+    - treeitem " 无分类 1":
+      - text: 
+      - generic: 
+      - text: 无分类
+      - generic: "1"
+      - generic:  
+  - treeitem "雅思 4 添加分类" [expanded]:
+    - text: 
+    - generic: 雅思 
+    - generic: "4"
+    - generic: 添加分类
+    - treeitem " 无分类 3":
+      - text: 
+      - generic: 
+      - text: 无分类
+      - generic: "3"
+      - generic:  
+    - treeitem " 口语班课作业 1":
+      - text: 
+      - generic: 
+      - text: 口语班课作业
+      - generic: "1"
+      - generic:   
+  - treeitem "A-Level 1 添加分类" [expanded]:
+    - text: 
+    - generic: A-Level 
+    - generic: "1"
+    - generic: 添加分类
+    - treeitem " 锦秋国际词汇任务 1":
+      - text: 
+      - generic: 
+      - text: 锦秋国际词汇任务
+      - generic: "1"
+      - generic:   
+- generic: 其他 - 无分类 - 思培听力教学大纲
+- generic: 
+- table:
+  - rowgroup:
+    - row "目录名称  上传人 操作 作业":
+      - columnheader "目录名称 ":
+        - text: 目录名称
+        - generic: 
+      - columnheader "上传人":
+        - generic: 上传人
+      - columnheader "操作":
+        - generic: 操作
+      - columnheader "作业":
+        - generic: 作业
+  - rowgroup:
+    - row "暂无目录，请先创建目录":
+      - cell "暂无目录，请先创建目录":
+        - paragraph:
+          - generic: 暂无目录，请先创建目录
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text: 

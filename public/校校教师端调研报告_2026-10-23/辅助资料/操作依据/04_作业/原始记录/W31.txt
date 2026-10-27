@@ -1,0 +1,44 @@
+- generic: 
+- generic: 
+- list:
+  - generic: 小格
+  - generic: 已批改
+  - generic: 王小格
+- generic: 测试自定义
+- generic: 
+- button "生成报告"
+- generic: 作业结果
+- generic: 答题解析
+- generic: 答题录屏
+- generic: 总成绩
+- generic: "0.222222"
+- generic: /
+- text: "100"
+- generic: 0%
+- generic: 
+- generic: 60%
+- radiogroup:
+  - button "能力诊断":
+    - generic: 能力诊断
+  - button " 评语":
+    - generic: 
+    - generic: 评语
+- generic: 作业评语
+- button " 新增" [active]:
+  - generic: 
+  - text: 新增
+- paragraph:
+  - generic: 老师还没有添加评语~
+- text: 
+- generic: 
+- generic: 
+- dialog "添加评语":
+  - generic: 添加评语
+  - button "Close":
+    - generic: 
+  - text: 
+  - textbox "请输入评语内容"
+  - generic: 0/3000
+  - generic: "* 音频和录音只能上传一个"
+  - button "取消"
+  - button "确定" [disabled]

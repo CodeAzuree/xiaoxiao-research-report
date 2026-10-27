@@ -1,0 +1,558 @@
+[
+  {
+    "id": "S01_学员页入口与导航",
+    "note": "学员一级页签显示114人，左侧名册与搜索、班级、筛选；选中王小格，右侧7个详情页签，当前记忆在考试记录。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=6",
+    "time": "2026-10-22T09:53:18.793Z"
+  },
+  {
+    "id": "S02_学员基本信息",
+    "note": "信息页显示头像、公众号学生与家长关注状态，以及姓名性别生日城市手机号微信顾问年级学校专业账号截止时间等。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=0",
+    "time": "2026-10-22T09:53:33.428Z"
+  },
+  {
+    "id": "S03_学员班级与入学模考",
+    "note": "信息页班级区有3班，含状态课程和开课日期；入学模考表有测试日期题目状态时长分数操作，当前无数据。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=0",
+    "time": "2026-10-22T09:53:33.598Z"
+  },
+  {
+    "id": "S04_姓名搜索结果",
+    "note": "输入王小格提交后名册收敛为1名学员，右侧仍为其档案。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=0",
+    "time": "2026-10-22T09:53:41.232Z"
+  },
+  {
+    "id": "S05_学员搜索无结果",
+    "note": "提交不存在姓名后名册0，右侧显示空状态。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=0",
+    "time": "2026-10-22T09:53:48.424Z"
+  },
+  {
+    "id": "S06_手机号搜索结果",
+    "note": "搜索测试手机号17371065915返回王小格1人。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=0",
+    "time": "2026-10-22T09:53:53.815Z"
+  },
+  {
+    "id": "S07_学员状态筛选",
+    "note": "高级筛选只有状态按钮，展开查看实际状态选项。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=0",
+    "time": "2026-10-22T09:54:11.084Z"
+  },
+  {
+    "id": "S08_已结课学员结果",
+    "note": "状态切已结课后的实际名册与计数。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=0",
+    "time": "2026-10-22T09:54:22.718Z"
+  },
+  {
+    "id": "S09_名册班级筛选",
+    "note": "名册班级选择支持班级名称搜索和复选框，关键词测试班命中测试班002。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=0",
+    "time": "2026-10-22T09:54:48.265Z"
+  },
+  {
+    "id": "S10_班级过滤与任务月历",
+    "note": "名册已选测试班002，学员数1、王小格卡显示1班；课表任务页仍含字数测试及词汇练习，不能假设名册过滤自动作用到任务。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=1",
+    "time": "2026-10-22T09:55:12.317Z"
+  },
+  {
+    "id": "S11_任务上月视图",
+    "note": "点击上个月切至2026年9月，查看当月作业事件。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=1",
+    "time": "2026-10-22T09:55:20.698Z"
+  },
+  {
+    "id": "S12_添加任务默认表单",
+    "note": "任务默认班级TF2410LXC005，含任务名称、起止日期时间、提醒日期时间，取消确认；名册班级过滤没有决定默认任务班级。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=1",
+    "time": "2026-10-22T09:55:38.145Z"
+  },
+  {
+    "id": "S13_任务可选班级",
+    "note": "点击下拉箭头后出现王小格的3个班级。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=1",
+    "time": "2026-10-22T09:56:44.264Z"
+  },
+  {
+    "id": "S14_任务测试草稿",
+    "note": "准备测试班002王小格任务，2026-10-23 08:30-09:00，08:00提醒，尚未提交。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=1",
+    "time": "2026-10-22T09:56:45.224Z"
+  },
+  {
+    "id": "S15_日历点击日期预填任务",
+    "note": "点击字数测试所在日期后出现添加任务，起止日期预填10月12日至13日，名称为空；本次未进入作业详情。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=1",
+    "time": "2026-10-22T09:57:08.616Z"
+  },
+  {
+    "id": "S16_任务清单导出设置",
+    "note": "导出弹窗默认10月22-24，支持列表/视图样式、考试课程作业任务4类勾选、整体点评评语、生成图片与预览。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=1",
+    "time": "2026-10-22T09:57:30.248Z"
+  },
+  {
+    "id": "S17_任务视图预览",
+    "note": "视图样式预览打开全屏月历，显示选定范围3条作业；版面横向超过当前窗口，截图保留实际截断状态。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=1",
+    "time": "2026-10-22T09:57:46.985Z"
+  },
+  {
+    "id": "S18_任务列表预览",
+    "note": "列表预览显示10月22-24任务清单、3条作业及各自分数班级。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=1",
+    "time": "2026-10-22T09:58:03.006Z"
+  },
+  {
+    "id": "S19_任务生成图片操作后",
+    "note": "已点击生成图片，页面无新增成功或错误提示；未取得下载文件，下载结果未核验。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=1",
+    "time": "2026-10-22T09:58:30.952Z"
+  },
+  {
+    "id": "S20_学习报告入口",
+    "note": "学习报告进入时为AP、2025-12-26至2026-03-26，顶部课时完成率成绩知识点评语，下方成绩课程作业知识点页签；当前空数据。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T09:58:46.564Z"
+  },
+  {
+    "id": "S21_学习报告课程类型",
+    "note": "报告类型选择仅显示当前学员的AP、托福、SAT。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T09:58:53.599Z"
+  },
+  {
+    "id": "S22_SAT学习报告汇总",
+    "note": "SAT、2026-09-01至10-22加载完成，完成率67%，读写200/800、数学220/800，知识点暂无数据，课时0/0。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T09:59:25.407Z"
+  },
+  {
+    "id": "S23_SAT成绩与模考记录",
+    "note": "成绩页含走势图、分项均分210和读写200数学220；模考记录sat全科测试420、10月15日15:10、查看详情。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T09:59:25.556Z"
+  },
+  {
+    "id": "S24_模考详情落点",
+    "note": "报告模考查看详情新标签跳转SAT测试结果，总分420/1600、读写200数学220，有作业结果解析录屏巩固训练等入口；本轮验证跳转。",
+    "url": "https://learninghub.xhd.cn/org/sat/result.html?id=14254517&stubj=&qid=&teacherid=31866&stuid=243365&wrcd=1&xiaov=07051012"
+  },
+  {
+    "id": "S25_学习报告课程页",
+    "note": "课程子页实际课程出勤统计与明细。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T09:59:51.062Z"
+  },
+  {
+    "id": "S26_学习报告作业页",
+    "note": "作业页实际完成数量、时长图表及明细。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T09:59:59.125Z"
+  },
+  {
+    "id": "S27_学习报告知识点页",
+    "note": "知识点分析表实际界面与空状态。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T10:00:09.676Z"
+  },
+  {
+    "id": "S28_学习报告评语编辑",
+    "note": "添加评语展开文本框，0/3000计数与AI一键生成入口；未手写保存。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T10:00:19.153Z"
+  },
+  {
+    "id": "S29_AI评语生成结果",
+    "note": "AI返回879字评语并填入可编辑文本框；内容包含总体、完成率分数、分项、词汇和建议，数值解释存在待核对之处，未发布给学员。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T10:00:47.326Z"
+  },
+  {
+    "id": "S30_学习报告生成模块选择",
+    "note": "生成按钮打开选择生成数据面板，含成绩课程作业知识点与确认生成，未提交。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T10:01:02.810Z"
+  },
+  {
+    "id": "S31_报告生成记录",
+    "note": "报告记录页有科目、报告时间范围、生成时间范围、生成人条件；当前暂无记录。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T10:01:09.199Z"
+  },
+  {
+    "id": "S32_练习情况作业列表",
+    "note": "练习情况含作业错题薄弱点字词；作业列表71条、30/页，班级筛选与高级筛选，查看详情。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:01:19.345Z"
+  },
+  {
+    "id": "S33_练习作业类型菜单",
+    "note": "作业类型筛选菜单，原样记录选项。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:01:33.805Z"
+  },
+  {
+    "id": "S34_单词作业过滤结果",
+    "note": "单词作业筛选生效后的列表与数量。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:01:49.189Z"
+  },
+  {
+    "id": "S35_完成状态筛选",
+    "note": "完成状态下拉菜单原样记录。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:01:52.420Z"
+  },
+  {
+    "id": "S36_练习组合搜索结果",
+    "note": "单词作业+已完成+错词训练的组合查询结果。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:02:11.919Z"
+  },
+  {
+    "id": "S37_单词练习结果落点",
+    "note": "从练习统计查看详情进入基础练习结果，80分、10词8对2错、结果解析录屏巩固训练入口及单词发音列表。本轮记录入口与落点。",
+    "url": "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=14695069&stuid=243365&teacherid=31866&wrcd=1&xiaov=07051012"
+  },
+  {
+    "id": "S38_自适应统计",
+    "note": "自适应统计默认托福，单词阅读听力口语写作均0%，无自适应统计数据；有科目选择。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:02:55.616Z"
+  },
+  {
+    "id": "S39_单词书进度列表",
+    "note": "单词书进度的统计与列表原样记录。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:03:00.744Z"
+  },
+  {
+    "id": "S40_单词书单元详情",
+    "note": "全屏详情含班级学生、总词222已学44错词29、4单元不同完成解锁状态；右侧单词卡含英美音标发音图标双语释义例句。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:03:36.297Z"
+  },
+  {
+    "id": "S41_单词书错词过滤",
+    "note": "勾选错词后右侧仅保留错词卡。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:03:36.802Z"
+  },
+  {
+    "id": "S42_开放题库训练列表",
+    "note": "开放题库的实际训练列表、筛选与空/有数据状态。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:03:52.460Z"
+  },
+  {
+    "id": "S43_词汇量测试列表",
+    "note": "词汇量测试记录列表实际字段与数值。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:04:00.117Z"
+  },
+  {
+    "id": "S44_错题分析入口",
+    "note": "错题分析页面实际菜单、筛选、统计与列表。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:04:08.458Z"
+  },
+  {
+    "id": "S45_错题列表与知识点分类",
+    "note": "学科错题列表及分类树、待修复已修复切换、错误归因排序只看收藏搜索重置；表含错误次数归因最近日期，收藏按钮当前禁用。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:04:20.282Z"
+  },
+  {
+    "id": "S46_已修复错题",
+    "note": "已修复筛选实际结果。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:04:27.281Z"
+  },
+  {
+    "id": "S47_错题题干点击现场",
+    "note": "已修复三选一题干带下划线，点击后页面仍在当前列表，未出现题目详情；待用户说明是否有其他打开方式。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:04:53.278Z"
+  },
+  {
+    "id": "S48_错误归因筛选",
+    "note": "错误归因筛选面板实际可选项。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:05:06.697Z"
+  },
+  {
+    "id": "S49_错题排序选项",
+    "note": "排序弹层有错题次数、最新答错日期；定位错误筛选已选1。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:05:27.661Z"
+  },
+  {
+    "id": "S50_机构错题分析",
+    "note": "机构模式切换后的知识点树与错题状态。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:05:47.212Z"
+  },
+  {
+    "id": "S51_能力错题分析",
+    "note": "能力模式实际页面。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:05:54.534Z"
+  },
+  {
+    "id": "S52_错词模式",
+    "note": "错词模式实际分类、词汇列表与可用操作。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:06:00.369Z"
+  },
+  {
+    "id": "S53_错词布置配置",
+    "note": "布置展开开始练习面板，含练习单词数量、布置单词范围默认按错误次数、班级与确定。未布置。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:06:17.305Z"
+  },
+  {
+    "id": "S54_错词训练数量选项",
+    "note": "可选10至100词，每10词一档。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:06:29.535Z"
+  },
+  {
+    "id": "S55_错词布置范围选项",
+    "note": "布置范围选项原样记录。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:06:30.234Z"
+  },
+  {
+    "id": "S56_学员笔记",
+    "note": "笔记页面实际筛选与空状态。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:06:37.542Z"
+  },
+  {
+    "id": "S57_课程反馈列表",
+    "note": "课程反馈实际列表与筛选。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=4",
+    "time": "2026-10-22T10:06:49.703Z"
+  },
+  {
+    "id": "S58_课程评分前置条件提示",
+    "note": "添加评分意见后提示该学生还未上课暂无可反馈课程；已向用户询问有课记录样例。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=4",
+    "time": "2026-10-22T10:07:11.398Z"
+  },
+  {
+    "id": "S59_回访记录列表",
+    "note": "回访记录页面原样记录。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=7",
+    "time": "2026-10-22T10:07:24.765Z"
+  },
+  {
+    "id": "S60_新增回访空表单",
+    "note": "回访表单含回访时间、内容、下次回访时间、取消确认。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=7",
+    "time": "2026-10-22T10:07:35.562Z"
+  },
+  {
+    "id": "S61_回访测试草稿",
+    "note": "回访草稿已填写，尚未确认；实际日期以DOM核验为准。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=7",
+    "time": "2026-10-22T10:07:35.758Z"
+  },
+  {
+    "id": "S62_考试记录入口",
+    "note": "考试记录当前为空，有添加记录入口。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=6",
+    "time": "2026-10-22T10:08:01.207Z"
+  },
+  {
+    "id": "S63_新增考试记录表单",
+    "note": "必填科目考试名称考试时间，另有总成绩、考前一天通知、地点、分项成绩、凭证及附件上传。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=6",
+    "time": "2026-10-22T10:08:26.511Z"
+  },
+  {
+    "id": "S64_考试科目选项",
+    "note": "考试记录科目下拉菜单。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=6",
+    "time": "2026-10-22T10:08:26.932Z"
+  },
+  {
+    "id": "S65_自定义分项弹窗",
+    "note": "添加分项弹窗可输入分项名称和分数，取消确认；考试草稿尚未提交。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=6",
+    "time": "2026-10-22T10:08:45.672Z"
+  },
+  {
+    "id": "S66_考试测试草稿与自定义分项",
+    "note": "SAT测试考试草稿，总分420、地点测试地点、阅读语法数学写作默认分项并新增调研自定义分项1；未勾选通知，尚未提交。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=6",
+    "time": "2026-10-22T10:08:54.703Z"
+  },
+  {
+    "id": "S67_考试记录保存成功",
+    "note": "获授权保存后考试卡片出现SAT测试记录、总分420、考试日期地点和自定义分项1。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=6",
+    "time": "2026-10-22T10:11:04.691Z"
+  },
+  {
+    "id": "S68_回访记录保存成功",
+    "note": "保存后新增10月22日王思贤老师回访记录，内容可见，列表有更多操作入口。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=7",
+    "time": "2026-10-22T10:11:28.778Z"
+  },
+  {
+    "id": "S69_学习报告确认生成前",
+    "note": "恢复此前AI评语，SAT与9月1日至10月22日，选择生成成绩课程作业知识点；获用户授权后准备生成。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T10:12:03.675Z"
+  },
+  {
+    "id": "S70_错题详情新标签",
+    "note": "题干实际在新标签打开错题详情，含题目统计、音频、选项及比例、知识点、学生答案与解析、名师讲解笔记入口、布置按钮；更正S47未打开结论。",
+    "url": "https://learninghub.xhd.cn/org/IELTS/result.html?wrongQids=24979&stuid=243365&wrongsourcetype=2&wrongcategoryid=9"
+  },
+  {
+    "id": "S71_错题显示答案切换",
+    "note": "切换显示答案开关后的实际题目与答案显示状态。",
+    "url": "https://learninghub.xhd.cn/org/IELTS/result.html?wrongQids=24979&stuid=243365&wrongsourcetype=2&wrongcategoryid=9"
+  },
+  {
+    "id": "S72_学习报告生成成功记录",
+    "note": "报告记录列表新增王思贤10月22日生成的SAT报告9月1日-10月22日；另有李冰晖5月23日雅思旧报告，初始暂无记录属于加载中。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T10:13:07.616Z"
+  },
+  {
+    "id": "S73_学习报告分享入口",
+    "note": "新增报告分享按钮打开的界面，未向任何人发送。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T10:13:08.041Z"
+  },
+  {
+    "id": "S74_生成报告初次核验",
+    "note": "生成报告链接可打开，SAT统计与4页签已呈现，但暂无评语，需完成评语保存步骤后重新生成。分享弹窗曾显示AP，实际报告页面为SAT。",
+    "url": "https://learninghub.xhd.cn/org/learnReport/index.html?data=JTdCJTIyY29kZSUyMiUzQSUyMmMxOTRhMDJjZWZlMGY5MzJiYTgxMGQwM2IyYjcyZmRiJTIyJTJDJTIyaWQlMjIlM0E0MTY3JTJDJTIybGFuZyUyMiUzQSUyMnpoJTIyJTJDJTIydGlkJTIyJTNBMzE4NjYlMkMlMjJzdHUlMjIlM0EyNDMzNjUlN0Q="
+  },
+  {
+    "id": "S75_评语保存确认控件",
+    "note": "滚动到评语编辑器底部，右侧有蓝色对勾保存与红色叉取消；生成前需先保存评语。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T10:14:41.400Z"
+  },
+  {
+    "id": "S76_AI评语保存成功",
+    "note": "点击对勾后退出编辑，页面显示评语作者与正文；保存动作与AI生成草稿不同。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T10:14:50.972Z"
+  },
+  {
+    "id": "S77_保存评语后报告记录",
+    "note": "评语保存后重新生成，报告历史实际记录。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T10:15:19.649Z"
+  },
+  {
+    "id": "S78_学习报告含评语核验",
+    "note": "最终报告封面为SAT、王小格、9月1日-10月22日，显示王思贤老师；正文含已保存AI评语与统计模块。",
+    "url": "https://learninghub.xhd.cn/org/learnReport/index.html?data=JTdCJTIyY29kZSUyMiUzQSUyMmMxM2Y2MWIxNTNiOWVkNjI5MTA2ZDk4NTY2NjgwZDQ2JTIyJTJDJTIyaWQlMjIlM0E0MTY4JTJDJTIybGFuZyUyMiUzQSUyMnpoJTIyJTJDJTIydGlkJTIyJTNBMzE4NjYlMkMlMjJzdHUlMjIlM0EyNDMzNjUlN0Q="
+  },
+  {
+    "id": "S79_最终报告评语正文",
+    "note": "最终报告正文中实际呈现王思贤的AI评语，保存生成分享打开的闭环已验证。",
+    "url": "https://learninghub.xhd.cn/org/learnReport/index.html?data=JTdCJTIyY29kZSUyMiUzQSUyMmMxM2Y2MWIxNTNiOWVkNjI5MTA2ZDk4NTY2NjgwZDQ2JTIyJTJDJTIyaWQlMjIlM0E0MTY4JTJDJTIybGFuZyUyMiUzQSUyMnpoJTIyJTJDJTIydGlkJTIyJTNBMzE4NjYlMkMlMjJzdHUlMjIlM0EyNDMzNjUlN0Q="
+  },
+  {
+    "id": "S80_机构错题模式核验",
+    "note": "机构模式已选中，实际知识点/空状态核验，替代S50未切换成功现场。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:16:58.315Z"
+  },
+  {
+    "id": "S81_笔记类型菜单",
+    "note": "笔记类型菜单实际选项。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:17:06.344Z"
+  },
+  {
+    "id": "S82_笔记状态筛选",
+    "note": "笔记状态筛选选项。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:17:07.099Z"
+  },
+  {
+    "id": "S83_词汇量测试结果页",
+    "note": "查看新标签显示阅读词汇4074/B1、听力<1000/A1、能力描述与CEFR换算表；仅记录产品展示，不核验换算权威性。",
+    "url": "https://learninghub.xhd.cn/org/vocabulary/result.html?hwkid=101149"
+  },
+  {
+    "id": "S84_课程反馈前置提示核验",
+    "note": "点击添加评分意见后即时提示该学生还未上课暂无可反馈课程；用户确认没有其他可用样例。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=4",
+    "time": "2026-10-22T10:18:07.942Z"
+  },
+  {
+    "id": "S85_考试编辑回读",
+    "note": "打开编辑核验保存字段，SAT测试总分420日期地点和自定义分项1均保留；未改动。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=6",
+    "time": "2026-10-22T10:18:19.372Z"
+  },
+  {
+    "id": "S86_回访编辑回读",
+    "note": "编辑表单回显10月22日和已保存回访正文，下次回访仍为空；未修改。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=7",
+    "time": "2026-10-22T10:18:35.421Z"
+  },
+  {
+    "id": "S87_任务时间选择菜单",
+    "note": "任务时间以15分钟为间隔提供00:00至23:45选项；开始日期已选10月23日。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=1",
+    "time": "2026-10-22T10:19:21.991Z"
+  },
+  {
+    "id": "S88_任务日期时间选择结果",
+    "note": "通过日期和时间选择器，起止10月23日08:30-09:00，提醒10月23日08:00已生效，尚未提交。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=1",
+    "time": "2026-10-22T10:19:23.689Z"
+  },
+  {
+    "id": "S89_AI作业分析处理中",
+    "note": "练习统计AI作业分析在当前页打开AI数据分析浮层，分洞察、分析、建议，初始显示AI分析中。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:20:02.737Z"
+  },
+  {
+    "id": "S90_AI作业分析结果",
+    "note": "AI分析返回洞察、分析和建议。只记录生成内容与功能，不将心理推断作为事实。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:24:54.685Z"
+  },
+  {
+    "id": "S91_AI作业分析开头",
+    "note": "作业AI分析完成，显示洞察与建议及数据汇总。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=3",
+    "time": "2026-10-22T10:25:02.587Z"
+  },
+  {
+    "id": "S94_学员班级卡片核验",
+    "note": "名册按测试班002过滤时，档案仍展示3个在读班级及入学模考空态。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=0",
+    "time": "2026-10-22T10:25:23.828Z"
+  },
+  {
+    "id": "S95_学习报告知识图谱空态",
+    "note": "SAT日期区间下知识图谱暂无数据。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T10:25:34.921Z"
+  },
+  {
+    "id": "S96_学习报告知识点分析空态",
+    "note": "知识点分析表及练习次数图暂无数据。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=0705101215&flagl=f&stutab=2",
+    "time": "2026-10-22T10:25:39.037Z"
+  }
+]

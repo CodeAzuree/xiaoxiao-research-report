@@ -1,0 +1,272 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- generic: 班级
+- generic: 
+- button "添加任务":
+  - generic: 添加任务
+- button "导出清单":
+  - generic: 导出清单
+- generic: 
+- generic: 
+- generic: 2026年10月
+- button "上个月":
+  - generic: 上个月
+- button "本月":
+  - generic: 本月
+- button "下个月":
+  - generic: 下个月
+- generic: 考试
+- generic: 课程
+- generic: 作业
+- generic: 任务
+- generic: 星期一
+- generic: 星期二
+- generic: 星期三
+- generic: 星期四
+- generic: 星期五
+- generic: 星期六
+- generic: 星期天
+- generic: "28"
+- generic: "29"
+- generic: "30"
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: "6"
+- generic: "7"
+- generic: "8"
+- generic: "9"
+- generic: "10"
+- generic: "11"
+- generic: "12"
+- paragraph: 字数测试
+- paragraph: 10.12 16:00-10.13 23:30
+- generic: "13"
+- generic: "14"
+- generic: "15"
+- generic: "16"
+- generic: "17"
+- generic: "18"
+- generic: "19"
+- generic: "20"
+- generic: "21"
+- generic: 今天
+- paragraph: 单词书自测/陈梦昕生词本-3.8
+- paragraph: 10.22-10.25
+- paragraph: 错词训练/2026-10-22
+- paragraph: 10.22-10.23 16:08
+- paragraph: 订正练习/错词训练/2026-10-22
+- paragraph: 10.22-10.25
+- paragraph: 【调研测试】考试记录验证
+- generic: "23"
+- generic: "24"
+- generic: "25"
+- generic: "26"
+- generic: "27"
+- generic: "28"
+- generic: "29"
+- generic: "30"
+- generic: "31"
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: "6"
+- generic: "7"
+- generic: "8"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:              
+- dialog "添加任务":
+  - generic: 添加任务
+  - button "Close":
+    - generic: 
+  - generic: 请选择班级
+  - button "TF2410LXC005 ":
+    - text: TF2410LXC005
+    - generic: 
+  - paragraph: 任务名称
+  - textbox: 【调研测试】学员任务验证
+  - paragraph: 任务时间
+  - textbox: 2026-10-23
+  - textbox: 08:30
+  - generic: "-"
+  - textbox: 2026-10-23
+  - textbox [active]: 08:30
+  - generic: 
+  - paragraph: 提醒时间
+  - textbox
+  - textbox: 08:30
+  - button "取消":
+    - generic: 取消
+  - button "确认":
+    - generic: 确认
+- text:    
+- generic: 00:00
+- generic: 00:15
+- generic: 00:30
+- generic: 00:45
+- generic: 01:00
+- generic: 01:15
+- generic: 01:30
+- generic: 01:45
+- generic: 02:00
+- generic: 02:15
+- generic: 02:30
+- generic: 02:45
+- generic: 03:00
+- generic: 03:15
+- generic: 03:30
+- generic: 03:45
+- generic: 04:00
+- generic: 04:15
+- generic: 04:30
+- generic: 04:45
+- generic: 05:00
+- generic: 05:15
+- generic: 05:30
+- generic: 05:45
+- generic: 06:00
+- generic: 06:15
+- generic: 06:30
+- generic: 06:45
+- generic: 07:00
+- generic: 07:15
+- generic: 07:30
+- generic: 07:45
+- generic: 08:00
+- generic: 08:15
+- generic: 08:30
+- generic: 08:45
+- generic: 09:00
+- generic: 09:15
+- generic: 09:30
+- generic: 09:45
+- generic: 10:00
+- generic: 10:15
+- generic: 10:30
+- generic: 10:45
+- generic: 11:00
+- generic: 11:15
+- generic: 11:30
+- generic: 11:45
+- generic: 12:00
+- generic: 12:15
+- generic: 12:30
+- generic: 12:45
+- generic: 13:00
+- generic: 13:15
+- generic: 13:30
+- generic: 13:45
+- generic: 14:00
+- generic: 14:15
+- generic: 14:30
+- generic: 14:45
+- generic: 15:00
+- generic: 15:15
+- generic: 15:30
+- generic: 15:45
+- generic: 16:00
+- generic: 16:15
+- generic: 16:30
+- generic: 16:45
+- generic: 17:00
+- generic: 17:15
+- generic: 17:30
+- generic: 17:45
+- generic: 18:00
+- generic: 18:15
+- generic: 18:30
+- generic: 18:45
+- generic: 19:00
+- generic: 19:15
+- generic: 19:30
+- generic: 19:45
+- generic: 20:00
+- generic: 20:15
+- generic: 20:30
+- generic: 20:45
+- generic: 21:00
+- generic: 21:15
+- generic: 21:30
+- generic: 21:45
+- generic: 22:00
+- generic: 22:15
+- generic: 22:30
+- generic: 22:45
+- generic: 23:00
+- generic: 23:15
+- generic: 23:30
+- generic: 23:45

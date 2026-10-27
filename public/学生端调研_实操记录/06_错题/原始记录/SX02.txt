@@ -1,0 +1,356 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	1 container myweb
+		2 container root-menu
+			3 container
+				4 image
+				5 text 首页
+			6 container
+				7 image
+				8 text 作业
+			9 container
+				10 image
+				11 text 课表
+			12 container
+				13 image
+				14 text 题库
+			15 container
+				16 image
+				17 text 单词书
+			18 container
+				19 image
+				20 text 错题
+			21 container
+				22 image
+				23 text 自适应
+			24 container
+				25 image
+				26 text 反馈
+			27 container
+				28 image
+				29 text 笔记
+			30 container
+				31 image
+				32 text 学习报告
+		33 container root-mv-right
+			34 container root-mv-header
+				35 image
+				36 container
+					37 text field (settable)
+					64 text 
+				39 button icon
+					40 image icon
+				41 container
+					65 text 
+					43 button icon
+						44 image icon
+				45 container
+					46 button icon
+						47 image icon
+					48 text 5
+				49 button icon
+					50 image icon
+				51 container
+					52 image
+					53 text 10
+				54 text 小格
+			55 container root-container
+				58 tab group
+					59 container
+						60 tab (selected, settable, boolean) 学科, Value: 1
+						61 tab (settable) 机构
+						62 tab (settable) 能力
+						63 tab (settable) 错词
+				66 container
+					67 text 科目 雅思 SAT机考 分项
+					68 text 不限
+					69 text 听力
+					70 text 阅读 我的进步
+					71 image
+					72 text 本周修复错题
+					73 text 0
+					74 image
+					75 text 总修复错题
+					76 text 1
+					77 image
+					78 text 修复率
+					79 image
+					80 text 3.13%
+					81 text 我的错误归因
+					82 text 定位错误 35.29%
+					83 progress indicator 35.290000915527344
+					84 text TFNG 边界混淆 29.41%
+					85 progress indicator 29.40999984741211
+					86 text 证据覆盖不足 11.76%
+					87 progress indicator 11.760000228881836
+					88 text 信息混淆 5.88%
+					89 progress indicator 5.880000114440918
+					90 text 其它 17.66%
+					91 progress indicator 17.65999984741211
+					92 text 知识点修复建议
+					713 text T/F/NG判断题
+					94 progress indicator 28.1299991607666
+					95 text 28.13%
+					96 text Summary摘要填空
+					97 progress indicator 15.630000114440918
+					98 text 15.63%
+					99 text Table表格填空
+					100 progress indicator 9.380000114440918
+					101 text 9.38%
+					102 text Flow-chart流程图填空
+					103 progress indicator 9.380000114440918
+					104 text 9.38%
+					105 text 其它
+					106 progress indicator 37.47999954223633
+					107 text 37.48%
+					108 container
+						109 text 知识点分类
+						110 image
+						714 text 
+						112 text field (settable)
+						113 container
+							114 checkbox 2
+								115 checkbox (settable, integer) 0
+							116 text 阅读
+							117 text 24
+							118 checkbox 1
+								119 checkbox (settable, integer) 1
+							120 text T/F/NG判断题
+							121 text 9
+							122 checkbox 0
+								123 checkbox (settable, integer) 0
+							124 text Table表格填空
+							125 text 3
+							126 checkbox 0
+								127 checkbox (settable, integer) 0
+							128 text Flow-chart流程图填空
+							129 text 3
+							130 checkbox 0
+								131 checkbox (settable, integer) 0
+							132 text Note笔记填空
+							133 text 3
+							134 checkbox 0
+								135 checkbox (settable, integer) 0
+							136 text Matching段落信息匹配
+							137 text 3
+							138 checkbox 0
+								139 checkbox (settable, integer) 0
+							140 text Y/N/NG判断题
+							141 text 2
+							142 checkbox 0
+								143 checkbox (settable, integer) 0
+							144 text Multiple Choice多选题
+							145 text 1
+						146 container
+							147 checkbox 0
+								148 checkbox (settable, integer) 0
+							149 text 听力
+							150 text 8
+							151 checkbox 0
+								152 checkbox (settable, integer) 0
+							153 text Summary摘要填空
+							154 text 5
+							155 checkbox 0
+								156 checkbox (settable, integer) 0
+							157 text Note笔记填空
+							158 text 1
+							159 checkbox 0
+								160 checkbox (settable, integer) 0
+							161 text Single Choice单选题
+							162 text 1
+							163 checkbox 0
+								164 checkbox (settable, integer) 0
+							165 text Multiple Choice多选题
+							166 text 1
+					167 container
+						168 button  待修复
+							715 text 
+							170 text 待修复
+						171 button 已修复
+						172 container
+							173 text 错误归因
+							716 text 
+						175 container
+							176 text 排序
+							177 image
+						178 checkbox 只看收藏, Value: 0
+							179 checkbox (settable, integer) 只看收藏, Value: 0
+							180 text 只看收藏
+						181 button 重置
+						717 text 
+						183 text field (settable)
+					184 container
+						185 table
+							186 row
+								187 cell
+									188 text 内容
+								189 cell
+									190 text 分项
+								191 cell
+									192 text 知识点
+								193 cell
+									194 text 错误次数
+								195 cell
+									196 text 错误归因
+								197 cell
+									198 text 最近答错日期
+								199 cell
+									200 text 收藏
+						201 table
+							235 row
+								236 cell
+									237 text 2. Fishermen took some water hyacinth plants to Lake Victoria.
+								238 cell
+									239 text 阅读
+								240 cell
+									241 text T/F/NG判断题
+								242 cell
+									243 text 2
+								244 cell
+									245 text 定位错误
+								246 cell
+									247 text 2026-09-22
+								248 cell
+									249 button 
+										718 text 
+							251 row
+								252 cell
+									253 text 4. Chemicals produced by the water hyacinth plants are affecting the numbers of fish in Lake Victoria.
+								254 cell
+									255 text 阅读
+								256 cell
+									257 text T/F/NG判断题
+								258 cell
+									259 text 2
+								260 cell
+									261 text TFNG 边界混淆
+								262 cell
+									263 text 2026-09-22
+								264 cell
+									265 button 
+										719 text 
+							267 row
+								268 cell
+									269 text 5. Cooking with charcoal has been proved to be even worse for people's health than cooking with wood.
+								270 cell
+									271 text 阅读
+								272 cell
+									273 text T/F/NG判断题
+								274 cell
+									275 text 2
+								276 cell
+									277 text 比较关系处理失败
+								278 cell
+									279 text 2026-09-22
+								280 cell
+									281 button 
+										720 text 
+							283 row
+								721 cell
+									722 checkbox 0
+										723 checkbox (settable, integer) 0
+								284 cell
+									285 text 6. People found it impossible to remove much water hyacinth from Lake Victoria.
+								286 cell
+									287 text 阅读
+								288 cell
+									289 text T/F/NG判断题
+								290 cell
+									291 text 2
+								292 cell
+									293 text 证据覆盖不足
+								294 cell
+									295 text 2026-09-22
+								296 cell
+									297 button 
+										731 text 
+							395 row
+								396 cell
+									397 text 8 Georgia O'Keeffe's style was greatly influenced by the changing fashions in art over the seven decades of her career.
+								398 cell
+									399 text 阅读
+								400 cell
+									401 text T/F/NG判断题
+								402 cell
+									403 text 1
+								404 cell
+									405 text 证据覆盖不足
+								406 cell
+									407 text 2026-03-24
+								408 cell
+									409 button 
+										725 text 
+							411 row
+								412 cell
+									413 text 9 When O'Keeffe finished high school, she had already made her mind up about the career that she wanted.
+								414 cell
+									415 text 阅读
+								416 cell
+									417 text T/F/NG判断题
+								418 cell
+									419 text 1
+								420 cell
+									421 text TFNG 边界混淆
+								422 cell
+									423 text 2026-03-24
+								424 cell
+									425 button 
+										726 text 
+							427 row
+								428 cell
+									429 text 10 Alfred Stieglitz first discovered O'Keeffe's work when she sent some abstract drawings to his gallery in New York City.
+								430 cell
+									431 text 阅读
+								432 cell
+									433 text T/F/NG判断题
+								434 cell
+									435 text 1
+								436 cell
+									437 text TFNG 边界混淆
+								438 cell
+									439 text 2026-03-24
+								440 cell
+									441 button 
+										727 text 
+							443 row
+								444 cell
+									445 text 11 O'Keeffe was the subject of Stieglitz's photographic work for many years.
+								446 cell
+									447 text 阅读
+								448 cell
+									449 text T/F/NG判断题
+								450 cell
+									451 text 1
+								452 cell
+									453 text 定位错误
+								454 cell
+									455 text 2026-03-24
+								456 cell
+									457 button 
+										728 text 
+							459 row
+								460 cell
+									461 text 13 O'Keeffe produced a greater quantity of work during the 1950s to 1970s than at any other time in her life.
+								462 cell
+									463 text 阅读
+								464 cell
+									465 text T/F/NG判断题
+								466 cell
+									467 text 1
+								468 cell
+									469 text TFNG 边界混淆
+								470 cell
+									471 text 2026-03-24
+								472 cell
+									473 button 
+										729 text 
+						705 text 共 9 条
+						706 button 50 条/页 
+							707 text 50 条/页
+							730 text 
+						709 button 1
+						710 text 前往
+						711 text field (settable)
+						712 text 页
+
+The focused UI element is 119 checkbox (settable, integer) 1

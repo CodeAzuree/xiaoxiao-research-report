@@ -1,0 +1,86 @@
+- generic: 词汇量测试
+- generic: 小格
+- generic: 王小格
+- generic: 根据欧洲共同语言参考框架 :（CEFR）设定的指南，
+- generic: 你的阅读水平估算在B1等级
+- text: ，
+- generic: 听力水平估算在A1等级。
+- generic: 分享
+- generic: B1
+- generic: Intermediate
+- generic: "阅读词汇量: 4074"
+- generic: 你可以理解关于日常生活、工作、学校等熟悉话题的文章，包括描述事件、愿望或观点的文本。
+- generic: A1
+- generic: Beginner
+- generic: "听力词汇量: <1000"
+- generic: 你能够听懂与你本人、家庭或近邻相关的简短、清晰和慢速的语音内容。
+- generic: CEFR 与主流语言考试换算表
+- generic: CEFR
+- generic: CSE
+- generic: IELTS
+- generic: TOEFL
+- generic: Duolingo
+- generic: Cambridge English Scale
+- generic: CEQ
+- generic: TOEIC
+- generic: C2
+- generic: "9"
+- generic: 8.5-9.0
+- generic: 110-120
+- generic: 145-160
+- generic: 200-230
+- generic: C2 Proficiency (CPE)
+- generic: 945-990
+- generic: C1
+- generic: "8"
+- generic: 7.0-8.0
+- generic: 95-110
+- generic: 125-140
+- generic: 180-199
+- generic: C1 Advanced (CAE)
+- generic: 785-944
+- generic: PROFICIENT
+- generic: B2
+- generic: 6-7
+- generic: 5.5-6.5
+- generic: 72-94
+- generic: 90-120
+- generic: 160-179
+- generic: B2 First (FCE)
+- generic: 605-784
+- generic: B1
+- generic: 4-5
+- generic: 4.0-5.0
+- generic: 42-71
+- generic: 60-85
+- generic: 140-159
+- generic: B1 Preliminary (PET)
+- generic: 405-604
+- generic: INDEPENDENT
+- generic: A2
+- generic: "3"
+- generic: 3.0-3.5
+- generic: 31-41
+- generic: 40-55
+- generic: 120-139
+- generic: A2 Key (KET)
+- generic: 255-404
+- generic: A1
+- generic: "2"
+- generic: ≤3.0
+- generic: ≤30
+- generic: 10-35
+- generic: 100-119
+- generic: Pre-A1Starters / Movers
+- generic: ≤254
+- generic: BASIC
+- generic: Pre
+- generic: A1
+- generic: "-"
+- generic: "-"
+- generic: "-"
+- generic: "-"
+- generic: 80-99
+- generic: Pre-A1 Starters
+- generic: "-"
+- generic: 

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "C01_恢复登录确认",
+    "note": "新标签19已恢复新航道武汉学校教师端，王思贤账号。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=d",
+    "time": "2026-10-23T01:43:19.313Z"
+  },
+  {
+    "id": "C02_班级入口与布局",
+    "note": "我的班级列表、班级摘要、5个内容页签及右侧快捷功能和成员入口。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:43:35.689Z"
+  },
+  {
+    "id": "C03_班级科目菜单",
+    "note": "科目菜单提供全部、雅思、托福、AP、SAT。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:43:42.608Z"
+  },
+  {
+    "id": "C04_班级类型与SAT筛选",
+    "note": "科目SAT过滤结果；班级类型选项文字已读取，但此图未完整保留菜单，完整菜单用C59。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:43:57.140Z",
+    "initial_note": "班级类型菜单为全部、一对一、一对多；SAT科目筛选后剩王小格-SAT。",
+    "reviewed": "2026-10-23"
+  },
+  {
+    "id": "C05_班级状态菜单",
+    "note": "状态为全部、未开课、已开课、已停课、已结课。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:44:15.176Z"
+  },
+  {
+    "id": "C06_班级名称检索现场",
+    "note": "名称检索输入测试班，使用输入和回车；记录当前列表，后续核对。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:44:52.781Z"
+  },
+  {
+    "id": "C07_班级搜索结果与摘要",
+    "note": "测试班查询返回测试班002，摘要为已开课、2025-06-18、课程进度32/-、学生1人。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:45:09.728Z"
+  },
+  {
+    "id": "C08_班级概览周视图",
+    "note": "概览按周展示课程、作业、模考，提供本周、前后周和日期范围选择。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:45:23.159Z"
+  },
+  {
+    "id": "C09_班级课表月历",
+    "note": "课表展示月历、本月和前后月切换，提供课时详情。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:45:27.983Z"
+  },
+  {
+    "id": "C10_课时详情日期与字段",
+    "note": "课时详情提供起止日期、搜索、总上课时长，表列课程名称、班级、内容、方式、时间、时长、类型。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:45:34.213Z"
+  },
+  {
+    "id": "C11_班级反馈与学员选择",
+    "note": "反馈页左侧学员列表，右侧课堂评分、学习建议、添加评分意见，说明多老师平均值。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:45:56.640Z"
+  },
+  {
+    "id": "C12_评分意见入口",
+    "note": "点击添加评分意见后的实际反馈，后续按页面内容归纳。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:45:57.245Z"
+  },
+  {
+    "id": "C13_评分意见编辑页",
+    "note": "反馈编辑页含课堂、签到状态、评分、发送对象、5项必填学习建议、图片和AI一键生成。未保存。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:46:12.111Z"
+  },
+  {
+    "id": "C14_评分课堂选择",
+    "note": "课堂菜单展示课程与课次、上课日期时间，包含2025-06-18团培雅思(8)等。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:46:17.674Z"
+  },
+  {
+    "id": "C15_选定课堂与考勤入口",
+    "note": "选择团培雅思(8)后显示未出勤，提供修改班级学生考勤状态。课堂评分区域当前未显示具体评分维度。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:46:34.513Z"
+  },
+  {
+    "id": "C16_考勤配置弹窗",
+    "note": "考勤按学生提供出勤、请假勾选与表头批量选，统计应出勤/出勤/请假人数；未修改或确认。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:46:42.529Z"
+  },
+  {
+    "id": "C17_反馈学习建议与AI入口",
+    "note": "反馈编辑页下部包含课后作业、辅导要求、图片、AI一键生成；不勾选发送对象、不保存。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:46:43.032Z"
+  },
+  {
+    "id": "C18_课堂反馈AI生成中",
+    "note": "反馈AI一键生成进入处理中；未保存或发送。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:46:56.843Z"
+  },
+  {
+    "id": "C19_班级成员区",
+    "note": "成员区列出多位老师、助教和学生；成员(1)与顶部学生1人对应，不是所有师生合计。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:47:13.462Z"
+  },
+  {
+    "id": "C20_课堂反馈AI草稿",
+    "note": "AI分别填入5项学习建议，仍为未保存草稿。不得据生成文字认定学生实际上课表现。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:47:20.783Z"
+  },
+  {
+    "id": "C21_反馈AI草稿上部与发送对象",
+    "note": "AI草稿保留课堂与发送对象配置，所有发送对象未勾选。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:47:20.890Z"
+  },
+  {
+    "id": "C22_班级作业大纲入口",
+    "note": "测试班002当前无关联作业大纲，提供大纲选择器与关联按钮。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:47:28.296Z"
+  },
+  {
+    "id": "C23_关联大纲配置",
+    "note": "关联大纲要求科目、名称，提示可查看内容并设置任务下发时间；未确认关联。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:47:35.164Z"
+  },
+  {
+    "id": "C24_大纲科目菜单",
+    "note": "科目提供其他、托福、雅思、A-Level。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:47:40.865Z"
+  },
+  {
+    "id": "C25_大纲任务下发配置",
+    "note": "选择思培听力教学大纲后可配下发日期/时间、目录频次、按时间或全部下发；显示应用次数、任务数量及目录表。未确认。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:47:58.309Z"
+  },
+  {
+    "id": "C26_大纲频次与空内容提示",
+    "note": "频次可选周一至周日；当前思培大纲无内容，提示到教研大纲关联题目。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:48:09.619Z"
+  },
+  {
+    "id": "C27_班级作业矩阵与历史样例",
+    "note": "通过日历选择2026-05-01至05-31后显示2份雅思作业；按日期、作业与学生交叉显示状态、分数、评语和显示答案开关。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:50:06.767Z"
+  },
+  {
+    "id": "C28_班级作业类型菜单",
+    "note": "班级作业类型筛选的实际菜单。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:50:12.327Z"
+  },
+  {
+    "id": "C29_班级作业老师筛选",
+    "note": "老师选择器含老师名称搜索、全选、可选老师；未应用过滤。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:50:28.762Z"
+  },
+  {
+    "id": "C30_班级作业列表与学员快捷入口",
+    "note": "视图切换中间态，截图仍为矩阵；最终列表视图用C31。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:50:54.579Z",
+    "initial_note": "列表按作业展示类型、老师、日期、完成人数；展开后展示学员状态分数及学习报告/错题分析/练习统计入口。",
+    "reviewed": "2026-10-23"
+  },
+  {
+    "id": "C31_作业列表视图核验",
+    "note": "列表视图实际画面：作业概况、展开学生、学习报告/错题分析/练习统计/查看详情入口。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:51:26.055Z"
+  },
+  {
+    "id": "C32_班级作业结果落点",
+    "note": "从班级作业学员行查看详情打开雅思测试结果：3.5/9，提供结果/解析/录屏/巩固训练、导出PDF、生成报告。",
+    "url": "https://learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&teacherid=31866&stuid=243365&wrcd=1&xiaov=20261122",
+    "time": "2026-10-23T01:51:59.746Z"
+  },
+  {
+    "id": "C33_雅思大纲目录与任务内容",
+    "note": "指定雅思听力空窗期大纲显示应用次数1、任务3个，第一周课件2项和精听作业1项，以及第二周目录。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:52:23.727Z"
+  },
+  {
+    "id": "C34_大纲全部下发形式",
+    "note": "切换全部下发的配置现场；未确认关联或下发。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:52:24.232Z"
+  },
+  {
+    "id": "C35_大纲按周排程预览",
+    "note": "起始2026-10-24、周一6:00配置后，第一周预览10-26，第二周11-02；未确认下发。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:53:04.045Z"
+  },
+  {
+    "id": "C36_历史课表课程样例",
+    "note": "2025年6月月历显示课程名称与课次、总校/地点、时间；包含团培商务英语和团培雅思。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:53:33.171Z"
+  },
+  {
+    "id": "C37_单次课程信息浮层",
+    "note": "课程浮层文字已读取，整页截图未保留悬浮层；主要图证用C63。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:53:55.497Z",
+    "initial_note": "点击/停留课程显示班级、日期、时段、老师、内容、人数、校区、上课地址。",
+    "reviewed": "2026-10-23"
+  },
+  {
+    "id": "C38_概览历史周切换",
+    "note": "历史周切换后的加载现场；稍后出现sat全科测试，最终用C40，不保留无数据结论。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:55:14.633Z",
+    "initial_note": "SAT班周区间切为2026-09-21至09-27，提供课程/作业/模考图例；本次仍为空，不据此否定功能。",
+    "reviewed": "2026-10-23"
+  },
+  {
+    "id": "C39_概览日期选择",
+    "note": "概览日期输入可打开日期选择面板。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:55:15.140Z"
+  },
+  {
+    "id": "C40_概览作业与完成情况",
+    "note": "SAT班9/21-9/27周概览加载后显示sat全科测试和完成情况1/1。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:55:25.140Z"
+  },
+  {
+    "id": "C41_概览作业详情参与学生",
+    "note": "概览任务打开作业详情，显示日期题量批改老师、均分、完成/批改数及参与学生、统计、排行榜、AI分析、再次布置和预览入口。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:55:48.065Z"
+  },
+  {
+    "id": "C42_作业提交统计与催交入口",
+    "note": "统计含未提交/已提交/待批阅/已批改比例、名单切换、催交作业、复制名单。未催交或复制。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:55:55.557Z"
+  },
+  {
+    "id": "C43_作业排行榜",
+    "note": "排行榜页面的实际字段和排行展示。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:55:56.061Z"
+  },
+  {
+    "id": "C44_作业排行榜分享海报",
+    "note": "分享排行打开作业排行榜海报预览，含作业、时间、名次、姓名、分数、状态及下载按钮；未发送。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:56:31.217Z"
+  },
+  {
+    "id": "C45_模考作业编辑器",
+    "note": "从班级快捷进入模考编辑器，包含科目题库、题目选择、作业名、班级/学生/批改老师、起止时间、模式、预览和布置等。未布置。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:57:48.450Z"
+  },
+  {
+    "id": "C46_自定义作业与附件",
+    "note": "自定义作业含标题、起止时间、班级/学生/老师、科目、倒计时、富文本、附件、本地/云盘、保存和布置。界面注明附件50M、视频300M、最多9个。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:58:14.094Z"
+  },
+  {
+    "id": "C47_自定义答题卡题型",
+    "note": "答题卡提供单选、多选、填空、写作、口语、Excel上传。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:58:20.791Z"
+  },
+  {
+    "id": "C48_答题卡单选题草稿",
+    "note": "单选答题卡新增过程中间记录；最终字段用C49，未见分值字段。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:58:21.397Z",
+    "initial_note": "添加单选题到本地答题卡编辑草稿，记录题号/选项/答案/分值等可见字段；未确认。",
+    "reviewed": "2026-10-23"
+  },
+  {
+    "id": "C49_单选答题卡字段核验",
+    "note": "答题卡新增题号1、可选题干、正确选项输入、选择知识点、拖拽排序提示和全部删除；不描述未见分值字段。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:58:40.678Z"
+  },
+  {
+    "id": "C50_自定义作业历史存档",
+    "note": "历史作业有关键词搜索、科目筛选、来源、存档日期、单选复用和删除入口。未复用或删除。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:58:55.675Z"
+  },
+  {
+    "id": "C51_打卡作业配置",
+    "note": "打卡作业配置的实际字段，未保存或布置。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:59:08.507Z"
+  },
+  {
+    "id": "C52_打卡作答形式菜单",
+    "note": "学生作答形式菜单；打卡含补卡与同学答案可见开关。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:59:16.216Z"
+  },
+  {
+    "id": "C53_视频课件作业配置",
+    "note": "视频课件配置实际包含学习名称、班级/学生、时段、关联文件和资源选择；不包含本图未见的批改老师或倒计时。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:59:30.225Z",
+    "initial_note": "视频课件作业含名称、班级学生、老师、时段、倒计时和资源选择等实际界面。",
+    "reviewed": "2026-10-23"
+  },
+  {
+    "id": "C54_课件共享云盘资源",
+    "note": "课件页签已选中，截图仍为我的云盘；共享课件资源加载结果用C55。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:59:46.892Z",
+    "initial_note": "视频课件作业区分音视频/课件、我的云盘/共享云盘，显示上传和资源目录/列表。未上传或布置。",
+    "reviewed": "2026-10-23"
+  },
+  {
+    "id": "C55_共享课件列表核验",
+    "note": "共享云盘选中后的实际课件资源列表。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T01:59:59.624Z"
+  },
+  {
+    "id": "C56_常用作业复用入口",
+    "note": "常用作业弹窗有常用/班级作业页签、名称搜索、已选计数、发布时间/截止时间、拷贝作业。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T02:00:38.835Z"
+  },
+  {
+    "id": "C57_班级作业拷贝选择",
+    "note": "班级作业来源页面的班级选择与作业选择，未拷贝。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T02:00:47.817Z"
+  },
+  {
+    "id": "C58_可拷贝班级作业样例",
+    "note": "选择SAT班后列出作业、完成情况、平均分、发布时间/截止时间和预览；可多选后拷贝，未执行拷贝。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T02:01:29.460Z"
+  },
+  {
+    "id": "C59_班级类型菜单核验",
+    "note": "班级类型下拉实际显示全部、一对一、一对多。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T02:03:16.774Z"
+  },
+  {
+    "id": "C60_作业类型菜单核验",
+    "note": "作业类型实际含全部、单词作业、作业模考、视频课件、打卡作业、实时作业。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T02:03:53.565Z"
+  },
+  {
+    "id": "C61_自定义作业富文本与附件区域",
+    "note": "自定义作业下部清晰显示富文本工具、答题倒计时、附件容量说明及本地上传/云盘。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c",
+    "time": "2026-10-23T02:04:17.711Z"
+  },
+  {
+    "id": "C62_成员进入学员档案",
+    "note": "点击成员王小格打开同页学员档案，自动姓名检索并提供返回我的班级；直接关联信息、学习报告等7页签。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=f&stutab=0",
+    "time": "2026-10-23T02:04:39.026Z"
+  },
+  {
+    "id": "C63_课程详情浮层核验",
+    "note": "课程浮层可见时直接截取视口，包含班级日期时段老师内容人数校区地址。",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c&stutab=0",
+    "time": "2026-10-23T02:05:52.568Z"
+  }
+]

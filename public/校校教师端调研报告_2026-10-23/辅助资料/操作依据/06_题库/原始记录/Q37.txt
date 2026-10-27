@@ -1,0 +1,287 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- radiogroup:
+  - button " 按试卷":
+    - generic: 
+    - generic: 按试卷
+  - button "按篇章":
+    - generic: 按篇章
+  - separator
+  - button "我的试卷":
+    - generic: 我的试卷
+  - button "共享试卷":
+    - generic: 共享试卷
+- generic: 科目
+- generic "新托福2026"
+- generic "雅思"
+- generic "SAT机考"
+- generic "SAT"
+- generic "小托福"
+- generic "ACT"
+- generic "GRE"
+- generic "KET"
+- generic "PET"
+- generic "AP"
+- generic: 学科
+- generic "AP Physics 1:Algebra-Based"
+- 'generic "AP Physics 2: Algebra-Based"'
+- 'generic "AP Physics C: Electricity and Magnetism"'
+- 'generic "AP Physics C: Mechanics"'
+- generic "AP Precalculus"
+- generic "AP Calculus BC"
+- generic "AP Microeconomics"
+- 'generic "AP World History: Modern"'
+- generic "AP Psychology"
+- generic "AP U.S. History"
+- generic "AP Macroeconomics"
+- generic "AP Calculus AB"
+- generic "AP Chemistry"
+- generic "AP Statistics"
+- generic "AP Biology"
+- generic "AP Computer Science Principles"
+- generic "AP Computer Science A"
+- text: 
+- generic: 来源
+- button "开放题库" [disabled]
+- checkbox [checked]:
+  - checkbox [checked]
+- generic: 不限
+- checkbox:
+  - checkbox
+- generic: "Physics 1: Algebra-Based 新大纲样题"
+- checkbox:
+  - checkbox
+- generic: Physics 1 Progress Check
+- checkbox:
+  - checkbox
+- generic: Physics 1:Algebra-Based 机经
+- text:        
+- generic: 知识点
+- generic: 
+- generic: 技能
+- generic: 
+- button "级别 ":
+  - text: 级别
+  - generic: 
+- text:      
+- generic: 筛选
+- generic: 排序
+- button "重置"
+- generic: 
+- textbox "搜索试卷"
+- button "查看已选"
+- generic: 
+- generic: 
+- generic: Physics 1 Progress Check Unit 7
+- generic: 困难
+- generic: 正确率
+- generic: 28%
+- generic: 题目数
+- generic: "46"
+- generic: 中位分
+- generic: "56"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: Physics 1 Progress Check Unit 6
+- generic: 困难
+- generic: 正确率
+- generic: 33%
+- generic: 题目数
+- generic: "24"
+- generic: 中位分
+- generic: "66"
+- generic: 方差
+- generic: "5.5"
+- generic: 中位用时
+- generic: 30min
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: Physics 1 Progress Check Unit 5
+- generic: 困难
+- generic: 正确率
+- generic: 37%
+- generic: 题目数
+- generic: "37"
+- generic: 中位分
+- generic: "73"
+- generic: 方差
+- generic: "4"
+- generic: 中位用时
+- generic: 44min
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: Physics 1 Progress Check Unit 4
+- generic: 偏难
+- generic: 正确率
+- generic: 43%
+- generic: 题目数
+- generic: "34"
+- generic: 中位分
+- generic: "86"
+- generic: 方差
+- generic: "3"
+- generic: 中位用时
+- generic: 48min
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: Physics 1 Progress Check Unit 3
+- generic: 偏难
+- generic: 正确率
+- generic: 40%
+- generic: 题目数
+- generic: "46"
+- generic: 中位分
+- generic: "80"
+- generic: 方差
+- generic: "5"
+- generic: 中位用时
+- generic: 45min
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: Physics 1 Progress Check Unit 2
+- generic: 困难
+- generic: 正确率
+- generic: 39%
+- generic: 题目数
+- generic: "44"
+- generic: 中位分
+- generic: "77"
+- generic: 方差
+- generic: "7"
+- generic: 中位用时
+- generic: 36min
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: Physics 1 Progress Check Unit 1
+- generic: 困难
+- generic: 正确率
+- generic: 35%
+- generic: 题目数
+- generic: "18"
+- generic: 中位分
+- generic: "70"
+- generic: 方差
+- generic: "6.5"
+- generic: 中位用时
+- generic: 24min
+- generic: 区分度
+- generic: "0.01"
+- button "预览"
+- button "查看"
+- generic: "2025-Physics 1: Algebra-Based 新大纲样题3"
+- generic: 困难
+- generic: 正确率
+- generic: 33%
+- generic: 题目数
+- generic: "44"
+- generic: 中位分
+- generic: "75"
+- generic: 方差
+- generic: "10"
+- generic: 中位用时
+- generic: 44min
+- generic: 区分度
+- generic: "0.28"
+- button "预览"
+- button "查看"
+- generic: "2025-Physics 1: Algebra-Based 新大纲样题2"
+- generic: 困难
+- generic: 正确率
+- generic: 36%
+- generic: 题目数
+- generic: "44"
+- generic: 中位分
+- generic: "75"
+- generic: 方差
+- generic: "9"
+- generic: 中位用时
+- generic: 51min
+- generic: 区分度
+- generic: "0.27"
+- button "预览"
+- button "查看"
+- generic: "2025-Physics 1: Algebra-Based 新大纲样题1"
+- generic: 困难
+- generic: 正确率
+- generic: 32%
+- generic: 题目数
+- generic: "44"
+- generic: 中位分
+- generic: "68"
+- generic: 方差
+- generic: "10"
+- generic: 中位用时
+- generic: 60min
+- generic: 区分度
+- generic: "0.25"
+- button "预览"
+- button "查看"
+- text:              
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text: 
+- 'tooltip "Science Practice 1: Creating Representations  Science Practice 2: Mathematical Routines  Science Practice 3: Scientific Questioning and Argumentation "':
+  - 'generic "Science Practice 1: Creating Representations"'
+  - generic: 
+  - 'generic "Science Practice 2: Mathematical Routines"'
+  - generic: 
+  - 'generic "Science Practice 3: Scientific Questioning and Argumentation"'
+  - generic: 

@@ -1,0 +1,107 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	1 container
+		2 container myweb
+			3 container root-menu
+				4 container
+					5 image
+					6 text 首页
+				7 container
+					8 image
+					9 text 作业
+				10 container
+					11 image
+					12 text 课表
+				13 container
+					14 image
+					15 text 题库
+				16 container
+					17 image
+					18 text 单词书
+				19 container
+					20 image
+					21 text 错题
+				22 container
+					23 image
+					24 text 自适应
+				25 container
+					26 image
+					27 text 反馈
+				28 container
+					29 image
+					30 text 笔记
+				31 container
+					32 image
+					33 text 学习报告
+			34 container root-mv-right
+				35 container root-mv-header
+					36 image
+					37 container
+						38 text field (settable)
+						39 text 
+					40 button icon
+						41 image icon
+					42 container
+						43 text 
+						44 button icon
+							45 image icon
+					46 container
+						47 button icon
+							48 image icon
+						49 text 5
+					50 button icon
+						51 image icon
+					52 container
+						53 image
+						54 text 10
+					55 text 小格
+				56 container root-container
+					57 container
+						58 text 单词书 错词本
+					59 container
+						60 text 单词本学习 
+						61 button 进入小程序学习
+						62 image
+						63 text 56
+						64 text 累计已学单词
+						65 image
+						66 text 0
+						67 text 今天已学单词
+						68 image
+						69 text 19
+						70 text 待复习错词数
+						71 image
+					72 text 单词书
+					73 button 完成状态 ( 全部 ) 
+						74 text 完成状态
+						75 text (
+						76 text 全部
+						77 text )
+						78 text 
+					79 container
+						80 text 正确率
+						81 image
+					82 container
+						83 container
+							84 image
+							85 container
+								86 text 4 单元 222 词
+							87 text 陈梦昕生词本 李宝燕 ｜ 2026-03-24 ｜ 4 个单元 222 个单词 查看详情 展开列表
+							88 image
+							89 text 正确率 0%
+							90 image
+							91 text 完成度 0/4 梦昕 小格 姚姚 3 人已学习
+						92 container
+							93 image
+							94 container
+								95 text 4 单元 222 词
+							96 text 陈梦昕生词本 李宝燕 ｜ 2026-03-24 ｜ 4 个单元 222 个单词 查看详情 展开列表
+							97 image
+							98 text 正确率 34%
+							99 image
+							100 text 完成度 1/4 梦昕 小格 姚姚 3 人已学习
+		101 container 登录小程序 使用手机微信扫描二维码登录小程序, ID: el-popover-29
+			102 text 登录小程序
+			103 text 使用手机微信扫描二维码登录小程序
+
+The focused UI element is 61 button 进入小程序学习

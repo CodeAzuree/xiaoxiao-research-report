@@ -1,0 +1,546 @@
+{
+  "features": [
+    {
+      "id": "XX001",
+      "name": "教师待办事项",
+      "short_path": "/f/XX001",
+      "report_path": "/校校功能清单/B07_工作台与班级沟通.html#XX001"
+    },
+    {
+      "id": "XX002",
+      "name": "学员学习工作台",
+      "short_path": "/f/XX002",
+      "report_path": "/校校功能清单/B07_工作台与班级沟通.html#XX002"
+    },
+    {
+      "id": "XX003",
+      "name": "班级消息与作业通知",
+      "short_path": "/f/XX003",
+      "report_path": "/校校功能清单/B07_工作台与班级沟通.html#XX003"
+    },
+    {
+      "id": "XX004",
+      "name": "教学数据看板",
+      "short_path": "/f/XX004",
+      "report_path": "/校校功能清单/B06_学情分析与报告.html#XX004"
+    },
+    {
+      "id": "XX005",
+      "name": "AI教学数据问答",
+      "short_path": "/f/XX005",
+      "report_path": "/校校功能清单/B06_学情分析与报告.html#XX005"
+    },
+    {
+      "id": "XX006",
+      "name": "消息回复与重要标记",
+      "short_path": "/f/XX006",
+      "report_path": "/校校功能清单/B07_工作台与班级沟通.html#XX006"
+    },
+    {
+      "id": "XX007",
+      "name": "学员档案",
+      "short_path": "/f/XX007",
+      "report_path": "/校校功能清单/B01_教学对象与跟进.html#XX007"
+    },
+    {
+      "id": "XX008",
+      "name": "班级概况与成员",
+      "short_path": "/f/XX008",
+      "report_path": "/校校功能清单/B01_教学对象与跟进.html#XX008"
+    },
+    {
+      "id": "XX009",
+      "name": "班级作业情况",
+      "short_path": "/f/XX009",
+      "report_path": "/校校功能清单/B01_教学对象与跟进.html#XX009"
+    },
+    {
+      "id": "XX010",
+      "name": "个人练习记录",
+      "short_path": "/f/XX010",
+      "report_path": "/校校功能清单/B01_教学对象与跟进.html#XX010"
+    },
+    {
+      "id": "XX011",
+      "name": "个人学习日历",
+      "short_path": "/f/XX011",
+      "report_path": "/校校功能清单/B03_课程与学习计划.html#XX011"
+    },
+    {
+      "id": "XX012",
+      "name": "学习清单图片",
+      "short_path": "/f/XX012",
+      "report_path": "/校校功能清单/B03_课程与学习计划.html#XX012"
+    },
+    {
+      "id": "XX013",
+      "name": "回访记录",
+      "short_path": "/f/XX013",
+      "report_path": "/校校功能清单/B01_教学对象与跟进.html#XX013"
+    },
+    {
+      "id": "XX014",
+      "name": "考试成绩档案",
+      "short_path": "/f/XX014",
+      "report_path": "/校校功能清单/B01_教学对象与跟进.html#XX014"
+    },
+    {
+      "id": "XX015",
+      "name": "题库选题与组卷",
+      "short_path": "/f/XX015",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#XX015"
+    },
+    {
+      "id": "XX016",
+      "name": "学员自主选题",
+      "short_path": "/f/XX016",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#XX016"
+    },
+    {
+      "id": "XX017",
+      "name": "机构试卷与单题录入",
+      "short_path": "/f/XX017",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#XX017"
+    },
+    {
+      "id": "XX018",
+      "name": "题目讲解与备课",
+      "short_path": "/f/XX018",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#XX018"
+    },
+    {
+      "id": "XX019",
+      "name": "知识点库",
+      "short_path": "/f/XX019",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#XX019"
+    },
+    {
+      "id": "XX020",
+      "name": "教学云盘",
+      "short_path": "/f/XX020",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#XX020"
+    },
+    {
+      "id": "XX021",
+      "name": "作业大纲",
+      "short_path": "/f/XX021",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#XX021"
+    },
+    {
+      "id": "XX022",
+      "name": "大纲下发计划",
+      "short_path": "/f/XX022",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#XX022"
+    },
+    {
+      "id": "XX023",
+      "name": "Word／Excel批量录题",
+      "short_path": "/f/XX023",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#XX023"
+    },
+    {
+      "id": "XX024",
+      "name": "AI出题",
+      "short_path": "/f/XX024",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#XX024"
+    },
+    {
+      "id": "XX025",
+      "name": "试卷计时与分数换算",
+      "short_path": "/f/XX025",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#XX025"
+    },
+    {
+      "id": "XX026",
+      "name": "Excel词表导入",
+      "short_path": "/f/XX026",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#XX026"
+    },
+    {
+      "id": "XX027",
+      "name": "课堂白板",
+      "short_path": "/f/XX027",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#XX027"
+    },
+    {
+      "id": "XX028",
+      "name": "布置作业与学习规则",
+      "short_path": "/f/XX028",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX028"
+    },
+    {
+      "id": "XX029",
+      "name": "我的作业",
+      "short_path": "/f/XX029",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX029"
+    },
+    {
+      "id": "XX030",
+      "name": "词汇练习",
+      "short_path": "/f/XX030",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX030"
+    },
+    {
+      "id": "XX031",
+      "name": "听说读写专项练习",
+      "short_path": "/f/XX031",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX031"
+    },
+    {
+      "id": "XX032",
+      "name": "题型练习与模考",
+      "short_path": "/f/XX032",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX032"
+    },
+    {
+      "id": "XX033",
+      "name": "口语作业与批改",
+      "short_path": "/f/XX033",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX033"
+    },
+    {
+      "id": "XX034",
+      "name": "作文批改",
+      "short_path": "/f/XX034",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX034"
+    },
+    {
+      "id": "XX035",
+      "name": "自定义作业",
+      "short_path": "/f/XX035",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX035"
+    },
+    {
+      "id": "XX036",
+      "name": "打卡作业",
+      "short_path": "/f/XX036",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX036"
+    },
+    {
+      "id": "XX037",
+      "name": "课件学习（PDF／音视频）",
+      "short_path": "/f/XX037",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX037"
+    },
+    {
+      "id": "XX038",
+      "name": "实时作业",
+      "short_path": "/f/XX038",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX038"
+    },
+    {
+      "id": "XX039",
+      "name": "作业复用",
+      "short_path": "/f/XX039",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX039"
+    },
+    {
+      "id": "XX040",
+      "name": "作业完成情况与成绩",
+      "short_path": "/f/XX040",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX040"
+    },
+    {
+      "id": "XX041",
+      "name": "答题解析",
+      "short_path": "/f/XX041",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX041"
+    },
+    {
+      "id": "XX042",
+      "name": "老师评语",
+      "short_path": "/f/XX042",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX042"
+    },
+    {
+      "id": "XX043",
+      "name": "订正练习",
+      "short_path": "/f/XX043",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX043"
+    },
+    {
+      "id": "XX044",
+      "name": "错题集与错题再练",
+      "short_path": "/f/XX044",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#XX044"
+    },
+    {
+      "id": "XX045",
+      "name": "错词复习",
+      "short_path": "/f/XX045",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#XX045"
+    },
+    {
+      "id": "XX046",
+      "name": "答题录屏与监管",
+      "short_path": "/f/XX046",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX046"
+    },
+    {
+      "id": "XX047",
+      "name": "作业催交与名单复制",
+      "short_path": "/f/XX047",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX047"
+    },
+    {
+      "id": "XX048",
+      "name": "成绩发布、海报与导出",
+      "short_path": "/f/XX048",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX048"
+    },
+    {
+      "id": "XX049",
+      "name": "单词书学习",
+      "short_path": "/f/XX049",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#XX049"
+    },
+    {
+      "id": "XX050",
+      "name": "词书抽查",
+      "short_path": "/f/XX050",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#XX050"
+    },
+    {
+      "id": "XX051",
+      "name": "词汇量测评",
+      "short_path": "/f/XX051",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#XX051"
+    },
+    {
+      "id": "XX052",
+      "name": "考试目标与首次测评",
+      "short_path": "/f/XX052",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#XX052"
+    },
+    {
+      "id": "XX053",
+      "name": "题目笔记",
+      "short_path": "/f/XX053",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#XX053"
+    },
+    {
+      "id": "XX054",
+      "name": "AI题目答疑",
+      "short_path": "/f/XX054",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#XX054"
+    },
+    {
+      "id": "XX055",
+      "name": "笔记整理与回看",
+      "short_path": "/f/XX055",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#XX055"
+    },
+    {
+      "id": "XX056",
+      "name": "AI笔记分析",
+      "short_path": "/f/XX056",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#XX056"
+    },
+    {
+      "id": "XX057",
+      "name": "题目内容纠错",
+      "short_path": "/f/XX057",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#XX057"
+    },
+    {
+      "id": "XX058",
+      "name": "课程安排",
+      "short_path": "/f/XX058",
+      "report_path": "/校校功能清单/B03_课程与学习计划.html#XX058"
+    },
+    {
+      "id": "XX059",
+      "name": "课时明细",
+      "short_path": "/f/XX059",
+      "report_path": "/校校功能清单/B03_课程与学习计划.html#XX059"
+    },
+    {
+      "id": "XX060",
+      "name": "课堂考勤",
+      "short_path": "/f/XX060",
+      "report_path": "/校校功能清单/B03_课程与学习计划.html#XX060"
+    },
+    {
+      "id": "XX061",
+      "name": "课堂反馈",
+      "short_path": "/f/XX061",
+      "report_path": "/校校功能清单/B03_课程与学习计划.html#XX061"
+    },
+    {
+      "id": "XX062",
+      "name": "排课申请",
+      "short_path": "/f/XX062",
+      "report_path": "/校校功能清单/B03_课程与学习计划.html#XX062"
+    },
+    {
+      "id": "XX063",
+      "name": "阶段学习报告",
+      "short_path": "/f/XX063",
+      "report_path": "/校校功能清单/B06_学情分析与报告.html#XX063"
+    },
+    {
+      "id": "XX064",
+      "name": "报告定制与分享",
+      "short_path": "/f/XX064",
+      "report_path": "/校校功能清单/B06_学情分析与报告.html#XX064"
+    },
+    {
+      "id": "XX065",
+      "name": "个人AI学情分析",
+      "short_path": "/f/XX065",
+      "report_path": "/校校功能清单/B06_学情分析与报告.html#XX065"
+    },
+    {
+      "id": "XX066",
+      "name": "签到与校币展示",
+      "short_path": "/f/XX066",
+      "report_path": "/校校功能清单/B07_工作台与班级沟通.html#XX066"
+    },
+    {
+      "id": "XX067",
+      "name": "教师作业管理",
+      "short_path": "/f/XX067",
+      "report_path": "/校校功能清单/B04_作业教学.html#XX067"
+    }
+  ],
+  "modules": [
+    {
+      "id": "M01",
+      "name": "学员档案与跟进",
+      "short_path": "/m/M01",
+      "report_path": "/校校功能清单/B01_教学对象与跟进.html#M01"
+    },
+    {
+      "id": "M02",
+      "name": "班级管理",
+      "short_path": "/m/M02",
+      "report_path": "/校校功能清单/B01_教学对象与跟进.html#M02"
+    },
+    {
+      "id": "M03",
+      "name": "题库与试卷",
+      "short_path": "/m/M03",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#M03"
+    },
+    {
+      "id": "M04",
+      "name": "知识点与题目讲解",
+      "short_path": "/m/M04",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#M04"
+    },
+    {
+      "id": "M05",
+      "name": "教学文件管理",
+      "short_path": "/m/M05",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#M05"
+    },
+    {
+      "id": "M06",
+      "name": "教学大纲",
+      "short_path": "/m/M06",
+      "report_path": "/校校功能清单/B02_教学资源与教研.html#M06"
+    },
+    {
+      "id": "M07",
+      "name": "课程安排与课时",
+      "short_path": "/m/M07",
+      "report_path": "/校校功能清单/B03_课程与学习计划.html#M07"
+    },
+    {
+      "id": "M08",
+      "name": "个人学习计划",
+      "short_path": "/m/M08",
+      "report_path": "/校校功能清单/B03_课程与学习计划.html#M08"
+    },
+    {
+      "id": "M09",
+      "name": "课堂考勤与反馈",
+      "short_path": "/m/M09",
+      "report_path": "/校校功能清单/B03_课程与学习计划.html#M09"
+    },
+    {
+      "id": "M10",
+      "name": "作业布置与跟进",
+      "short_path": "/m/M10",
+      "report_path": "/校校功能清单/B04_作业教学.html#M10"
+    },
+    {
+      "id": "M11",
+      "name": "作业内容与题型",
+      "short_path": "/m/M11",
+      "report_path": "/校校功能清单/B04_作业教学.html#M11"
+    },
+    {
+      "id": "M12",
+      "name": "作业结果与批改",
+      "short_path": "/m/M12",
+      "report_path": "/校校功能清单/B04_作业教学.html#M12"
+    },
+    {
+      "id": "M13",
+      "name": "作业执行与订正",
+      "short_path": "/m/M13",
+      "report_path": "/校校功能清单/B04_作业教学.html#M13"
+    },
+    {
+      "id": "M14",
+      "name": "自主选题练习",
+      "short_path": "/m/M14",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#M14"
+    },
+    {
+      "id": "M15",
+      "name": "词汇学习",
+      "short_path": "/m/M15",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#M15"
+    },
+    {
+      "id": "M16",
+      "name": "错题与错词复习",
+      "short_path": "/m/M16",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#M16"
+    },
+    {
+      "id": "M17",
+      "name": "学习笔记与答疑",
+      "short_path": "/m/M17",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#M17"
+    },
+    {
+      "id": "M18",
+      "name": "考试目标与自适应",
+      "short_path": "/m/M18",
+      "report_path": "/校校功能清单/B05_自主学习与复习.html#M18"
+    },
+    {
+      "id": "M19",
+      "name": "教学统计与AI分析",
+      "short_path": "/m/M19",
+      "report_path": "/校校功能清单/B06_学情分析与报告.html#M19"
+    },
+    {
+      "id": "M20",
+      "name": "阶段学习报告",
+      "short_path": "/m/M20",
+      "report_path": "/校校功能清单/B06_学情分析与报告.html#M20"
+    },
+    {
+      "id": "M21",
+      "name": "教师与学员工作台",
+      "short_path": "/m/M21",
+      "report_path": "/校校功能清单/B07_工作台与班级沟通.html#M21"
+    },
+    {
+      "id": "M22",
+      "name": "班级消息与互动",
+      "short_path": "/m/M22",
+      "report_path": "/校校功能清单/B07_工作台与班级沟通.html#M22"
+    },
+    {
+      "id": "M23",
+      "name": "学习激励",
+      "short_path": "/m/M23",
+      "report_path": "/校校功能清单/B07_工作台与班级沟通.html#M23"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	1 container myweb
+		2 container root-menu
+			3 container
+				4 image
+				5 text 首页
+			6 container
+				7 image
+				8 text 作业
+			9 container
+				10 image
+				11 text 课表
+			12 container
+				13 image
+				14 text 题库
+			15 container
+				16 image
+				17 text 单词书
+			18 container
+				19 image
+				20 text 错题
+			21 container
+				22 image
+				23 text 自适应
+			24 container
+				25 image
+				26 text 反馈
+			27 container
+				28 image
+				29 text 笔记
+			30 container
+				31 image
+				32 text 学习报告
+		33 container root-mv-right
+			34 container root-mv-header
+				35 image
+				36 container
+					37 text field (settable)
+					56 text 
+				39 button icon
+					40 image icon
+				41 container
+					57 text 
+					43 button icon
+						44 image icon
+				45 container
+					46 button icon
+						47 image icon
+					48 text 5
+				49 button icon
+					50 image icon
+				51 container
+					52 image
+					53 text 10
+				54 text 小格
+			55 container root-container
+				58 container
+					59 text 单词书  单词书详情
+				60 container
+					61 image
+					62 text 4 单元
+					63 text 222 词
+				64 text 陈梦昕生词本
+				65 text 共 4 个单元 222 词
+				66 image
+				67 text 学习人数
+				68 text 3人
+				69 image
+				70 text 测试正确率
+				71 text 34%
+				72 image
+				73 text 完成度
+				74 text 1/4
+				75 container
+					76 text 3.8
+					77 text 
+					78 text  34% 已学完
+				79 container
+					80 text 7.01
+					81 text 
+					82 text  0% 未学习
+				83 container
+					84 text 7.03
+					85 text 
+					86 text  0% 未学习
+				87 container
+					88 text 7.08
+					89 text 
+					90 text  0% 未学习
+				91 container
+					92 text 44词
+					93 image
+					94 text 错词 查看结果
+					95 container word-list
+						96 container
+							97 text regarding
+							241 text 英 /rɪˈɡɑːdɪŋ/
+							242 text 美 /rɪˈɡɑːrdɪŋ/
+							100 text prep. 关于，至于；就……而论 v. 看待；（以特定方式）注视；注意；听从；涉及（regard 的现在分词） concerning; in relation to; with respect to. 例句 1.  I have a question regarding the homework. 我有一个关于作业的问题。
+						101 container
+							102 text supervisor
+							243 text 英 /ˈsuːpəvaɪzə(r)/
+							244 text 美 /ˈsuːpərvaɪzər/
+							105 text 监督人，指导者；[管理] 管理人；检查员 one who supervises or has charge and direction of 例句 1.  My supervisor helps me with my work. 我的监督者帮助我完成工作。
+						106 container
+							107 text accomplishment
+							245 text 英 /əˈkʌmplɪʃmənt/
+							246 text 美 /əˈkɑːmplɪʃmənt/
+							110 text n. 成就；完成；技艺，技能 the action of accomplishing something 例句 1.  Winning the science fair was a great accomplishment for her. 赢得科学展览对她来说是一个伟大的成就。
+						111 container
+							112 text hesitate
+							247 text 英 /ˈhezɪteɪt/
+							248 text 美 /ˈhezɪteɪt/
+							115 text vi. 踌躇，犹豫；不愿 vt. 踌躇，犹豫；有疑虑，不愿意 pause or hold back in uncertainty or unwillingness 例句 1.  I hesitate to ask for help. 我犹豫是否请求帮助。
+						116 container
+							117 text assistance
+							249 text 英 /əˈsɪstəns/
+							250 text 美 /əˈsɪstəns/
+							120 text n. 援助，帮助；辅助设备 the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose 例句 1.  I need assistance with my homework. 我需要帮助来完成我的作业。
+						121 container
+							122 text forthcoming
+							251 text 英 /ˌfɔːθˈkʌmɪŋ/
+							252 text 美 /ˌfɔːrθˈkʌmɪŋ/
+							125 text adj. 即将来临的 n. 来临 1. About to happen or appear; imminent. 2. Available when required or as promised; existing or ready for use. 3. Willing to provide information or assistance; helpful. 例句 1.  The forthcoming event will be very exciting. 即将到来的活动将会非常令人兴奋。
+						126 container
+							127 text stairwells
+							253 text 英 [ˈsteəˌwelz]
+							254 text 美 [ˈsterˌwelz]
+							130 text n. 楼梯井；楼梯间 A vertical space in a building that allows people to move between different levels, often featuring steps. 例句 1.  The stairwells in the building are very wide. 这栋楼的楼梯间非常宽敞。
+						131 container
+							132 text features
+							255 text 英 /ˈfiːtʃəz/
+							256 text 美 /fitʃər/
+							135 text n. 产品特点，特征；容貌；嘴脸（feature的复数） v. 是…的特色，使突出（feature的第三人称单数） a prominent aspect of something 例句 1.  The new phone has many exciting features. 这款新手机有许多令人兴奋的特点。
+						136 container
+							137 text installation
+							257 text 英 /ˌɪnstəˈleɪʃ(ə)n/
+							258 text 美 /ˌɪnstəˈleɪʃ(ə)n/
+							140 text n. 安装，装置；就职 the act of installing something (as equipment) 例句 1.  The installation of the new computer took only an hour. 新电脑的安装只花了一个小时。
+						141 container
+							142 text conducted
+							259 text 英 /ˈkɒndʌktid/
+							260 text 美 /kənˈdʌktɪd/
+							145 text v. 管理（conduct的过去分词）；引导；指挥 manner of acting or controlling yourself 例句 1.  The teacher conducted a fun science experiment. 老师进行了一个有趣的科学实验。
+						146 container
+							147 text leak
+							261 text 英 /liːk/
+							262 text 美 /liːk/
+							150 text v. 使渗漏，泄露；漏，渗；泄漏出去；透露 n. 泄漏；漏洞，裂缝；泄漏出的液体（或气体）；（秘密信息的）透露；撒尿；漏电 n. （美、印尼、新等）利克（人名） an accidental hole that allows something (fluid or light etc.) to enter or escape 例句 1.  Water can leak from a broken pipe. 水可以从破损的管道中泄漏。
+						151 container
+							152 text internship
+							263 text 英 /ˈɪntɜːnʃɪp/
+							264 text 美 /ˈɪntɜːrnʃɪp/
+							155 text n. 实习生；（美）实习期；实习医师职位 A period of work experience offered by an organization for a limited period of time, often to students or recent graduates, to gain practical skills and knowledge in a specific field. 例句 1.  She got an internship at a local hospital. 她在当地医院获得了一个实习机会。
+						156 container
+							157 text site
+							265 text 英 /saɪt/
+							266 text 美 /saɪt/
+							160 text n. 地点；位置；场所 vt. 设置；为…选址 the piece of land on which something is located (or is to be located) 例句 1.  The park is a great site for a picnic. 这个公园是野餐的好地方。
+						161 container
+							162 text treadmill
+							267 text 英 /ˈtredmɪl/
+							268 text 美 /ˈtredmɪl/
+							165 text n. 踏车，跑步机；单调的工作 an exercise device consisting of an endless belt on which a person can walk or jog without changing place 例句 1.  I like to exercise on the treadmill every morning. 我喜欢每天早上在跑步机上锻炼。
+						166 container
+							167 text wrap up
+							269 text 英 /ræp ʌp/
+							270 text 美 [ræp ʌp]
+							170 text 包裹；圆满完成；（使）穿得暖和（wrap somebody/yourself up）；注意力完全集中于…… arrange or fold as a cover or protection 例句 1.  Let's wrap up the meeting before lunch. 我们在午餐前结束会议吧。
+						171 container
+							172 text symposium
+							271 text 英 /sɪmˈpəʊziəm/
+							272 text 美 /sɪmˈpoʊziəm/
+							175 text n. 讨论会，座谈会；专题论文集；酒宴，宴会 a meeting or conference for the public discussion of some topic especially one in which the participants form an audience and make presentations 例句 1.  The symposium on climate change was very informative. 关于气候变化的研讨会非常有启发性。
+						176 container
+							177 text format
+							273 text 英 /ˈfɔːmæt/
+							274 text 美 /ˈfɔːrmæt/
+							180 text n. 格式；版式；开本 vt. 使格式化；规定…的格式 vi. 设计版式 the organization of information according to preset specifications (usually for computer processing) 例句 1.  The format of the book is very interesting. 这本书的格式非常有趣。
+						181 container
+							182 text source
+							275 text 英 /sɔːs/
+							276 text 美 /sɔːrs/
+							185 text n. 来源；水源；原始资料 n. 人名；(法)苏尔斯 the place where something begins, where it springs into being 例句 1.  The river is the source of the water for the town. 这条河是这个城镇的水源。
+						186 container
+							187 text comply
+							277 text 英 /kəmˈplaɪ/
+							278 text 美 /kəmˈplaɪ/
+							190 text vi. 遵守；顺从，遵从；答应 act in accordance with someone's rules, commands, or wishes 例句 1.  Students must comply with the school rules. 学生必须遵守学校规则。
+						191 container
+							192 text effect immediately
+							279 text 英 [ɪˈfekt]
+							280 text 美 [ɪˈfekt]
+							195 text 立即生效 To bring about or cause to happen, especially to make something operative or bring it into force. 例句 1.  The company must effect immediately the new safety rules. 公司必须立即实施新的安全规定。
+						196 container
+							197 text commemorate
+							281 text 英 /kəˈmeməreɪt/
+							282 text 美 /kəˈmeməreɪt/
+							200 text vt. 庆祝，纪念；成为…的纪念 mark by some ceremony or observation 例句 1.  We gather every year to commemorate our friendship. 我们每年聚在一起纪念我们的友谊。
+						201 container
+							202 text skyscraper
+							283 text 英 /ˈskaɪskreɪpə(r)/
+							284 text 美 /ˈskaɪskreɪpər/
+							205 text n. 摩天楼，超高层大楼；特别高的东西 a very tall building with many stories 例句 1.  The skyscraper is the tallest building in the city. 这座摩天大楼是城市中最高的建筑。
+						206 container
+							207 text sustainability
+							285 text 英 /səˌsteɪnəˈbɪləti/
+							286 text 美 /səˌsteɪnəˈbɪləti/
+							210 text n. 持续性；永续性；能维持性 the property of being sustainable 例句 1.  Sustainability is important for our planet's future. 可持续性对我们星球的未来很重要。
+						211 container
+							212 text mural
+							287 text 英 /ˈmjʊərəl/
+							288 text 美 /ˈmjʊrəl/
+							215 text n. 壁画 adj. （似）墙的，与墙有关的；（与）体腔壁有关的 a painting that is applied to a wall surface 例句 1.  The mural on the school wall is very colorful. 学校墙上的壁画非常多彩。
+						216 container
+							217 text alternative
+							289 text 英 /ɔːlˈtɜːnətɪv/
+							290 text 美 /ɔːlˈtɜːrnətɪv/
+							220 text adj. 供选择的；选择性的；交替的 n. 二中择一；供替代的选择 one of a number of things from which only one can be chosen 例句 1.  We can choose an alternative route to avoid traffic. 我们可以选择一条替代路线以避开交通。
+						221 container
+							222 text faculty
+							291 text 英 /ˈfæk(ə)lti/
+							292 text 美 /ˈfæk(ə)lti/
+							225 text n. 科，系；能力，官能；全体教员 one of the inherent cognitive or perceptual powers of the mind 例句 1.  The faculty of science offers many interesting courses. 科学学院提供许多有趣的课程。
+						226 container
+							227 text platform
+							293 text 英 /ˈplætfɔːm/
+							294 text 美 /ˈplætfɔːrm/
+							230 text n. 平台；月台，站台；坛；讲台；厚底松糕鞋 a raised horizontal surface 例句 1.  The train arrives at the platform. 火车到达了站台。
+						231 container
+							232 text power go out
+							295 text 英 [ˈpaʊə ɡəʊ aʊt]
+							296 text 美 [ˈpaʊər ɡoʊ aʊt]
+							235 text 停电 A nonstandard multiword form that is not a recognized dictionary lemma in this exact shape. 例句 1.  In that scene, the power go out and the room turned silent. 在那一幕里，停电了，房间变得安静下来。
+						236 container
+							237 text fundraiser
+							297 text 英 /ˈfʌndreɪzə(r)/
+							298 text 美 /ˈfʌndreɪzər/
+							240 text n. 资金筹集人；资金筹集活动 someone who solicits financial contributions 例句 1.  The school organized a fundraiser to help local charities. 学校组织了一场筹款活动来帮助当地慈善机构。
+
+The focused UI element is 0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122

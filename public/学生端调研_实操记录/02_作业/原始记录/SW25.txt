@@ -1,0 +1,24 @@
+Browser tab: 55, Title: "测试结果", URL: "https://learninghub.xhd.cn/org/customHwk/result.html?stuid=243365&teacherid=&id=11359866&xiaov=20261122".
+0 AXWebArea 测试结果, URL: learninghub.xhd.cn/org/customHwk/result.html?stuid=243365&teacherid=&id=11359866&xiaov=20261122
+	1 container customResult
+		2 text 测试自定义
+		3 text 
+		4 container
+			5 container
+				6 text 作业结果 答题解析
+			7 container
+				8 text 题目
+				9 text 富文本内容
+				10 image
+				11 text 新建 DOCX 文档.docx
+				12 text 学生答案 得分 0.222222
+				13 image
+				14 text 00:00/03:50
+				15 slider Description: slider between 0 and 100, Value: 50
+				16 image 后退10秒
+				17 image 前进10秒
+				18 image 播放速度
+				19 image
+				20 text fdgdgggdfg
+
+The focused UI element is 0 AXWebArea 测试结果, URL: learninghub.xhd.cn/org/customHwk/result.html?stuid=243365&teacherid=&id=11359866&xiaov=20261122

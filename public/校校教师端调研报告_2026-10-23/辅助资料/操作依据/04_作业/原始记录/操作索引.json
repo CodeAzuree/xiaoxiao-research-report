@@ -1,0 +1,758 @@
+[
+  {
+    "id": "W01",
+    "note": "作业管理首页：十个分类入口、科目与状态筛选、卡片列表",
+    "time": "2026-10-23T02:27:54.492Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W02",
+    "note": "班级筛选支持关键字查找和选择班级",
+    "time": "2026-10-23T02:28:02.524Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W03",
+    "note": "作业排序可按开始时间或截止时间",
+    "time": "2026-10-23T02:28:07.414Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W04",
+    "note": "日期筛选展开双月日历与起止日期",
+    "time": "2026-10-23T02:28:24.683Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W05",
+    "note": "高级筛选包含结果页答案设置、布置老师、批改老师",
+    "time": "2026-10-23T02:28:30.608Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W06",
+    "note": "结果页答案筛选：不限、显示、不显示",
+    "time": "2026-10-23T02:28:41.021Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W07",
+    "note": "表格视图显示状态、收藏、班级、时间、老师、成绩及完成批改数",
+    "time": "2026-10-23T02:28:50.461Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W08",
+    "note": "他人布置的作业在更多菜单提供再次布置",
+    "time": "2026-10-23T02:28:55.478Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W09",
+    "note": "我布置的：当前教师发布的作业列表",
+    "time": "2026-10-23T02:29:02.231Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W10",
+    "note": "自己发布作业的更多菜单：再次布置、删除",
+    "time": "2026-10-23T02:29:08.901Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W11",
+    "note": "未下发作业入口及筛选框架，当前列表为空",
+    "time": "2026-10-23T02:29:13.756Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W12",
+    "note": "收藏作业列表入口，当前无收藏样例",
+    "time": "2026-10-23T02:29:20.638Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W13",
+    "note": "我的批改集中列出当前教师负责批改的作业",
+    "time": "2026-10-23T02:29:21.470Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W14",
+    "note": "打卡作业按打卡率汇总",
+    "time": "2026-10-23T02:29:32.156Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W15",
+    "note": "打卡详情：频次、日期轴、当天打卡率、提醒打卡入口",
+    "time": "2026-10-23T02:29:39.903Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W16",
+    "note": "打卡题目页展示任务要求：每天一个list",
+    "time": "2026-10-23T02:29:44.918Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W17",
+    "note": "打卡统计按日期显示完成进度、允许补卡开关、提交统计和催交复制入口",
+    "time": "2026-10-23T02:29:59.446Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W18",
+    "note": "打卡排行榜：打卡率、打卡天数、分享排行",
+    "time": "2026-10-23T02:30:09.777Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W19",
+    "note": "已有打卡提交：学生、发布时间、音频播放进度与倍速、批改评分",
+    "time": "2026-10-23T02:30:20.568Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W20",
+    "note": "打卡批改：A+至D等级、文字及图片点评、发布入口，未提交",
+    "time": "2026-10-23T02:30:26.615Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W21",
+    "note": "视频课件分类入口及空列表",
+    "time": "2026-10-23T02:30:53.388Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W22",
+    "note": "实时作业分类入口，当前暂无样例",
+    "time": "2026-10-23T02:31:00.710Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W23",
+    "note": "单词作业列表：题目数量、成绩与完成情况",
+    "time": "2026-10-23T02:31:06.852Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W24",
+    "note": "单词作业详情：参与学生、订正练习、逐题正确率及查看详情",
+    "time": "2026-10-23T02:31:12.611Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W25",
+    "note": "单词作业预览：混合测试、英美发音切换、听音拼写和下一题",
+    "time": "2026-10-23T02:31:42.400Z",
+    "url": "https://learninghub.xhd.cn/hwkx/org/publish.html?xpreview=7722562"
+  },
+  {
+    "id": "W26",
+    "note": "按作业名称搜索，列表与左侧数量随结果更新",
+    "time": "2026-10-23T02:32:10.183Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W27",
+    "note": "自定义作业参与学生：评分、提交时间及详情",
+    "time": "2026-10-23T02:32:29.285Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W28",
+    "note": "自定义结果页：总成绩、能力诊断、时长分析、评语、生成报告",
+    "time": "2026-10-23T02:32:53.924Z",
+    "url": "https://learninghub.xhd.cn/org/customHwk/result.html?stuid=243365&teacherid=31866&id=11359866&xiaov=20261122"
+  },
+  {
+    "id": "W29",
+    "note": "答题解析对照题目和学生答案，可见附件、音频控制和得分输入",
+    "time": "2026-10-23T02:32:58.753Z",
+    "url": "https://learninghub.xhd.cn/org/customHwk/result.html?stuid=243365&teacherid=31866&id=11359866&xiaov=20261122"
+  },
+  {
+    "id": "W30",
+    "note": "答题录屏入口与答题异常分析，本样例暂无录屏分析数据",
+    "time": "2026-10-23T02:33:05.867Z",
+    "url": "https://learninghub.xhd.cn/org/customHwk/result.html?stuid=243365&teacherid=31866&id=11359866&xiaov=20261122"
+  },
+  {
+    "id": "W31",
+    "note": "添加评语支持3000字文字及音频/录音，未保存",
+    "time": "2026-10-23T02:33:16.173Z",
+    "url": "https://learninghub.xhd.cn/org/customHwk/result.html?stuid=243365&teacherid=31866&id=11359866&xiaov=20261122"
+  },
+  {
+    "id": "W32",
+    "note": "自定义作业统计页实际展示题干与附件",
+    "time": "2026-10-23T02:33:27.539Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W33",
+    "note": "模考参与学生：订正笔记、订正练习、分数、提交时间及逐题答案",
+    "time": "2026-10-23T02:33:50.485Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W34",
+    "note": "AI作业分析包含完成情况、作答情况和建议",
+    "time": "2026-10-23T02:34:01.190Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W35",
+    "note": "模考提交统计：四阶段进度、名单、催交与复制入口",
+    "time": "2026-10-23T02:34:26.439Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W36",
+    "note": "AI作业分析已生成三部分文字，数字和建议仅为AI输出不作规则依据",
+    "time": "2026-10-23T02:34:26.743Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W37",
+    "note": "模考排行榜展示分数、状态、提交时间和分享排行",
+    "time": "2026-10-23T02:34:27.007Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W38",
+    "note": "AI已生成分析浮层最终画面",
+    "time": "2026-10-23T02:34:39.162Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W39",
+    "note": "模考排行榜完整画面",
+    "time": "2026-10-23T02:34:39.366Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W40",
+    "note": "分享排行生成带名次、姓名、分数与状态的海报，支持下载",
+    "time": "2026-10-23T02:35:05.407Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W41",
+    "note": "布置作业七种入口，未选班级时提示先选班级",
+    "time": "2026-10-23T02:35:25.150Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W42",
+    "note": "基础练习：单词/读听写说、单次多次抽查、来源、14类作答方式及词库",
+    "time": "2026-10-23T02:35:47.289Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W43",
+    "note": "单词多次布置入口，顶部操作相应变化",
+    "time": "2026-10-23T02:36:08.650Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W44",
+    "note": "多次单词：词库单元、日期范围、起始词序、每日布置量、查看已发布",
+    "time": "2026-10-23T02:36:21.218Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W45",
+    "note": "基础阅读：语法、长难句、精读、逻辑、改错、词汇专项与能力筛选",
+    "time": "2026-10-23T02:36:33.291Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W46",
+    "note": "阅读基础练习加载后：题目正文、正确率、已布置次数、搜索排序、添加全部",
+    "time": "2026-10-23T02:36:47.468Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W47",
+    "note": "基础听力分项：精听、逐句精听、单词词组听写、句子练习和听写",
+    "time": "2026-10-23T02:36:57.779Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W48",
+    "note": "基础写作：句子翻译，按句型能力筛选",
+    "time": "2026-10-23T02:37:04.241Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W49",
+    "note": "基础口语：口语跟读、篇章跟读及显示口语原文设置",
+    "time": "2026-10-23T02:37:12.666Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W50",
+    "note": "SAT结果：总分与分项成绩、能力诊断、知识点稳定程度和高错点",
+    "time": "2026-10-23T02:37:24.425Z",
+    "url": "https://learninghub.xhd.cn/org/sat/result.html?id=14254517&stubj=&qid=&teacherid=31866&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W51",
+    "note": "模考答题解析：分项与Module题号、耗时、材料、答案、题目解析和笔记",
+    "time": "2026-10-23T02:37:29.669Z",
+    "url": "https://learninghub.xhd.cn/org/sat/result.html?id=14254517&stubj=&qid=&teacherid=31866&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W52",
+    "note": "巩固训练页提供订正练习状态与查看入口",
+    "time": "2026-10-23T02:37:39.016Z",
+    "url": "https://learninghub.xhd.cn/org/sat/result.html?id=14254517&stubj=&qid=&teacherid=31866&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W53",
+    "note": "模考结果提供分析与建议页",
+    "time": "2026-10-23T02:37:39.621Z",
+    "url": "https://learninghub.xhd.cn/org/sat/result.html?id=14254517&stubj=&qid=&teacherid=31866&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W54",
+    "note": "题型训练随班级科目切换，本样例展示AP学科分类、学科和技能",
+    "time": "2026-10-23T02:37:50.342Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W55",
+    "note": "雅思专项训练：听阅写说、知识点、来源、题组正确率与更新时间",
+    "time": "2026-10-23T02:39:00.997Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W56",
+    "note": "模考测试：雅思模式、组卷或整套、分项与试卷来源",
+    "time": "2026-10-23T02:39:07.169Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W57",
+    "note": "机构题库按科目与题型筛选机构自有题目",
+    "time": "2026-10-23T02:39:13.630Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W58",
+    "note": "自定义作业：材料、答题卡、历史存档、附件和保存预览布置",
+    "time": "2026-10-23T02:39:22.527Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W59",
+    "note": "打卡作业：标题、内容、媒体、班级学生、周期、频次、提醒、回答形式及补卡互看设置",
+    "time": "2026-10-23T02:39:29.205Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W60",
+    "note": "视频课件：学习名称、接收对象、起止时间、音视频或课件、我的或共享云盘",
+    "time": "2026-10-23T02:39:35.039Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W61",
+    "note": "SAT录屏页有实际异常记录：疑似切屏、无操作、答题中断及时间说明",
+    "time": "2026-10-23T02:39:53.129Z",
+    "url": "https://learninghub.xhd.cn/org/sat/result.html?id=14254517&stubj=&qid=&teacherid=31866&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W62",
+    "note": "答题回放播放入口与异常时间线",
+    "time": "2026-10-23T02:40:14.958Z",
+    "url": "https://learninghub.xhd.cn/org/sat/result.html?id=14254517&stubj=&qid=&teacherid=31866&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W63",
+    "note": "SAT模考：机考或笔试、组卷或整套、读写数学写作与题目来源",
+    "time": "2026-10-23T02:40:47.786Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W64",
+    "note": "学生选择按班级展开并可关键词搜索，本次展开暂无学生项",
+    "time": "2026-10-23T02:41:11.454Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W65",
+    "note": "批改老师可搜索并复选，当前教师已选且不可取消",
+    "time": "2026-10-23T02:41:29.433Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W66",
+    "note": "选择题组后自动带入作业名，显示已选数量与题组",
+    "time": "2026-10-23T02:41:42.493Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W67",
+    "note": "已选题组面板按分项分组，支持移除和全部删除",
+    "time": "2026-10-23T02:41:48.038Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W68",
+    "note": "布置前可分别预览答题页和结果页",
+    "time": "2026-10-23T02:41:57.574Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W69",
+    "note": "SAT答题预览：考试计时、标记复习、笔记高亮、计算器、题号导航与下一题",
+    "time": "2026-10-23T02:42:16.872Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W70",
+    "note": "倒计时可开启并设置整个作业的分钟数，SAT专项按知识点类型筛题",
+    "time": "2026-10-23T02:42:38.454Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W71",
+    "note": "答题卡支持单选、多选、填空、写作、口语及Excel上传",
+    "time": "2026-10-23T02:43:09.981Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W72",
+    "note": "答题卡单选草稿：题号、题干、正确选项、知识点、拖拽排序",
+    "time": "2026-10-23T02:43:16.830Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W73",
+    "note": "历史存档：名称搜索、科目、来源、存档日期与复用删除入口",
+    "time": "2026-10-23T02:43:22.365Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W74",
+    "note": "历史作业最终弹窗：来源科目日期与单选复用",
+    "time": "2026-10-23T02:43:37.567Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W75",
+    "note": "自定义作业附件：本地上传、云盘，单文件50M视频300M最多9个",
+    "time": "2026-10-23T02:43:44.355Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W76",
+    "note": "能力诊断中的知识点、稳定程度、正确数和正确率明细",
+    "time": "2026-10-23T02:44:52.302Z",
+    "url": "https://learninghub.xhd.cn/org/sat/result.html?id=14254517&stubj=&qid=&teacherid=31866&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W77",
+    "note": "解析下方：知识点、题目解析、名师讲解、笔记列表、学生和正确答案",
+    "time": "2026-10-23T02:44:57.691Z",
+    "url": "https://learninghub.xhd.cn/org/sat/result.html?id=14254517&stubj=&qid=&teacherid=31866&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W78",
+    "note": "题目知识点、解析/讲解/笔记切换与答案对照区域",
+    "time": "2026-10-23T02:45:09.145Z",
+    "url": "https://learninghub.xhd.cn/org/sat/result.html?id=14254517&stubj=&qid=&teacherid=31866&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W79",
+    "note": "模考排行榜最终完整画面：学生、排名、状态、分数、提交时间和详情分享",
+    "time": "2026-10-23T02:45:28.865Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W80",
+    "note": "打卡设置下半部：每周频次、提醒时间、作答形式、允许补卡与回答互看",
+    "time": "2026-10-23T02:52:39.892Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W81",
+    "note": "打卡周期和回答设置最终画面：频次、09:00提醒、回答形式、补卡、同学互看",
+    "time": "2026-10-23T02:52:58.244Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W82",
+    "note": "打卡回答形式下拉选项：图文、音频、视频",
+    "time": "2026-10-23T02:53:04.302Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W83",
+    "note": "实时作业复查：清空名称与其他筛选后，当前账号列表仍为空",
+    "time": "2026-10-23T03:07:05.137Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W84",
+    "note": "视频课件复查：名称为空且其他条件为全部，列表仍为空",
+    "time": "2026-10-23T03:07:23.756Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W85",
+    "note": "单词已批改样例：基础中级词汇听音选择，完成和批改均有记录",
+    "time": "2026-10-23T03:07:51.274Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W86",
+    "note": "已完成单词作业参与表：状态、订正练习、分数、提交时间、10题回答与正确率",
+    "time": "2026-10-23T03:08:10.658Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W87",
+    "note": "单词统计页：提交进度与名单，类型独立复查",
+    "time": "2026-10-23T03:08:27.046Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W88",
+    "note": "单词作业按已提交名单查看学生，附复制名单入口",
+    "time": "2026-10-23T03:08:42.631Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W89",
+    "note": "单词个人结果上半部：分数、词汇数量等数据已显示，持续加载遮罩覆盖页面",
+    "time": "2026-10-23T03:09:47.100Z",
+    "url": "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=5203368&stuid=125713&teacherid=&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W90",
+    "note": "单词结果持续加载；读音列表字段保存在原始页面记录，当前截图未显示列表全貌",
+    "time": "2026-10-23T03:09:53.484Z",
+    "url": "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=5203368&stuid=125713&teacherid=&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W91",
+    "note": "共享课件列表可选择PDF文件，含名称、大小、时间；已选班级王小格-SAT",
+    "time": "2026-10-23T03:12:46.901Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W92",
+    "note": "准备布置：王小格-SAT，关联1份共享PDF课件，2026-10-23 11:30至10-24 23:30",
+    "time": "2026-10-23T03:13:30.700Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W93",
+    "note": "点击布置后编辑器清空名称和已选文件，继续从列表核验是否新增",
+    "time": "2026-10-23T03:13:45.747Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W94",
+    "note": "新增课件作业已在列表出现：王小格-SAT、调研测试PDF任务，视频课件数量1",
+    "time": "2026-10-23T03:14:26.676Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W95",
+    "note": "课件详情为参与学生与课件两个页签，学生行显示0/1学习进度",
+    "time": "2026-10-23T03:14:45.539Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W96",
+    "note": "课件页签列出关联PDF文件，含文件图标与名称",
+    "time": "2026-10-23T03:15:08.480Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W97",
+    "note": "口语模考参与表：逐题得分与待批阅标签，订正笔记/练习和总分",
+    "time": "2026-10-23T03:16:56.198Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W98",
+    "note": "新托福口语结果：CEFR及6分/30分展示、分项题型分析，顶部导出PDF和发布成绩",
+    "time": "2026-10-23T03:17:39.128Z",
+    "url": "https://learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W99",
+    "note": "口语解析：题目与子问题、题干音频、原文、知识点和作答耗时",
+    "time": "2026-10-23T03:17:54.088Z",
+    "url": "https://learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W100",
+    "note": "口语批改：分项评分、总评、内容完整性/语言准确性/表达，AI批改与重新批改入口",
+    "time": "2026-10-23T03:18:02.264Z",
+    "url": "https://learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W101",
+    "note": "单词结果页再次尝试答题解析，加载遮罩仍在，保留已见功能范围",
+    "time": "2026-10-23T03:21:59.423Z",
+    "url": "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=5203368&stuid=125713&teacherid=&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W102",
+    "note": "口语分项批改：评分维度、分项得分入口、整体评价和学生答案",
+    "time": "2026-10-23T03:22:04.515Z",
+    "url": "https://learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W103",
+    "note": "口语分项评分下拉可选0—5分、0.5分间隔，仅展开未修改",
+    "time": "2026-10-23T03:22:14.267Z",
+    "url": "https://learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W104",
+    "note": "口语学生答案：录音播放、转写文本、题号切换、批改详情与文本标记",
+    "time": "2026-10-23T03:22:21.257Z",
+    "url": "https://learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W105",
+    "note": "模拟面试题具有润色口语页签，可查看润色后的完整回答",
+    "time": "2026-10-23T03:22:36.794Z",
+    "url": "https://learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W106",
+    "note": "已批改阅读写作混合作业：参与学生、分项成绩与42道题明细",
+    "time": "2026-10-23T03:23:36.508Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W107",
+    "note": "雅思写作题目材料：Task 1表格配图；批改工具截图见W109—W112及W125",
+    "time": "2026-10-23T03:24:03.499Z",
+    "url": "https://learninghub.xhd.cn/org/IELTS/result.html?id=11150782&stubj=&qid=&stuid=108539&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W108",
+    "note": "写作逐句批改入口：原文/批改内容/修改建议结构，未启用AI时内容被遮罩，不能作为实际批改结果",
+    "time": "2026-10-23T03:24:15.200Z",
+    "url": "https://learninghub.xhd.cn/org/IELTS/result.html?id=11150782&stubj=&qid=&stuid=108539&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W109",
+    "note": "写作题目知识点、AI智能批改说明与题目得分入口",
+    "time": "2026-10-23T03:24:21.423Z",
+    "url": "https://learninghub.xhd.cn/org/IELTS/result.html?id=11150782&stubj=&qid=&stuid=108539&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W110",
+    "note": "写作三种批改页签、字数/句数/句均词数及逐句批改受限状态",
+    "time": "2026-10-23T03:24:29.554Z",
+    "url": "https://learninghub.xhd.cn/org/IELTS/result.html?id=11150782&stubj=&qid=&stuid=108539&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W111",
+    "note": "写作人工批改：答卷内编号标记、不错/待提高标记、批改分类计数、隐藏/全屏/复制入口",
+    "time": "2026-10-23T03:24:43.786Z",
+    "url": "https://learninghub.xhd.cn/org/IELTS/result.html?id=11150782&stubj=&qid=&stuid=108539&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W112",
+    "note": "写作批改详情按分类展示编号批注，如动词、介词、冠词等建议",
+    "time": "2026-10-23T03:24:49.171Z",
+    "url": "https://learninghub.xhd.cn/org/IELTS/result.html?id=11150782&stubj=&qid=&stuid=108539&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W113",
+    "note": "自定义答卷上部：题目与学生图片区域、评分输入框；音视频及文字见W122/W123",
+    "time": "2026-10-23T03:25:06.425Z",
+    "url": "https://learninghub.xhd.cn/org/customHwk/result.html?stuid=243365&teacherid=31866&id=11359866&xiaov=20261122"
+  },
+  {
+    "id": "W114",
+    "note": "自定义作业结果页：总成绩、能力诊断的时长分析、评语入口和生成报告",
+    "time": "2026-10-23T03:25:11.577Z",
+    "url": "https://learninghub.xhd.cn/org/customHwk/result.html?stuid=243365&teacherid=31866&id=11359866&xiaov=20261122"
+  },
+  {
+    "id": "W115",
+    "note": "打卡提交下的教师点评：文字输入、图片入口和发布按钮，未发送",
+    "time": "2026-10-23T03:26:02.907Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W116",
+    "note": "打卡音频播放器和A+、A、B、C、D等级评分，未改分",
+    "time": "2026-10-23T03:26:07.652Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W117",
+    "note": "打卡统计：按日期切换统计、允许补卡开关（保持原状态）",
+    "time": "2026-10-23T03:26:19.247Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W118",
+    "note": "打卡日统计下的未提交/已提交/已批改名单，以及催交和复制名单入口",
+    "time": "2026-10-23T03:26:24.210Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W119",
+    "note": "打卡统计名单画面；日进度图最终以W120为准",
+    "time": "2026-10-23T03:26:30.892Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W120",
+    "note": "打卡日统计：10月02日的未提交、已提交、待批阅、已批改进度",
+    "time": "2026-10-23T03:33:42.951Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W121",
+    "note": "打卡统计名单的中间画面；自定义多媒体答案最终以W122/W123为准",
+    "time": "2026-10-23T03:35:05.584Z",
+    "url": "https://learninghub.xhd.cn/org/teacher.html?xiaov=2026112215&flagl=c12&stutab=0"
+  },
+  {
+    "id": "W122",
+    "note": "自定义学生答案的视频附件可弹窗预览，含时长、进度、音量和全屏控件",
+    "time": "2026-10-23T03:35:20.041Z",
+    "url": "https://learninghub.xhd.cn/org/customHwk/result.html?stuid=243365&teacherid=31866&id=11359866&xiaov=20261122"
+  },
+  {
+    "id": "W123",
+    "note": "自定义学生答案：图片、3分50秒音频、视频附件入口和文字可同时展示",
+    "time": "2026-10-23T03:35:25.602Z",
+    "url": "https://learninghub.xhd.cn/org/customHwk/result.html?stuid=243365&teacherid=31866&id=11359866&xiaov=20261122"
+  },
+  {
+    "id": "W124",
+    "note": "第二份已批改单词结果页也出现加载遮罩，结果字段可读取但暂不能切换解析",
+    "time": "2026-10-23T03:36:45.166Z",
+    "url": "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=5203367&stuid=133350&teacherid=&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W125",
+    "note": "写作分项批改：雷达图、细节/语法/语言能力/观点/组织与发展得分及分项评价",
+    "time": "2026-10-23T03:38:22.907Z",
+    "url": "https://learninghub.xhd.cn/org/IELTS/result.html?id=11150782&stubj=&qid=&stuid=108539&wrcd=1&xiaov=20261122"
+  },
+  {
+    "id": "W126",
+    "note": "模拟面试口语分项：观点切题、展开充分、逻辑连贯评分，学生录音45秒和不同维度批改详情",
+    "time": "2026-10-23T03:38:40.486Z",
+    "url": "https://learninghub.xhd.cn/org/tpo/tporesult.html?id=11688947&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122"
+  }
+]

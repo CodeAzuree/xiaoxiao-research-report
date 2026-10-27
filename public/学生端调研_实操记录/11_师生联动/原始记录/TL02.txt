@@ -1,0 +1,344 @@
+Browser tab: 67, Title: "老师管理后台", URL: "https://learninghub.xhd.cn/org/teacher.html?xiaov=20261122&flagl=c12".
+1 AXWebArea 老师管理后台, URL: learninghub.xhd.cn/org/teacher.html?xiaov=20261122&flagl=c12
+	2 container
+		3 container myweb
+			4 container root-menu
+				5 container
+					6 image
+					7 text 首页
+				8 container
+					9 image
+					10 text 学员
+				11 container
+					12 image
+					13 text 班级
+				14 container
+					15 image
+					16 text 作业
+				17 container
+					18 image
+					19 text 课表
+				20 container
+					21 image
+					22 text 题库
+				23 container
+					24 image
+					25 text 教研
+				26 container
+					27 image
+					28 text 云盘
+				29 container
+					30 image
+					31 text 申请
+			32 container root-mv-right
+				33 container root-mv-header
+					34 image
+					35 container
+						36 text field (settable)
+						37 text 
+					38 button icon
+						39 image icon
+					40 button icon
+						41 image icon
+					42 container
+						43 text 
+						44 button icon
+							45 image icon
+					46 container
+						47 button icon
+							48 image icon
+						49 text 246
+					50 button icon
+						51 image icon
+					52 container
+						53 image
+						54 text 0
+					55 text 思贤
+				56 container root-container
+					57 container
+						58 text 作业管理
+						237 text 
+						60 text 布置作业
+						61 content list
+							62 container
+								63 image
+								64 text 全部作业
+								65 text (1)
+							66 container
+								67 image
+								68 text 单词作业
+							69 container
+								70 image
+								71 text 打卡作业
+							72 container
+								73 image
+								74 text 作业模考
+							75 container
+								76 image
+								77 text 视频课件
+								78 text (1)
+							79 container
+								80 image
+								81 text 实时作业
+							82 container
+								83 image
+								84 text 未下发作业
+							85 container
+								86 image
+								87 text 我的批改
+								88 text (1)
+							89 container
+								90 image
+								91 text 我布置的
+								92 text (1)
+							93 container
+								94 image
+								95 text 收藏作业
+						238 text 实时作业
+						239 text 科目：
+						240 text 全部
+						241 text 雅思
+						242 text 托福
+						243 text AP
+						244 text SAT
+						245 text 状态：
+						246 text 全部
+						247 text 未开始
+						248 text 进行中
+						249 text 已完成
+						250 text 已逾期
+						251 text 未批改
+						252 text 部分批改
+						253 text 已批改
+						254 text 未查阅
+						255 text 部分查阅
+						256 text 已查阅
+						257 container
+							258 button 班级： ( 全部 ) 
+								259 text 班级：
+								260 text (
+								261 text 全部
+								262 text )
+								263 text 
+							264 text 时间
+							265 text 
+							266 container
+								267 text 
+							268 text field (settable)
+							269 text -
+							270 text field (settable)
+							271 text 筛选
+							272 container
+								273 text 排序
+								274 image
+							275 button 重置
+							276 text 
+							277 text field (settable) 【调研测试】视频课件-PDF详情_20261023
+							278 text 
+							279 button
+							280 button
+						281 text 暂无数据
+						188 container
+							189 text  返回作业管理
+						190 image
+						191 text 日期
+						192 text /
+						193 text 批改老师
+						194 text -
+						195 text 打卡频次 平均成绩 完成数 0 /- 批改数 0 /-
+						196 container
+							197 button AI作业分析
+								198 image
+								199 text AI作业分析
+							200 image
+						201 container
+							202 tab group
+								203 container
+									204 tab (selected, settable, boolean) 参与学生, Value: 1
+									205 tab (settable) 题目
+									206 tab (settable) 统计
+									207 tab (settable) 排行榜
+							208 text 当天打卡率 0% 0/0已打卡
+							209 image
+							210 text 暂无数据，还没有学生的打卡内容~
+						211 container
+							212 text  返回作业管理
+						213 image
+						214 text 日期
+						215 text /
+						216 text 题目数
+						217 text 批改老师
+						218 text -
+						219 text 平均成绩 完成数 0 /- 批改数 0 /-
+						220 container
+							221 button AI作业分析
+								222 image
+								223 text AI作业分析
+							224 image
+						225 button 再次布置
+						226 button 预览
+						227 tab group
+							228 container
+								229 tab (selected, settable, boolean) 参与学生, Value: 1
+								230 tab (settable) 统计
+								231 tab (settable) 排行榜
+						232 container
+							233 image
+							234 text 暂无数据~
+				235 image AI
+		236 container dialog
+			282 container
+				283 tab group
+					284 container
+						285 tab (selected, settable, boolean) 基础练习, Value: 1
+						286 tab (settable) 题型训练
+						287 tab (settable) 模考测试
+						288 tab (settable) 机构题库
+						289 tab (settable) 自定义作业
+						290 tab (settable) 打卡作业
+						291 tab (settable) 视频课件作业
+				292 button 新窗口打开
+				293 button 添加至常用作业
+				294 button 预览
+				295 button 布置
+				296 text 
+			297 container
+				298 container
+					299 text entry area (settable) 【调研测试】实时词汇联动_20261026
+					300 text 21/100
+				301 container
+					302 text 选择班级
+					303 text (1)
+					304 text 
+				305 container
+					306 text 选择学生
+					307 text 
+				308 container
+					309 text 批改老师
+					310 text (1)
+					311 text 
+				312 image
+				313 container
+					314 text 王小格-SAT
+					315 text 
+				316 container introStep1
+					317 image
+					318 text field (settable) 2026-10-26 09:50
+				319 combo box
+					320 text field (settable) 60分钟
+				321 text 提示：实时作业需要设置开始时间和考试时长哦~
+				322 container
+					323 image
+					324 text 关联音视频 ( 未关联 )
+				325 checkbox 开启实时作业, Value: 1
+					326 checkbox (settable, integer) Description: 开启实时作业, Value: 1
+					327 text 开启实时作业
+				328 image
+				329 checkbox 强监管模式, Value: 0
+					330 checkbox (settable, integer) Description: 强监管模式, Value: 0
+					331 text 强监管模式
+				332 image
+				333 heading 题型筛选, Value: 2
+					334 text 题型筛选
+				335 container
+					336 text 
+					337 text field (settable) 陈梦昕生词本
+					338 text 
+				339 text 题型
+				340 text 单词
+				341 text 读
+				342 text 听
+				343 text 写
+				344 text 说
+				345 text 布置类型
+				346 text 单次
+				347 text 多次
+				348 text 抽查
+				349 text 来源
+				350 text 自有
+				351 text 系统
+				352 text 作答方式
+				353 text (可多选)
+				354 container
+					355 image
+					356 text 全选
+				357 container
+					358 image
+					359 text 清除
+				360 text 听
+				361 text 音译中(选择)
+				362 text 音译中(填空)
+				363 text 音译英中
+				364 text 音译英
+				365 text 说
+				366 text 中译音
+				367 text 读
+				368 text 英译中(选择)
+				369 text 英译中(填空)
+				370 text 英译英(选择)
+				371 text 英译英(填空)
+				372 text 补全单词
+				373 text 写
+				374 text 中译英
+				375 text 选词填空
+				376 text 同义词替换(选择)
+				377 text 词库
+				378 text 陈梦昕生词本
+				379 heading 题目, Value: 2
+					380 text 题目
+				425 container
+					426 button 查看已选
+					432 text 1
+				382 text 3.8 本词库共44个单词
+				383 container
+					384 text 从第
+					385 stepper (settable, integer) 1
+					386 text 个单词
+				387 text ?
+				388 container
+					389 text 开始本次布置
+					390 stepper (settable, integer) 3
+					391 text 个
+				427 container 
+					437 text 
+				429 text 7.01 本词库共31个单词
+				393 container
+					394 text 从第
+					395 stepper (settable)
+					396 text 个单词
+				397 text ?
+				398 container
+					399 text 开始本次布置
+					400 stepper (settable)
+					401 text 个
+				402 text  7.03 本词库共113个单词
+				403 container
+					404 text 从第
+					405 stepper (settable)
+					406 text 个单词
+				407 text ?
+				408 container
+					409 text 开始本次布置
+					410 stepper (settable)
+					411 text 个
+				412 text  7.08 本词库共34个单词
+				413 container
+					414 text 从第
+					415 stepper (settable)
+					416 text 个单词
+				417 text ?
+				418 container
+					419 text 开始本次布置
+					420 stepper (settable)
+					421 text 个
+				422 text 
+				423 heading 已选择题目, Value: 2
+					424 text 已选择题目
+				430 button 全部删除
+				431 heading 单词记忆, Value: 2
+					433 text 单词记忆
+				434 text 
+				435 text 3.8从第1个单词开始的3个
+				436 text fundraiser, power go out, make of
+
+The focused UI element is 427 container 

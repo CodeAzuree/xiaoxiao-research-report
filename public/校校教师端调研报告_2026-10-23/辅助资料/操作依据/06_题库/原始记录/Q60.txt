@@ -1,0 +1,178 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- text:                   
+- generic: 单词书
+- generic: 
+- generic: 查看词表
+- paragraph: 1 单元
+- paragraph: 182 词
+- generic: SAT数学词汇
+- paragraph:
+  - text: 胡怡慧 ｜ 2026-09-14 ｜ 1 个单元
+  - generic: 182 个单词
+- generic: 学习人数
+- generic: 1 人
+- generic: 测试正确率
+- generic: 0%
+- generic: 完成率
+- generic: 0%
+- tablist:
+  - tab "参与学生" [active] [selected]
+  - tab "单词详情"
+- tabpanel "参与学生"
+- table:
+  - rowgroup:
+    - row "班级  测试形式 测试数量 限时设置 过关形式 开始时间 ( 全部 )  最近作答时间 完成度 ( 全部 )  正确率 ( 全部 )  操作":
+      - columnheader
+      - columnheader "班级 ":
+        - generic: 班级
+        - generic: 
+      - columnheader "测试形式":
+        - generic: 测试形式
+      - columnheader "测试数量":
+        - generic: 测试数量
+      - columnheader "限时设置":
+        - generic: 限时设置
+      - columnheader "过关形式":
+        - generic: 过关形式
+      - columnheader "开始时间 ( 全部 ) ":
+        - button "开始时间 ( 全部 ) ":
+          - text: 开始时间
+          - text: (
+          - generic: 全部
+          - text: )
+          - generic: 
+      - columnheader "最近作答时间":
+        - text: 最近作答时间
+      - columnheader "完成度 ( 全部 ) ":
+        - button "完成度 ( 全部 ) ":
+          - text: 完成度
+          - text: (
+          - generic: 全部
+          - text: )
+          - generic: 
+      - columnheader "正确率 ( 全部 ) ":
+        - button "正确率 ( 全部 ) ":
+          - text: 正确率
+          - text: (
+          - generic: 全部
+          - text: )
+          - generic: 
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup:
+    - row "杨宸【SAT】 看词选释义 100% 每个单词 5s 无 2026-09-14 16:00 2026-09-18 07:58 0 89 查看详情 删除":
+      - cell
+      - cell "杨宸【SAT】":
+        - generic: 杨宸【SAT】
+      - cell "看词选释义":
+        - generic: 看词选释义
+      - cell "100%":
+        - generic: 100%
+      - cell "每个单词 5s":
+        - generic: 每个单词 5s
+      - cell "无":
+        - generic: 无
+      - cell "2026-09-14 16:00":
+        - generic: 2026-09-14 16:00
+      - cell "2026-09-18 07:58":
+        - generic: 2026-09-18 07:58
+      - cell "0":
+        - progressbar:
+          - generic: 0/1
+      - cell "89":
+        - progressbar:
+          - generic: 89%
+      - cell "查看详情 删除":
+        - generic: 查看详情
+        - generic: 删除
+- table:
+  - rowgroup:
+    - row "学生姓名":
+      - columnheader "学生姓名":
+        - generic: 学生姓名
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+      - columnheader
+- table:
+  - rowgroup:
+    - row "杨宸 杨宸":
+      - cell "杨宸 杨宸":
+        - generic: 杨宸
+        - generic: 杨宸
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+- generic: 共 1 条
+- textbox "请选择": 10条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+- button "" [disabled]:
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- generic: 
+- text: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:                                        

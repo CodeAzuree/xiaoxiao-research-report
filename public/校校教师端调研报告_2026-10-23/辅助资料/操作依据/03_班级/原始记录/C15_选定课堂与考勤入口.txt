@@ -1,0 +1,134 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 我的班级
+- button "科目 ":
+  - generic: 科目
+  - generic: 
+- textbox "请输入班级名称": 测试班
+- generic: 
+- button "班级类型 ":
+  - text: 班级类型
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- generic: "02"
+- paragraph: 测试班002
+- paragraph: AP
+- paragraph:
+  - generic: 测试班002
+  - generic: 已开课
+  - text: (
+  - generic: 2025年06月18日
+  - text: )
+  - generic: "课程进度: 32/-"
+  - generic: 学生人数：1人
+- generic: 作业
+- generic: 课表
+- generic: 反馈
+- generic: 作业大纲
+- generic: 概览
+- list:
+  - generic: 王
+  - paragraph: 王小格
+  - paragraph: "17371065915"
+- generic: 添加评分意见
+- generic: 保存
+- textbox "请选择课堂" [active]: 团培雅思 (8)
+- generic: 
+- generic: 未出勤
+- generic: 修改班级学生考勤状态
+- generic: 课堂评分
+- generic: 发送对象
+- checkbox "学生"
+- generic: 学生
+- checkbox "学生家长"
+- generic: 学生家长
+- checkbox "本班所有家长"
+- generic: 本班所有家长
+- checkbox "本班所有学生"
+- generic: 本班所有学生
+- generic: 学习建议
+- generic: "*"
+- text: 复习检查
+- textbox "请输入反馈内容"
+- generic: 0/3000
+- generic: "*"
+- text: 课堂内容
+- textbox "请输入反馈内容"
+- generic: 0/3000
+- generic: "*"
+- text: 学员表现
+- textbox "请输入反馈内容"
+- generic: 0/3000
+- generic: "*"
+- text: 课后作业
+- textbox "请输入反馈内容"
+- generic: 0/3000
+- generic: "*"
+- text: 辅导要求
+- textbox "请输入反馈内容"
+- generic: 0/3000
+- generic: 图片
+- generic: AI一键生成
+- text: 
+- text:  
+- generic: 快捷功能
+- generic: 成员(1)
+- paragraph: 布置作业
+- paragraph: 模考作业
+- paragraph: 自定义作业
+- paragraph: 打卡作业
+- paragraph: 其他作业
+- paragraph: 常用作业
+- paragraph: 视频课件
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text: 

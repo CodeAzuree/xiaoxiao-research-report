@@ -1,0 +1,265 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- text:                     
+- generic: 单词书
+- generic: 
+- generic: 查看词表
+- generic: 能力英语
+- paragraph: 1 单元
+- paragraph: 36 词
+- generic: 徐乐生词本
+- paragraph:
+  - text: 杨馨怡 ｜ 2026-10-17 ｜ 1 个单元
+  - generic: 36 个单词
+- generic: 学习人数
+- generic: 0 人
+- generic: 测试正确率
+- generic: 0%
+- generic: 完成率
+- generic: 0%
+- tablist:
+  - tab "参与学生"
+  - tab "单词详情" [active] [selected]
+- tabpanel "单词详情"
+- button "新增单元" [disabled]:
+  - generic: 新增单元
+- generic: Unit1
+- generic: 正确率 0%
+- generic: 36 词
+- button "正确率排序 ( 正序 ) ":
+  - text: 正确率排序
+  - text: (
+  - generic: 正序
+  - text: )
+  - generic: 
+- generic: 信息不全
+- generic: "*红底为信息不全"
+- generic: 正确率 0%
+- generic: 36 词
+- paragraph: measure
+- paragraph: 测量
+- paragraph: A unit, standard, or means used for measuring, comparing, or regulating something; also a planned action taken to achieve a purpose.
+- progressbar:
+  - generic: 0%
+- paragraph: calculate
+- paragraph: 计算
+- paragraph: To determine or work out by using figures, reasoning, or measurement.
+- progressbar:
+  - generic: 0%
+- paragraph: instrument
+- paragraph: 乐器和工具
+- paragraph: A device or means used to produce a result; especially a musical device for producing sound.
+- progressbar:
+  - generic: 0%
+- paragraph: design
+- paragraph: 设计
+- paragraph: A plan, drawing, or arrangement that shows how something will look, work, or be made.
+- progressbar:
+  - generic: 0%
+- paragraph: obstacle
+- paragraph: 障碍物
+- paragraph: A thing that blocks progress or makes success difficult.
+- progressbar:
+  - generic: 0%
+- paragraph: presence
+- paragraph: 存在
+- paragraph: The state of being present; the fact that someone or something is in a place or exists.
+- progressbar:
+  - generic: 0%
+- paragraph: vision
+- paragraph: 视觉
+- paragraph: The ability to see, or an idea of what the future should be like.
+- progressbar:
+  - generic: 0%
+- paragraph: through
+- paragraph: 通过
+- paragraph: Used to indicate the means, agency, method, or route by which something happens or is done.
+- progressbar:
+  - generic: 0%
+- paragraph: perceive
+- paragraph: 感知
+- paragraph: To become aware of or understand something through the senses or the mind.
+- progressbar:
+  - generic: 0%
+- paragraph: suffer
+- paragraph: 遭受
+- paragraph: to experience pain, loss, damage, or other unpleasant effects; to be affected by an illness or problem
+- progressbar:
+  - generic: 0%
+- paragraph: fire
+- paragraph: 火灾
+- paragraph: A burning mass of flame and heat, or an instance of something burning.
+- progressbar:
+  - generic: 0%
+- paragraph: role
+- paragraph: 角色
+- paragraph: A part played by a person in a film, play, organization, situation, or process; also the function or importance something has in a situation.
+- progressbar:
+  - generic: 0%
+- paragraph: gale
+- paragraph: 大风
+- paragraph: A very strong wind, especially one of Beaufort force 8 or above.
+- progressbar:
+  - generic: 0%
+- paragraph: cause
+- paragraph: 导致
+- paragraph: A reason or source that makes something happen; the factor behind an event or condition.
+- progressbar:
+  - generic: 0%
+- paragraph: repair
+- paragraph: 修理
+- paragraph: to put something broken, damaged, or faulty back into good condition.
+- progressbar:
+  - generic: 0%
+- paragraph: excellent
+- paragraph: 优秀的
+- paragraph: Of the very best kind; outstandingly good or of extremely high quality.
+- progressbar:
+  - generic: 0%
+- paragraph: captain
+- paragraph: 船长
+- paragraph: The person in charge of a team, ship, aircraft, or military unit.
+- progressbar:
+  - generic: 0%
+- paragraph: collector
+- paragraph: 收藏家
+- paragraph: A person who collects a particular kind of thing, such as stamps, art, antiques, or other items, often as a hobby, profession, or area of special interest.
+- progressbar:
+  - generic: 0%
+- paragraph: collect
+- paragraph: 收集
+- paragraph: To gather together, bring together, or receive and take in things, people, money, or information.
+- progressbar:
+  - generic: 0%
+- paragraph: navigator
+- paragraph: 航海家
+- paragraph: A device, program, or interface used for navigation or route guidance; also a person who navigates a vehicle or determines a route.
+- progressbar:
+  - generic: 0%
+- paragraph: navigate
+- paragraph: 航行
+- paragraph: To sail, steer, or drive a vehicle, vessel, or other conveyance; also, to find and follow a route or to make one's way through a place or situation.
+- progressbar:
+  - generic: 0%
+- paragraph: crew
+- paragraph: 船员
+- paragraph: A group of people who work together as the staff or operators of a ship, aircraft, film production, or similar enterprise.
+- progressbar:
+  - generic: 0%
+- paragraph: remove
+- paragraph: 拿走；移除；脱下
+- paragraph: To take away or eliminate something from a place, person, or situation.
+- progressbar:
+  - generic: 0%
+- paragraph: able
+- paragraph: 能够的，有能力的
+- paragraph: Having the skill, means, or opportunity to do something; competent or qualified; likely to.
+- progressbar:
+  - generic: 0%
+- paragraph: emperor
+- paragraph: 皇帝
+- paragraph: A male sovereign ruler of an empire.
+- progressbar:
+  - generic: 0%
+- paragraph: hide
+- paragraph: 隐藏
+- paragraph: To put or keep out of sight; to conceal.
+- progressbar:
+  - generic: 0%
+- paragraph: for
+- paragraph: 为了
+- paragraph: A preposition used to show purpose, intended recipient, use, duration, cause, or the thing affected.
+- progressbar:
+  - generic: 0%
+- paragraph: wool
+- paragraph: 羊毛
+- paragraph: The soft curly hair of sheep and some other animals, used as a textile fibre; also yarn or cloth made from it.
+- progressbar:
+  - generic: 0%
+- paragraph: period
+- paragraph: 时间段
+- paragraph: A length of time or a particular stage in history, life, or a process.
+- progressbar:
+  - generic: 0%
+- paragraph: cargo
+- paragraph: 货物
+- paragraph: Goods or goods-in-bulk carried by a ship, aircraft, vehicle, or train.
+- progressbar:
+  - generic: 0%
+- paragraph: during
+- paragraph: 在什么期间
+- paragraph: A preposition meaning throughout the course or duration of a period of time.
+- progressbar:
+  - generic: 0%
+- paragraph: as sentence
+- paragraph: 像什么一样；因为；随着。。。
+- paragraph: No standard standalone dictionary sense is established for the exact string "as sentence"; treated here only as the given lemma string.
+- progressbar:
+  - generic: 0%
+- paragraph: as n
+- paragraph: 作为。。。
+- paragraph: an associate degree in nursing
+- progressbar:
+  - generic: 0%
+- paragraph: sailor
+- paragraph: 水手
+- paragraph: A person who works on a ship or boat, or who sails for a living, especially as a member of a ship's crew, including in the navy or merchant marine.
+- progressbar:
+  - generic: 0%
+- paragraph: sailing
+- paragraph: 航行的
+- paragraph: The sport or recreational activity of using a sailboat; sailing by sailboat as a form of travel or activity on water.
+- progressbar:
+  - generic: 0%
+- paragraph: sail
+- paragraph: 航行
+- paragraph: A piece of material attached to a boat or ship to catch the wind and move it, or a fin-like structure on an animal's back.
+- progressbar:
+  - generic: 0%
+- generic: 
+- generic: 
+- text: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:                       

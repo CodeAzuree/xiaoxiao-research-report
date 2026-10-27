@@ -1,0 +1,50 @@
+Browser tab: 61, Title: "基础练习", URL: "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=14694934&stuid=243365&teacherid=&linkid=114645&libid=208357&wrcd=1&xiaov=20261122".
+0 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14694934&stuid=243365&teacherid=&linkid=114645&libid=208357&wrcd=1&xiaov=20261122
+	1 container
+		2 container myweb
+			3 text 单词书自测/陈梦昕生词本-3.8
+			4 text 
+			5 text 2026.10.22 16:06 - 2026.10.22 16:08
+			6 button 重新测试
+			7 container
+				8 container
+					9 text 作业结果 答题解析 巩固训练
+				10 container
+					11 progress indicator 34
+					12 text 34分
+					13 text 满分:100分
+				14 text 正确率：34% 上一次正确率：-%
+				15 text 作业情况统计
+				16 image
+				17 text 总词汇
+				18 text 44
+				19 image
+				20 text 答对
+				21 text 15
+				22 image
+				23 text 答错
+				24 text 29
+				25 image
+				26 text 未答
+				27 text 0
+				28 button  能力诊断, ID: xx-capsule-radio__item-0
+					29 text 
+					30 text 能力诊断
+				31 button 评语, ID: xx-capsule-radio__item-1
+				32 text 时长分析
+				33 text 我的做题时长
+				34 text 全网做题时长
+				35 text 答题正确率对比
+				36 text 我的正确率
+				37 text 全网正确率
+				38 container
+					39 text 单词读音列表 （单词发音评测由腾讯提供技术支持）
+				40 button 美式发音 
+					41 text 美式发音
+					42 text 
+				43 container
+					44 text 单词 音标 标准发音 单词 音标 标准发音 annual /ˈænjuəl/ parking ticket [ˈpɑːrkɪŋ ˌtɪkɪt] platform /ˈplætfɔːrm/ format /ˈfɔːrmæt/ power go out [ˈpaʊər ɡoʊ aʊt] faculty /ˈfæk(ə)lti/ diploma /dɪˈploʊmə/ treadmill /ˈtredmɪl/ skyscraper /ˈskaɪskreɪpər/ comply /kəmˈplaɪ/ effect immediately [ɪˈfekt] dumbbell [ˈdʌm.bel] symposium /sɪmˈpoʊziəm/ fundraiser /ˈfʌndreɪzər/ make of [meɪk əv] alternative /ɔːlˈtɜːrnətɪv/ conducted /kənˈdʌktɪd/ equipped /ɪˈkwɪpt/ site /saɪt/ regarding /rɪˈɡɑːrdɪŋ/ colleagues /ˈkɑːliːɡz/ maintenance /ˈmeɪntənəns/ supervisor /ˈsuːpərvaɪzər/ commemorate /kəˈmeməreɪt/ urgent /ˈɜːrdʒənt/ rumor /ˈruːmər/ features /fitʃər/ sustainability /səˌsteɪnəˈbɪləti/ hesitate /ˈhezɪteɪt/ accomplishment /əˈkɑːmplɪʃmənt/ contribution /ˌkɑːntrɪˈbjuːʃ(ə)n/ wrap up [ræp ʌp] source /sɔːrs/ internship /ˈɪntɜːrnʃɪp/ mural /ˈmjʊrəl/ leak /liːk/ workshop /ˈwɜːrkʃɑːp/ stairwells [ˈsterˌwelz] narrow /ˈnæroʊ/ constructive /kənˈstrʌktɪv/ installation /ˌɪnstəˈleɪʃ(ə)n/ forthcoming /ˌfɔːrθˈkʌmɪŋ/ evacuation /ɪˌvækjuˈeɪʃ(ə)n/ assistance /əˈsɪstəns/
+		45 container
+			46 text 已生成当前作业的订正练习，点击去练习巩固薄弱知识点 去练习 
+
+The focused UI element is 0 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14694934&stuid=243365&teacherid=&linkid=114645&libid=208357&wrcd=1&xiaov=20261122

@@ -1,0 +1,430 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- radiogroup:
+  - button " 按试卷":
+    - generic: 
+    - generic: 按试卷
+  - button "按篇章":
+    - generic: 按篇章
+  - separator
+  - button "我的试卷":
+    - generic: 我的试卷
+  - button "共享试卷":
+    - generic: 共享试卷
+- generic: 科目
+- generic "新托福2026"
+- generic "雅思"
+- generic "SAT机考"
+- generic "SAT"
+- generic "小托福"
+- generic "ACT"
+- generic "GRE"
+- generic "KET"
+- generic "PET"
+- generic "AP"
+- generic: 分项
+- generic "不限"
+- generic "读写"
+- generic "数学"
+- generic "写作"
+- text: 
+- generic: 来源
+- button "开放题库" [disabled]
+- checkbox [checked]:
+  - checkbox [checked]
+- generic: 不限
+- checkbox:
+  - checkbox
+- generic: 机经合集
+- checkbox:
+  - checkbox
+- generic: PSAT
+- checkbox:
+  - checkbox
+- generic: SAT Essay
+- checkbox:
+  - checkbox
+- generic: Digital SAT Prep Test
+- checkbox:
+  - checkbox
+- generic: 高阶模拟题库 A
+- checkbox:
+  - checkbox
+- generic: 高阶模拟题库 B
+- checkbox:
+  - checkbox
+- generic: KH Practice Test
+- text:         
+- generic: 知识点
+- generic: 
+- button "级别 ":
+  - text: 级别
+  - generic: 
+- text:      
+- generic: 筛选
+- generic: 排序
+- button "重置"
+- generic: 
+- textbox "搜索试卷"
+- button "查看已选"
+- generic: 
+- generic: 
+- generic: SAT CMP 2026-J10-NA-02
+- generic: New
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "-"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-J10-NA-01
+- generic: New
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "-"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-J10-INT-01(Easier)
+- generic: New
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "49"
+- generic: 中位分
+- generic: "-"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-J10-INT-01
+- generic: New
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "-"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-I9-INT-02
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "-"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-I9-INT-01(Easier)
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "38"
+- generic: 中位分
+- generic: "-"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-I9-INT-01
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "-"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-I9-NA-01
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "-"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-H8-NA-01
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "-"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-H8-INT-02
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "-"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-H8-INT-01
+- generic: 正确率
+- generic: "-"
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "-"
+- generic: 方差
+- generic: "-"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "-"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2025-L12-INT-01(读写3个Module)
+- generic: 容易
+- generic: 正确率
+- generic: 88%
+- generic: 题目数
+- generic: "125"
+- generic: 中位分
+- generic: "97.4"
+- generic: 方差
+- generic: "9.2"
+- generic: 中位用时
+- generic: 41min
+- generic: 区分度
+- generic: "0.41"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-F6-INT-02
+- generic: 容易
+- generic: 正确率
+- generic: 87%
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "97.25"
+- generic: 方差
+- generic: "9.75"
+- generic: 中位用时
+- generic: 39min
+- generic: 区分度
+- generic: "0.42"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-F6-INT-01
+- generic: 容易
+- generic: 正确率
+- generic: 85%
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "96.5"
+- generic: 方差
+- generic: "11.25"
+- generic: 中位用时
+- generic: 44min
+- generic: 区分度
+- generic: "0.48"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-E5-INT-03(非整套)
+- generic: 容易
+- generic: 正确率
+- generic: 87%
+- generic: 题目数
+- generic: "41"
+- generic: 中位分
+- generic: "95.5"
+- generic: 方差
+- generic: "10"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.42"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-E5-INT-02
+- generic: 容易
+- generic: 正确率
+- generic: 87%
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "96"
+- generic: 方差
+- generic: "9.5"
+- generic: 中位用时
+- generic: 39min
+- generic: 区分度
+- generic: "0.41"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-E5-INT-01
+- generic: 偏易
+- generic: 正确率
+- generic: 84%
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "95.5"
+- generic: 方差
+- generic: "11.5"
+- generic: 中位用时
+- generic: 43min
+- generic: 区分度
+- generic: "0.49"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-C3-INT-03(非整套)
+- generic: 偏易
+- generic: 正确率
+- generic: 83%
+- generic: 题目数
+- generic: "47"
+- generic: 中位分
+- generic: "91"
+- generic: 方差
+- generic: "12"
+- generic: 中位用时
+- generic: "-"
+- generic: 区分度
+- generic: "0.46"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-C3-INT-02
+- generic: 容易
+- generic: 正确率
+- generic: 89%
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "97.5"
+- generic: 方差
+- generic: "9.25"
+- generic: 中位用时
+- generic: 36min
+- generic: 区分度
+- generic: "0.4"
+- button "预览"
+- button "查看"
+- generic: SAT CMP 2026-C3-INT-01
+- generic: 容易
+- generic: 正确率
+- generic: 85%
+- generic: 题目数
+- generic: "98"
+- generic: 中位分
+- generic: "95.75"
+- generic: 方差
+- generic: "11.25"
+- generic: 中位用时
+- generic: 41min
+- generic: 区分度
+- generic: "0.47"
+- button "预览"
+- button "查看"
+- text:              
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text: 

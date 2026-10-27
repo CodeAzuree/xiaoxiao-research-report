@@ -1,0 +1,60 @@
+Browser tab: 53, Title: "自定义作业", URL: "https://learninghub.xhd.cn/org/customHwk/index.html?stuid=243365&teacherid=&id=14548430&xiaov=20261122&clientmode=full".
+0 AXWebArea 自定义作业, URL: learninghub.xhd.cn/org/customHwk/index.html?stuid=243365&teacherid=&id=14548430&xiaov=20261122&clientmode=full
+	1 container
+		2 container customHwk
+			3 text 字数测试
+			4 container
+				5 text 写一篇200词的作文
+				6 container
+					7 image
+					8 text 上传图片作答
+				9 container
+					10 image
+					11 text 上传音频作答
+				12 container
+					13 image
+					14 text 上传视频作答
+				15 container
+					16 button 正文
+						17 text 正文
+						18 image
+					19 button
+						20 image
+					21 button
+						22 image
+						23 image
+					24 button
+						25 image
+						26 image
+					27 button
+						28 image
+					29 button
+						30 image
+					31 button
+						32 image
+					33 button
+						34 image
+					35 button
+						36 image
+						37 image
+					38 button 默认字号
+						39 text 默认字号
+						40 image
+					41 button 默认字体
+						42 text 默认字体
+						43 image
+					44 button 默认行高
+						45 text 默认行高
+						46 image
+					47 button
+						48 image
+					49 button
+						50 image
+					51 button
+						52 image
+				53 container
+					54 container Value: nice to meet yousklajdflkasjl，大发空间里都是费拉达斯难过，mncvz flakjflaksdfjasd, ID: w-e-textarea-1
+						55 text nice to meet yousklajdflkasjl，大发空间里都是费拉达斯难过，mncvz flakjflaksdfjasd
+				56 button 交卷
+
+The focused UI element is 0 AXWebArea 自定义作业, URL: learninghub.xhd.cn/org/customHwk/index.html?stuid=243365&teacherid=&id=14548430&xiaov=20261122&clientmode=full

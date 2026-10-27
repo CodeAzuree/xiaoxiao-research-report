@@ -1,0 +1,54 @@
+Browser tab: 51, Title: "基础练习", URL: "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=14695102&stuid=243365&teacherid=&wrcd=1&xiaov=20261122".
+0 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14695102&stuid=243365&teacherid=&wrcd=1&xiaov=20261122
+	1 container myweb
+		2 text 订正练习/错词训练/2026-10-22
+		3 text 
+		4 text 2026.10.22 16:10 - 2026.10.22 16:10
+		5 container
+			6 container
+				7 text 作业结果 答题解析
+			8 container
+				9 progress indicator 100
+				10 text 100分
+				11 text 满分:100分
+			12 text 正确率：100% 上一次正确率：-%
+			13 text 作业情况统计
+			14 image
+			15 text 总词汇
+			16 text 2
+			17 image
+			18 text 答对
+			19 text 2
+			20 image
+			21 text 答错
+			22 text 0
+			23 image
+			24 text 未答
+			25 text 0
+			26 button  能力诊断, ID: xx-capsule-radio__item-0
+				27 text 
+				28 text 能力诊断
+			29 button 评语, ID: xx-capsule-radio__item-1
+			30 text 时长分析
+			31 text 我的做题时长
+			32 text 全网做题时长
+			33 text 答题正确率对比
+			34 text 我的正确率
+			35 text 全网正确率
+			36 container
+				37 text 单词读音列表 （单词发音评测由腾讯提供技术支持）
+			38 button 美式发音 
+				39 text 美式发音
+				40 text 
+			41 text 单词
+			42 text 音标
+			43 text 标准发音
+			44 text 单词
+			45 text 音标
+			46 text 标准发音
+			47 text symposium
+			48 text /sɪmˈpoʊziəm/
+			49 text regarding
+			50 text /rɪˈɡɑːrdɪŋ/
+
+The focused UI element is 0 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14695102&stuid=243365&teacherid=&wrcd=1&xiaov=20261122

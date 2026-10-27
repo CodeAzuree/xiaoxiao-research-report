@@ -1,0 +1,25 @@
+- generic: 
+- list:
+  - generic: 小格
+  - generic: 已查阅
+  - generic: 王小格
+- generic: sat全科测试
+- generic: 
+- generic: 2026.10.15 15:10 - 2026.10.15 15:11
+- button "生成结果报告"
+- button "生成报告"
+- text: 
+- generic: 作业结果
+- generic: 答题解析
+- generic: 答题录屏
+- generic: 巩固训练
+- text:                  
+- generic: 巩固训练
+- paragraph: 精听跟读巩固训练，夯实基础，稳固提升听力口语能力
+- radiogroup:
+  - button " 订正练习":
+    - generic: 
+    - generic: 订正练习
+- generic: 未开始
+- generic: 订正练习
+- button "查看" [disabled]

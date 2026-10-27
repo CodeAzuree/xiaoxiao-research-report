@@ -1,0 +1,163 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- generic: 小格
+- generic: 王小格
+- text: 已上课时
+- generic: "0"
+- text: / 总课时
+- generic: "0"
+- textbox "请选择": SAT
+- generic: 
+- generic: 
+- textbox "开始日期：": 2026-09-01
+- generic: "-"
+- textbox "结束日期": 2026-10-22
+- button "报告记录":
+  - generic: 报告记录
+- button "生成 ":
+  - text: 生成
+  - generic: 
+- generic: 作业完成率
+- progressbar:
+  - generic: 67%
+- generic: 成绩
+- list:
+  - generic: 科目
+  - generic: 预测分 / 总分
+  - generic: 读写(机考)
+  - generic: "200"
+  - text: /
+  - generic: "800"
+  - generic: 数学(机考)
+  - generic: "220"
+  - text: /
+  - generic: "800"
+- generic: 知识点
+- paragraph:
+  - generic: 暂无数据~
+- paragraph: 评语
+- textbox "请输入内容"
+- generic: 0/3000
+- generic: AI一键生成
+- tablist:
+  - tab "成绩"
+  - tab "课程"
+  - tab "作业"
+  - tab "知识点" [selected]
+- tabpanel "知识点"
+- generic: 词汇量测试分析
+- table:
+  - rowgroup:
+    - row "序号 类型 CEFR等级 词汇量":
+      - columnheader "序号":
+        - generic: 序号
+      - columnheader "类型":
+        - generic: 类型
+      - columnheader "CEFR等级":
+        - generic: CEFR等级
+      - columnheader "词汇量":
+        - generic: 词汇量
+- table:
+  - rowgroup
+- generic: 暂无数据~
+- generic: 词汇量测试走势
+- paragraph:
+  - generic: 暂无数据~
+- generic: 知识点分析
+- table:
+  - rowgroup:
+    - row "知识点 知识点类型 总次数 正确数 错误数 程度":
+      - columnheader "知识点":
+        - generic: 知识点
+      - columnheader "知识点类型":
+        - generic: 知识点类型
+      - columnheader "总次数":
+        - generic: 总次数
+      - columnheader "正确数":
+        - generic: 正确数
+      - columnheader "错误数":
+        - generic: 错误数
+      - columnheader "程度":
+        - generic: 程度
+- table:
+  - rowgroup
+- generic: 暂无数据~
+- generic: 知识点练习次数
+- paragraph:
+  - generic: 暂无数据~
+- generic: 知识图谱
+- paragraph:
+  - generic: 暂无数据~
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:               

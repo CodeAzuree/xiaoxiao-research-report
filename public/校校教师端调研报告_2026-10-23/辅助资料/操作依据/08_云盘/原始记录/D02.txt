@@ -1,0 +1,168 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "246"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "上传":
+  - generic: 上传
+- generic: 
+- progressbar
+- generic: 501M / 2G
+- paragraph: 我的云盘
+- paragraph: 共享云盘
+- textbox "请输入搜索文件名称"
+- generic: 
+- button "搜索":
+  - generic: 搜索
+- table:
+  - rowgroup:
+    - row "文件名称 文件大小 上传老师 上传日期 操作":
+      - columnheader "文件名称":
+        - generic: 文件名称
+      - columnheader "文件大小":
+        - generic: 文件大小
+      - columnheader "上传老师":
+        - generic: 上传老师
+      - columnheader "上传日期":
+        - generic: 上传日期
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup:
+    - row "01 爱德思Alevel物理U1练习册.pdf 31.74M 吴珊珊 2024-11-13 17:59 下载":
+      - cell "01 爱德思Alevel物理U1练习册.pdf":
+        - generic: 01 爱德思Alevel物理U1练习册.pdf
+      - cell "31.74M":
+        - generic: 31.74M
+      - cell "吴珊珊":
+        - generic: 吴珊珊
+      - cell "2024-11-13 17:59":
+        - generic: 2024-11-13 17:59
+      - cell "下载":
+        - generic: 下载
+    - row "02 爱德思Alevel物理U2练习册.pdf 27.37M 吴珊珊 2024-11-13 17:59 下载":
+      - cell "02 爱德思Alevel物理U2练习册.pdf":
+        - generic: 02 爱德思Alevel物理U2练习册.pdf
+      - cell "27.37M":
+        - generic: 27.37M
+      - cell "吴珊珊":
+        - generic: 吴珊珊
+      - cell "2024-11-13 17:59":
+        - generic: 2024-11-13 17:59
+      - cell "下载":
+        - generic: 下载
+    - row "03 爱德思Alevel物理U3练习册.pdf 13.71M 吴珊珊 2024-11-13 17:59 下载":
+      - cell "03 爱德思Alevel物理U3练习册.pdf":
+        - generic: 03 爱德思Alevel物理U3练习册.pdf
+      - cell "13.71M":
+        - generic: 13.71M
+      - cell "吴珊珊":
+        - generic: 吴珊珊
+      - cell "2024-11-13 17:59":
+        - generic: 2024-11-13 17:59
+      - cell "下载":
+        - generic: 下载
+    - row "04爱德思Alevel物理U4练习册.pdf 68.24M 吴珊珊 2024-11-13 17:59 下载":
+      - cell "04爱德思Alevel物理U4练习册.pdf":
+        - generic: 04爱德思Alevel物理U4练习册.pdf
+      - cell "68.24M":
+        - generic: 68.24M
+      - cell "吴珊珊":
+        - generic: 吴珊珊
+      - cell "2024-11-13 17:59":
+        - generic: 2024-11-13 17:59
+      - cell "下载":
+        - generic: 下载
+    - row "05爱德思Alevel物理U5练习册.pdf 43.60M 吴珊珊 2024-11-13 17:59 下载":
+      - cell "05爱德思Alevel物理U5练习册.pdf":
+        - generic: 05爱德思Alevel物理U5练习册.pdf
+      - cell "43.60M":
+        - generic: 43.60M
+      - cell "吴珊珊":
+        - generic: 吴珊珊
+      - cell "2024-11-13 17:59":
+        - generic: 2024-11-13 17:59
+      - cell "下载":
+        - generic: 下载
+    - row "06 爱德思Alevel物理U6练习册.pdf 12.62M 吴珊珊 2024-11-13 17:59 下载":
+      - cell "06 爱德思Alevel物理U6练习册.pdf":
+        - generic: 06 爱德思Alevel物理U6练习册.pdf
+      - cell "12.62M":
+        - generic: 12.62M
+      - cell "吴珊珊":
+        - generic: 吴珊珊
+      - cell "2024-11-13 17:59":
+        - generic: 2024-11-13 17:59
+      - cell "下载":
+        - generic: 下载
+    - row "13-2-2.mp3 5.03M 周婧 2024-09-23 18:15 下载":
+      - cell "13-2-2.mp3":
+        - generic: 13-2-2.mp3
+      - cell "5.03M":
+        - generic: 5.03M
+      - cell "周婧":
+        - generic: 周婧
+      - cell "2024-09-23 18:15":
+        - generic: 2024-09-23 18:15
+      - cell "下载":
+        - generic: 下载
+    - row "13-2-1.mp3 5.96M 周婧 2024-09-23 18:14 下载":
+      - cell "13-2-1.mp3":
+        - generic: 13-2-1.mp3
+      - cell "5.96M":
+        - generic: 5.96M
+      - cell "周婧":
+        - generic: 周婧
+      - cell "2024-09-23 18:14":
+        - generic: 2024-09-23 18:14
+      - cell "下载":
+        - generic: 下载
+- generic: 共 8 条
+- textbox "请选择": 20条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+- button "" [disabled]:
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text: 

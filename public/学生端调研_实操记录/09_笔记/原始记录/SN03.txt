@@ -1,0 +1,791 @@
+Browser tab: 66, Title: "测试结果", URL: "https://learninghub.xhd.cn/org/sat/result.html?id=14254517&stubj=1&qid=144299&stuid=243365&wrcd=1&xiaov=20261122".
+0 AXWebArea 测试结果, URL: learninghub.xhd.cn/org/sat/result.html?id=14254517&stubj=1&qid=144299&stuid=243365&wrcd=1&xiaov=20261122
+	1 container result-app
+		2 container
+			3 image
+			4 text Jane Austen
+			5 button icon
+				6 image icon
+			7 button icon
+				8 image icon
+			9 button 
+				10 text 
+			11 text 重点词汇
+			12 text 翻译
+			13 text 答题解析
+			14 text 题目订正
+			15 container
+				16 text entry area (settable)
+				17 text 
+				18 text 思路讲解
+				19 button (disabled) icon
+					20 image icon
+				21 text 内容由 AI 生成
+		22 text sat全科测试
+		23 text 
+		24 text 2026.10.15 15:10 - 2026.10.15 15:11
+		25 container
+			26 container
+				27 text 作业结果 答题解析 巩固训练
+			28 text 总成绩
+			29 text 
+			30 container
+				31 text 420 / 1600
+			32 image
+			33 text 18%
+			34 text 
+			35 text -%
+			36 image
+			37 text 读写
+			38 container
+				39 text 200 / 800
+			40 image
+			41 text 0
+			42 image
+			43 text 81
+			44 image
+			45 text 数学
+			46 container
+				47 text 220 / 800
+			48 image
+			49 text 2
+			50 image
+			51 text 64
+			52 button  能力诊断, ID: xx-capsule-radio__item-0
+				53 text 
+				54 text 能力诊断
+			55 button 评语, ID: xx-capsule-radio__item-1
+			56 container
+				57 text 1 分项评价
+			58 image
+			59 text 读写
+			60 image
+			61 text 数学
+			62 container
+				63 text 2 知识点分析
+			64 container
+				65 table
+					66 row
+						67 cell
+							68 text 分项
+						69 cell
+							70 text 知识点
+						71 cell
+							72 text 稳定程度
+						73 cell
+							74 text 正确数
+						75 cell
+							76 text 正确率/得分率
+				77 table
+					78 row
+						79 cell
+							80 container
+								81 text 读写
+						82 cell
+							83 text Inferences-Making Logical Inferences
+						84 cell
+							85 text 易混淆
+						86 cell
+							87 text -/-
+						88 cell
+							89 text - %
+					90 row
+						91 cell
+							92 container
+								93 text 读写
+						94 cell
+							95 text Boundaries-Sentence Completeness
+						96 cell
+							97 text 易混淆
+						98 cell
+							99 text -/-
+						100 cell
+							101 text - %
+					102 row
+						103 cell
+							104 container
+								105 text 读写
+						106 cell
+							107 text Boundaries-Punctuation
+						108 cell
+							109 text 易混淆
+						110 cell
+							111 text -/-
+						112 cell
+							113 text - %
+					114 row
+						115 cell
+							116 container
+								117 text 读写
+						118 cell
+							119 text Form​,​ Structure​,​ and Sense-Adjective and Adverb Modifiers
+						120 cell
+							121 text 易混淆
+						122 cell
+							123 text -/-
+						124 cell
+							125 text - %
+					126 row
+						127 cell
+							128 container
+								129 text 读写
+						130 cell
+							131 text Boundaries-Possessive Nouns and Plural Forms
+						132 cell
+							133 text 易混淆
+						134 cell
+							135 text -/-
+						136 cell
+							137 text - %
+					138 row
+						139 cell
+							140 container
+								141 text 读写
+						142 cell
+							143 text Words in Context-Precise Word Meanings
+						144 cell
+							145 text 易混淆
+						146 cell
+							147 text -/-
+						148 cell
+							149 text - %
+					150 row
+						151 cell
+							152 container
+								153 text 读写
+						154 cell
+							155 text Command of Evidence-Quantitative Evidence
+						156 cell
+							157 text 易混淆
+						158 cell
+							159 text -/-
+						160 cell
+							161 text - %
+					162 row
+						163 cell
+							164 container
+								165 text 读写
+						166 cell
+							167 text Command of Evidence-Textual Evidence (strengthen/weaken)
+						168 cell
+							169 text 易混淆
+						170 cell
+							171 text -/-
+						172 cell
+							173 text - %
+					174 row
+						175 cell
+							176 container
+								177 text 读写
+						178 cell
+							179 text Command of Evidence-Textual Evidence (illustration/quotation)
+						180 cell
+							181 text 易混淆
+						182 cell
+							183 text -/-
+						184 cell
+							185 text - %
+					186 row
+						187 cell
+							188 container
+								189 text 读写
+						190 cell
+							191 text Text Structure and Purpose-Part-Whole Relationships
+						192 cell
+							193 text 易混淆
+						194 cell
+							195 text -/-
+						196 cell
+							197 text - %
+					198 row
+						199 cell
+							200 container
+								201 text 读写
+						202 cell
+							203 text Text Structure and Purpose-Text Structure
+						204 cell
+							205 text 易混淆
+						206 cell
+							207 text -/-
+						208 cell
+							209 text - %
+					210 row
+						211 cell
+							212 container
+								213 text 读写
+						214 cell
+							215 text Cross-Text Connections-Comparing and Contrasting Authors’ Perspectives
+						216 cell
+							217 text 易混淆
+						218 cell
+							219 text -/-
+						220 cell
+							221 text - %
+					222 row
+						223 cell
+							224 container
+								225 text 读写
+						226 cell
+							227 text Form​,​ Structure​,​ and Sense-Verb Tense​,​ Aspect​,​ and Mood
+						228 cell
+							229 text 易混淆
+						230 cell
+							231 text -/-
+						232 cell
+							233 text - %
+					234 row
+						235 cell
+							236 container
+								237 text 读写
+						238 cell
+							239 text Text Structure and Purpose-Determining Author’s Purpose
+						240 cell
+							241 text 易混淆
+						242 cell
+							243 text -/-
+						244 cell
+							245 text - %
+					246 row
+						247 cell
+							248 container
+								249 text 读写
+						250 cell
+							251 text Form​,​ Structure​,​ and Sense-Subject-Verb Agreement
+						252 cell
+							253 text 易混淆
+						254 cell
+							255 text -/-
+						256 cell
+							257 text - %
+					258 row
+						259 cell
+							260 container
+								261 text 读写
+						262 cell
+							263 text Rhetorical Synthesis-Logical Combination of Information
+						264 cell
+							265 text 易混淆
+						266 cell
+							267 text -/-
+						268 cell
+							269 text - %
+					270 row
+						271 cell
+							272 container
+								273 text 读写
+						274 cell
+							275 text Transitions-Logical Transition Words and Phrases
+						276 cell
+							277 text 易混淆
+						278 cell
+							279 text -/-
+						280 cell
+							281 text - %
+					282 row
+						283 cell
+							284 container
+								285 text 读写
+						286 cell
+							287 text Central Ideas and Details-Details
+						288 cell
+							289 text 易混淆
+						290 cell
+							291 text -/-
+						292 cell
+							293 text - %
+					294 row
+						295 cell
+							296 container
+								297 text 读写
+						298 cell
+							299 text Central Ideas and Details-Main Ideas
+						300 cell
+							301 text 易混淆
+						302 cell
+							303 text -/-
+						304 cell
+							305 text - %
+					306 row
+						307 cell
+							308 container
+								309 text 数学
+						310 cell
+							311 text Nonlinear equations in one variable and systems of equations in two variables-Solving quadratic equations
+						312 cell
+							313 text 易混淆
+						314 cell
+							315 text 0/1
+						316 cell
+							317 text 0 %
+					318 row
+						319 cell
+							320 container
+								321 text 数学
+						322 cell
+							323 text Linear functions-Interpreting Parameters of Linear Functions in Real-World Contexts
+						324 cell
+							325 text 易混淆
+						326 cell
+							327 text -/-
+						328 cell
+							329 text - %
+					330 row
+						331 cell
+							332 container
+								333 text 数学
+						334 cell
+							335 text Linear functions-Evaluating and Interpreting Linear Functions
+						336 cell
+							337 text 易混淆
+						338 cell
+							339 text -/-
+						340 cell
+							341 text - %
+					342 row
+						343 cell
+							344 container
+								345 text 数学
+						346 cell
+							347 text Nonlinear equations in one variable and systems of equations in two variables-Solving radical equations
+						348 cell
+							349 text 易混淆
+						350 cell
+							351 text -/-
+						352 cell
+							353 text - %
+					354 row
+						355 cell
+							356 container
+								357 text 数学
+						358 cell
+							359 text Linear equations in one variable-Word problems leading to linear equations in one variable
+						360 cell
+							361 text 易混淆
+						362 cell
+							363 text 0/1
+						364 cell
+							365 text 0 %
+					366 row
+						367 cell
+							368 container
+								369 text 数学
+						370 cell
+							371 text Nonlinear equations in one variable and systems of equations in two variables-Interpreting the discriminant of a quadratic equation
+						372 cell
+							373 text 易混淆
+						374 cell
+							375 text 0/1
+						376 cell
+							377 text 0 %
+					378 row
+						379 cell
+							380 container
+								381 text 数学
+						382 cell
+							383 text Linear equations in one variable-Identifying no solution or infinitely many solutions in linear equations
+						384 cell
+							385 text 易混淆
+						386 cell
+							387 text -/-
+						388 cell
+							389 text - %
+					390 row
+						391 cell
+							392 container
+								393 text 数学
+						394 cell
+							395 text Linear equations in one variable-One-step linear equations
+						396 cell
+							397 text 易混淆
+						398 cell
+							399 text 0/1
+						400 cell
+							401 text 0 %
+					402 row
+						403 cell
+							404 container
+								405 text 数学
+						406 cell
+							407 text Linear equations in one variable-Solving linear equations with variables on both sides
+						408 cell
+							409 text 易混淆
+						410 cell
+							411 text -/-
+						412 cell
+							413 text - %
+					414 row
+						415 cell
+							416 container
+								417 text 数学
+						418 cell
+							419 text Linear equations in one variable-Multi-step linear equations
+						420 cell
+							421 text 易混淆
+						422 cell
+							423 text 0/1
+						424 cell
+							425 text 0 %
+					426 row
+						427 cell
+							428 container
+								429 text 数学
+						430 cell
+							431 text Right triangles and trigonometry-Sine​,​ cosine​,​ and tangent ratios in right triangles
+						432 cell
+							433 text 易混淆
+						434 cell
+							435 text -/-
+						436 cell
+							437 text - %
+					438 row
+						439 cell
+							440 container
+								441 text 数学
+						442 cell
+							443 text Right triangles and trigonometry-Applying the Pythagorean Theorem
+						444 cell
+							445 text 易混淆
+						446 cell
+							447 text -/-
+						448 cell
+							449 text - %
+					450 row
+						451 cell
+							452 container
+								453 text 数学
+						454 cell
+							455 text Percentages-Calculating and Applying Percentages
+						456 cell
+							457 text 易混淆
+						458 cell
+							459 text 0/1
+						460 cell
+							461 text 0 %
+					462 row
+						463 cell
+							464 container
+								465 text 数学
+						466 cell
+							467 text Systems of two linear equations in two variables-Solving Systems of Linear Equations by Substitution
+						468 cell
+							469 text 易混淆
+						470 cell
+							471 text -/-
+						472 cell
+							473 text - %
+					474 row
+						475 cell
+							476 container
+								477 text 数学
+						478 cell
+							479 text Area and volume-Calculating Areas of Common Plane Figures
+						480 cell
+							481 text 易混淆
+						482 cell
+							483 text -/-
+						484 cell
+							485 text - %
+					486 row
+						487 cell
+							488 container
+								489 text 数学
+						490 cell
+							491 text Area and volume-Calculating Volumes and Surface Areas of Common Solids
+						492 cell
+							493 text 易混淆
+						494 cell
+							495 text 0/1
+						496 cell
+							497 text 0 %
+					498 row
+						499 cell
+							500 container
+								501 text 数学
+						502 cell
+							503 text Nonlinear functions-Quadratic Functions Basics
+						504 cell
+							505 text 易混淆
+						506 cell
+							507 text -/-
+						508 cell
+							509 text - %
+					510 row
+						511 cell
+							512 container
+								513 text 数学
+						514 cell
+							515 text Systems of two linear equations in two variables-Determining the Number of Solutions for a System of Equations
+						516 cell
+							517 text 易混淆
+						518 cell
+							519 text -/-
+						520 cell
+							521 text - %
+					522 row
+						523 cell
+							524 container
+								525 text 数学
+						526 cell
+							527 text Nonlinear functions-Key Features of Nonlinear Graphs
+						528 cell
+							529 text 易混淆
+						530 cell
+							531 text -/-
+						532 cell
+							533 text - %
+					534 row
+						535 cell
+							536 container
+								537 text 数学
+						538 cell
+							539 text Nonlinear functions-Solving Exponential Equations & Comparing Exponential Growth
+						540 cell
+							541 text 易混淆
+						542 cell
+							543 text -/-
+						544 cell
+							545 text - %
+					546 row
+						547 cell
+							548 container
+								549 text 数学
+						550 cell
+							551 text Systems of two linear equations in two variables-Solving Systems of Linear Equations by Elimination
+						552 cell
+							553 text 易混淆
+						554 cell
+							555 text -/-
+						556 cell
+							557 text - %
+					558 row
+						559 cell
+							560 container
+								561 text 数学
+						562 cell
+							563 text Linear equations in two variables-Writing Equations of Lines (Point-Slope and Slope-Intercept Form)
+						564 cell
+							565 text 易混淆
+						566 cell
+							567 text -/-
+						568 cell
+							569 text - %
+					570 row
+						571 cell
+							572 container
+								573 text 数学
+						574 cell
+							575 text Nonlinear functions-Graphing quadratic functions (vertex​,​ axis of symmetry​,​ intercepts)
+						576 cell
+							577 text 易混淆
+						578 cell
+							579 text -/-
+						580 cell
+							581 text - %
+					582 row
+						583 cell
+							584 container
+								585 text 数学
+						586 cell
+							587 text Nonlinear functions-Graphing exponential functions (growth​,​ decay)
+						588 cell
+							589 text 易混淆
+						590 cell
+							591 text -/-
+						592 cell
+							593 text - %
+					594 row
+						595 cell
+							596 container
+								597 text 数学
+						598 cell
+							599 text Linear equations in two variables-Calculating and Interpreting the Slope of a Line
+						600 cell
+							601 text 易混淆
+						602 cell
+							603 text -/-
+						604 cell
+							605 text - %
+					606 row
+						607 cell
+							608 container
+								609 text 数学
+						610 cell
+							611 text Equivalent expressions-Using the Distributive Property
+						612 cell
+							613 text 易混淆
+						614 cell
+							615 text -/-
+						616 cell
+							617 text - %
+					618 row
+						619 cell
+							620 container
+								621 text 数学
+						622 cell
+							623 text Linear equations in two variables-Graphing Lines in the Coordinate Plane
+						624 cell
+							625 text 易混淆
+						626 cell
+							627 text 0/1
+						628 cell
+							629 text 0 %
+					630 row
+						631 cell
+							632 container
+								633 text 数学
+						634 cell
+							635 text Equivalent expressions-Factoring Quadratic Expressions
+						636 cell
+							637 text 易混淆
+						638 cell
+							639 text -/-
+						640 cell
+							641 text - %
+					642 row
+						643 cell
+							644 container
+								645 text 数学
+						646 cell
+							647 text Circles-Relationships Between Angles and Arcs in a Circle
+						648 cell
+							649 text 易混淆
+						650 cell
+							651 text -/-
+						652 cell
+							653 text - %
+					654 row
+						655 cell
+							656 container
+								657 text 数学
+						658 cell
+							659 text One-variable data: distributions and measures of center and spread-Graphical Representations of Data Distributions
+						660 cell
+							661 text 易混淆
+						662 cell
+							663 text -/-
+						664 cell
+							665 text - %
+					666 row
+						667 cell
+							668 container
+								669 text 数学
+						670 cell
+							671 text One-variable data: distributions and measures of center and spread-Measuring Spread (Range, Standard Deviation)
+						672 cell
+							673 text 易混淆
+						674 cell
+							675 text -/-
+						676 cell
+							677 text - %
+					678 row
+						679 cell
+							680 container
+								681 text 数学
+						682 cell
+							683 text One-variable data: distributions and measures of center and spread-Measuring Center (Mean, Median, Mode)
+						684 cell
+							685 text 易混淆
+						686 cell
+							687 text -/-
+						688 cell
+							689 text - %
+					690 row
+						691 cell
+							692 container
+								693 text 数学
+						694 cell
+							695 text Ratios​,​ rates​,​ proportional relationships​,​ and units-Unit conversions and dimensional analysis
+						696 cell
+							697 text 易混淆
+						698 cell
+							699 text -/-
+						700 cell
+							701 text - %
+					702 row
+						703 cell
+							704 container
+								705 text 数学
+						706 cell
+							707 text Lines​,​ angles​,​ and triangles-Determining Triangle Congruence and Similarity
+						708 cell
+							709 text 易混淆
+						710 cell
+							711 text -/-
+						712 cell
+							713 text - %
+					714 row
+						715 cell
+							716 container
+								717 text 数学
+						718 cell
+							719 text Ratios​,​ rates​,​ proportional relationships​,​ and units-Calculating and Applying Ratios and Proportions
+						720 cell
+							721 text 易混淆
+						722 cell
+							723 text -/-
+						724 cell
+							725 text - %
+					726 row
+						727 cell
+							728 container
+								729 text 数学
+						730 cell
+							731 text Linear inequalities in one or two variables-Solving and Graphing Systems of Linear Inequalities
+						732 cell
+							733 text 易混淆
+						734 cell
+							735 text -/-
+						736 cell
+							737 text - %
+					738 row
+						739 cell
+							740 container
+								741 text 数学
+						742 cell
+							743 text Ratios​,​ rates​,​ proportional relationships​,​ and units-Calculating rates
+						744 cell
+							745 text 易混淆
+						746 cell
+							747 text -/-
+						748 cell
+							749 text - %
+					750 row
+						751 cell
+							752 container
+								753 text 数学
+						754 cell
+							755 text Equivalent expressions-Simplifying polynomial expressions (add​,​ subtract​,​ multiply)
+						756 cell
+							757 text 不稳定
+						758 cell
+							759 text -/-
+						760 cell
+							761 text - %
+					762 row
+						763 cell
+							764 container
+								765 text 数学
+						766 cell
+							767 text Lines​,​ angles​,​ and triangles-Angle Relationships Formed by Parallel Lines and Transversals
+						768 cell
+							769 text 较稳定
+						770 cell
+							771 text 1/1
+						772 cell
+							773 text 100 %
+			774 container
+				775 text 3 Top高错点
+			776 container
+				777 text 计算粗心 2 运算过程出现低级错误。 数学 数学
+			778 container
+				779 text 等式变形不合法 1 移项或变形过程不符合数学规则。 数学 数学
+			780 container
+				781 text 模型建立错误 1 未正确建立方程或函数关系。 数学 数学
+			782 container
+				783 text 解集不完整 1 只找到一个解，漏掉其他可能解。 数学 数学
+			784 container
+				785 text 题意理解偏差 1 未读清题目真正问什么。 数学 数学
+	786 container
+		787 text 已生成当前作业的订正练习，点击去练习巩固薄弱知识点 去练习 
+
+The focused UI element is 0 AXWebArea 测试结果, URL: learninghub.xhd.cn/org/sat/result.html?id=14254517&stubj=1&qid=144299&stuid=243365&wrcd=1&xiaov=20261122

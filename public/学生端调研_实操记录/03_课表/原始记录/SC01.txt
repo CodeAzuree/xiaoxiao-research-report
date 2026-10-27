@@ -1,0 +1,96 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=2026112215".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=2026112215
+	1 container myweb
+		2 container root-menu
+			3 container
+				4 image
+				5 text 首页
+			6 container
+				7 image
+				8 text 作业
+			9 container
+				10 image
+				11 text 课表
+			12 container
+				13 image
+				14 text 题库
+			15 container
+				16 image
+				17 text 单词书
+			18 container
+				19 image
+				20 text 错题
+			21 container
+				22 image
+				23 text 自适应
+			24 container
+				25 image
+				26 text 反馈
+			27 container
+				28 image
+				29 text 笔记
+			30 container
+				31 image
+				32 text 学习报告
+		33 container root-mv-right
+			34 container root-mv-header
+				35 image
+				36 container
+					37 text field (settable)
+					847 text 
+				39 button icon
+					40 image icon
+				41 container
+					848 text 
+					43 button icon
+						44 image icon
+				45 container
+					46 button icon
+						47 image icon
+					48 text 5
+				49 button icon
+					50 image icon
+				51 container
+					52 image
+					53 text 10
+				54 text 小格
+			849 container root-container
+				850 text 2026年10月
+				851 text 
+				852 text 本月
+				853 text 
+				854 container
+					855 text 星期一 星期二 星期三 星期四 星期五 星期六 星期天
+					856 text 1
+					857 text 2
+					858 text 3
+					859 text 4
+					860 text 5
+					861 text 6
+					862 text 7
+					863 text 8
+					864 text 9
+					865 text 10
+					866 text 11
+					867 text 12
+					868 text 13
+					869 text 14
+					870 text 15
+					871 text 16
+					872 text 17
+					873 text 18
+					874 text 19
+					875 text 20
+					876 text 21
+					877 text 22
+					878 text 今天
+					879 text 24
+					880 text 25
+					881 text 26
+					882 text 27
+					883 text 28
+					884 text 29
+					885 text 30
+					886 text 31
+
+The focused UI element is 0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=2026112215

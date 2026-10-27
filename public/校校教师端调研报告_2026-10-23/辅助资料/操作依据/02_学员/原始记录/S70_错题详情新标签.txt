@@ -1,0 +1,80 @@
+- code:
+  - button "布置"
+  - generic: 
+  - text:  
+  - tablist:
+    - tab "听力":
+      - generic: 听力
+  - generic: 显示答案
+  - switch [checked]:
+    - checkbox [checked]
+  - tablist:
+    - button "CIT-C5-T1 Section 3 " [expanded]:
+      - generic: CIT-C5-T1 Section 3
+      - generic: 
+    - region:
+      - paragraph
+      - list:
+        - paragraph: (22)
+        - paragraph
+        - generic: 
+  - paragraph:
+    - generic: 题目
+  - generic: 正确率
+  - generic: 44%
+  - generic: 中位用时
+  - generic: "-"
+  - generic: 区分度
+  - generic: "-"
+  - generic: 争议率
+  - generic: 0.66%
+  - generic: 
+  - paragraph:
+    - generic: "22"
+    - text: . During the course Andrew's employers will pay ______.
+  - generic: 00:00/06:22
+  - slider "slider between 0 and 100"
+  - slider "slider between 0 and 100"
+  - img "后退10秒"
+  - img "前进10秒"
+  - img "播放速度"
+  - generic: 原文
+  - list:
+    - generic: A
+    - generic: his fees.
+    - generic: 正确选项
+    - generic: 44% 选择
+    - generic: B
+    - generic: his living costs.
+    - generic: 29% 选择
+    - text: 
+    - generic: C
+    - generic: his salary.
+    - generic: 27% 选择
+    - text: 
+  - generic: 知识点
+  - generic: 题目来源
+  - button "添加知识点"
+  - generic: 三选一
+  - text: 
+  - radiogroup:
+    - button " 题目解析":
+      - generic: 
+      - generic: 题目解析
+    - button "名师讲解":
+      - generic: 名师讲解
+    - button "笔记列表":
+      - generic: 笔记列表
+  - generic: 学生答案
+  - generic: 对此题提出疑问？
+  - text: 
+  - paragraph
+  - generic: 学生答案
+  - generic: A
+  - paragraph
+  - generic: 正确答案
+  - generic: A
+  - generic: 
+  - paragraph:
+    - generic: 答题解析
+  - paragraph: "ANDREW: No, not really. It's also a question of finances. You see, my office have agreed to pay the cost of the Course itself, but I would have to take unpaid leave if I want to study full-time and, well, I don't think I could afford to support myself with no salary for a whole year."

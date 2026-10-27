@@ -1,0 +1,171 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+1 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	2 container myweb
+		3 container root-menu
+			4 container
+				5 image
+				6 text 首页
+			7 container
+				8 image
+				9 text 作业
+			10 container
+				11 image
+				12 text 课表
+			13 container
+				14 image
+				15 text 题库
+			16 container
+				17 image
+				18 text 单词书
+			19 container
+				20 image
+				21 text 错题
+			22 container
+				23 image
+				24 text 自适应
+			25 container
+				26 image
+				27 text 反馈
+			28 container
+				29 image
+				30 text 笔记
+			31 container
+				32 image
+				33 text 学习报告
+		34 container root-mv-right
+			40 container root-mv-header
+				41 image
+				42 container
+					43 text field (settable)
+					61 text 
+				45 button icon
+					46 image icon
+				47 container
+					62 text 
+					49 button icon
+						50 image icon
+				51 container
+					52 button icon
+						53 image icon
+					54 text 6
+				55 button icon
+					56 image icon
+				57 container
+					58 image
+					59 text 10
+				60 text 小格
+			63 container
+				64 text 我的作业
+				65 content list
+					66 container
+						67 image
+						68 text 全部作业 (1)
+					69 container
+						70 image
+						71 text 待完成
+					72 container
+						73 image
+						74 text 已完成 (1)
+					75 container
+						76 image
+						77 text 进行中
+					78 container
+						79 image
+						80 text 已批改
+					81 container
+						82 image
+						83 text 收藏作业
+					84 container
+						85 image
+						86 text 有新评语
+					87 container
+						88 image
+						89 text 即将过期
+					90 container
+						91 image
+						92 text 已逾期
+				93 text 全部作业 班级：
+				94 container
+					95 text 全部 王小格-SAT 测试班001 TF2410LXC005 测试班002
+				96 text 类型：
+				97 container
+					98 text 全部 单词作业 作业模考 打卡作业 视频课件
+				99 text 时间：
+				100 container
+					101 text 全部 今天 未来三天 未来七天
+				102 container
+					103 text field (settable) 【调研测试】实时词汇联动_20261026
+					104 text 
+				105 button 搜索
+				106 container
+					107 image
+					108 image
+				109 text 2026-10-26
+				110 container
+					111 image
+					112 text 单词作业 实时作业 已完成 【调研测试】实时词汇联动_20261026 开始时间：2026-10-26 10:03 截止时间：2026-10-26 10:06 班级：王小格-SAT 思贤 王思贤
+					113 text 
+					114 text 查看结果
+				115 text 共 1 天
+				116 container
+					117 text field 50天/页
+					118 text 
+				119 button (disabled) 
+					120 text 
+				121 content list
+					122 text 1
+				123 button (disabled) 
+					124 text 
+				125 container
+					126 text 前往
+					127 stepper (settable, integer) 1
+					128 text 页
+				129 container
+					130 text  返回作业管理
+				131 image
+				132 text 日期
+				133 text /
+				134 text 批改老师
+				135 text -
+				136 text 打卡频次 平均成绩 完成数 0 /- 批改数 0 /-
+				137 container
+					138 button AI作业分析
+						139 image
+						140 text AI作业分析
+					141 image
+				142 container
+					143 tab group
+						144 container
+							145 tab (selected, settable, boolean) 参与学生, Value: 1
+							146 tab (settable) 题目
+							147 tab (settable) 统计
+							148 tab (settable) 排行榜
+					149 text 当天打卡率 0% 0/0已打卡
+					150 image
+					151 text 暂无数据，还没有学生的打卡内容~
+				152 container
+					153 text  返回作业管理
+				154 image
+				155 text 日期
+				156 text /
+				157 text 题目数
+				158 text 批改老师
+				159 text -
+				160 text 平均成绩 完成数 0 /- 批改数 0 /-
+				161 container
+					162 button AI作业分析
+						163 image
+						164 text AI作业分析
+					165 image
+				166 button 再次布置
+				167 button 预览
+				168 tab group
+					169 container
+						170 tab (selected, settable, boolean) 参与学生, Value: 1
+						171 tab (settable) 统计
+						172 tab (settable) 排行榜
+				173 container
+					174 image
+					175 text 暂无数据~
+
+The focused UI element is 105 button 搜索

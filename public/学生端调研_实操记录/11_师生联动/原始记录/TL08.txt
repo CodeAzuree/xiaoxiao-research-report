@@ -1,0 +1,23 @@
+Browser tab: 45, Title: "实时作业", URL: "https://learninghub.xhd.cn/org/realtimehmk/realtimehmk.html?hwkid=14753411".
+1 AXWebArea 实时作业, URL: learninghub.xhd.cn/org/realtimehmk/realtimehmk.html?hwkid=14753411
+	2 container realtimehmk
+		3 text 思贤
+		4 text 3
+		5 text 100%
+		6 text 准确率
+		7 text 0
+		8 text 排行榜
+		9 text 参与学员
+		10 text 1
+		11 text 00:03:21
+		12 container
+			13 text 排名 姓名 客观题（共3题） 分数（共100分）
+		14 container rang_0
+			15 text 小格
+			16 text 王小格
+			17 text 3
+			18 text 100
+		19 text 答题已结束
+		20 text 查看答题详情
+
+The focused UI element is 1 AXWebArea 实时作业, URL: learninghub.xhd.cn/org/realtimehmk/realtimehmk.html?hwkid=14753411

@@ -1,0 +1,44 @@
+Browser tab: 45, Title: "基础练习", URL: "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=14753411&stuid=243365&teacherid=31866&wrcd=1&xiaov=20261122&pk=1&dtors=1".
+1 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14753411&stuid=243365&teacherid=31866&wrcd=1&xiaov=20261122&pk=1&dtors=1
+	2 container myweb
+		3 content list
+			4 container
+				5 text 小格 已查阅
+				6 text 王小格
+		7 text 【调研测试】实时词汇联动_20261026
+		8 text 
+		9 text 2026.10.26 10:03 - 2026.10.26 10:04
+		10 button 生成报告
+		11 container
+			12 container
+				13 text 作业结果 答题解析 答题录屏
+			14 container
+				15 progress indicator 100
+				16 text 100分
+				17 text 满分:100分
+			18 text 正确率：100% 上一次正确率：-%
+			19 text 作业情况统计
+			20 image
+			21 text 总词汇
+			22 text 3
+			23 image
+			24 text 答对
+			25 text 3
+			26 image
+			27 text 答错
+			28 text 0
+			29 image
+			30 text 未答
+			31 text 0
+			32 button  能力诊断, ID: xx-capsule-radio__item-0
+				33 text 
+				34 text 能力诊断
+			35 button 评语, ID: xx-capsule-radio__item-1
+			36 text 时长分析
+			37 text 我的做题时长
+			38 text 全网做题时长
+			39 text 答题正确率对比
+			40 text 我的正确率
+			41 text 全网正确率
+
+The focused UI element is 1 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14753411&stuid=243365&teacherid=31866&wrcd=1&xiaov=20261122&pk=1&dtors=1

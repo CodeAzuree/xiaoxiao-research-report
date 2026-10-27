@@ -1,0 +1,111 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "245"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业大纲
+- generic: 知识点
+- generic: 我的知识点
+- generic: 共享知识点
+- generic: 科目
+- generic "托福"
+- generic "雅思"
+- generic "SAT"
+- generic "小托福"
+- generic "ACT"
+- generic "PTE"
+- generic "GRE"
+- generic "SAT机考"
+- generic "KET"
+- generic "PET"
+- generic "FCE"
+- generic "A-Level"
+- generic "AP"
+- generic "新托福2026"
+- generic: 知识点类型
+- generic "全部"
+- generic "阅读"
+- generic "听力"
+- generic "口语"
+- generic "写作"
+- button "列表 ":
+  - generic: 列表
+  - generic: 
+- button "排序 " [active]:
+  - generic: 排序
+  - generic: 
+- textbox "请输入知识点名称"
+- generic: 
+- button "添加知识点":
+  - generic: 添加知识点
+- table:
+  - rowgroup:
+    - row "知识点名称 科目 更新时间 知识点详情 操作":
+      - columnheader "知识点名称":
+        - generic: 知识点名称
+      - columnheader "科目":
+        - generic: 科目
+      - columnheader "更新时间":
+        - generic: 更新时间
+      - columnheader "知识点详情":
+        - generic: 知识点详情
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup:
+    - row "知识点测试 托福 2026-10-10 这是一条测试知识点 编辑":
+      - cell "知识点测试":
+        - generic: 知识点测试
+      - cell "托福":
+        - generic: 托福
+      - cell "2026-10-10":
+        - generic: 2026-10-10
+      - cell "这是一条测试知识点":
+        - paragraph: 这是一条测试知识点
+      - cell "编辑":
+        - generic: 编辑
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text: 
+- list:
+  - generic: 更新时间
+  - generic: 
+  - generic: 
+  - generic: A - Z
+  - generic: 
+  - generic: 

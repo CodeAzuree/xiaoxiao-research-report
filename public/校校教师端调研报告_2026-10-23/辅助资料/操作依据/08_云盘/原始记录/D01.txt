@@ -1,0 +1,79 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "246"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "上传":
+  - generic: 上传
+- generic: 
+- progressbar
+- generic: 501M / 2G
+- paragraph: 我的云盘
+- paragraph: 共享云盘
+- textbox "请输入搜索文件名称"
+- generic: 
+- button "搜索":
+  - generic: 搜索
+- table:
+  - rowgroup:
+    - row "文件名称 文件大小 上传日期 操作":
+      - columnheader "文件名称":
+        - generic: 文件名称
+      - columnheader "文件大小":
+        - generic: 文件大小
+      - columnheader "上传日期":
+        - generic: 上传日期
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup
+- paragraph: 暂无文件
+- generic: 共 0 条
+- textbox "请选择": 20条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+- button "" [disabled]:
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text: 

@@ -1,0 +1,574 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- tablist:
+  - tab "练习统计" [selected]:
+    - generic: 练习统计
+  - tab "错题分析":
+    - generic: 错题分析
+  - tab "笔记":
+    - generic: 笔记
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- generic: 作业完成情况
+- generic: "18"
+- generic: /
+- generic: "71"
+- generic: 自适应统计
+- generic: 单词书进度
+- generic: 共学习 56 词
+- generic: 开放题库
+- generic: 词汇量测试
+- generic: 科目
+- generic: 
+- text: 开始时间
+- generic: 
+- generic: 
+- textbox "开始日期"
+- generic: "-"
+- textbox "结束日期"
+- text: 提交时间
+- generic: 
+- generic: 
+- textbox "开始日期"
+- generic: "-"
+- textbox "结束日期"
+- button "完成状态 ( 全部 ) ":
+  - text: 完成状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- table:
+  - rowgroup:
+    - row "题目名称 科目 开始时间 提交时间 状态 正确率 分数 批改老师 模式 操作":
+      - columnheader "题目名称":
+        - generic: 题目名称
+      - columnheader "科目":
+        - generic: 科目
+      - columnheader "开始时间":
+        - generic: 开始时间
+      - columnheader "提交时间":
+        - generic: 提交时间
+      - columnheader "状态":
+        - generic: 状态
+      - columnheader "正确率":
+        - generic: 正确率
+      - columnheader "分数":
+        - generic: 分数
+      - columnheader "批改老师":
+        - generic: 批改老师
+      - columnheader "模式":
+        - generic: 模式
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup:
+    - 'row "CIT-C21-T1 / Reading Passage 3 (Book review: The World of Sugar by Ulbe Bosma) 雅思 2026-10-15 15:09 2026-10-15 15:10 已完成 - - - 模考模式 查看详情"':
+      - 'cell "CIT-C21-T1 / Reading Passage 3 (Book review: The World of Sugar by Ulbe Bosma)"':
+        - generic: "CIT-C21-T1 / Reading Passage 3 (Book review: The World of Sugar by Ulbe Bosma)"
+      - cell "雅思":
+        - generic: 雅思
+      - cell "2026-10-15 15:09":
+        - generic: 2026-10-15 15:09
+      - cell "2026-10-15 15:10":
+        - generic: 2026-10-15 15:10
+      - cell "已完成":
+        - generic: 已完成
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2023年4月Z18 / Passage III (Reading an Unearthed Past) ACT 2026-10-10 09:52 2026-10-10 09:53 已完成 - 1 - 模考模式 查看详情":
+      - cell "2023年4月Z18 / Passage III (Reading an Unearthed Past)":
+        - generic: 2023年4月Z18 / Passage III (Reading an Unearthed Past)
+      - cell "ACT":
+        - generic: ACT
+      - cell "2026-10-10 09:52":
+        - generic: 2026-10-10 09:52
+      - cell "2026-10-10 09:53":
+        - generic: 2026-10-10 09:53
+      - cell "已完成":
+        - generic: 已完成
+      - cell "-":
+        - generic: "-"
+      - cell "1":
+        - generic: "1"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "SAT CMP 2025-L12-NA-01 / Module 1 (Routing) SAT机考 2026-09-28 10:42 - 进行中 - - - 学练模式 查看详情":
+      - cell "SAT CMP 2025-L12-NA-01 / Module 1 (Routing)":
+        - generic: SAT CMP 2025-L12-NA-01 / Module 1 (Routing)
+      - cell "SAT机考":
+        - generic: SAT机考
+      - cell "2026-09-28 10:42":
+        - generic: 2026-09-28 10:42
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "学练模式":
+        - generic: 学练模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "SAT CMP 2025-L12-NA-01 / Module 1 (Routing) SAT机考 2026-09-24 17:53 - 进行中 - - - 模考模式 查看详情":
+      - cell "SAT CMP 2025-L12-NA-01 / Module 1 (Routing)":
+        - generic: SAT CMP 2025-L12-NA-01 / Module 1 (Routing)
+      - cell "SAT机考":
+        - generic: SAT机考
+      - cell "2026-09-24 17:53":
+        - generic: 2026-09-24 17:53
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2026机经第21套 / 写作 Write an Email (Feedback on Car Rental Experience) 新托福2026 2026-09-24 17:53 - 进行中 - - - 模考模式 查看详情":
+      - cell "2026机经第21套 / 写作 Write an Email (Feedback on Car Rental Experience)":
+        - generic: 2026机经第21套 / 写作 Write an Email (Feedback on Car Rental Experience)
+      - cell "新托福2026":
+        - generic: 新托福2026
+      - cell "2026-09-24 17:53":
+        - generic: 2026-09-24 17:53
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "SAT CMP 2023-F6-INT-01 / Module 2 SAT机考 2026-09-24 16:16 - 进行中 - - - 学练模式 查看详情":
+      - cell "SAT CMP 2023-F6-INT-01 / Module 2":
+        - generic: SAT CMP 2023-F6-INT-01 / Module 2
+      - cell "SAT机考":
+        - generic: SAT机考
+      - cell "2026-09-24 16:16":
+        - generic: 2026-09-24 16:16
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "学练模式":
+        - generic: 学练模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "SAT CMP 2023-F6-INT-01 / Module 2 SAT机考 2026-09-24 16:00 - 进行中 - - - 模考模式 查看详情":
+      - cell "SAT CMP 2023-F6-INT-01 / Module 2":
+        - generic: SAT CMP 2023-F6-INT-01 / Module 2
+      - cell "SAT机考":
+        - generic: SAT机考
+      - cell "2026-09-24 16:00":
+        - generic: 2026-09-24 16:00
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "SAT CMP 2025-L12-NA-01 / Module 1 (Routing) SAT机考 2026-09-24 15:59 2026-09-24 15:59 已完成 - - - 学练模式 查看详情":
+      - cell "SAT CMP 2025-L12-NA-01 / Module 1 (Routing)":
+        - generic: SAT CMP 2025-L12-NA-01 / Module 1 (Routing)
+      - cell "SAT机考":
+        - generic: SAT机考
+      - cell "2026-09-24 15:59":
+        - generic: 2026-09-24 15:59
+      - cell "2026-09-24 15:59":
+        - generic: 2026-09-24 15:59
+      - cell "已完成":
+        - generic: 已完成
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "学练模式":
+        - generic: 学练模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "雅思听力真题集 Test 20 / Section 3 (A Presentation About Business) 雅思 2026-05-20 16:51 - 进行中 - - - 学练模式 查看详情":
+      - cell "雅思听力真题集 Test 20 / Section 3 (A Presentation About Business)":
+        - generic: 雅思听力真题集 Test 20 / Section 3 (A Presentation About Business)
+      - cell "雅思":
+        - generic: 雅思
+      - cell "2026-05-20 16:51":
+        - generic: 2026-05-20 16:51
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "学练模式":
+        - generic: 学练模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "武汉新航道新托福第6套 / 口语 Take an Interview 新托福2026 2026-05-09 18:08 - 进行中 - - - 模考模式 查看详情":
+      - cell "武汉新航道新托福第6套 / 口语 Take an Interview":
+        - generic: 武汉新航道新托福第6套 / 口语 Take an Interview
+      - cell "新托福2026":
+        - generic: 新托福2026
+      - cell "2026-05-09 18:08":
+        - generic: 2026-05-09 18:08
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "武汉新航道新托福第6套 / 口语 Take an Interview 新托福2026 2026-05-09 18:08 - 进行中 - - - 学练模式 查看详情":
+      - cell "武汉新航道新托福第6套 / 口语 Take an Interview":
+        - generic: 武汉新航道新托福第6套 / 口语 Take an Interview
+      - cell "新托福2026":
+        - generic: 新托福2026
+      - cell "2026-05-09 18:08":
+        - generic: 2026-05-09 18:08
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "学练模式":
+        - generic: 学练模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2024年5-8月口语题库Part1 New/Chocolate / Part 1 (Chocolate) 雅思 2026-05-08 09:33 - 进行中 - - - 模考模式 查看详情":
+      - cell "2024年5-8月口语题库Part1 New/Chocolate / Part 1 (Chocolate)":
+        - generic: 2024年5-8月口语题库Part1 New/Chocolate / Part 1 (Chocolate)
+      - cell "雅思":
+        - generic: 雅思
+      - cell "2026-05-08 09:33":
+        - generic: 2026-05-08 09:33
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2024年5-8月口语题库Part1 New/Language / Part 1 (Language) 雅思 2026-05-08 09:33 - 进行中 - - - 模考模式 查看详情":
+      - cell "2024年5-8月口语题库Part1 New/Language / Part 1 (Language)":
+        - generic: 2024年5-8月口语题库Part1 New/Language / Part 1 (Language)
+      - cell "雅思":
+        - generic: 雅思
+      - cell "2026-05-08 09:33":
+        - generic: 2026-05-08 09:33
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "剑桥雅思19/Test 4 / Part 1 (Cafés) 雅思 2026-05-08 09:23 - 进行中 - - - 模考模式 查看详情":
+      - cell "剑桥雅思19/Test 4 / Part 1 (Cafés)":
+        - generic: 剑桥雅思19/Test 4 / Part 1 (Cafés)
+      - cell "雅思":
+        - generic: 雅思
+      - cell "2026-05-08 09:23":
+        - generic: 2026-05-08 09:23
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "剑桥雅思19/Test 4 / Part 3 (The beauty industry) 雅思 2026-05-08 09:22 - 进行中 - - - 模考模式 查看详情":
+      - cell "剑桥雅思19/Test 4 / Part 3 (The beauty industry)":
+        - generic: 剑桥雅思19/Test 4 / Part 3 (The beauty industry)
+      - cell "雅思":
+        - generic: 雅思
+      - cell "2026-05-08 09:22":
+        - generic: 2026-05-08 09:22
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2024年5-8月口语题库Part1 New/T-shirt / Part 1 (T-shirt) 雅思 2026-05-08 09:04 - 进行中 - - - 模考模式 查看详情":
+      - cell "2024年5-8月口语题库Part1 New/T-shirt / Part 1 (T-shirt)":
+        - generic: 2024年5-8月口语题库Part1 New/T-shirt / Part 1 (T-shirt)
+      - cell "雅思":
+        - generic: 雅思
+      - cell "2026-05-08 09:04":
+        - generic: 2026-05-08 09:04
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2024年5-8月口语题库Part1 New/Weekends / Part 1 (Weekends) 雅思 2026-05-08 09:00 - 进行中 - - - 模考模式 查看详情":
+      - cell "2024年5-8月口语题库Part1 New/Weekends / Part 1 (Weekends)":
+        - generic: 2024年5-8月口语题库Part1 New/Weekends / Part 1 (Weekends)
+      - cell "雅思":
+        - generic: 雅思
+      - cell "2026-05-08 09:00":
+        - generic: 2026-05-08 09:00
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2024年5-8月口语题库Part1 New/Relax / Part 1 (Relax) 雅思 2026-05-08 08:59 - 进行中 - - - 模考模式 查看详情":
+      - cell "2024年5-8月口语题库Part1 New/Relax / Part 1 (Relax)":
+        - generic: 2024年5-8月口语题库Part1 New/Relax / Part 1 (Relax)
+      - cell "雅思":
+        - generic: 雅思
+      - cell "2026-05-08 08:59":
+        - generic: 2026-05-08 08:59
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "2024年5-8月口语题库Part 2&3 new/派对上遇到的聊得来的人 / Part 3 (派对上遇到的聊得来的人) 雅思 2026-05-08 08:58 - 进行中 - - - 模考模式 查看详情":
+      - cell "2024年5-8月口语题库Part 2&3 new/派对上遇到的聊得来的人 / Part 3 (派对上遇到的聊得来的人)":
+        - generic: 2024年5-8月口语题库Part 2&3 new/派对上遇到的聊得来的人 / Part 3 (派对上遇到的聊得来的人)
+      - cell "雅思":
+        - generic: 雅思
+      - cell "2026-05-08 08:58":
+        - generic: 2026-05-08 08:58
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+    - row "剑桥雅思14/Test 4 / Reading Passage 2 (Why zoos are good) 雅思 2026-04-23 16:07 - 进行中 - - - 模考模式 查看详情":
+      - cell "剑桥雅思14/Test 4 / Reading Passage 2 (Why zoos are good)":
+        - generic: 剑桥雅思14/Test 4 / Reading Passage 2 (Why zoos are good)
+      - cell "雅思":
+        - generic: 雅思
+      - cell "2026-04-23 16:07":
+        - generic: 2026-04-23 16:07
+      - cell "-":
+        - generic: "-"
+      - cell "进行中":
+        - generic: 进行中
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "模考模式":
+        - generic: 模考模式
+      - cell "查看详情":
+        - generic: 查看详情
+- generic: 共 66 条
+- textbox "请选择": 20条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+  - listitem: "2"
+  - listitem: "3"
+  - listitem: "4"
+- button "":
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:          

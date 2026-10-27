@@ -1,0 +1,670 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 作业管理
+- generic: 
+- text: 布置作业
+- list:
+  - generic: 全部作业
+  - generic: (17757)
+  - generic: 单词作业
+  - generic: (1995)
+  - generic: 打卡作业
+  - generic: (15)
+  - generic: 作业模考
+  - generic: (15747)
+  - generic: 视频课件
+  - generic: 实时作业
+  - generic: 未下发作业
+  - generic: 我的批改
+  - generic: (519)
+  - generic: 我布置的
+  - generic: (517)
+  - generic: 收藏作业
+- generic: 打卡作业
+- generic: 科目：
+- generic: 全部
+- generic: 雅思
+- generic: 托福
+- generic: AP
+- generic: SAT
+- generic: 状态：
+- generic: 全部
+- generic: 未开始
+- generic: 进行中
+- generic: 已完成
+- generic: 已逾期
+- generic: 未批改
+- generic: 部分批改
+- generic: 已批改
+- generic: 未查阅
+- generic: 部分查阅
+- generic: 已查阅
+- button "班级： ( 全部 ) ":
+  - text: 班级：
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- text: 时间
+- generic: 
+- generic: 
+- textbox "开始日期"
+- generic: "-"
+- textbox "结束日期"
+- generic: 筛选
+- generic: 排序
+- button "重置"
+- generic: 
+- textbox "请输入作业名称"
+- radiogroup:
+  - button
+  - button
+- table:
+  - rowgroup:
+    - row "作业名称 状态 收藏 班级 截止时间 题目数 布置老师 批改老师 平均成绩 完成数 批改数 学生数":
+      - columnheader "作业名称":
+        - generic: 作业名称
+      - columnheader "状态":
+        - generic: 状态
+      - columnheader "收藏":
+        - generic: 收藏
+      - columnheader "班级":
+        - generic: 班级
+      - columnheader "截止时间":
+        - generic: 截止时间
+      - columnheader "题目数":
+        - generic: 题目数
+      - columnheader "布置老师":
+        - generic: 布置老师
+      - columnheader "批改老师":
+        - generic: 批改老师
+      - columnheader "平均成绩":
+        - generic: 平均成绩
+      - columnheader "完成数":
+        - generic: 完成数
+      - columnheader "批改数":
+        - generic: 批改数
+      - columnheader "学生数":
+        - generic: 学生数
+      - columnheader
+- table:
+  - rowgroup:
+    - row "四级词汇 已逾期 +1  邵旻思 2025-02-19 至 2025-03-31 22:00 - 邓紫荆 邓紫荆 打卡率:0% - - - 查看详情 ":
+      - cell "四级词汇":
+        - generic: 四级词汇
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2025-02-19 至 2025-03-31 22:00":
+        - generic: 2025-02-19 至 2025-03-31 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "打卡率:0%":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "四级词汇 已逾期 +1  锦秋武昌-陈梓豪雅思 2025-02-19 至 2025-03-31 22:00 - 邓紫荆 邓紫荆 打卡率:0% - - - 查看详情 ":
+      - cell "四级词汇":
+        - generic: 四级词汇
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2025-02-19 至 2025-03-31 22:00":
+        - generic: 2025-02-19 至 2025-03-31 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "打卡率:0%":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "听力词汇表 已逾期 +1  邵旻思 2024-12-01 至 2024-12-31 22:00 - 邓紫荆 邓紫荆 打卡率:0% - - - 查看详情 ":
+      - cell "听力词汇表":
+        - generic: 听力词汇表
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2024-12-01 至 2024-12-31 22:00":
+        - generic: 2024-12-01 至 2024-12-31 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "打卡率:0%":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "听力词汇表 已逾期 +1  锦秋武昌-陈梓豪雅思 2024-12-01 至 2024-12-31 22:00 - 邓紫荆 邓紫荆 打卡率:0% - - - 查看详情 ":
+      - cell "听力词汇表":
+        - generic: 听力词汇表
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "锦秋武昌-陈梓豪雅思":
+        - generic: 锦秋武昌-陈梓豪雅思
+      - cell "2024-12-01 至 2024-12-31 22:00":
+        - generic: 2024-12-01 至 2024-12-31 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "打卡率:0%":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "听力单词打卡 已逾期 +1  邵旻思 2024-11-10 至 2024-12-10 22:00 - 邓紫荆 邓紫荆 打卡率:0% - - - 查看详情 ":
+      - cell "听力单词打卡":
+        - generic: 听力单词打卡
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2024-11-10 至 2024-12-10 22:00":
+        - generic: 2024-11-10 至 2024-12-10 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "打卡率:0%":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "每日听力单词打卡 已逾期 +1  邵旻思 2024-10-30 至 2024-11-30 22:00 - 邓紫荆 邓紫荆 打卡率:0% - - - 查看详情 ":
+      - cell "每日听力单词打卡":
+        - generic: 每日听力单词打卡
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2024-10-30 至 2024-11-30 22:00":
+        - generic: 2024-10-30 至 2024-11-30 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "打卡率:0%":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "精听例题 已逾期 +1  邵旻思 2024-10-30 至 2024-11-30 22:00 - 邓紫荆 邓紫荆 打卡率:0% - - - 查看详情 ":
+      - cell "精听例题":
+        - generic: 精听例题
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "邵旻思":
+        - generic: 邵旻思
+      - cell "2024-10-30 至 2024-11-30 22:00":
+        - generic: 2024-10-30 至 2024-11-30 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "邓紫荆":
+        - generic: 邓紫荆
+      - cell "打卡率:0%":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "口译录音 已逾期 +1  YS2409ZND006 2024-10-02 至 2024-10-03 22:00 - 高源 高源 打卡率:0% - - - 查看详情 ":
+      - cell "口译录音":
+        - generic: 口译录音
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "YS2409ZND006":
+        - generic: YS2409ZND006
+      - cell "2024-10-02 至 2024-10-03 22:00":
+        - generic: 2024-10-02 至 2024-10-03 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "打卡率:0%":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "口译录音 已逾期 +1  YS2409ZND013 2024-10-02 至 2024-10-03 22:00 - 高源 高源 打卡率:11% - - - 查看详情 ":
+      - cell "口译录音":
+        - generic: 口译录音
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "YS2409ZND013":
+        - generic: YS2409ZND013
+      - cell "2024-10-02 至 2024-10-03 22:00":
+        - generic: 2024-10-02 至 2024-10-03 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "打卡率:11%":
+        - generic: 打卡率:11%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "口译录音 已逾期 +1  刘赢 2024-10-02 至 2024-10-03 22:00 - 高源 高源 打卡率:0% - - - 查看详情 ":
+      - cell "口译录音":
+        - generic: 口译录音
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "刘赢":
+        - generic: 刘赢
+      - cell "2024-10-02 至 2024-10-03 22:00":
+        - generic: 2024-10-02 至 2024-10-03 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "打卡率:0%":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "口译录音 已逾期 +1  周千皓 2024-10-02 至 2024-10-03 22:00 - 高源 高源 打卡率:0% - - - 查看详情 ":
+      - cell "口译录音":
+        - generic: 口译录音
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "周千皓":
+        - generic: 周千皓
+      - cell "2024-10-02 至 2024-10-03 22:00":
+        - generic: 2024-10-02 至 2024-10-03 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "打卡率:0%":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "每天自己的口语录音 已逾期 +1  YS2409ZND006 2024-10-02 至 2024-10-03 22:00 - 高源 高源 打卡率:0% - - - 查看详情 ":
+      - cell "每天自己的口语录音":
+        - generic: 每天自己的口语录音
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "YS2409ZND006":
+        - generic: YS2409ZND006
+      - cell "2024-10-02 至 2024-10-03 22:00":
+        - generic: 2024-10-02 至 2024-10-03 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "打卡率:0%":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "每天自己的口语录音 已逾期 +1  YS2409ZND013 2024-10-02 至 2024-10-03 22:00 - 高源 高源 打卡率:11% - - - 查看详情 ":
+      - cell "每天自己的口语录音":
+        - generic: 每天自己的口语录音
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "YS2409ZND013":
+        - generic: YS2409ZND013
+      - cell "2024-10-02 至 2024-10-03 22:00":
+        - generic: 2024-10-02 至 2024-10-03 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "打卡率:11%":
+        - generic: 打卡率:11%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "每天自己的口语录音 已逾期 +1  刘赢 2024-10-02 至 2024-10-03 22:00 - 高源 高源 打卡率:0% - - - 查看详情 ":
+      - cell "每天自己的口语录音":
+        - generic: 每天自己的口语录音
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "刘赢":
+        - generic: 刘赢
+      - cell "2024-10-02 至 2024-10-03 22:00":
+        - generic: 2024-10-02 至 2024-10-03 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "打卡率:0%":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+    - row "每天自己的口语录音 已逾期 +1  周千皓 2024-10-02 至 2024-10-03 22:00 - 高源 高源 打卡率:0% - - - 查看详情 ":
+      - cell "每天自己的口语录音":
+        - generic: 每天自己的口语录音
+      - cell "已逾期 +1":
+        - generic: 已逾期
+        - generic: "+1"
+      - cell "":
+        - generic: 
+      - cell "周千皓":
+        - generic: 周千皓
+      - cell "2024-10-02 至 2024-10-03 22:00":
+        - generic: 2024-10-02 至 2024-10-03 22:00
+      - cell "-":
+        - generic: "-"
+      - cell "高源":
+        - generic: 高源
+      - cell "高源":
+        - generic: 高源
+      - cell "打卡率:0%":
+        - generic: 打卡率:0%
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "-":
+        - generic: "-"
+      - cell "查看详情 ":
+        - button "查看详情"
+        - button "":
+          - generic: 
+- generic: 共 15 条
+- button "50 条/页 ":
+  - text: 50 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button [disabled]:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 返回作业管理
+- generic: 打卡作业
+- generic: 已逾期
+- generic: 未开始
+- generic: 四级词汇
+- generic: 邵旻思
+- generic: 日期
+- generic: 2025-02-19/2025-03-31 22:00
+- generic: 布置老师
+- generic: 邓紫荆
+- generic: 批改老师
+- generic: 邓紫荆
+- generic: 打卡频次
+- generic: 周一
+- generic: 周二
+- generic: 周三
+- generic: 周四
+- generic: 周五
+- generic: 周六
+- generic: 周日
+- generic: 打卡率
+- generic: 0%
+- generic: 完成数
+- text: "41"
+- generic: /1
+- generic: 批改数
+- generic: "-"
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- tablist:
+  - tab "参与学生":
+    - generic: 参与学生
+  - tab "题目" [active] [selected]:
+    - generic: 题目
+  - tab "统计":
+    - generic: 统计
+  - tab "排行榜":
+    - generic: 排行榜
+- generic: 每天一个list
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 返回作业管理
+- generic: 日期
+- generic: /
+- generic: 题目数
+- generic: 批改老师
+- generic: "-"
+- generic: 平均成绩
+- generic: 完成数
+- text: "0"
+- generic: /-
+- generic: 批改数
+- text: "0"
+- generic: /-
+- text: 
+- button "AI作业分析":
+  - generic: AI作业分析
+- button "再次布置"
+- button "预览"
+- tablist:
+  - tab "参与学生" [selected]:
+    - generic: 参与学生
+  - tab "统计":
+    - generic: 统计
+  - tab "排行榜":
+    - generic: 排行榜
+- paragraph:
+  - generic: 暂无数据~
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:                              
+- generic: 
+- text:                                                                                                                      

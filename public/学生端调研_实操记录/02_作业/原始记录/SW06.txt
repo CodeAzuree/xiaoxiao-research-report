@@ -1,0 +1,21 @@
+Browser tab: 50, Title: "基础练习", URL: "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=14695069&stuid=243365&teacherid=&wrcd=1&xiaov=20261122".
+0 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14695069&stuid=243365&teacherid=&wrcd=1&xiaov=20261122
+	1 container myweb
+		2 text 错词训练/2026-10-22
+		3 text 
+		4 text 2026.10.22 16:08 - 2026.10.22 16:09
+		5 container
+			6 container
+				7 text 作业结果 答题解析 巩固训练
+			8 text 巩固训练
+			9 image
+			10 text 精听跟读巩固训练，夯实基础，稳固提升听力口语能力
+			11 image
+			12 button  订正练习, ID: xx-capsule-radio__item-0
+				13 text 
+				14 text 订正练习
+			15 text 已完成
+			16 text 订正练习
+			17 button 查看
+
+The focused UI element is 0 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14695069&stuid=243365&teacherid=&wrcd=1&xiaov=20261122

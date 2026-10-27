@@ -1,0 +1,111 @@
+- generic: 评语
+- generic: 
+- text: 
+- generic: 
+- list:
+  - generic: 小格
+  - generic: 已查阅
+  - generic: 王小格
+- generic: 新托福口语模考
+- generic: 
+- generic: 2026.05.15 09:48 - 2026.05.15 09:56
+- text:    
+- button "导出PDF"
+- button "发布成绩"
+- text: 
+- button "生成报告"
+- text: 
+- generic: 作业结果
+- generic: 答题解析
+- generic: 答题录屏
+- generic: 巩固训练
+- text:    
+- tablist:
+  - tab "口语" [selected]:
+    - generic: 口语
+- tablist:
+  - button "口语 430 S " [expanded]:
+    - generic: 口语
+    - paragraph: 430 S
+    - generic: 
+  - region:
+    - paragraph
+    - list:
+      - paragraph: (1)
+      - paragraph: 90 S
+      - paragraph
+      - paragraph
+      - paragraph: (2)
+      - paragraph: 340 S
+      - paragraph
+      - paragraph
+- paragraph:
+  - generic: 题目
+- generic: 正确率
+- generic: "-"
+- generic: 中位用时
+- generic: 03:46
+- generic: 区分度
+- generic: "0.34"
+- generic: 争议率
+- generic: "-"
+- generic: 
+- generic: 00:00/00:15
+- slider "slider between 0 and 100"
+- slider "slider between 0 and 100"
+- img "后退10秒"
+- img "前进10秒"
+- img "播放速度"
+- generic: You have signed up for a study run by a university research group that is investigating volunteering and community service. You will have a short online interview with a researcher. The researcher will ask you some questions.
+- list
+- radiogroup:
+  - button " 问题一":
+    - generic: 
+    - generic: 问题一
+  - button "问题二":
+    - generic: 问题二
+  - button "问题三":
+    - generic: 问题三
+  - button "问题四":
+    - generic: 问题四
+- generic: 00:00/00:14
+- slider "slider between 0 and 100"
+- slider "slider between 0 and 100"
+- img "后退10秒"
+- img "前进10秒"
+- img "播放速度"
+- paragraph: "Interviewer [Woman]: Thank you for agreeing to participate. I'd like to ask you some questions about your experiences with volunteering and community service. First, have you ever participated in any volunteer activities, and if you do, how often do you volunteer?"
+- generic: 知识点
+- generic: 题目来源
+- button "添加知识点"
+- generic: 模拟面试
+- text: 
+- radiogroup:
+  - button " 题目解析":
+    - generic: 
+    - generic: 题目解析
+  - button "名师讲解":
+    - generic: 名师讲解
+  - button "笔记列表":
+    - generic: 笔记列表
+- generic: 已批改
+- paragraph: 开启AI智能批改 · 查看官方口语标准评分建议、润色口语
+- generic: 重新批改
+- generic: 对此题提出疑问？
+- text: 
+- paragraph: 题目得分
+- paragraph:
+  - text: 得分
+  - button "2.3"
+  - text: 分，总分5分
+- tablist:
+  - tab "分项批改":
+    - generic: 分项批改
+  - tab "润色口语" [active] [selected]:
+    - generic: 润色口语
+- text:           
+- generic: 润色
+- generic: Yes, I have participated in a volunteer study conducted by a university research group during my time studying abroad. I was actively involved in various volunteer activities throughout my university years. In fact, I served as the vice president of the student council, which gave me the opportunity not only to take part in volunteering but also to organize several community service events. For example, I helped coordinate activities that addressed student issues, such as tutoring programs and mental health workshops. Additionally, I worked to engage local community members by inviting them to participate in school-organized events, which helped strengthen the connection between the university and the surrounding community. These experiences allowed me to contribute meaningfully to both the student body and the wider community, aligning well with the goals of the volunteer study.
+- generic: 显示答案
+- switch [checked]:
+  - checkbox [checked]

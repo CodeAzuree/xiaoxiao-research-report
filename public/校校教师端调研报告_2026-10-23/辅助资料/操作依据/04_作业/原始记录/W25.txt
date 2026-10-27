@@ -1,0 +1,42 @@
+- generic: 基础练习
+- generic: 题型训练
+- generic: 模考测试
+- generic: 机构题库
+- generic: 自定义作业
+- textbox
+- textbox "开始日期"
+- textbox "00:00"
+- generic: ~
+- textbox "截止日期："
+- textbox "22:00"
+- generic: 布置给所有学生
+- generic: 关联音视频(未关联)
+- generic: 倒计时(未开启)
+- generic: 科目(未设置)
+- generic: AI智能批改
+- generic: 开启实时作业
+- generic: 如何提高学生完成作业的积极性？老师可以试试开启实时作业！
+- generic: 点击查看操作详情
+- generic: 作业设置
+- generic: 收起详情
+- iframe [active]:
+  - code:
+    - heading "weather词汇" [level=1]
+    - generic: 混合测试
+    - generic: 1 / 2
+    - progressbar
+    - radiogroup:
+      - button "英式发音":
+        - generic: 英式发音
+      - button " 美式发音":
+        - generic: 
+        - generic: 美式发音
+    - paragraph: pan
+    - textbox
+    - generic: 听单词发音，写出该英文单词
+    - textbox [active]
+    - button "下一题 ":
+      - text: 下一题
+      - generic: 
+    - text: 
+  - text:   

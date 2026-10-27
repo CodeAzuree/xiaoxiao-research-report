@@ -1,0 +1,70 @@
+- code:
+  - list
+  - generic: 基础(中级词汇)-听音选择-crust-limitation
+  - button "生成报告":
+    - generic: 生成报告
+  - generic: 作业结果
+  - generic: 答题解析
+  - generic: 答题录屏
+  - progressbar:
+  - paragraph: 100分
+  - paragraph: 满分:100分
+  - generic: 正确率：100%
+  - generic: 上一次正确率：-%
+  - paragraph: 作业情况统计
+  - paragraph: 总词汇
+  - paragraph: "10"
+  - paragraph: 答对
+  - paragraph: "10"
+  - paragraph: 答错
+  - paragraph: "0"
+  - paragraph: 未答
+  - paragraph: "0"
+  - radiogroup:
+    - button " 能力诊断":
+      - generic: 
+      - generic: 能力诊断
+    - button "评语":
+      - generic: 评语
+  - paragraph: 时长分析
+  - paragraph: 我的做题时长
+  - paragraph: 全网做题时长
+  - paragraph: 答题正确率对比
+  - paragraph: 我的正确率
+  - paragraph: 全网正确率
+  - paragraph:
+    - text: 单词读音列表
+    - generic: （单词发音评测由腾讯提供技术支持）
+  - paragraph:
+    - button "美式发音 ":
+      - text: 美式发音
+      - generic: 
+  - paragraph: 单词
+  - paragraph: 音标
+  - paragraph: 标准发音
+  - paragraph: 单词
+  - paragraph: 音标
+  - paragraph: 标准发音
+  - paragraph: crust
+  - paragraph: "[krʌst]"
+  - paragraph: put up
+  - paragraph: "[pʊt ʌp]"
+  - paragraph: pledge
+  - paragraph: "[pledʒ]"
+  - paragraph: flexibility
+  - paragraph: "[ˌfleksəˈbɪləti]"
+  - paragraph: get in touch with
+  - paragraph: "[ɡet ɪn tʌtʃ wɪð]"
+  - paragraph: draw up
+  - paragraph: "[ˌdrɑː ˈʌp]"
+  - paragraph: well-behave
+  - paragraph: "[ˌwel bɪˈheɪv]"
+  - paragraph: understanding
+  - paragraph: "[ˌʌndərˈstændɪŋ]"
+  - paragraph: casually
+  - paragraph: "[ˈkæʒuəli]"
+  - paragraph: limitation
+  - paragraph: "[ˌlɪmɪˈteɪʃn]"
+  - text:            
+  - text: 
+- text:   

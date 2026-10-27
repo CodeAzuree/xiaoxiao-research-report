@@ -1,0 +1,177 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 我的班级
+- button "科目 ":
+  - generic: 科目
+  - generic: 
+- textbox "请输入班级名称": 测试班
+- generic: 
+- button "班级类型 ":
+  - text: 班级类型
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- generic: "02"
+- paragraph: 测试班002
+- paragraph: AP
+- paragraph:
+  - generic: 测试班002
+  - generic: 已开课
+  - text: (
+  - generic: 2025年06月18日
+  - text: )
+  - generic: "课程进度: 32/-"
+  - generic: 学生人数：1人
+- generic: 作业
+- generic: 课表
+- generic: 反馈
+- generic: 作业大纲
+- generic: 概览
+- generic: 2026年10月
+- generic: 
+- generic: 本月
+- generic: 
+- button "课时详情" [active]:
+  - generic: 课时详情
+- generic: 星期一
+- generic: 星期二
+- generic: 星期三
+- generic: 星期四
+- generic: 星期五
+- generic: 星期六
+- generic: 星期天
+- generic: "28"
+- generic: "29"
+- generic: "30"
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: "6"
+- generic: "7"
+- generic: "8"
+- generic: "9"
+- generic: "10"
+- generic: "11"
+- generic: "12"
+- generic: "13"
+- generic: "14"
+- generic: "15"
+- generic: "16"
+- generic: "17"
+- generic: "18"
+- generic: "19"
+- generic: "20"
+- generic: "21"
+- generic: "22"
+- generic: 今天
+- generic: "24"
+- generic: "25"
+- generic: "26"
+- generic: "27"
+- generic: "28"
+- generic: "29"
+- generic: "30"
+- generic: "31"
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: "6"
+- generic: "7"
+- generic: "8"
+- generic: 快捷功能
+- generic: 成员(1)
+- paragraph: 布置作业
+- paragraph: 模考作业
+- paragraph: 自定义作业
+- paragraph: 打卡作业
+- paragraph: 其他作业
+- paragraph: 常用作业
+- paragraph: 视频课件
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:           
+- dialog "课时详情":
+  - generic: 课时详情
+  - button "Close":
+    - generic: 
+  - generic: 
+  - textbox "开始日期"
+  - generic: "-"
+  - textbox "结束日期"
+  - button "搜索":
+    - generic: 搜索
+  - button "总上课时长:00:00":
+    - generic: 总上课时长:00:00
+  - table:
+    - rowgroup:
+      - row "课程名称 班级名称 上课内容 上课方式 上课时间 上课时长 课程类型":
+        - columnheader "课程名称":
+          - generic: 课程名称
+        - columnheader "班级名称":
+          - generic: 班级名称
+        - columnheader "上课内容":
+          - generic: 上课内容
+        - columnheader "上课方式":
+          - generic: 上课方式
+        - columnheader "上课时间":
+          - generic: 上课时间
+        - columnheader "上课时长":
+          - generic: 上课时长
+        - columnheader "课程类型":
+          - generic: 课程类型
+  - table:
+    - rowgroup
+  - paragraph: 暂无课时详情
+- text: 
+- generic: 
+- text: 

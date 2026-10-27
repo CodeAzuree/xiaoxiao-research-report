@@ -1,0 +1,84 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- text:                            
+- generic: 单词书
+- generic: 
+- generic: 查看详情
+- generic: SAT数学词汇
+- generic: 杨宸【SAT】
+- generic: 进行中
+- generic: 杨宸
+- paragraph: 杨宸
+- paragraph: 单词数量 182 已学 19 词 错词 2 个
+- generic: 89%
+- paragraph: Unit1
+- generic: 182 词
+- text: 进行中
+- generic: "1"
+- generic: 首次完成时间：-
+- generic: 错词数量：2
+- generic: 错词
+- generic: vertical angle
+- generic: 错词
+- generic: 英 /ˌvɜːtɪkəl ˈæŋɡəl/
+- generic: 美 /ˌvɝːtɪkəl ˈæŋɡəl/
+- generic: 对顶角
+- generic: Either of the pair of opposite angles formed by two intersecting lines.
+- generic: 例句
+- text: "1."
+- generic: The vertical angle across from the 60-degree angle is also 60 degrees.
+- generic: 与六十度角相对的对顶角也是六十度。
+- generic: place value
+- generic: 错词
+- generic: 英 /pleɪs ˈvæljuː/
+- generic: 美 /pleɪs ˈvæljuː/
+- generic: 位值；整数的数位
+- generic: The value of a digit determined by its position in a number.
+- generic: 例句
+- text: "1."
+- generic: In base ten, the place value of 3 in 3,421 is three thousand.
+- generic: 在十进制中，3421里３的位值是三千。
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:                                        

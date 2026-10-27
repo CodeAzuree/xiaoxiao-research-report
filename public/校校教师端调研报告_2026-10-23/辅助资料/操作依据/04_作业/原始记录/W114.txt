@@ -1,0 +1,30 @@
+- generic: 
+- generic: 
+- list:
+  - generic: 小格
+  - generic: 已批改
+  - generic: 王小格
+- generic: 测试自定义
+- generic: 
+- button "生成报告"
+- generic: 作业结果
+- generic: 答题解析
+- generic: 答题录屏
+- generic: 总成绩
+- generic: "0.222222"
+- generic: /
+- text: "100"
+- generic: 0%
+- generic: 
+- generic: 60%
+- radiogroup:
+  - button " 能力诊断" [active]:
+    - generic: 
+    - generic: 能力诊断
+  - button "评语":
+    - generic: 评语
+- generic: 时长分析
+- generic: 我的做题时长
+- generic: 标准做题时长
+- generic: 
+- generic: 

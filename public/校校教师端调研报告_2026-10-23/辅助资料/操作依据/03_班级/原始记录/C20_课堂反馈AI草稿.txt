@@ -1,0 +1,148 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- generic: 我的班级
+- button "科目 ":
+  - generic: 科目
+  - generic: 
+- textbox "请输入班级名称": 测试班
+- generic: 
+- button "班级类型 ":
+  - text: 班级类型
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- generic: "02"
+- paragraph: 测试班002
+- paragraph: AP
+- paragraph:
+  - generic: 测试班002
+  - generic: 已开课
+  - text: (
+  - generic: 2025年06月18日
+  - text: )
+  - generic: "课程进度: 32/-"
+  - generic: 学生人数：1人
+- generic: 作业
+- generic: 课表
+- generic: 反馈
+- generic: 作业大纲
+- generic: 概览
+- list:
+  - generic: 王
+  - paragraph: 王小格
+  - paragraph: "17371065915"
+- generic: 添加评分意见
+- generic: 保存
+- textbox "请选择课堂": 团培雅思 (8)
+- generic: 
+- generic: 未出勤
+- generic: 修改班级学生考勤状态
+- generic: 课堂评分
+- generic: 发送对象
+- checkbox "学生"
+- generic: 学生
+- checkbox "学生家长"
+- generic: 学生家长
+- checkbox "本班所有家长"
+- generic: 本班所有家长
+- checkbox "本班所有学生"
+- generic: 本班所有学生
+- generic: 学习建议
+- generic: "*"
+- text: 复习检查
+- textbox "请输入反馈内容": 最近几次复习检查中，老师发现你对核心写作框架和常见话题词组的掌握还有提升空间，建议每天花10分钟回顾课堂笔记中的逻辑连接词和范文结构，咱们一起稳扎稳打。
+- generic: 76/3000
+- generic: "*"
+- text: 课堂内容
+- textbox "请输入反馈内容": 你对雅思Task 2议论文的审题和立场表达已有初步感觉，接下来可以重点加强主体段论证的展开方式，比如用‘观点+解释+例子’三步法来夯实逻辑链。
+- generic: 71/3000
+- generic: "*"
+- text: 学员表现
+- textbox "请输入反馈内容": 小格同学，老师注意到你在课堂上听讲很专注，笔记也记得很认真，提问时思路清晰，能主动思考问题，这份学习态度特别值得肯定！
+- generic: 59/3000
+- generic: "*"
+- text: 课后作业
+- textbox "请输入反馈内容": 目前作业完成率为0%，上一次作业也尚未提交。老师完全理解可能有临时安排或遇到困难，但写作能力的提升离不开持续练习——哪怕先写一个段落、列一个提纲，也欢迎随时发给老师帮你看看，咱们不求一步到位，但求每天进步一点点。
+- generic: 106/3000
+- generic: "*"
+- text: 辅导要求
+- textbox "请输入反馈内容": 老师非常愿意为你提供个性化支持：下周起，你可以选择每周二/四放学后15分钟面批一次小作业（哪怕半篇），或者提前把写作草稿发给我，我一定当天反馈。记住，你不是一个人在努力，老师一直在这里。
+- generic: 93/3000
+- generic: 图片
+- generic: AI一键生成
+- text:  
+- generic: 快捷功能
+- generic: 成员(1)
+- generic: 冰晖
+- generic: 老师
+- generic: 李冰晖
+- generic: 宝燕
+- generic: 老师
+- generic: 李宝燕
+- generic: 助教
+- generic: 吴天祺
+- generic: 思贤
+- generic: 老师
+- generic: 王思贤
+- generic: 叶成
+- generic: 老师
+- generic: 叶成
+- generic: 梦馨
+- generic: 老师
+- generic: 潘梦馨
+- generic: 湘泉
+- generic: 老师
+- generic: 胡湘泉
+- generic: 小格
+- generic: 王小格
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:  

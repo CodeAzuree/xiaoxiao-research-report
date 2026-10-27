@@ -1,0 +1,104 @@
+Browser tab: 52, Title: "测试结果", URL: "https://learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122".
+0 AXWebArea 测试结果, URL: learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122
+	1 container
+		2 container result-app
+			3 text 雅思
+			4 text 
+			5 text 2026.05.23 13:59 - 2026.05.23 13:59
+			6 container
+				7 container
+					8 text 作业结果 答题解析 巩固训练
+				9 text 总成绩
+				10 text 
+				129 container
+					130 text 3.5 / 9
+				13 image
+				14 text 25%
+				131 text 
+				132 text 3%
+				17 image
+				18 text 阅读
+				133 container
+					134 text 3.5 / 9
+				21 image
+				22 text 3
+				23 image
+				24 text 11
+				25 button 能力诊断, ID: xx-capsule-radio__item-0
+				28 button  分析&建议, ID: xx-capsule-radio__item-1
+					187 text 
+					136 text 分析&建议
+				29 button 评语, ID: xx-capsule-radio__item-2
+				137 text 分析&建议
+				138 container analysis-total
+					139 text 🩺 总体诊断 👌 当前优势
+					140 content list
+						141 text 你在阅读判断题（True/False/Not Given）上表现相对较好，正确率达到60%，说明你具备一定的文本细节定位和逻辑判断能力。
+						142 text 你能够完成部分阅读任务，显示出一定的阅读基础和解题意识。
+					143 text ⏫ 待提升点
+					144 content list
+						145 text 你的匹配题和图表填空题全部答错，这是目前最明显的薄弱环节，需要重点突破。
+						146 text 多选题也未能得分，反映出你在处理复杂信息和多选项对比时存在困难。
+						147 text 整体阅读正确率仅为21%，远低于雅思阅读6分（约60%正确率）的要求，基础能力亟待加强。
+				148 text 1️⃣ 时长分析 我的做题时长 全网做题时长
+				149 container
+					150 text 分析说明：
+					151 text 你在本次阅读练习中实际用时仅为1分钟，而建议用时为21分钟，用时明显偏快。雅思阅读考试要求考生在60分钟内完成3篇文章、40道题，平均每篇文章约20分钟。你仅用1分钟就完成了14道题，这很可能是因为你跳过了大部分题目或未能认真阅读文章。虽然快速阅读是雅思阅读的重要技能，但前提是保证准确率。当前的速度与正确率严重不匹配，建议你在后续练习中放慢节奏，先确保每道题都有充分的思考时间，逐步培养在限定时间内高效答题的能力。你可以尝试将每篇文章的练习时间控制在18-20分钟，并记录每道题的思考过程，以找到速度与准确率之间的平衡点。
+				152 text 2️⃣ 分项分析
+				153 tab group analysis-section-0
+					154 button (expanded) 阅读 你在本次阅读练习中整体表现不理想，正确率仅为21%，反映出在多个核心题型上存在明显短板。, Secondary Actions: Collapse
+						155 image
+						156 text 阅读
+						157 text 你在本次阅读练习中整体表现不理想，正确率仅为21%，反映出在多个核心题型上存在明显短板。
+					188 text 👌 优势
+					189 content list
+						190 container
+							191 text 知识点：
+							192 text 在判断对错题（True/False/Not Given）上，你5道题答对了3道，正确率60%，说明你能够较好地理解文本中的直接信息和逻辑关系，这是你目前阅读能力中的相对优势。
+					193 text ❓ 问题
+					194 content list
+						195 container
+							196 text 知识点：
+							197 text 匹配题（3道全错）、图表填空题（3道全错）和多选题（1道全错）均未能得分，这些题型分别考察信息匹配、细节定位和综合理解能力，你的表现表明在这些方面存在系统性困难。
+					198 text 📚 建议
+					199 content list
+						200 text 建议你从匹配题入手进行专项突破：每天练习2-3篇段落信息匹配题，先快速浏览题干关键词，再回原文定位，注意同义替换的积累。
+						201 text 对于图表填空题，建议你练习时先观察图表结构，预测可能填写的词性（如名词、数字等），然后带着预测去原文中寻找对应信息。
+						202 text 建议你每周进行一次完整的阅读限时训练（60分钟完成3篇文章），并记录每篇文章的用时和错题类型，逐步培养时间管理意识和答题节奏。
+						203 text 可以尝试使用“精读+泛读”结合的方法：精读时分析长难句和逻辑关系，泛读时训练快速抓取主旨和关键信息的能力。
+				175 container analysis-summary
+					176 text 3️⃣ 总结
+					177 text 综合来看，你目前的阅读能力处于基础阶段，虽然判断题有一定基础，但匹配题、图表填空题和多选题的全面失分表明你在信息定位、细节捕捉和综合理解方面需要系统性的提升。雅思阅读要求考生在60分钟内完成40道题，平均每道题只有1.5分钟，因此时间管理和题型策略同样重要。
+					178 text 优先级最高的3条行动建议：
+					179 content list
+						180 container
+							181 text 专项突破薄弱题型 ：每天花20分钟专门练习匹配题和图表填空题，重点训练关键词定位和同义替换识别能力。
+						182 container
+							183 text 建立错题本 ：将每次练习的错题按题型分类整理，分析错误原因（如定位错误、理解偏差、词汇障碍等），每周复盘一次。
+						184 container
+							185 text 限时训练与节奏感培养 ：每周至少完成2次完整的阅读限时练习，逐步将每篇文章的用时控制在18-20分钟，同时保证正确率稳步提升。
+					186 text 阅读能力的提升需要时间和持续的努力，你已经找到了自己的薄弱环节，这是进步的第一步。坚持有针对性的练习，相信你很快能看到明显的改善。加油！
+			107 container
+				108 image
+				109 text Jane Austen
+				110 button icon
+					111 image icon
+				112 button icon
+					113 image icon
+				114 button 
+					115 text 
+				116 text 重点词汇
+				117 text 翻译
+				118 text 答题解析
+				119 text 题目订正
+				120 container
+					121 text entry area (settable)
+					122 text 
+					123 text 思路讲解
+					124 button (disabled) icon
+						125 image icon
+					126 text 内容由 AI 生成
+		127 container
+			128 text 已生成当前作业的订正练习，点击去练习巩固薄弱知识点 去练习 
+
+The focused UI element is 28 button  分析&建议, ID: xx-capsule-radio__item-1

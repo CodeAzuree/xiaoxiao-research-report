@@ -1,0 +1,848 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=2026112215".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=2026112215
+	1 container myweb
+		2 container root-menu
+			3 container
+				4 image
+				5 text 首页
+			6 container
+				7 image
+				8 text 作业
+			9 container
+				10 image
+				11 text 课表
+			12 container
+				13 image
+				14 text 题库
+			15 container
+				16 image
+				17 text 单词书
+			18 container
+				19 image
+				20 text 错题
+			21 container
+				22 image
+				23 text 自适应
+			24 container
+				25 image
+				26 text 反馈
+			27 container
+				28 image
+				29 text 笔记
+			30 container
+				31 image
+				32 text 学习报告
+		33 container root-mv-right
+			34 container root-mv-header
+				35 image
+				36 container
+					37 text field (settable)
+					847 text 
+				39 button icon
+					40 image icon
+				41 container
+					848 text 
+					43 button icon
+						44 image icon
+				45 container
+					46 button icon
+						47 image icon
+					48 text 5
+				49 button icon
+					50 image icon
+				51 container
+					52 image
+					53 text 10
+				54 text 小格
+			57 container
+				58 text 我的作业
+				59 content list
+					60 container
+						61 image
+						62 text 全部作业 (73)
+					63 container
+						64 image
+						65 text 待完成 (44)
+					66 container
+						67 image
+						68 text 已完成 (20)
+					69 container
+						70 image
+						71 text 进行中 (9)
+					72 container
+						73 image
+						74 text 已批改 (4)
+					75 container
+						76 image
+						77 text 收藏作业
+					78 container
+						79 image
+						80 text 有新评语
+					81 container
+						82 image
+						83 text 即将过期
+					84 container
+						85 image
+						86 text 已逾期 (53)
+				898 text 全部作业 班级：
+				899 container
+					900 text 全部 王小格-SAT 测试班001 TF2410LXC005 测试班002
+				901 text 类型：
+				902 container
+					903 text 全部 单词作业 作业模考 打卡作业 视频课件
+				904 text 时间：
+				905 container
+					906 text 全部 今天 未来三天 未来七天
+				907 container
+					908 text field (settable)
+					909 text 
+				910 button 搜索
+				911 container
+					912 image
+					913 image
+				914 text 2026-10-23
+				915 container
+					916 image
+					917 text 视频课件 已完成 【调研测试】视频课件-PDF详情_20261023 开始时间：2026-10-23 11:30 截止时间：2026-10-24 23:30 班级：王小格-SAT 思贤 王思贤
+					918 text 
+					919 text 打开
+				920 text 2026-10-22
+				921 container
+					922 image
+					923 text 单词作业 已完成
+					924 text 订正练习/错词训练/2026-10-22
+					925 text 开始时间：2026-10-22
+					926 text 截止时间：2026-10-25 00:00
+					927 text 班级：王小格-SAT
+					928 container
+						929 text  查看结果
+					930 image
+					931 text 单词作业
+					932 image
+					933 text 已查阅
+					934 text 错词训练/2026-10-22
+					935 text 开始时间：2026-10-22
+					936 text 截止时间：2026-10-23 16:08
+					937 text 班级：王小格-SAT
+					938 container
+						939 text  查看结果
+				940 text 2026-10-12
+				941 container
+					942 image
+					943 text 作业模考 已逾期 进行中 字数测试 开始时间：2026-10-12 16:00 截止时间：2026-10-13 23:30 班级：王小格-SAT 思贤 王思贤
+					944 text 
+					945 text 继续作答
+				946 text 2026-09-23
+				947 container
+					948 image
+					949 text 作业模考
+					950 image
+					951 image
+					952 text 已查阅 sat全科测试 开始时间：2026-09-23 13:30 截止时间：2026-09-24 23:30 班级：王小格-SAT 思贤 王思贤
+					953 text 
+					954 text 查看结果
+				955 text 2026-09-22
+				956 container
+					957 image
+					958 text 作业模考
+					959 image
+					960 image
+					961 text 已查阅
+					962 text 测试0922-1
+					963 text 开始时间：2026-09-22 14:30
+					964 text 截止时间：2026-09-23 23:30
+					965 text 班级：测试班001
+					966 text 宝燕
+					967 text 李宝燕
+					968 container
+						969 text  查看结果
+					970 image
+					971 text 作业模考
+					972 image
+					973 image
+					974 text 已查阅
+					975 text 测试0922
+					976 text 开始时间：2026-09-22 14:30
+					977 text 截止时间：2026-09-23 23:30
+					978 text 班级：测试班001
+					979 text 宝燕
+					980 text 李宝燕
+					981 container
+						982 text  查看结果
+				983 text 2026-06-02
+				984 container
+					985 image
+					986 text 作业模考
+					987 text 已逾期
+					988 text 待完成
+					989 text 错题训练/判断对错/2026-06-02
+					990 text 开始时间：2026-06-02
+					991 text 截止时间：2026-06-03 10:41
+					992 text 班级：测试班002
+					993 container
+						994 text  进入作业
+					995 image
+					996 text 作业模考
+					997 text 已逾期
+					998 text 进行中
+					999 text 错题训练/判断对错/2026-06-02
+					1000 text 开始时间：2026-06-02
+					1001 text 截止时间：2026-06-03 10:41
+					1002 text 班级：测试班002
+					1003 container
+						1004 text  继续作答
+				1005 text 2026-05-26
+				1006 container
+					1007 image
+					1008 text 作业模考
+					1009 image
+					1010 image
+					1011 text 已完成
+					1012 text 错题训练/图表填空题/2026-05-26
+					1013 text 开始时间：2026-05-26
+					1014 text 截止时间：2026-05-27 17:30
+					1015 text 班级：测试班002
+					1016 container
+						1017 text  查看结果
+					1018 image
+					1019 text 作业模考
+					1020 text 已逾期
+					1021 text 进行中
+					1022 text 错题训练/多选题/2026-05-26
+					1023 text 开始时间：2026-05-26
+					1024 text 截止时间：2026-05-27 17:27
+					1025 text 班级：测试班002
+					1026 container
+						1027 text  继续作答
+					1028 image
+					1029 text 作业模考
+					1030 text 已逾期
+					1031 text 进行中
+					1032 text 错题训练/图表填空题/2026-05-26
+					1033 text 开始时间：2026-05-26
+					1034 text 截止时间：2026-05-27 17:26
+					1035 text 班级：测试班002
+					1036 container
+						1037 text  继续作答
+					1038 image
+					1039 text 作业模考 已完成
+					1040 text 错题训练/图表填空题/2026-05-26
+					1041 text 开始时间：2026-05-26
+					1042 text 截止时间：2026-05-27 17:24
+					1043 text 班级：测试班002
+					1044 container
+						1045 text  查看结果
+					1046 image
+					1047 text 作业模考
+					1048 text 已逾期
+					1049 text 待完成
+					1050 text 错题训练/句子/段落填空题/2026-05-26
+					1051 text 开始时间：2026-05-26
+					1052 text 截止时间：2026-05-27 17:24
+					1053 text 班级：测试班002
+					1054 container
+						1055 text  进入作业
+				1056 text 2026-05-25
+				1057 container
+					1058 image
+					1059 text 作业模考
+					1060 image
+					1061 image
+					1062 text 已完成
+					1063 text 错题训练/图表填空题/2026-05-25
+					1064 text 开始时间：2026-05-25
+					1065 text 截止时间：2026-05-26 17:23
+					1066 text 班级：测试班002
+					1067 container
+						1068 text  查看结果
+					1069 image
+					1070 text 作业模考
+					1071 image
+					1072 image
+					1073 text 已完成
+					1074 text 错题训练/多选题/2026-05-25
+					1075 text 开始时间：2026-05-25
+					1076 text 截止时间：2026-05-26 17:22
+					1077 text 班级：测试班002
+					1078 container
+						1079 text  查看结果
+					1080 image
+					1081 text 作业模考 已完成
+					1082 text 错题训练/三选一/2026-05-25
+					1083 text 开始时间：2026-05-25
+					1084 text 截止时间：2026-05-26 17:19
+					1085 text 班级：测试班002
+					1086 container
+						1087 text  查看结果
+					1088 image
+					1089 text 作业模考
+					1090 image
+					1091 image
+					1092 text 已完成
+					1093 text 错题训练/三选一/2026-05-25
+					1094 text 开始时间：2026-05-25
+					1095 text 截止时间：2026-05-26 17:18
+					1096 text 班级：测试班002
+					1097 container
+						1098 text  查看结果
+					1099 image
+					1100 text 作业模考
+					1101 text 已逾期
+					1102 text 进行中
+					1103 text 错题训练/多选题/2026-05-25
+					1104 text 开始时间：2026-05-25
+					1105 text 截止时间：2026-05-26 17:18
+					1106 text 班级：测试班002
+					1107 container
+						1108 text  继续作答
+					1109 image
+					1110 text 作业模考
+					1111 text 已逾期
+					1112 text 待完成
+					1113 text 错题训练/匹配题/2026-05-25
+					1114 text 开始时间：2026-05-25
+					1115 text 截止时间：2026-05-26 14:02
+					1116 text 班级：测试班002
+					1117 container
+						1118 text  进入作业
+					1119 image
+					1120 text 作业模考
+					1121 text 已逾期
+					1122 text 待完成
+					1123 text 错题训练/判断对错/2026-05-25
+					1124 text 开始时间：2026-05-25
+					1125 text 截止时间：2026-05-26 14:01
+					1126 text 班级：测试班002
+					1127 container
+						1128 text  进入作业
+					1129 image
+					1130 text 作业模考
+					1131 text 已逾期
+					1132 text 待完成
+					1133 text 错题训练/判断对错/2026-05-25
+					1134 text 开始时间：2026-05-25
+					1135 text 截止时间：2026-05-26 14:00
+					1136 text 班级：测试班002
+					1137 container
+						1138 text  进入作业
+				1139 text 2026-05-23
+				1140 container
+					1141 image
+					1142 text 作业模考
+					1143 image
+					1144 image
+					1145 text 已批改 雅思 开始时间：2026-05-23 14:00 截止时间：2026-05-23 14:10 班级：测试班002 冰晖 李冰晖
+					1146 text 
+					1147 text 查看结果
+				1148 text 2026-05-21
+				1149 container
+					1150 image
+					1151 text 作业模考
+					1152 image
+					1153 image
+					1154 text 已查阅 0521雅思练习 开始时间：2026-05-21 15:00 截止时间：2026-05-22 23:30 班级：测试班002 冰晖 李冰晖
+					1155 text 
+					1156 text 查看结果
+				1157 text 2026-05-15
+				1158 container
+					1159 image
+					1160 text 作业模考 已逾期 待完成 新托福 开始时间：2026-05-15 10:00 截止时间：2026-05-16 23:30 班级：TF2410LXC005 晓菁 刘晓菁
+					1161 text 
+					1162 text 进入作业
+				1163 text 2026-05-14
+				1164 container
+					1165 image
+					1166 text 作业模考
+					1167 text 已逾期
+					1168 text 待完成
+					1169 text 新托福写作模考
+					1170 text 开始时间：2026-05-14 12:00
+					1171 text 截止时间：2026-06-30 23:30
+					1172 text 班级：TF2410LXC005
+					1173 text 思贤
+					1174 text 王思贤
+					1175 container
+						1176 text  进入作业
+					1177 image
+					1178 text 作业模考
+					1179 image
+					1180 image
+					1181 text 已查阅
+					1182 text 新托福口语模考
+					1183 text 开始时间：2026-05-14 12:00
+					1184 text 截止时间：2026-06-30 23:30
+					1185 text 班级：TF2410LXC005
+					1186 text 思贤
+					1187 text 王思贤
+					1188 container
+						1189 text  查看结果
+				1190 text 2026-05-09
+				1191 container
+					1192 image
+					1193 text 作业模考
+					1194 text 已逾期
+					1195 text 待完成
+					1196 text 新托福全科模考2
+					1197 text 开始时间：2026-05-09 19:00
+					1198 text 截止时间：2026-06-30 23:30
+					1199 text 班级：TF2410LXC005
+					1200 text 思贤
+					1201 text 王思贤
+					1202 container
+						1203 text  进入作业
+					1204 image
+					1205 text 作业模考
+					1206 text 已逾期
+					1207 text 待完成
+					1208 text 新托福全科模考1
+					1209 text 开始时间：2026-05-09 19:00
+					1210 text 截止时间：2026-06-30 23:30
+					1211 text 班级：TF2410LXC005
+					1212 text 思贤
+					1213 text 王思贤
+					1214 container
+						1215 text  进入作业
+				1216 text 2026-04-13
+				1217 container
+					1218 image
+					1219 text 作业模考 已逾期 进行中 自定义作业测试 开始时间：2026-04-13 11:00 截止时间：2026-04-14 23:30 班级：测试班002 思贤 王思贤
+					1220 text 
+					1221 text 继续作答
+				1222 text 2026-04-08
+				1223 container
+					1224 image
+					1225 text 作业模考 已批改 测试自定义 开始时间：2026-04-08 9:30 截止时间：2026-04-09 23:30 班级：测试班002 思贤 王思贤
+					1226 text 
+					1227 text 查看结果
+				1228 text 2026-04-07
+				1229 container
+					1230 image
+					1231 text 作业模考 已逾期 进行中 王小格4.7作业 开始时间：2026-04-07 17:00 截止时间：2026-04-09 23:30 班级：测试班002 思贤 王思贤
+					1232 text 
+					1233 text 继续作答
+				1234 text 2026-04-04
+				1235 container
+					1236 image
+					1237 text 作业模考 已逾期 进行中 剑雅19测试 开始时间：2026-04-04 14:30 截止时间：2026-04-05 23:30 班级：测试班002 宝燕 李宝燕
+					1238 text 
+					1239 text 继续作答
+				1240 text 2026-04-03
+				1241 container
+					1242 image
+					1243 text 作业模考 已逾期 待完成 未下发作业测试 开始时间：2026-04-03 14:30 截止时间：2026-04-04 23:30 班级：测试班002 宝燕 李宝燕
+					1244 text 
+					1245 text 进入作业
+				1246 text 2026-03-30
+				1247 container
+					1248 image
+					1249 text 作业模考 已查阅 基础语法 开始时间：2026-03-30 16:30 截止时间：2026-03-31 23:30 班级：测试班002 思贤 王思贤
+					1250 text 
+					1251 text 查看结果
+				1252 text 2026-03-24
+				1253 container
+					1254 image
+					1255 text 作业模考
+					1256 image
+					1257 image
+					1258 text 已批改 雅思 开始时间：2026-03-24 11:00 截止时间：2026-03-25 23:30 班级：测试班002 冰晖 李冰晖
+					1259 text 
+					1260 text 查看结果
+				1261 text 2026-03-23
+				1262 container
+					1263 image
+					1264 text 作业模考 已批改 单词 开始时间：2026-03-23 18:00 截止时间：2026-03-24 23:30 班级：测试班002 冰晖 李冰晖
+					1265 text 
+					1266 text 查看结果
+				1267 text 2026-03-22
+				1268 container
+					1269 image
+					1270 text 作业模考 已逾期 待完成 WH留预二级读写U7-U9单元测试 开始时间：2026-03-22 16:30 截止时间：2026-03-23 23:30 班级：测试班002 宝燕 李宝燕
+					1271 text 
+					1272 text 进入作业
+				1273 text 2025-11-27
+				1274 container
+					1275 image
+					1276 text 作业模考
+					1277 text 已逾期
+					1278 text 进行中
+					1279 text 口语
+					1280 text 开始时间：2025-11-27 16:39
+					1281 text 截止时间：2025-11-28 23:30
+					1282 text 班级：测试班002
+					1283 text 宝燕
+					1284 text 李宝燕
+					1285 container
+						1286 text  继续作答
+					1287 image
+					1288 text 作业模考
+					1289 text 已逾期
+					1290 text 待完成
+					1291 text 篇章跟读-新概念3 Lesson33 A day to remember
+					1292 text 开始时间：2025-11-27 16:36
+					1293 text 截止时间：2025-11-28 23:30
+					1294 text 班级：测试班002
+					1295 text 宝燕
+					1296 text 李宝燕
+					1297 container
+						1298 text  进入作业
+				1299 text 2025-08-29
+				1300 container
+					1301 image
+					1302 text 作业模考 已逾期 待完成 剑桥雅思20/Test 2/听力/Section 1+Section 2+Section 3+Section 4/剑桥雅思20/Test 1/口语/Part 1+Part 2+Part 3 开始时间：2025-08-29 15:00 截止时间：2025-08-30 23:30 班级：测试班001 陈琳 陈琳
+					1303 text 
+					1304 text 进入作业
+				1305 text 2025-06-25
+				1306 container
+					1307 image
+					1308 text 作业模考
+					1309 text 已逾期
+					1310 text 待完成
+					1311 text 阅读
+					1312 text 开始时间：2025-06-25 16:30
+					1313 text 截止时间：2025-06-26 23:30
+					1314 text 班级：测试班002
+					1315 image
+					1316 text 吴天祺
+					1317 container
+						1318 text  进入作业
+					1319 image
+					1320 text 作业模考
+					1321 image
+					1322 image
+					1323 text 已完成
+					1324 text 2025年5-8月口语题库Part 2
+					1325 text 开始时间：2025-06-25 16:30
+					1326 text 截止时间：2025-06-26 23:30
+					1327 text 班级：测试班002
+					1328 image
+					1329 text 吴天祺
+					1330 container
+						1331 text  查看结果
+				1332 text 2025-06-18
+				1333 container
+					1334 image
+					1335 text 作业模考 已逾期 待完成 精听 开始时间：2025-06-18 18:30 截止时间：2025-06-19 22:00 班级：测试班002
+					1336 image
+					1337 text 吴天祺
+					1338 text 
+					1339 text 进入作业
+				1340 text 2025-05-18
+				1341 container
+					1342 image
+					1343 text 单词作业 已逾期 待完成 单词打卡(2025-05-18) 开始时间：2025-05-18 截止时间：2025-05-18 23:55 班级：测试班001 宋伟 宋伟
+					1344 text 
+					1345 text 进入作业
+				1346 text 2025-05-17
+				1347 container
+					1348 image
+					1349 text 单词作业 已逾期 待完成 单词打卡(2025-05-17) 开始时间：2025-05-17 截止时间：2025-05-17 23:55 班级：测试班001 宋伟 宋伟
+					1350 text 
+					1351 text 进入作业
+				1352 text 2025-05-16
+				1353 container
+					1354 image
+					1355 text 单词作业 已逾期 待完成 单词打卡(2025-05-16) 开始时间：2025-05-16 截止时间：2025-05-16 23:55 班级：测试班001 宋伟 宋伟
+					1356 text 
+					1357 text 进入作业
+				1358 text 2025-05-15
+				1359 container
+					1360 image
+					1361 text 单词作业 已逾期 待完成 单词打卡(2025-05-15) 开始时间：2025-05-15 截止时间：2025-05-15 23:55 班级：测试班001 宋伟 宋伟
+					1362 text 
+					1363 text 进入作业
+				1364 text 2025-05-14
+				1365 container
+					1366 image
+					1367 text 单词作业 已逾期 待完成 单词打卡(2025-05-14) 开始时间：2025-05-14 截止时间：2025-05-14 23:55 班级：测试班001 宋伟 宋伟
+					1368 text 
+					1369 text 进入作业
+				1370 text 2025-05-13
+				1371 container
+					1372 image
+					1373 text 单词作业 已逾期 待完成 单词打卡(2025-05-13) 开始时间：2025-05-13 截止时间：2025-05-13 23:55 班级：测试班001 宋伟 宋伟
+					1374 text 
+					1375 text 进入作业
+				1376 text 2025-04-15
+				1377 container
+					1378 image
+					1379 text 作业模考
+					1380 text 已逾期
+					1381 text 待完成
+					1382 text 20241123 Writing Task 2
+					1383 text 开始时间：2025-04-15
+					1384 text 截止时间：2025-04-16 22:00
+					1385 text 班级：测试班001
+					1386 text 思云
+					1387 text 卢思云
+					1388 container
+						1389 text  进入作业
+					1390 image
+					1391 text 作业模考
+					1392 text 已逾期
+					1393 text 待完成
+					1394 text writing test 1
+					1395 text 开始时间：2025-04-15 16:48
+					1396 text 截止时间：2025-04-16 16:48
+					1397 text 班级：测试班001
+					1398 text 思云
+					1399 text 卢思云
+					1400 container
+						1401 text  进入作业
+				1402 text 2025-04-14
+				1403 container
+					1404 image
+					1405 text 作业模考
+					1406 text 已逾期
+					1407 text 待完成
+					1408 text KET 入学测试卷
+					1409 text 开始时间：2025-04-14 15:36
+					1410 text 截止时间：2025-04-15 15:36
+					1411 text 班级：测试班001
+					1412 text 金晶
+					1413 text 许金晶
+					1414 container
+						1415 text  进入作业
+					1416 image
+					1417 text 作业模考
+					1418 text 已逾期
+					1419 text 待完成
+					1420 text PET 入学测试卷-250413
+					1421 text 开始时间：2025-04-14 14:50
+					1422 text 截止时间：2025-04-15 14:50
+					1423 text 班级：测试班001
+					1424 text 金晶
+					1425 text 许金晶
+					1426 container
+						1427 text  进入作业
+					1428 image
+					1429 text 作业模考
+					1430 text 已逾期
+					1431 text 待完成
+					1432 text PET 入学测试卷-250413
+					1433 text 开始时间：2025-04-14 14:41
+					1434 text 截止时间：2025-04-15 14:41
+					1435 text 班级：测试班001
+					1436 text 金晶
+					1437 text 许金晶
+					1438 container
+						1439 text  进入作业
+				1440 text 2025-04-13
+				1441 container
+					1442 image
+					1443 text 作业模考 已逾期 待完成 KET 入学测试卷-0412 开始时间：2025-04-13 14:54 截止时间：2025-04-14 14:54 班级：测试班001 金晶 许金晶
+					1444 text 
+					1445 text 进入作业
+				1446 text 2025-01-05
+				1447 container
+					1448 image
+					1449 text 作业模考
+					1450 text 已逾期
+					1451 text 待完成
+					1452 text 0105随堂练习（生物）/ 新托福 TPO-30/Task 4/新托福 TPO-36/Task 4
+					1453 text 开始时间：2025-01-05
+					1454 text 截止时间：2025-02-28 22:00
+					1455 text 班级：TF2410LXC005
+					1456 text 胜男
+					1457 text 李胜男
+					1458 container
+						1459 text  进入作业
+					1460 image
+					1461 text 作业模考
+					1462 text 已逾期
+					1463 text 待完成
+					1464 text 0105随堂练习（商科）/ 新托福 TPO-57/Task 4/新托福 TPO-40/Task 4
+					1465 text 开始时间：2025-01-05
+					1466 text 截止时间：2025-02-28 22:00
+					1467 text 班级：TF2410LXC005
+					1468 text 胜男
+					1469 text 李胜男
+					1470 container
+						1471 text  进入作业
+					1472 image
+					1473 text 作业模考
+					1474 text 已逾期
+					1475 text 待完成
+					1476 text 0105课后作业/ 新托福 TPO-74/Task 1+Task 2+Task 3+Task 4
+					1477 text 开始时间：2025-01-05
+					1478 text 截止时间：2025-02-28 22:00
+					1479 text 班级：TF2410LXC005
+					1480 text 胜男
+					1481 text 李胜男
+					1482 container
+						1483 text  进入作业
+				1484 text 2024-12-29
+				1485 container
+					1486 image
+					1487 text 作业模考
+					1488 text 已逾期
+					1489 text 待完成
+					1490 text 新托福 TPO-25/Task 3/新托福 TPO-14/Task 3/新托福 TPO-48/Task 3/新托福 TPO-54/Task 3
+					1491 text 开始时间：2024-12-29
+					1492 text 截止时间：2025-01-31 22:00
+					1493 text 班级：TF2410LXC005
+					1494 text 胜男
+					1495 text 李胜男
+					1496 container
+						1497 text  进入作业
+					1498 image
+					1499 text 作业模考
+					1500 text 已逾期
+					1501 text 待完成
+					1502 text 历史类文章练习
+					1503 text 开始时间：2024-12-29
+					1504 text 截止时间：2025-01-05 22:00
+					1505 text 班级：TF2410LXC005
+					1506 text 魏杨
+					1507 text 魏杨
+					1508 container
+						1509 text  进入作业
+				1510 text 2024-12-22
+				1511 container
+					1512 image
+					1513 text 作业模考 已逾期 待完成 艺术类文章练习 开始时间：2024-12-22 截止时间：2024-12-31 22:00 班级：TF2410LXC005 魏杨 魏杨
+					1514 text 
+					1515 text 进入作业
+				1516 text 2024-12-15
+				1517 container
+					1518 image
+					1519 text 作业模考 已逾期 待完成 1215口语随堂练习 开始时间：2024-12-15 截止时间：2024-12-31 22:00 班级：TF2410LXC005 胜男 李胜男
+					1520 text 
+					1521 text 进入作业
+				1522 text 2024-11-16
+				1523 container
+					1524 image
+					1525 text 作业模考 已逾期 待完成 填空 开始时间：2024-11-16 截止时间：2024-11-17 22:00 班级：TF2410LXC005 烟云 程烟云
+					1526 text 
+					1527 text 进入作业
+				1528 text 2024-11-13
+				1529 container
+					1530 image
+					1531 text 作业模考 已逾期 待完成 阅读 开始时间：2024-11-13 截止时间：2024-11-14 22:00 班级：测试班001 宝燕 李宝燕
+					1532 text 
+					1533 text 进入作业
+				1534 text 2024-11-06
+				1535 container
+					1536 image
+					1537 text 单词作业 已逾期 待完成 胡艺婷 托福阅读L1 词汇(Unit1)-英译中-domesticate-transport 开始时间：2024-11-06 截止时间：2024-11-07 22:00 班级：TF2410LXC005 烟云 程烟云
+					1538 text 
+					1539 text 进入作业
+				1540 text 2024-10-31
+				1541 container
+					1542 image
+					1543 text 单词作业 已逾期 待完成 托福21天list1(list1)-英译中-defend-photosynthesis 开始时间：2024-10-31 截止时间：2024-11-01 22:00 班级：TF2410LXC005 烟云 程烟云
+					1544 text 
+					1545 text 进入作业
+				1546 text 2024-10-28
+				1547 container
+					1548 image
+					1549 text 作业模考
+					1550 text 已逾期
+					1551 text 待完成
+					1552 text Conversation1- 餐厅
+					1553 text 开始时间：2024-10-28
+					1554 text 截止时间：2024-11-10 22:00
+					1555 text 班级：TF2410LXC005
+					1556 text 筱冉
+					1557 text 申筱冉
+					1558 container
+						1559 text  进入作业
+					1560 image
+					1561 text 作业模考
+					1562 text 已逾期
+					1563 text 待完成
+					1564 text Conversation1- 工作
+					1565 text 开始时间：2024-10-28
+					1566 text 截止时间：2024-11-10 22:00
+					1567 text 班级：TF2410LXC005
+					1568 text 筱冉
+					1569 text 申筱冉
+					1570 container
+						1571 text  进入作业
+					1572 image
+					1573 text 作业模考
+					1574 text 已逾期
+					1575 text 待完成
+					1576 text Conversation1- 图书馆
+					1577 text 开始时间：2024-10-28
+					1578 text 截止时间：2024-11-10 22:00
+					1579 text 班级：TF2410LXC005
+					1580 text 筱冉
+					1581 text 申筱冉
+					1582 container
+						1583 text  进入作业
+				1584 text 2024-10-23
+				1585 container
+					1586 image
+					1587 text 单词作业 已逾期 待完成 托福21天list1(list1)-英译中-abandon-curriculum 开始时间：2024-10-23 截止时间：2024-10-24 22:00 班级：TF2410LXC005 烟云 程烟云
+					1588 text 
+					1589 text 进入作业
+				1590 text 2024-10-18
+				1591 container
+					1592 image
+					1593 text 单词作业 已逾期 待完成 0920 SAT词汇(Unit1)-听音选择-escalate-come off 开始时间：2024-10-18 截止时间：2024-10-19 22:00 班级：测试班001 晓丽 张晓丽
+					1594 text 
+					1595 text 进入作业
+				1596 text 共 51 天
+				1597 container
+					1598 text field 50天/页
+					1599 text 
+				1600 button (disabled) 
+					1601 text 
+				1602 content list
+					1603 text 1
+					1604 text 2
+				1605 button 
+					1606 text 
+				1607 container
+					1608 text 前往
+					1609 stepper (settable, integer) 1
+					1610 text 页
+				800 container
+					896 text  返回作业管理
+				802 image
+				803 text 日期
+				804 text /
+				805 text 批改老师
+				806 text -
+				807 text 打卡频次 平均成绩 完成数 0 /- 批改数 0 /-
+				808 container
+					809 button AI作业分析
+						810 image
+						811 text AI作业分析
+					812 image
+				813 container
+					814 tab group
+						815 container
+							816 tab (selected, settable, boolean) 参与学生, Value: 1
+							817 tab (settable) 题目
+							818 tab (settable) 统计
+							819 tab (settable) 排行榜
+					820 text 当天打卡率 0% 0/0已打卡
+					821 image
+					822 text 暂无数据，还没有学生的打卡内容~
+				823 container
+					897 text  返回作业管理
+				825 image
+				826 text 日期
+				827 text /
+				828 text 题目数
+				829 text 批改老师
+				830 text -
+				831 text 平均成绩 完成数 0 /- 批改数 0 /-
+				832 container
+					833 button AI作业分析
+						834 image
+						835 text AI作业分析
+					836 image
+				837 button 再次布置
+				838 button 预览
+				839 tab group
+					840 container
+						841 tab (selected, settable, boolean) 参与学生, Value: 1
+						842 tab (settable) 统计
+						843 tab (settable) 排行榜
+				844 container
+					845 image
+					846 text 暂无数据~
+
+The focused UI element is 0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=2026112215

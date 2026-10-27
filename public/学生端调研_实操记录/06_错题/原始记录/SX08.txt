@@ -1,0 +1,294 @@
+Browser tab: 45, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	1 container myweb
+		2 container root-menu
+			3 container
+				4 image
+				5 text 首页
+			6 container
+				7 image
+				8 text 作业
+			9 container
+				10 image
+				11 text 课表
+			12 container
+				13 image
+				14 text 题库
+			15 container
+				16 image
+				17 text 单词书
+			18 container
+				19 image
+				20 text 错题
+			21 container
+				22 image
+				23 text 自适应
+			24 container
+				25 image
+				26 text 反馈
+			27 container
+				28 image
+				29 text 笔记
+			30 container
+				31 image
+				32 text 学习报告
+		33 container root-mv-right
+			34 container root-mv-header
+				35 image
+				36 container
+					37 text field (settable)
+					714 text 
+				39 button icon
+					40 image icon
+				41 container
+					715 text 
+					43 button icon
+						44 image icon
+				45 container
+					46 button icon
+						47 image icon
+					48 text 5
+				49 button icon
+					50 image icon
+				51 container
+					52 image
+					53 text 10
+				54 text 小格
+			55 container root-container
+				58 tab group
+					59 container
+						60 tab (settable) 学科
+						61 tab (settable) 机构
+						62 tab (settable) 能力
+						63 tab (selected, settable, boolean) 错词, Value: 1
+				716 container
+					717 text 错词
+					718 text 29
+					719 button 开始练习
+					720 button  待修复
+						721 text 
+						722 text 待修复
+					723 button 已修复
+					724 container
+						725 text 排序
+						726 image
+					727 checkbox 只看收藏, Value: 0
+						728 checkbox (settable, integer) Description: 只看收藏, Value: 0
+						729 text 只看收藏
+					730 button 重置
+					731 container
+						732 text 
+						733 text field (settable)
+					734 button 导出
+					735 container
+						736 checkbox 0
+							737 checkbox (settable, integer) 0
+						738 text faculty
+						739 button 
+							740 text 
+						741 text 错词数: 1
+						742 text 英 /ˈfæk(ə)lti/
+						743 text 美 /ˈfæk(ə)lti/
+						744 text n. 科，系；能力，官能；全体教员 The faculty of science offers many interesting courses. 科学学院提供许多有趣的课程。
+						745 image
+						746 text 2026-10-22
+						747 checkbox 0
+							748 checkbox (settable, integer) 0
+						749 text platform
+						750 button 
+							751 text 
+						752 text 错词数: 1
+						753 text 英 /ˈplætfɔːm/
+						754 text 美 /ˈplætfɔːm/
+						755 text n. 平台；月台，站台；坛；讲台；厚底松糕鞋 The train arrives at the platform. 火车到达了站台。
+						756 image
+						757 text 2026-10-22
+						758 checkbox 0
+							759 checkbox (settable, integer) 0
+						760 text installation
+						761 button 
+							762 text 
+						763 text 错词数: 1
+						764 text 英 /ˌɪnstəˈleɪʃ(ə)n/
+						765 text 美 /ˌɪnstəˈleɪʃ(ə)n/
+						766 text n. 安装，装置；就职 The installation of the new computer took only an hour. 新电脑的安装只花了一个小时。
+						767 image
+						768 text 2026-10-22
+						769 checkbox 0
+							770 checkbox (settable, integer) 0
+						771 text internship
+						772 button 
+							773 text 
+						774 text 错词数: 1
+						775 text 英 /ˈɪntɜːnʃɪp/
+						776 text 美 /ˈɪntɜːnʃɪp/
+						777 text n. 实习生；（美）实习期；实习医师职位 She got an internship at a local hospital. 她在当地医院获得了一个实习机会。
+						778 image
+						779 text 2026-10-22
+						780 checkbox 0
+							781 checkbox (settable, integer) 0
+						782 text features
+						783 button 
+							784 text 
+						785 text 错词数: 1
+						786 text 英 /ˈfiːtʃəz/
+						787 text 美 /ˈfiːtʃəz/
+						788 text n. 产品特点，特征；容貌；嘴脸（feature的复数） v. 是…的特色，使突出（feature的第三人称单数） The new phone has many exciting features. 这款新手机有许多令人兴奋的特点。
+						789 image
+						790 text 2026-10-22
+						791 checkbox 0
+							792 checkbox (settable, integer) 0
+						793 text wrap up
+						794 button 
+							795 text 
+						796 text 错词数: 1
+						797 text 英 /ræp ʌp/
+						798 text 美 /ræp ʌp/
+						799 text 包裹；圆满完成；（使）穿得暖和（wrap somebody/yourself up）；注意力完全集中于…… Let's wrap up the meeting before lunch. 我们在午餐前结束会议吧。
+						800 image
+						801 text 2026-10-22
+						802 checkbox 0
+							803 checkbox (settable, integer) 0
+						804 text effect immediately
+						805 button 
+							806 text 
+						807 text 错词数: 1
+						808 text 英 [ɪˈfekt]
+						809 text 美 [ɪˈfekt]
+						810 text 立即生效 The company must effect immediately the new safety rules. 公司必须立即实施新的安全规定。
+						811 image
+						812 text 2026-10-22
+						813 checkbox 0
+							814 checkbox (settable, integer) 0
+						815 text commemorate
+						816 button 
+							817 text 
+						818 text 错词数: 1
+						819 text 英 /kəˈmeməreɪt/
+						820 text 美 /kəˈmeməreɪt/
+						821 text vt. 庆祝，纪念；成为…的纪念 We gather every year to commemorate our friendship. 我们每年聚在一起纪念我们的友谊。
+						822 image
+						823 text 2026-10-22
+						824 checkbox 0
+							825 checkbox (settable, integer) 0
+						826 text hesitate
+						827 button 
+							828 text 
+						829 text 错词数: 1
+						830 text 英 /ˈhezɪteɪt/
+						831 text 美 /ˈhezɪteɪt/
+						832 text vi. 踌躇，犹豫；不愿 vt. 踌躇，犹豫；有疑虑，不愿意 I hesitate to ask for help. 我犹豫是否请求帮助。
+						833 image
+						834 text 2026-10-22
+						835 checkbox 0
+							836 checkbox (settable, integer) 0
+						837 text site
+						838 button 
+							839 text 
+						840 text 错词数: 1
+						841 text 英 /saɪt/
+						842 text 美 /saɪt/
+						843 text n. 地点；位置；场所 vt. 设置；为…选址 The park is a great site for a picnic. 这个公园是野餐的好地方。
+						844 image
+						845 text 2026-10-22
+						846 checkbox 0
+							847 checkbox (settable, integer) 0
+						848 text conducted
+						849 button 
+							850 text 
+						851 text 错词数: 1
+						852 text 英 /ˈkɒndʌktid/
+						853 text 美 /ˈkɒndʌktid/
+						854 text v. 管理（conduct的过去分词）；引导；指挥 The teacher conducted a fun science experiment. 老师进行了一个有趣的科学实验。
+						855 image
+						856 text 2026-10-22
+						857 checkbox 0
+							858 checkbox (settable, integer) 0
+						859 text source
+						860 button 
+							861 text 
+						862 text 错词数: 1
+						863 text 英 /sɔːs/
+						864 text 美 /sɔːs/
+						865 text n. 来源；水源；原始资料 n. 人名；(法)苏尔斯 The river is the source of the water for the town. 这条河是这个城镇的水源。
+						866 image
+						867 text 2026-10-22
+						868 checkbox 0
+							869 checkbox (settable, integer) 0
+						870 text stairwells
+						871 button 
+							872 text 
+						873 text 错词数: 1
+						874 text 英 [ˈsteəˌwelz]
+						875 text 美 [ˈsteəˌwelz]
+						876 text n. 楼梯井；楼梯间 The stairwells in the building are very wide. 这栋楼的楼梯间非常宽敞。
+						877 image
+						878 text 2026-10-22
+						879 checkbox 0
+							880 checkbox (settable, integer) 0
+						881 text treadmill
+						882 button 
+							883 text 
+						884 text 错词数: 1
+						885 text 英 /ˈtredmɪl/
+						886 text 美 /ˈtredmɪl/
+						887 text n. 踏车，跑步机；单调的工作 I like to exercise on the treadmill every morning. 我喜欢每天早上在跑步机上锻炼。
+						888 image
+						889 text 2026-10-22
+						890 checkbox 0
+							891 checkbox (settable, integer) 0
+						892 text forthcoming
+						893 button 
+							894 text 
+						895 text 错词数: 1
+						896 text 英 /ˌfɔːθˈkʌmɪŋ/
+						897 text 美 /ˌfɔːθˈkʌmɪŋ/
+						898 text adj. 即将来临的 n. 来临 The forthcoming event will be very exciting. 即将到来的活动将会非常令人兴奋。
+						899 image
+						900 text 2026-10-22
+						901 checkbox 0
+							902 checkbox (settable, integer) 0
+						903 text supervisor
+						904 button 
+							905 text 
+						906 text 错词数: 1
+						907 text 英 /ˈsuːpəvaɪzə(r)/
+						908 text 美 /ˈsuːpəvaɪzə(r)/
+						909 text 监督人，指导者；[管理] 管理人；检查员 My supervisor helps me with my work. 我的监督者帮助我完成工作。
+						910 image
+						911 text 2026-10-22
+						912 checkbox 0
+							913 checkbox (settable, integer) 0
+						914 text comply
+						915 button 
+							916 text 
+						917 text 错词数: 1
+						918 text 英 /kəmˈplaɪ/
+						919 text 美 /kəmˈplaɪ/
+						920 text vi. 遵守；顺从，遵从；答应 Students must comply with the school rules. 学生必须遵守学校规则。
+						921 image
+						922 text 2026-10-22
+						923 checkbox 0
+							924 checkbox (settable, integer) 0
+						925 text sustainability
+						926 button 
+							927 text 
+						928 text 错词数: 1
+						929 text 英 /səˌsteɪnəˈbɪləti/
+						930 text 美 /səˌsteɪnəˈbɪləti/
+						931 text n. 持续性；永续性；能维持性 Sustainability is important for our planet's future. 可持续性对我们星球的未来很重要。
+						932 image
+						933 text 2026-10-22
+						934 checkbox 0
+							935 checkbox (settable, integer) 0
+						936 text mural
+						937 button 
+							938 text 
+						939 text 错词数: 1
+						940 text 英 /ˈmjʊərəl/
+						941 text 美 /ˈmjʊərəl/
+						942 text n. 壁画 adj. （似）墙的，与墙有关的；（与）体腔壁有关的 The mural on the school wall is very colorful. 学校墙上的壁画非常多彩。
+						943 image
+						944 text 2026-10-22
+
+The focused UI element is 63 tab (selected, settable, boolean) 错词, Value: 1

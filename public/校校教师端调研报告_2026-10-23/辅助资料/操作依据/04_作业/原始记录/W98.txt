@@ -1,0 +1,136 @@
+- list:
+  - generic: 小格
+  - generic: 已查阅
+  - generic: 王小格
+- generic: 新托福口语模考
+- generic: 
+- generic: 2026.05.15 09:48 - 2026.05.15 09:56
+- text:    
+- button "导出PDF"
+- button "发布成绩"
+- text: 
+- button "生成报告"
+- text: 
+- generic: 作业结果
+- generic: 答题解析
+- generic: 答题录屏
+- generic: 巩固训练
+- paragraph: CEFR
+- generic: "4"
+- generic: of 6
+- generic: B2
+- generic: "20"
+- generic: /
+- text: "30"
+- generic: A1
+- generic: A2
+- generic: B1
+- generic: B2
+- generic: C1
+- generic: C2
+- generic: 57%
+- generic: 
+- generic: "-%"
+- paragraph: 口语
+- paragraph: "4"
+- paragraph: of 6
+- text: 
+- radiogroup:
+  - button " 能力诊断":
+    - generic: 
+    - generic: 能力诊断
+  - button "分析&建议":
+    - generic: 分析&建议
+  - button "评语":
+    - generic: 评语
+- generic: "1"
+- text: 分项评价
+- paragraph: 口语
+- generic: high-intermediate
+- generic: 暂无评价
+- generic: 
+- generic: "2"
+- text: 题型分析
+- table:
+  - rowgroup:
+    - row "分项 名称 正确率/得分率 答对题数 答错题数 未答题数":
+      - columnheader "分项":
+        - generic: 分项
+      - columnheader "名称":
+        - generic: 名称
+      - columnheader "正确率/得分率":
+        - generic: 正确率/得分率
+      - columnheader "答对题数":
+        - generic: 答对题数
+      - columnheader "答错题数":
+        - generic: 答错题数
+      - columnheader "未答题数":
+        - generic: 未答题数
+- table:
+  - rowgroup:
+    - row "口语 Listen and Repeat 80% 0 0 0":
+      - cell "口语":
+        - generic: 口语
+      - cell "Listen and Repeat":
+        - generic: Listen and Repeat
+      - cell "80%":
+        - generic: 80%
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+    - row "口语 Take an Interview 60% 0 0 0":
+      - cell "口语":
+        - generic: 口语
+      - cell "Take an Interview":
+        - generic: Take an Interview
+      - cell "60%":
+        - generic: 60%
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+      - cell "0":
+        - generic: "0"
+- generic: "3"
+- text: 知识点分析
+- table:
+  - rowgroup:
+    - row "分项 知识点 稳定程度 正确数 正确率/得分率":
+      - columnheader "分项":
+        - generic: 分项
+      - columnheader "知识点":
+        - generic: 知识点
+      - columnheader "稳定程度":
+        - generic: 稳定程度
+      - columnheader "正确数":
+        - generic: 正确数
+      - columnheader "正确率/得分率":
+        - generic: 正确率/得分率
+- table:
+  - rowgroup:
+    - row "口语 模拟面试 易混淆 -/- - %":
+      - cell "口语":
+        - generic: 口语
+      - cell "模拟面试":
+        - generic: 模拟面试
+      - cell "易混淆":
+        - generic: 易混淆
+      - cell "-/-":
+        - generic: "-/-"
+      - cell "- %":
+        - generic: "- %"
+    - row "口语 跟读复述 易混淆 -/- - %":
+      - cell "口语":
+        - generic: 口语
+      - cell "跟读复述":
+        - generic: 跟读复述
+      - cell "易混淆":
+        - generic: 易混淆
+      - cell "-/-":
+        - generic: "-/-"
+      - cell "- %":
+        - generic: "- %"
+- text:           

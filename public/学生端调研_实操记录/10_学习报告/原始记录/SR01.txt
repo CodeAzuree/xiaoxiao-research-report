@@ -1,0 +1,100 @@
+Browser tab: 67, Title: "学生管理后台", URL: "https://learninghub.xhd.cn/org/student.html?xiaov=20261122".
+0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122
+	1 container myweb
+		2 container root-menu
+			3 container
+				4 image
+				5 text 首页
+			6 container
+				7 image
+				8 text 作业
+			9 container
+				10 image
+				11 text 课表
+			12 container
+				13 image
+				14 text 题库
+			15 container
+				16 image
+				17 text 单词书
+			18 container
+				19 image
+				20 text 错题
+			21 container
+				22 image
+				23 text 自适应
+			24 container
+				25 image
+				26 text 反馈
+			27 container
+				28 image
+				29 text 笔记
+			30 container
+				31 image
+				32 text 学习报告
+		33 container root-mv-right
+			34 container root-mv-header
+				35 image
+				36 container
+					37 text field (settable)
+					54 text 
+				39 button icon
+					40 image icon
+				41 container
+					55 text 
+					43 button icon
+						44 image icon
+				45 container
+					46 button icon
+						47 image icon
+					56 text 5
+				48 button icon
+					49 image icon
+				50 container
+					51 image
+					52 text 10
+				53 text 小格
+			57 container
+				58 container
+					59 text 科目
+					60 image
+				61 text 报告时间
+				62 image
+				63 container
+					72 text 
+				65 text field (settable)
+				66 text -
+				67 text field (settable)
+				68 container
+					69 text 生成人
+					70 image
+				71 image
+				73 text 报告时间 2026.09.01-2026.10.22
+				74 container
+					75 text 思贤
+					76 text 王思贤等 1位老师评语
+					77 text 新航道武汉学校
+					78 text Study Report
+					79 text 2026.09.01-2026.10.22
+					80 text 小格
+					81 text 王小格
+				82 container
+					83 text SAT 王思贤 生成于 2026.10.22
+					84 button 预览
+					85 button 分享
+				86 text 报告时间 2026.09.01-2026.10.22
+				87 container
+					88 text 新航道武汉学校 Study Report 2026.09.01-2026.10.22 小格 王小格
+				89 container
+					90 text SAT 王思贤 生成于 2026.10.22
+					91 button 预览
+					92 button 分享
+				93 text 报告时间 2026.02.20-2026.05.21
+				94 container
+					95 text 新航道武汉学校 Study Report 2026.02.20-2026.05.21 小格 王小格
+				96 container
+					97 text 雅思 李冰晖 生成于 2026.05.23
+					98 button 预览
+					99 button 分享
+
+The focused UI element is 0 AXWebArea 学生管理后台, URL: learninghub.xhd.cn/org/student.html?xiaov=20261122

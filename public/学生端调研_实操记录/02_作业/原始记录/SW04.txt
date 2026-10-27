@@ -1,0 +1,57 @@
+Browser tab: 50, Title: "基础练习", URL: "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=14695069&stuid=243365&teacherid=&wrcd=1&xiaov=20261122".
+0 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14695069&stuid=243365&teacherid=&wrcd=1&xiaov=20261122
+	1 container myweb
+		2 text 错词训练/2026-10-22
+		3 text 
+		4 text 2026.10.22 16:08 - 2026.10.22 16:09
+		5 container
+			6 container
+				7 text 作业结果 答题解析 巩固训练
+			8 text (1)
+			54 text 
+			10 text 13S
+			11 text (2)
+			12 text 
+			13 text 3S
+			14 text (3)
+			15 text 
+			16 text 2S
+			17 text (4)
+			18 text 
+			19 text 4S
+			20 text (5)
+			21 text 
+			22 text 3S
+			23 text (6)
+			55 text 
+			25 text 6S
+			26 text (7)
+			27 text 
+			28 text 6S
+			29 text (8)
+			30 text 
+			31 text 3S
+			32 text (9)
+			33 text 
+			34 text 5S
+			35 text (10)
+			36 text 
+			37 text 3S
+			38 button 美式发音 
+				39 text 美式发音
+				40 text 
+			41 text 根据听到的单词发音，选出下列选项中该单词的正确解释
+			42 text symposium
+			43 text A.
+			44 text 肉类和家禽
+			45 text B.
+			46 text vt. 造成；使遭受（损伤、痛苦等）；给予（打击等）
+			47 text C.
+			48 text vt. 使贫穷；使枯竭
+			49 text D.
+			50 text n. 讨论会，座谈会；专题论文集；酒宴，宴会
+			51 text 学生答案
+			52 container
+				53 text 对此题提出疑问？ 我的答案 C，正确答案D
+
+The focused UI element is 0 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14695069&stuid=243365&teacherid=&wrcd=1&xiaov=20261122

@@ -1,0 +1,125 @@
+- code:
+  - list:
+    - generic: 小格
+    - generic: 已批改
+    - generic: 王小格
+  - generic: 雅思
+  - generic: 
+  - generic: 2026.05.23 13:59 - 2026.05.23 13:59
+  - text:    
+  - button "导出PDF"
+  - button "生成报告"
+  - text: 
+  - generic: 作业结果
+  - generic: 答题解析
+  - generic: 答题录屏
+  - generic: 巩固训练
+  - generic: 总成绩
+  - generic: 
+  - generic: "3.5"
+  - generic: /
+  - text: "9"
+  - generic: 25%
+  - generic: 
+  - generic: 3%
+  - paragraph: 阅读
+  - generic: "3.5"
+  - generic: /
+  - text: "9"
+  - text: 
+  - generic: "3"
+  - generic: "11"
+  - radiogroup:
+    - button " 能力诊断":
+      - generic: 
+      - generic: 能力诊断
+    - button "分析&建议":
+      - generic: 分析&建议
+    - button "评语":
+      - generic: 评语
+  - generic: "1"
+  - text: 分项评价
+  - paragraph: 阅读
+  - generic: basic
+  - generic: 暂无评价
+  - generic: 
+  - generic: "2"
+  - text: 知识点分析
+  - table:
+    - rowgroup:
+      - row "分项 知识点 稳定程度 正确数 正确率/得分率":
+        - columnheader "分项":
+          - generic: 分项
+        - columnheader "知识点":
+          - generic: 知识点
+        - columnheader "稳定程度":
+          - generic: 稳定程度
+        - columnheader "正确数":
+          - generic: 正确数
+        - columnheader "正确率/得分率":
+          - generic: 正确率/得分率
+  - table:
+    - rowgroup:
+      - row "阅读 Multiple Choice多选题 易混淆 -/- - %":
+        - cell "阅读":
+          - generic: 阅读
+        - cell "Multiple Choice多选题":
+          - generic: Multiple Choice多选题
+        - cell "易混淆":
+          - generic: 易混淆
+        - cell "-/-":
+          - generic: "-/-"
+        - cell "- %":
+          - generic: "- %"
+      - row "阅读 Y/N/NG判断题 易混淆 -/- - %":
+        - cell "阅读":
+          - generic: 阅读
+        - cell "Y/N/NG判断题":
+          - generic: Y/N/NG判断题
+        - cell "易混淆":
+          - generic: 易混淆
+        - cell "-/-":
+          - generic: "-/-"
+        - cell "- %":
+          - generic: "- %"
+      - row "阅读 Matching段落信息匹配 易混淆 -/- - %":
+        - cell "阅读":
+          - generic: 阅读
+        - cell "Matching段落信息匹配":
+          - generic: Matching段落信息匹配
+        - cell "易混淆":
+          - generic: 易混淆
+        - cell "-/-":
+          - generic: "-/-"
+        - cell "- %":
+          - generic: "- %"
+      - row "阅读 Table表格填空 易混淆 -/- - %":
+        - cell "阅读":
+          - generic: 阅读
+        - cell "Table表格填空":
+          - generic: Table表格填空
+        - cell "易混淆":
+          - generic: 易混淆
+        - cell "-/-":
+          - generic: "-/-"
+        - cell "- %":
+          - generic: "- %"
+  - generic: "3"
+  - text: Top高错点
+  - generic: 定位错误
+  - generic: "4"
+  - generic: 只根据关键词定位到相似句，但该句并非真正支持选项。
+  - generic: 阅读
+  - generic: 阅读
+  - generic: TFNG 边界混淆
+  - generic: "1"
+  - generic: True/False/Not Given判断标准混乱。
+  - generic: 阅读
+  - generic: 阅读
+  - generic: 原词匹配倾向
+  - generic: "1"
+  - generic: 看到题干中的原词就直接选择。
+  - generic: 阅读
+  - generic: 阅读
+  - text: 
+  - text:                    

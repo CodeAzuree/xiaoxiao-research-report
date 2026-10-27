@@ -1,0 +1,410 @@
+Browser tab: 60, Title: "雅思", URL: "https://learninghub.xhd.cn/org/IELTS/index.html?id=1426045&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122&questionpush=1&clientmode=full".
+0 AXWebArea 雅思, URL: learninghub.xhd.cn/org/IELTS/index.html?id=1426045&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122&questionpush=1&clientmode=full
+	1 container kpet
+		62 container
+			63 image
+			64 text Jane Austen
+			65 button icon
+				66 image icon
+			67 button icon
+				68 image icon
+			69 button 
+				405 text 
+			71 text 重点词汇
+			72 text 翻译
+			73 container
+				74 text entry area (settable)
+				406 text 
+				76 text 思路讲解
+				77 button (disabled) icon
+					78 image icon
+				79 text 内容由 AI 生成
+		2 container
+			3 text 正在生成答题报告，请耐心等待...... AI智能批改中，预计需要2-5分钟
+		4 container
+			5 image Loading
+			6 heading Your test will begin shortly, Value: 2
+				7 text Your test will begin shortly
+			8 text Please wait
+		9 container loader-audio-model
+			10 text You will be listening to an audio clip during this test. You will not be permitted to pause or rewind the audio while answering the questions.
+			11 text To continue, click Play.
+			12 button Play
+		13 container
+			14 button Continue
+		15 container IELTS-video-guide
+			16 container
+				17 text To see the
+				18 text instructions for the
+				19 text test, click on the
+				20 text arrow (v); after that,
+				21 text click 'I confirm' and
+				22 text then 'Start' to start
+				23 text the test. In the real
+				24 text test you’ll only be able to see this once.
+			25 container dashboard
+				26 heading IELTS Familiarisation Test, Value: 1
+					27 text IELTS Familiarisation Test
+				28 text Today
+				80 heading Reading, Value: 4
+					81 text Reading
+				82 heading Not completed, Value: 4
+					83 text Not completed
+				84 container
+					85 text Timing:  21 minutes
+				86 container
+					87 text Test information. Confirmed.
+				394 container video-2
+					395 container
+						396 button
+						397 slider
+						398 button
+						399 button
+						400 pop up button
+					401 slider 视频时间进度条
+				402 link  Start Reading
+					407 text 
+					404 text Start Reading
+		29 container IELTS-listen-microphone
+			30 text Test sound and microphone
+			31 container
+				33 text 00:00  - 00:09 Test sound
+			34 container
+				35 text 00:00 Start recording
+			36 text if you can not hear the sound clearly, please tell the invigilator
+			37 button Continue
+		38 container kpet-app-container-main
+			39 container
+				44 button Finish test
+				45 text 1.45M/s
+				46 text Click to Submit
+				47 button Submit
+			48 heading Part 3, Value: 3
+				103 text Part 3
+			104 text Read the text below and answer questions 27 – 40
+			105 container
+				106 container read-container-scroll
+					107 text READING PASSAGE 3 You should spend about 20 minutes on  Questions 27-40 , which are based on Reading Passage 3 below.
+					108 container
+						109 text Book review:  The World of Sugar  by Ulbe Bosma
+					110 text 
+
+Ulbe Bosma's  The World of Sugar  is a genuinely global history. Bosma discusses all the sugar-growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century. But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years. Beet sugar is grown mainly in Europe and the United States. It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar.
+
+Bosma's discussion of the sugar market in Britain gives a sense of the book's range. The sweet-toothed British first bought cane sugar from their own slavery-dependent colonial plantations. Following the abolition of slavery in the British Empire, cane sugar was imported to Britain from places which retained the practice, such as Cuba and Brazil. Towards the end of the 19th century, the British started to import beet sugar from continental Europe. Only in the 20th century was there a move to develop a national beet sugar industry.
+
+The book provides a global labour history, investigating the wide range of labour regimes associated with growing sugar. Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men. For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers.
+
+ The World of Sugar  is also a story of similarity and continuity in sugar cultivation. For example, imported labour has been used for much large-scale production. German beet fields employed Polish workers; Mexicans and many others, including Sicilians, were vital to US sugar production. Cane cutting, Bosma shows, remains a poorly paid and brutal business to this day in many places in the world. But as well as this, the book is about the continuity of the use of traditional methods on small farms. In the mid 20th-century, this type of sugar production dominated in South Asia and Latin America.
+
+This is also a history of capitalists and sugar dynasties, as well as corporations that in some cases have remained influential over very long periods. Great firms and great interests have had profound influence on the policies of states. In many places — not just the British Caribbean but Cuba and the Philippines too — a powerful sugar bourgeoisie played a major role in politics and their interests were consequently protected by trade barriers and subsidies. In the battle for control of the industry, it was inevitably the poor countries which came off worse. All this is explored by Bosma with wonderful subtlety and control.
+
+But sugar production was never just a matter of agriculture. It also involved the extraction, close to the place of harvest, of sucrose from the sugar plant, a process which required machinery powered by humans, animals, wind or steam. Further processes involved boiling (from the 19th century, this often involved vacuum systems) and the separation of sugar from other materials in a process known as refinement. From very early on, sugar production was an energy-intensive industrial process, mostly taking place in the countryside and in refineries in centres of consumption, both small and large. The growth of the industry entailed a very rapid diffusion of ideas and techniques from one country to another. Cuba, for example, developed an extraordinarily dense system of railways to transport workers and cane, as well as steam-powered sugar factories. Particular varieties of cane sugar and beet sugar spread very rapidly across the world, in accordance with local needs and demands.
+
+Where once only tiny quantities of sugar could be produced, now new techniques, varieties, fertilisers, irrigation systems and much more have turned gleaming white sugar into a ubiquitous chemical. Over the same time, there has been a massive increase in consumption. Once regarded as a luxury, sugar came to be promoted as a valuable source of energy. But as the consumption of sugar has increased, so has the harm it does, whether to people's teeth or weight. In the face of appalling obstruction from the sugar industry to attempts to reduce consumption, some countries have been forced to tax sugar in order to bring that about. The sugar industry has a history of attacking its critics and, when it comes to obesity, of trying to blame fats, and lack of exercise and self-control. And the recent past has seen worrying new developments in mass sweetening. High-fructose corn syrup made from maize using an enzymatic process invented in Japan in the 1960s has a similar number of calories to table sugar but is far cheaper to produce. It is now widely consumed, having been adopted in the making of soft drinks and a large number of processed foods, and is regarded as a leading cause of obesity.
+
+This is a wonderfully rich book, a model of global history, the history of production and the history of capitalism. Bosma avoids outbursts of emotion, celebratory or critical, even if they might have made his analysis of the multiple tragedies involving sugar all the more powerful. He shows that we could always have done without sugar and that today we have many alternative sources of sweetness. Yet many of the poorest people in the world still depend on it to make a living.
+				111 container read-container-right-scroll
+					112 container 1
+						113 text Questions 27-30
+Choose the correct letter,  A ,  B ,  C  or  D .
+					114 heading Value: 2, 27 .   What does the reviewer suggest about the cultivation and trading of sugar in the first paragraph?
+						115 button (expanded) Secondary Actions: Collapse, 27 .   What does the reviewer suggest about the cultivation and trading of sugar in the first paragraph?
+							116 text 27
+							117 text .   What does the reviewer suggest about the cultivation and trading of sugar in the first paragraph?
+						118 image
+					119 content list
+						120 container
+							121 radio button (settable, integer) Description: ...Sugar has played a major role in international relations., Value: 0
+							122 text ...Sugar has played a major role in international relations.
+						123 container
+							124 radio button (settable, integer) Description: ...Beet sugar has been made more internationally competitive., Value: 0
+							125 text ...Beet sugar has been made more internationally competitive.
+						126 container
+							127 radio button (settable, integer) Description: ...Cane sugar is thought to be of superior quality to beet sugar., Value: 0
+							128 text ...Cane sugar is thought to be of superior quality to beet sugar.
+						129 container
+							130 radio button (settable, integer) Description: ...New locations for cultivating sugar have increased production., Value: 0
+							131 text ...New locations for cultivating sugar have increased production.
+					132 heading Value: 2, 28 .   In the second paragraph, when discussing the sugar market in Britain, the reviewer stresses...
+						133 button (expanded) Secondary Actions: Collapse, 28 .   In the second paragraph, when discussing the sugar market in Britain, the reviewer stresses...
+							134 text 28
+							135 text .   In the second paragraph, when discussing the sugar market in Britain, the reviewer stresses...
+						136 image
+					137 content list
+						138 container
+							139 radio button (settable, integer) Description: ...how the sources used changed over time., Value: 0
+							140 text ...how the sources used changed over time.
+						141 container
+							142 radio button (settable, integer) Description: ...how developments in agriculture affected trade., Value: 0
+							143 text ...how developments in agriculture affected trade.
+						144 container
+							145 radio button (settable, integer) Description: ...the increased demand for sugar over the years., Value: 0
+							146 text ...the increased demand for sugar over the years.
+						147 container
+							148 radio button (settable, integer) Description: ...the growing support for ethical methods of cultivation., Value: 0
+							149 text ...the growing support for ethical methods of cultivation.
+					150 heading 29 .   What is the reviewer doing in the third paragraph?, Value: 2
+						151 button (expanded) 29 .   What is the reviewer doing in the third paragraph?, Secondary Actions: Collapse
+							152 text 29
+							153 text .   What is the reviewer doing in the third paragraph?
+						154 image
+					155 content list
+						156 container
+							157 radio button (settable, integer) Description: ...describing an efficient approach to sugar cultivation, Value: 0
+							158 text ...describing an efficient approach to sugar cultivation
+						159 container
+							160 radio button (settable, integer) Description: ...explaining why the use of sugar plantations declined, Value: 0
+							161 text ...explaining why the use of sugar plantations declined
+						162 container
+							163 radio button (settable, integer) Description: ...addressing a misconception about the growing of sugar cane, Value: 0
+							164 text ...addressing a misconception about the growing of sugar cane
+						165 container
+							166 radio button (settable, integer) Description: ...evaluating different approaches to the cultivation of sugar cane, Value: 0
+							167 text ...evaluating different approaches to the cultivation of sugar cane
+					168 heading Value: 2, 30 .   In the final paragraph, what does the reviewer suggest is the overall message of Bosma's book?
+						169 button (expanded) Secondary Actions: Collapse, 30 .   In the final paragraph, what does the reviewer suggest is the overall message of Bosma's book?
+							170 text 30
+							171 text .   In the final paragraph, what does the reviewer suggest is the overall message of Bosma's book?
+						172 image
+					173 content list
+						174 container
+							175 radio button (settable, integer) Description: ...Sugar is a harmful and unnecessary product., Value: 0
+							176 text ...Sugar is a harmful and unnecessary product.
+						177 container
+							178 radio button (settable, integer) Description: ...Economic pressure is needed to control sugar production., Value: 0
+							179 text ...Economic pressure is needed to control sugar production.
+						180 container
+							181 radio button (settable, integer) Description: ...Conditions for workers in sugar production should be improved., Value: 0
+							182 text ...Conditions for workers in sugar production should be improved.
+						183 container
+							184 radio button (settable, integer) Description: ...Intensive marketing of sugar has had disastrous consequences., Value: 0
+							185 text ...Intensive marketing of sugar has had disastrous consequences.
+					186 container
+						187 text Questions 31-36
+Complete the summary using the list of words,  A-l , below.
+					188 container
+						189 text Sugar cultivation and production 
+
+The book  The World of Sugar  points out the similarities in the way that sugar was cultivated around the world. In the big industries in both Germany and the US, sugar farming depended on 
+						190 pop up button (collapsed, settable) Value: 31, ID: answer-500284, Secondary Actions: Expand
+							191 menu
+								192 (selected) 31
+								193 national governments
+								194 agricultural developments
+								195 less wealthy nations
+								196 untrained workers
+								197 small-scale cultivation
+								198 outdated methods
+								199 financial controls
+								200 migrant workers
+								201 powerful individuals and businesses
+						202 text . However, in other parts of the world such as South Asia and Latin America, 
+						203 pop up button (collapsed, settable) Value: 32, ID: answer-500285, Secondary Actions: Expand
+							204 menu
+								205 (selected) 32
+								206 national governments
+								207 agricultural developments
+								208 less wealthy nations
+								209 untrained workers
+								210 small-scale cultivation
+								211 outdated methods
+								212 financial controls
+								213 migrant workers
+								214 powerful individuals and businesses
+						215 text  continued.
+
+Sugar production has also involved 
+						216 pop up button (collapsed, settable) Value: 33, ID: answer-500286, Secondary Actions: Expand
+							217 menu
+								218 (selected) 33
+								219 national governments
+								220 agricultural developments
+								221 less wealthy nations
+								222 untrained workers
+								223 small-scale cultivation
+								224 outdated methods
+								225 financial controls
+								226 migrant workers
+								227 powerful individuals and businesses
+						228 text  who were eager to protect their markets. In countries such as Cuba the sugar industry therefore had a major influence on 
+						229 pop up button (collapsed, settable) Value: 34, ID: answer-500287, Secondary Actions: Expand
+							230 menu
+								231 (selected) 34
+								232 national governments
+								233 agricultural developments
+								234 less wealthy nations
+								235 untrained workers
+								236 small-scale cultivation
+								237 outdated methods
+								238 financial controls
+								239 migrant workers
+								240 powerful individuals and businesses
+						241 text .
+
+To support the interests of sugar producers, 
+						242 pop up button (collapsed, settable) Value: 35, ID: answer-500288, Secondary Actions: Expand
+							243 menu
+								244 (selected) 35
+								245 national governments
+								246 agricultural developments
+								247 less wealthy nations
+								248 untrained workers
+								249 small-scale cultivation
+								250 outdated methods
+								251 financial controls
+								252 migrant workers
+								253 powerful individuals and businesses
+						254 text  were established. As a result of this, 
+						255 pop up button (collapsed, settable) Value: 36, ID: answer-500289, Secondary Actions: Expand
+							256 menu
+								257 (selected) 36
+								258 national governments
+								259 agricultural developments
+								260 less wealthy nations
+								261 untrained workers
+								262 small-scale cultivation
+								263 outdated methods
+								264 financial controls
+								265 migrant workers
+								266 powerful individuals and businesses
+						267 text  were penalised.
+					268 container
+						269 button A. national governments
+							270 text A. 
+							271 text national governments
+						272 button B. agricultural developments
+							273 text B. 
+							274 text agricultural developments
+						275 button C. less wealthy nations
+							276 text C. 
+							277 text less wealthy nations
+						278 button D. untrained workers
+							279 text D. 
+							280 text untrained workers
+						281 button E. small-scale cultivation
+							282 text E. 
+							283 text small-scale cultivation
+						284 button F. outdated methods
+							285 text F. 
+							286 text outdated methods
+						287 button G. financial controls
+							288 text G. 
+							289 text financial controls
+						290 button H. migrant workers
+							291 text H. 
+							292 text migrant workers
+						293 button I. powerful individuals and businesses
+							294 text I. 
+							295 text powerful individuals and businesses
+					296 container 3
+						297 text Questions 37-40
+Do the following statements agree with the views of the writer in Reading Passage 3?
+In boxes 37-40 on your answer sheet, write
+ YES  if the statement agrees with the views of the writer
+ NO  if the statement contradicts the views of the writer
+ NOT GIVEN  if it is impossible to say what the writer thinks about this
+					298 heading Value: 2, 37 .   Sugar has now become available in large quantities due to a range of agricultural developments.
+						299 button (expanded) Secondary Actions: Collapse, 37 .   Sugar has now become available in large quantities due to a range of agricultural developments.
+							300 text 37
+							301 text .   Sugar has now become available in large quantities due to a range of agricultural developments.
+						302 image
+					303 content list
+						304 container
+							305 radio button (settable, integer) Description: ...YES, Value: 0
+							306 text ...YES
+						307 container
+							308 radio button (settable, integer) Description: ...NO, Value: 0
+							309 text ...NO
+						310 container
+							311 radio button (settable, integer) Description: ...NOT GIVEN, Value: 0
+							312 text ...NOT GIVEN
+					313 heading 38 .   Advertisers initially marketed sugar as a luxury product., Value: 2
+						314 button (expanded) 38 .   Advertisers initially marketed sugar as a luxury product., Secondary Actions: Collapse
+							315 text 38
+							316 text .   Advertisers initially marketed sugar as a luxury product.
+						317 image
+					318 content list
+						319 container
+							320 radio button (settable, integer) Description: ...YES, Value: 0
+							321 text ...YES
+						322 container
+							323 radio button (settable, integer) Description: ...NO, Value: 0
+							324 text ...NO
+						325 container
+							326 radio button (settable, integer) Description: ...NOT GIVEN, Value: 0
+							327 text ...NOT GIVEN
+					328 heading 39 .   The invention of high-fructose corn syrup was a positive development., Value: 2
+						329 button (expanded) 39 .   The invention of high-fructose corn syrup was a positive development., Secondary Actions: Collapse
+							330 text 39
+							331 text .   The invention of high-fructose corn syrup was a positive development.
+						332 image
+					333 content list
+						334 container
+							335 radio button (settable, integer) Description: ...YES, Value: 0
+							336 text ...YES
+						337 container
+							338 radio button (settable, integer) Description: ...NO, Value: 0
+							339 text ...NO
+						340 container
+							341 radio button (settable, integer) Description: ...NOT GIVEN, Value: 0
+							342 text ...NOT GIVEN
+					343 heading 40 .   High-fructose corn syrup is an ingredient in many processed foods., Value: 2
+						344 button (expanded) 40 .   High-fructose corn syrup is an ingredient in many processed foods., Secondary Actions: Collapse
+							345 text 40
+							346 text .   High-fructose corn syrup is an ingredient in many processed foods.
+						347 image
+					348 content list
+						349 container
+							350 radio button (settable, integer) Description: ...YES, Value: 0
+							351 text ...YES
+						352 container
+							353 radio button (settable, integer) Description: ...NO, Value: 0
+							354 text ...NO
+						355 container
+							356 radio button (settable, integer) Description: ...NOT GIVEN, Value: 0
+							357 text ...NOT GIVEN
+			358 container
+				359 button (disabled) 
+					426 text 
+				361 button 
+					427 text 
+				363 text Part 3
+				364 container
+					410 text  27
+				366 container
+					411 text  28
+				368 container
+					412 text  29
+				370 container
+					413 text  30
+				372 container
+					414 text  31
+				374 container
+					415 text  32
+				376 container
+					416 text  33
+				378 container
+					417 text  34
+				380 container
+					418 text  35
+				382 container
+					419 text  36
+				384 container
+					420 text  37
+				386 container
+					421 text  38
+				388 container
+					422 text  39
+				390 container
+					423 text  40
+		54 container
+			55 text Notes
+			56 button , Help: Hide highlights
+				424 text 
+			58 button 
+				425 text 
+			60 text Your private notes will show here
+			61 text Select text to create notes and highlights
+
+The focused UI element is 0 AXWebArea 雅思, URL: learninghub.xhd.cn/org/IELTS/index.html?id=1426045&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122&questionpush=1&clientmode=full

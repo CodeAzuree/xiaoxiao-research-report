@@ -1,0 +1,3 @@
+Browser tab: 47, Title: "词汇量测试结果", URL: "https://learninghub.xhd.cn/org/vocabulary/result.html?hwkid=101149".
+There has been no change in the accessibility tree.
+The focused UI element is 0 AXWebArea 词汇量测试结果, URL: learninghub.xhd.cn/org/vocabulary/result.html?hwkid=101149

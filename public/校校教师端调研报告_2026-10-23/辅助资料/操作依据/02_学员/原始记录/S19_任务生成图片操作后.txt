@@ -1,0 +1,217 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- generic: 班级
+- generic: 
+- generic: 
+- button "生成图片":
+  - generic: 生成图片
+- paragraph:
+- heading "王小格任务清单" [level=2]
+- paragraph: 2026/10/22 - 2026/10/24
+- text: 任务详情
+- paragraph: 10月22日 周四
+- paragraph: 作业
+- generic: 单词书自测/陈梦昕生词本-3.8
+- generic: 00:00
+- paragraph:
+  - text: 作业分数：
+  - generic: 34分
+- paragraph: 班级：测试班002
+- generic: 错词训练/2026-10-22
+- generic: 00:00
+- paragraph:
+  - text: 作业分数：
+  - generic: 80分
+- paragraph: 班级：王小格-SAT
+- generic: 订正练习/错词训练/2026-10-22
+- generic: 00:00
+- paragraph:
+  - text: 作业分数：
+  - generic: 100分
+- paragraph: 班级：王小格-SAT
+- button "添加任务":
+  - generic: 添加任务
+- button "导出清单":
+  - generic: 导出清单
+- generic: 
+- generic: 2026年10月
+- button "上个月":
+  - generic: 上个月
+- button "本月":
+  - generic: 本月
+- button "下个月":
+  - generic: 下个月
+- generic: 考试
+- generic: 课程
+- generic: 作业
+- generic: 任务
+- generic: 星期一
+- generic: 星期二
+- generic: 星期三
+- generic: 星期四
+- generic: 星期五
+- generic: 星期六
+- generic: 星期天
+- generic: "28"
+- generic: "29"
+- generic: "30"
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: "6"
+- generic: "7"
+- generic: "8"
+- generic: "9"
+- generic: "10"
+- generic: "11"
+- generic: "12"
+- paragraph: 字数测试
+- paragraph: 10.12 16:00-10.13 23:30
+- generic: "13"
+- generic: "14"
+- generic: "15"
+- generic: "16"
+- generic: "17"
+- generic: "18"
+- generic: "19"
+- generic: "20"
+- generic: "21"
+- generic: 今天
+- paragraph: 单词书自测/陈梦昕生词本-3.8
+- paragraph: 10.22-10.25
+- paragraph: 错词训练/2026-10-22
+- paragraph: 10.22-10.23 16:08
+- paragraph: 订正练习/错词训练/2026-10-22
+- paragraph: 10.22-10.25
+- generic: "23"
+- generic: "24"
+- generic: "25"
+- generic: "26"
+- generic: "27"
+- generic: "28"
+- generic: "29"
+- generic: "30"
+- generic: "31"
+- generic: "1"
+- generic: "2"
+- generic: "3"
+- generic: "4"
+- generic: "5"
+- generic: "6"
+- generic: "7"
+- generic: "8"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:                     
+- dialog "王小格任务清单":
+  - generic: 王小格任务清单
+  - button "Close":
+    - generic: 
+  - generic: 
+  - textbox "开始日期": 2026-10-22
+  - generic: "-"
+  - textbox "结束日期": 2026-10-24
+  - text: 您有
+  - generic: 考试（0个）、
+  - generic: 课程（0个）、
+  - generic: 作业（3个）、
+  - generic: 任务（0个）
+  - paragraph: 导出样式
+  - radiogroup:
+    - radio "列表样式" [checked]:
+      - radio [checked]
+      - generic: 列表样式
+    - radio "视图样式":
+      - radio
+      - generic: 视图样式
+  - paragraph: 导出内容
+  - group "checkbox-group":
+    - checkbox "考试" [checked]
+    - generic: 考试
+    - checkbox "课程" [checked]
+    - generic: 课程
+    - checkbox "作业" [checked]
+    - generic: 作业
+    - checkbox "任务" [checked]
+    - generic: 任务
+  - paragraph:
+    - text: 整体点评
+    - generic: 
+    - text: 评语
+  - paragraph: 暂无点评
+  - button "生成图片":
+    - generic: 生成图片
+  - button "预览":
+    - generic: 预览

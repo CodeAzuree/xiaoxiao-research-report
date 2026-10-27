@@ -1,0 +1,141 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "系统题库":
+  - generic: 系统题库
+- button "机构题库":
+  - generic: 机构题库
+- button "单词书":
+  - generic: 单词书
+- generic: 
+- generic: 
+- radiogroup:
+  - button " 我的试卷" [active]:
+    - generic: 
+    - generic: 我的试卷
+  - button "共享试卷":
+    - generic: 共享试卷
+- button "新建试卷"
+- button "科目 ( 全部 ) ":
+  - text: 科目
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "所属类别 ( 全部 ) ":
+  - text: 所属类别
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "状态 ( 全部 ) ":
+  - text: 状态
+  - text: (
+  - generic: 全部
+  - text: )
+  - generic: 
+- button "重置"
+- generic: 
+- textbox "请输入试卷名称"
+- radiogroup:
+  - button
+  - button
+- text:  
+- table:
+  - rowgroup:
+    - row "试卷名称 状态 科目 所属类别 总分 题目数量 时长（分钟） 创建人 更新时间":
+      - columnheader
+      - columnheader "试卷名称":
+        - generic: 试卷名称
+      - columnheader "状态":
+        - generic: 状态
+      - columnheader "科目":
+        - generic: 科目
+      - columnheader "所属类别":
+        - generic: 所属类别
+      - columnheader "总分":
+        - generic: 总分
+      - columnheader "题目数量":
+        - generic: 题目数量
+      - columnheader "时长（分钟）":
+        - generic: 时长（分钟）
+      - columnheader "创建人":
+        - generic: 创建人
+      - columnheader "更新时间":
+        - generic: 更新时间
+      - columnheader
+- table:
+  - rowgroup:
+    - row "【调研测试】机构题库功能记录 - 雅思 调研测试 6 3 - 王思贤 2026-10-23 13:25 录入 布置 ":
+      - cell
+      - cell "【调研测试】机构题库功能记录":
+        - generic: 【调研测试】机构题库功能记录
+      - cell "-":
+        - generic: "-"
+      - cell "雅思":
+        - generic: 雅思
+      - cell "调研测试":
+        - generic: 调研测试
+      - cell "6":
+        - generic: "6"
+      - cell "3":
+        - generic: "3"
+      - cell "-":
+        - generic: "-"
+      - cell "王思贤":
+        - generic: 王思贤
+      - cell "2026-10-23 13:25":
+        - generic: 2026-10-23 13:25
+      - cell "录入 布置 ":
+        - button "录入"
+        - button "布置"
+        - text: 
+        - button "":
+          - generic: 
+- generic: 共 1 条
+- button "20 条/页 ":
+  - text: 20 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button [disabled]:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text:          *  *   * *                                                                                            

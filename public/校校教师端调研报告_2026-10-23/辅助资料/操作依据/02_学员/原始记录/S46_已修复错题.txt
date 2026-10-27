@@ -1,0 +1,249 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "0"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- tablist:
+  - tab "练习统计":
+    - generic: 练习统计
+  - tab "错题分析" [selected]:
+    - generic: 错题分析
+  - tab "笔记":
+    - generic: 笔记
+- radiogroup:
+  - button " 学科":
+    - generic: 
+    - generic: 学科
+  - button "机构":
+    - generic: 机构
+  - button "能力":
+    - generic: 能力
+  - button "错词":
+    - generic: 错词
+- button "科目 ( 雅思 ) ":
+  - text: 科目
+  - text: (
+  - generic: 雅思
+  - text: )
+  - generic: 
+- button "分项 ( 不限 ) ":
+  - text: 分项
+  - text: (
+  - generic: 不限
+  - text: )
+  - generic: 
+- generic: 我的进步
+- generic: 本周修复错题
+- generic: "0"
+- generic: 总修复错题
+- generic: "1"
+- generic: 修复率
+- generic: 3.13%
+- generic: 我的错误归因
+- generic: 定位错误
+- generic: 35.29%
+- progressbar
+- generic: TFNG 边界混淆
+- generic: 29.41%
+- progressbar
+- generic: 证据覆盖不足
+- generic: 11.76%
+- progressbar
+- generic: 信息混淆
+- generic: 5.88%
+- progressbar
+- generic: 其它
+- generic: 17.66%
+- progressbar
+- generic: 知识点修复建议
+- generic: 判断对错
+- progressbar
+- generic: 34.38%
+- generic: 图表填空题
+- progressbar
+- generic: 28.13%
+- generic: 句子/段落填空题
+- progressbar
+- generic: 15.63%
+- generic: 匹配题
+- progressbar
+- generic: 9.38%
+- generic: 其它
+- progressbar
+- generic: 12.48%
+- generic: 知识点分类
+- generic: 
+- textbox "搜索知识点"
+- checkbox:
+  - checkbox
+- generic: 阅读
+- generic: "24"
+- checkbox:
+  - checkbox
+- generic: 判断对错
+- generic: "11"
+- checkbox:
+  - checkbox
+- generic: 图表填空题
+- generic: "9"
+- checkbox:
+  - checkbox
+- generic: 匹配题
+- generic: "3"
+- checkbox:
+  - checkbox
+- generic: 多选题
+- generic: "1"
+- checkbox:
+  - checkbox
+- generic: 听力
+- generic: "8"
+- checkbox:
+  - checkbox
+- generic: 句子/段落填空题
+- generic: "5"
+- checkbox:
+  - checkbox
+- generic: 三选一
+- generic: "1"
+- checkbox:
+  - checkbox
+- generic: 多选题
+- generic: "1"
+- checkbox:
+  - checkbox
+- generic: 图表填空题
+- generic: "1"
+- radiogroup:
+  - button "待修复":
+    - generic: 待修复
+  - button " 已修复" [active]:
+    - generic: 
+    - generic: 已修复
+- generic: 错误归因
+- generic: 
+- generic: 排序
+- checkbox "只看收藏":
+  - checkbox "只看收藏"
+  - generic: 只看收藏
+- button "重置"
+- generic: 
+- textbox "搜索"
+- table:
+  - rowgroup:
+    - row "内容 分项 知识点 错误次数 错误归因 最近答错日期 收藏":
+      - columnheader
+      - columnheader "内容":
+        - generic: 内容
+      - columnheader "分项":
+        - generic: 分项
+      - columnheader "知识点":
+        - generic: 知识点
+      - columnheader "错误次数":
+        - generic: 错误次数
+      - columnheader "错误归因":
+        - generic: 错误归因
+      - columnheader "最近答错日期":
+        - generic: 最近答错日期
+      - columnheader "收藏":
+        - generic: 收藏
+- table:
+  - rowgroup:
+    - row "22. During the course Andrew's employers will pay ______. 听力 三选一 2 对比选择理解错误 2026-05-25 ":
+      - cell
+      - cell "22. During the course Andrew's employers will pay ______.":
+        - generic: 22. During the course Andrew's employers will pay ______.
+      - cell "听力":
+        - generic: 听力
+      - cell "三选一":
+        - generic: 三选一
+      - cell "2":
+        - generic: "2"
+      - cell "对比选择理解错误":
+        - generic: 对比选择理解错误
+      - cell "2026-05-25":
+        - generic: 2026-05-25
+      - cell "":
+        - button "" [disabled]:
+          - generic: 
+- generic: 共 1 条
+- button "50 条/页 ":
+  - text: 50 条/页
+  - generic: 
+- button [disabled]:
+- button "1"
+- button [disabled]:
+- generic: 前往
+- textbox
+- generic: 页
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:       

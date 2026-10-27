@@ -1,0 +1,157 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- text:  
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "244"
+- text: 
+- button "icon":
+  - img "icon"
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                              
+- generic: 
+- generic: 学员
+- generic: (1)
+- generic: 
+- textbox "输入姓名/手机号"
+- generic: 班级
+- generic: (1)
+- generic: 
+- generic: 筛选
+- generic: 小格
+- generic: v
+- paragraph: 王小格
+- paragraph: 1 个班级
+- paragraph: ～没有更多了～
+- generic: 王小格
+- generic: 信息
+- generic: 课表&任务
+- generic: 学习报告
+- generic: 练习情况
+- generic: 课程反馈
+- generic: 回访记录
+- generic: 考试记录
+- generic: 小格
+- generic: 王小格
+- text: 已上课时
+- generic: "0"
+- text: / 总课时
+- generic: "0"
+- textbox "请选择": SAT
+- generic: 
+- generic: 
+- textbox "开始日期：": 2026-09-01
+- generic: "-"
+- textbox "结束日期": 2026-10-22
+- button "报告记录":
+  - generic: 报告记录
+- button "生成 ":
+  - text: 生成
+  - generic: 
+- generic: 作业完成率
+- progressbar:
+  - generic: 67%
+- generic: 成绩
+- list:
+  - generic: 科目
+  - generic: 预测分 / 总分
+  - generic: 读写(机考)
+  - generic: "200"
+  - text: /
+  - generic: "800"
+  - generic: 数学(机考)
+  - generic: "220"
+  - text: /
+  - generic: "800"
+- generic: 知识点
+- paragraph:
+  - generic: 暂无数据~
+- paragraph: 评语
+- generic: 思贤
+- generic: 王思贤
+- generic: 王小格-SAT
+- text: "| 2026-10-22"
+- generic: 编辑
+- generic: 删除
+- generic: 同学你好，根据你的SAT学习报告数据，我为你进行详细分析并给出建议。 一、总体表现概述 你的作业完成率为67%，说明你只完成了约三分之二的作业任务，存在一定的拖延或遗漏。作业平均分为420.0分（总分1600分），整体得分率约为26.3%，处于基础薄弱阶段，需要系统性地加强各科训练。 二、作业完成率与平均分分析 完成率67%偏低，建议你制定固定的学习计划，确保每次作业按时提交，避免因缺交导致知识点遗漏。平均分420分距离目标分数有较大差距，建议从基础词汇和核心题型入手，逐步提升正确率。 三、各作业得分数据分析 你目前仅完成了一次作业：sat全科测试，得分为420.0分，答题时间为2026-10-15 15:10。由于只有一次记录，无法横向比较优劣，但该次测试得分偏低，说明全科综合能力有待提升。建议后续增加全科模拟测试频率，并记录每次答题时间，以便分析时间分配是否合理。 四、各分项平均分分析 读写（机考）平均分200.0分，数学（机考）平均分220.0分。数学略高于读写，但两者均处于较低水平。假设班级平均完成率与正确率参考整体数据，你的分项正确率约为读写12.5%、数学13.75%（按满分800分估算），说明基础知识和解题技巧均需强化。建议：读写方面每天精读一篇SAT文章并积累高频词汇；数学方面梳理代数、几何、数据分析等核心考点，每周完成两套专项练习。 五、单词书训练数据分析 当前学习报告中未提供单词书的训练数据（如背诵量、正确率、复习次数等），无法评估词汇掌握情况。建议你开启单词书训练功能，每天坚持背诵30-50个SAT核心词汇，并定期复习，因为词汇是读写和数学应用题的基础。 六、综合建议 1. 将作业完成率提升至90%以上，制定周计划并设置提醒； 2. 针对读写和数学分别建立错题本，每周复盘； 3. 增加全科模考次数，每次限时完成并记录答题时间； 4. 补充单词书训练数据，坚持每日词汇打卡； 5. 建议与老师沟通，获取分项薄弱点的专项练习材料。 希望以上分析对你有所帮助，坚持执行计划，你的成绩会有明显提升。加油！
+- tablist:
+  - tab "成绩" [selected]
+  - tab "课程"
+  - tab "作业"
+  - tab "知识点"
+- tabpanel "成绩"
+- generic: 模考成绩走势图
+- generic: 成绩
+- text: 分项
+- generic: 平均分
+- generic: "210"
+- generic: 分项分
+- paragraph:
+  - text: 读写(机考) 200
+  - generic: "|"
+- paragraph: 数学(机考) 220
+- generic: 模考记录
+- table:
+  - rowgroup:
+    - row "模考名称 模考分数 模考时间 操作":
+      - columnheader "模考名称":
+        - generic: 模考名称
+      - columnheader "模考分数":
+        - generic: 模考分数
+      - columnheader "模考时间":
+        - generic: 模考时间
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup:
+    - row "sat全科测试 420 2026-10-15 15:10 查看详情":
+      - cell "sat全科测试":
+        - generic: sat全科测试
+      - cell "420":
+        - generic: "420"
+      - cell "2026-10-15 15:10":
+        - generic: 2026-10-15 15:10
+      - cell "查看详情":
+        - button "查看详情":
+          - generic: 查看详情
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:       
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:              
+- generic: 
+- text:              

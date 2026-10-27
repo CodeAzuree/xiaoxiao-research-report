@@ -1,0 +1,107 @@
+- text: 
+- generic: 首页
+- generic: 学员
+- generic: 班级
+- generic: 作业
+- generic: 课表
+- generic: 题库
+- generic: 教研
+- generic: 云盘
+- generic: 申请
+- textbox "请输入关键词查找帮助中心内容"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- generic: 
+- button "icon":
+  - img "icon"
+- button "icon":
+  - img "icon"
+- paragraph: "246"
+- text: 
+- button "icon":
+  - img "icon"
+- text: 
+- text: "500"
+- text: 
+- text:  
+- generic: 思贤
+- text:    
+- generic: 
+- text:                 
+- button "上传":
+  - generic: 上传
+- generic: 
+- progressbar
+- generic: 501M / 2G
+- paragraph: 我的云盘
+- paragraph: 共享云盘
+- textbox "请输入搜索文件名称": 13-2
+- generic: 
+- button "搜索":
+  - generic: 搜索
+- table:
+  - rowgroup:
+    - row "文件名称 文件大小 上传老师 上传日期 操作":
+      - columnheader "文件名称":
+        - generic: 文件名称
+      - columnheader "文件大小":
+        - generic: 文件大小
+      - columnheader "上传老师":
+        - generic: 上传老师
+      - columnheader "上传日期":
+        - generic: 上传日期
+      - columnheader "操作":
+        - generic: 操作
+- table:
+  - rowgroup:
+    - row "13-2-2.mp3 5.03M 周婧 2024-09-23 18:15 下载":
+      - cell "13-2-2.mp3":
+        - generic: 13-2-2.mp3
+      - cell "5.03M":
+        - generic: 5.03M
+      - cell "周婧":
+        - generic: 周婧
+      - cell "2024-09-23 18:15":
+        - generic: 2024-09-23 18:15
+      - cell "下载":
+        - generic: 下载
+    - row "13-2-1.mp3 5.96M 周婧 2024-09-23 18:14 下载":
+      - cell "13-2-1.mp3":
+        - generic: 13-2-1.mp3
+      - cell "5.96M":
+        - generic: 5.96M
+      - cell "周婧":
+        - generic: 周婧
+      - cell "2024-09-23 18:14":
+        - generic: 2024-09-23 18:14
+      - cell "下载":
+        - generic: 下载
+- generic: 共 2 条
+- textbox "请选择" [active]: 20条/页
+- generic: 
+- button "" [disabled]:
+  - generic: 
+- list:
+  - listitem: "1"
+- button "" [disabled]:
+  - generic: 
+- text: 前往
+- spinbutton: "1"
+- text: 页
+- img "AI"
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- generic: 
+- text:             
+- generic: 
+- text: 
+- list:
+  - generic: 10条/页
+  - generic: 15条/页
+  - generic: 20条/页
+  - generic: 50条/页

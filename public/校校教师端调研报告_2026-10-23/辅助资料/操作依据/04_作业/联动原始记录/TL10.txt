@@ -1,0 +1,42 @@
+Browser tab: 45, Title: "基础练习", URL: "https://learninghub.xhd.cn/org/practice/practice.html?hwkid=14753411&stuid=243365&teacherid=31866&wrcd=1&xiaov=20261122&pk=1&dtors=1".
+1 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14753411&stuid=243365&teacherid=31866&wrcd=1&xiaov=20261122&pk=1&dtors=1
+	2 container myweb
+		14 container
+			15 container
+				16 image
+				17 text 评语
+		3 content list
+			4 container
+				5 text 小格 已查阅
+				6 text 王小格
+		7 text 【调研测试】实时词汇联动_20261026
+		8 text 
+		9 text 2026.10.26 10:03 - 2026.10.26 10:04
+		10 button 生成报告
+		11 container
+			12 container
+				13 text 作业结果 答题解析 答题录屏
+			18 text (1)
+			19 text 
+			20 text 24S
+			21 text (2)
+			22 text 
+			23 text 30S
+			24 text (3)
+			25 text 
+			26 text 17S
+			27 text 请选择单词正确的释义
+			28 text threaten
+			29 text A.
+			30 text 占据
+			31 text B.
+			32 text 深远的
+			33 text C.
+			34 text 传教士
+			35 text D.
+			36 text 威胁
+			37 text 学生答案
+			38 container
+				39 text 对此题提出疑问？ 我的答案 D，正确答案D
+
+The focused UI element is 1 AXWebArea 基础练习, URL: learninghub.xhd.cn/org/practice/practice.html?hwkid=14753411&stuid=243365&teacherid=31866&wrcd=1&xiaov=20261122&pk=1&dtors=1

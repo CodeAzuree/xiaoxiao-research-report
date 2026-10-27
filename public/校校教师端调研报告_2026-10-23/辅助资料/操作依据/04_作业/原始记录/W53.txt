@@ -1,0 +1,53 @@
+- generic: 
+- list:
+  - generic: 小格
+  - generic: 已查阅
+  - generic: 王小格
+- generic: sat全科测试
+- generic: 
+- generic: 2026.10.15 15:10 - 2026.10.15 15:11
+- button "生成结果报告"
+- button "生成报告"
+- text: 
+- generic: 作业结果
+- generic: 答题解析
+- generic: 答题录屏
+- generic: 巩固训练
+- generic: 总成绩
+- generic: 
+- generic: "420"
+- generic: /
+- text: "1600"
+- generic: 18%
+- generic: 
+- generic: "-%"
+- paragraph: 读写
+- generic: "200"
+- generic: /
+- text: "800"
+- text: 
+- generic: "0"
+- generic: "81"
+- paragraph: 数学
+- generic: "220"
+- generic: /
+- text: "800"
+- text: 
+- generic: "2"
+- generic: "64"
+- radiogroup:
+  - button "能力诊断":
+    - generic: 能力诊断
+  - button " 分析&建议" [active]:
+    - generic: 
+    - generic: 分析&建议
+  - button "评语":
+    - generic: 评语
+- text:  
+- generic: 分析&建议
+- generic: AI分析&建议
+- generic: 开启AI智能分析，基于数据给出决策建议
+- button "AI一键生成 2":
+  - generic: AI一键生成
+  - generic: "2"
+- text:           

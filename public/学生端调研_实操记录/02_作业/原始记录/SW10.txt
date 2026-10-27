@@ -1,0 +1,57 @@
+Browser tab: 52, Title: "测试结果", URL: "https://learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122".
+0 AXWebArea 测试结果, URL: learninghub.xhd.cn/org/IELTS/result.html?id=11789119&stubj=&qid=&stuid=243365&wrcd=1&xiaov=20261122
+	1 container
+		2 container result-app
+			3 text 雅思
+			4 text 
+			5 text 2026.05.23 13:59 - 2026.05.23 13:59
+			6 container
+				7 container
+					8 text 作业结果 答题解析 巩固训练
+				9 text 总成绩
+				10 text 
+				129 text 3.5
+				130 container
+					131 text / 9
+				13 image
+				14 text 25%  3%
+				17 image
+				18 text 阅读
+				132 text 3.5
+				133 container
+					134 text / 9
+				21 image
+				22 text 3
+				23 image
+				24 text 11
+				25 button 能力诊断, ID: xx-capsule-radio__item-0
+				28 button 分析&建议, ID: xx-capsule-radio__item-1
+				29 button  评语, ID: xx-capsule-radio__item-2
+					135 text 
+					136 text 评语
+				137 text 作业评语 冰晖 李冰晖 2026-05-23
+				138 text nice
+			107 container
+				108 image
+				109 text Jane Austen
+				110 button icon
+					111 image icon
+				112 button icon
+					113 image icon
+				114 button 
+					115 text 
+				116 text 重点词汇
+				117 text 翻译
+				118 text 答题解析
+				119 text 题目订正
+				120 container
+					121 text entry area (settable)
+					122 text 
+					123 text 思路讲解
+					124 button (disabled) icon
+						125 image icon
+					126 text 内容由 AI 生成
+		127 container
+			128 text 已生成当前作业的订正练习，点击去练习巩固薄弱知识点 去练习 
+
+The focused UI element is 29 button  评语, ID: xx-capsule-radio__item-2
