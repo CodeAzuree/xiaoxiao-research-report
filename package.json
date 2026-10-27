@@ -5,6 +5,7 @@
   "type": "module",
   "engines": { "node": ">=22" },
   "scripts": {
+    "build": "python3 scripts/build_pages.py",
     "start": "node server.mjs",
     "test": "node --test test/server.test.mjs",
     "verify": "python3 scripts/verify_site.py"

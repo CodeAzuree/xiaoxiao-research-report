@@ -8,3 +8,4 @@ node_modules/
 .cloudbase_rc
 coverage/
 verification-result.json
+_site/
